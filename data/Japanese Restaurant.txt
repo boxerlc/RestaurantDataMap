@@ -1,0 +1,940 @@
+1	Sakagura	4.5 star rating	900 reviews	$$$	            211 E 43rd St, New York, NY 10017	40.751265, -73.973154
+2	Ootoya	4.0 star rating	372 reviews	$$	            8 W 18th St, New York, NY 10011	40.738749, -73.992779
+3	Sake Bar Hagi	4.0 star rating	951 reviews	$$	            152 W 49th St, New York, NY 10019	40.760053, -73.983308
+4	Kyo Ya	4.5 star rating	279 reviews	$$$$	            94 E 7th St, New York, NY 10009	40.726607, -73.985396
+5	Hiroko's Place	4.0 star rating	185 reviews	$$	            75 Thompson St, New York, NY 10012	40.724684, -74.003182
+6	Kenka	3.5 star rating	923 reviews	$$	            25 Saint Marks Pl, New York, NY 10003	40.729159, -73.988440
+7	Donburiya	4.0 star rating	428 reviews	$$	            137 E 47th St, New York, NY 10017	40.754519, -73.972895
+8	Go! Go! Curry!	4.0 star rating	749 reviews	$	            273 W 38th St, New York, NY 10018	40.754722, -73.991072
+9	Ichibantei	4.0 star rating	54 reviews	$$	            401 E 13th St, New York, NY 10009	40.730574, -73.982771
+10	Aburiya Kinnosuke	4.0 star rating	404 reviews	$$$	            213 E 45th St, New York, NY 10017	40.752530, -73.972249
+11	Yakitori Taisho	4.0 star rating	958 reviews	$$	            5 St Marks Pl, New York, NY 10003	40.729529, -73.989254
+12	Oh! Taisho	3.5 star rating	642 reviews	$$	            9 St. Marks Pl, New York, NY 10003	40.729435, -73.989127
+13	Caf Zaiya	4.0 star rating	548 reviews	$	            18 E 41st St, New York, NY 10003	40.752224, -73.980512
+14	Village Yokocho	3.5 star rating	509 reviews	$$	            8 Stuyvesant St, New York, NY 10003	40.729771, -73.989161
+15	EN Japanese Brasserie	4.0 star rating	768 reviews	$$$	            435 Hudson St, New York, NY 10014	40.730499, -74.007217
+16	Katsu-Hama	3.5 star rating	462 reviews	$$	            11 E 47th St, New York, NY 10017	40.756468, -73.977525
+17	Wajima Japanese Restaurant	4.0 star rating	100 reviews	$$	            134 E 61st St, New York, NY 10021	40.763457, -73.967736
+18	Soba-ya	4.0 star rating	669 reviews	$$	            229 E 9th St, New York, NY 10003	40.729629, -73.987884
+19	Momokawa	4.0 star rating	150 reviews	$$$	            157 E 28th St, New York, NY 10016	40.742299, -73.981258
+20	Katsuno	3.5 star rating	69 reviews	$$$	            103-01 Metropolitan Ave, Forest Hills, NY 11375	40.710483, -73.849684
+21	Zenkichi	4.0 star rating	590 reviews	$$$	            77 N 6th St, Brooklyn, NY 11211	40.718972, -73.960830
+22	Takesushi	4.0 star rating	138 reviews	$$	            43-46 42nd St, Sunnyside, NY 11104	40.744121, -73.922458
+23	Ennju	3.5 star rating	152 reviews	$$	            20 E 17th St, New York, NY 10003	40.737281, -73.991234
+24	Ni Japanese Delicacies	4.5 star rating	16 reviews	$	            120 Essex St, Manhattan, NY 10002	40.719324, -73.987446
+25	Sunrise Mart	4.0 star rating	155 reviews	$$	            494 Broome St, New York, NY 10012	40.723243, -74.002503
+26	Ariyoshi Japanese Restaurants	3.5 star rating	94 reviews	$$	            226 E 53rd St, New York, NY 10022	40.757043, -73.968417
+27	Ootoya	4.0 star rating	76 reviews	$$$	            141 W 41st St, New York, NY 10036	40.754914, -73.985955
+28	Tokyo Teriyaki	4.0 star rating	88 reviews	$	            68-60 Austin St, Forest Hills, NY 11375	40.722135, -73.850470
+29	Gen	4.0 star rating	193 reviews	$$	            659 Washington Ave, Brooklyn, NY 11238	40.677599, -73.963490
+30	Omen	4.0 star rating	60 reviews	$$$$	            113 Thompson St, New York, NY 10012	40.726005, -74.001973
+31	Hakata Tonton	4.0 star rating	376 reviews	$$	            61 Grove St, New York, NY 10014	40.733317, -74.003312
+32	Udon West	4.0 star rating	236 reviews	$$	            150 E 46th St, New York, NY 10017	40.753493, -73.973601
+33	Ise Japanese Restaurant	3.5 star rating	142 reviews	$$	            56 Pine St, New York, NY 10005	40.706885, -74.008368
+34	Samurai Mama	4.0 star rating	231 reviews	$$	            205 Grand St, Brooklyn, NY 11211	40.714214, -73.960091
+35	MEW Izakaya	4.0 star rating	116 reviews	$$	            53 W 35th St, New York, NY 10001	40.750155, -73.986235
+36	Donguri Restaurant	4.0 star rating	76 reviews	$$$	            309 E 83rd St, New York, NY 10028	40.775802, -73.952269
+37	Morimoto	4.0 star rating	1771 reviews	$$$$	            88 10th Ave, New York, NY 10011	40.743037, -74.007374
+38	Taiyo Foods	5.0 star rating	10 reviews	$	            45-08 44th St, Sunnyside, NY 11104	40.742949, -73.920656
+39	Yakitori Totto	4.0 star rating	740 reviews	$$$	            251 W 55th St, New York, NY 10019	40.765321, -73.983121
+40	Niko Niko	3.0 star rating	71 reviews	$	            80 Wall St, New York, NY 10005	40.705627, -74.007631
+41	Nobu	4.0 star rating	695 reviews	$$$$	            105 Hudson St, New York, NY 10013	40.719450, -74.008976
+42	Fukurou	4.0 star rating	81 reviews	$$	            87 MacDougal St, New York, NY 10012	40.728952, -74.001508
+43	Robataya NY	4.0 star rating	313 reviews	$$$	            231 E 9th St, New York, NY 10003	40.729610, -73.987798
+44	Restaurant Riki	3.5 star rating	168 reviews	$$	            141 E 45th St, New York, NY 10017	40.753290, -73.973844
+45	Cha-An	4.0 star rating	808 reviews	$$	            230 E 9th St, New York, NY 10003	40.729444, -73.988137
+46	Izakaya Ten	3.5 star rating	145 reviews	$$$	            207 10th Ave, New York, NY 10011	40.747388, -74.004785
+47	1 or 8	4.0 star rating	228 reviews	$$$	            66 S 2nd St, Brooklyn, NY 11211	40.714253, -73.965468
+48	HanaMichi	3.0 star rating	232 reviews	$$	            28 W 32nd St, New York, NY 10001	40.747578, -73.987101
+49	Umi No Ie	4.0 star rating	90 reviews	$$	            86 E 3rd St, New York, NY 10003	40.724635, -73.988226
+50	Sun-Chan Japanese Restaurant	3.5 star rating	86 reviews	$$	            2707 Broadway, New York, NY 10025	40.799504, -73.968717
+51	Yakiniku West	4.0 star rating	332 reviews	$$	            218 E 9th St, New York, NY 10003	40.729533, -73.988586
+52	Bozu	4.0 star rating	439 reviews	$$	            296 Grand St, Brooklyn, NY 11211	40.712827, -73.957562
+53	Saji's	3.5 star rating	71 reviews	$	            256 W 109th St, New York, NY 10025	40.803238, -73.966757
+54	Soy	4.0 star rating	66 reviews	$$	            102 Suffolk St, New York, NY 10002	40.718518, -73.986045
+55	Sushi Yasaka	4.0 star rating	453 reviews	$$	            251 W 72nd St, New York, NY 10023	40.779668, -73.983392
+56	Ippudo Ny	4.0 star rating	5845 reviews	$$	            65 4th Ave, New York, NY 10003	40.730940, -73.990223
+57	Onya	4.0 star rating	342 reviews	$$	            143 E 47th St, New York, NY 10017	40.754452, -73.972739
+58	Caf Zaiya	4.0 star rating	89 reviews	$	            1073 6th Ave, 2nd Fl, New York, NY 10018	40.755322, -73.993287
+59	Sugiyama Restaurant	4.5 star rating	162 reviews	$$$$	            251 W 55th St, New York, NY 10019	40.765321, -73.983121
+60	Kobeyaki	4.0 star rating	181 reviews	$$	            293 7th Ave, New York, NY 10001	40.746257, -73.993753
+61	Ashbox	4.5 star rating	67 reviews	$	            1154 Manhattan Ave, Brooklyn, NY 11222	40.737769, -73.955167
+62	Wasan	4.0 star rating	107 reviews	$$$	            108 E 4th St, New York, NY 10003	40.725499, -73.988375
+63	Ise Menkui-tei	3.5 star rating	686 reviews	$	            58 W 56th St, New York, NY 10019	40.763313, -73.977171
+64	Ajisai Japanese Restaurant	3.5 star rating	266 reviews	$$	            615 9th Ave, New York, NY 10036	40.759579, -73.992199
+65	Marumi Restaurant	4.0 star rating	266 reviews	$$	            546 Laguardia Pl, New York, NY 10012	40.729014, -73.998421
+66	Wasabi Point	4.0 star rating	20 reviews	$$	            76-18 Woodside Ave, Elmhurst, NY 11373	40.743259, -73.888113
+67	Cocoron	4.5 star rating	523 reviews	$$	            61 Delancey St, New York, NY 10002	40.719091, -73.990862
+68	Sapporo	3.5 star rating	600 reviews	$$	            152 W 49th St, New York, NY 10019	40.760053, -73.983308
+69	Ariyoshi	3.5 star rating	127 reviews	$$	            4113 Queens Blvd, Sunnyside, NY 11104	40.743363, -73.919213
+70	Inakaya	3.5 star rating	195 reviews	$$$	            231 W 40th St, New York, NY 10018	40.755280, -73.989104
+71	Hibino	4.0 star rating	238 reviews	$$	            333 Henry St, Brooklyn, NY 11201	40.690149, -73.996381
+72	dainobu	3.5 star rating	117 reviews	$	            129 E 47th St, New York, NY 10017	40.754617, -73.973130
+73	East Japanese Restaurant	3.5 star rating	109 reviews	$$	            253 W 55th St, New York, NY 10019	40.765401, -73.983177
+74	Soto	4.0 star rating	210 reviews	$$$$	            357 6th Ave, New York, NY 10014	40.732187, -74.000812
+75	Bohemian Restaurant	4.5 star rating	285 reviews	$$$	            57 Great Jones  St, New York, NY 10012	40.726451, -73.992314
+76	Choga Korean Restaurant	3.5 star rating	64 reviews	$$	            145 Bleecker St, New York, NY 10012	40.728378, -73.999058
+77	Geido	4.0 star rating	168 reviews	$$	            331 Flatbush Ave., Brooklyn, NY 11217	40.677879, -73.972636
+78	Hachember	4.5 star rating	10 reviews	$$	            71 Clinton St, Manhattan, NY 10002	40.719221, -73.985079
+79	Gyu-Kaku Japanese BBQ	4.0 star rating	894 reviews	$$$	            34 Cooper Sq, New York, NY 10003	40.728255, -73.991460
+80	Daiki Bistro	3.5 star rating	76 reviews	$	            219 E 23rd St, New York, NY 10010	40.738623, -73.981921
+81	Rockmeisha	3.5 star rating	135 reviews	$$	            11 Barrow St, New York, NY 10014	40.732529, -74.002320
+82	Takahachi	4.0 star rating	287 reviews	$$	            85 Ave A, New York, NY 10009	40.725358, -73.984430
+83	Inaka Asian Cuisine	4.0 star rating	108 reviews	$$	            597 Vanderbilt Ave, Brooklyn, NY 11238	40.679588, -73.967834
+84	Go Go Curry	4.0 star rating	52 reviews	$	            12 John St, New York, NY 10038	40.709826, -74.009125
+85	Azusa of Japan	3.0 star rating	52 reviews	$$	            3 E 44th St, New York, NY 10017	40.754704, -73.979160
+86	Udon West	3.5 star rating	365 reviews	$	            11 St Marks Pl, New York, NY 10003	40.729423, -73.988995
+87	SobaKoh	4.0 star rating	156 reviews	$$	            309 E 5th St, New York, NY 10003	40.726747, -73.988296
+88	Sake Bar Decibel	4.0 star rating	575 reviews	$$	            240 E 9th St, New York, NY 10003	40.729284, -73.987790
+89	Cagen Japan Restaurant	4.5 star rating	33 reviews	$$$$	            414 E 9th St, New York, NY 10009	40.727781, -73.984186
+90	Dojo Restaurant	3.5 star rating	378 reviews	$	            14 W 4th St, New York, NY 10012	40.728638, -73.994988
+91	Sunrise Mart	4.0 star rating	127 reviews	$	            12 E 41st St, New York, NY 10017	40.752465, -73.980584
+92	Momo Sushi Shack	4.5 star rating	372 reviews	$$	            43 Bogart St, Brooklyn, NY 11206	40.705091, -73.933512
+93	Soba Totto	4.0 star rating	319 reviews	$$$	            211 E 43rd St, New York, NY 10017	40.751265, -73.973154
+94	Hasaki	4.0 star rating	189 reviews	$$$	            210 E 9th St, New York, NY 10003	40.729648, -73.988846
+95	Watawa Sushi	4.0 star rating	406 reviews	$$	            33-10 Ditmars Blvd, Astoria, NY 11105	40.775022, -73.909426
+96	BentOn Cafe	4.5 star rating	11 reviews	$	            156 E 45th St, New York, NY 10017	40.752702, -73.973348
+97	Linn	3.5 star rating	103 reviews	$$	            29-13 Broadway, Astoria, NY 11106	40.762676, -73.926332
+98	SakaMai	4.0 star rating	141 reviews	$$$	            157 Ludlow St, New York, NY 10002	40.720995, -73.988188
+99	Yuba	4.0 star rating	148 reviews	$$$	            105 E 9th St, New York, NY 10003	40.730547, -73.990061
+100	Zutto Japanese American Pub	4.0 star rating	440 reviews	$$	            77 Hudson St, New York, NY 10013	40.718481, -74.009080
+101	Shimizu	4.0 star rating	149 reviews	$$$	            318 W 51st St, New York, NY 10019	40.763202, -73.986983
+102	Zutto Japanese American Pub	4.0 star rating	440 reviews	$$	            77 Hudson St, New York, NY 10013	40.718481, -74.009080
+103	Natsumi	3.5 star rating	296 reviews	$$$	            226 W 50th St, New York, NY 10019	40.761738, -73.985253
+104	Kyoto Sushi	3.5 star rating	268 reviews	$$	            153-11 Union Tpke, Flushing, NY 11367	40.719778, -73.810158
+105	Jpan	4.0 star rating	163 reviews	$$	            287 5th Ave, Brooklyn, NY 11215	40.673580, -73.982254
+106	DoDomPa	3.5 star rating	56 reviews	$$	            71 Clinton St, New York, NY 10002	40.719225, -73.985147
+107	Takahachi Bakery	4.0 star rating	253 reviews	$$	            25 Murray St, New York, NY 10007	40.713863, -74.008397
+108	Hi-Collar	4.5 star rating	51 reviews	$$	            214 E 10th St, New York, NY 10003	40.729200, -73.986028
+109	Sushi Azabu	4.5 star rating	259 reviews	$$$$	            428 Greenwich St, New York, NY 10013	40.722430, -74.009981
+110	Koito Sushi	4.0 star rating	56 reviews	$$	            310 E 93 St, New York, NY 10128	40.781805, -73.947887
+111	Tenzan	3.5 star rating	263 reviews	$$	            285 Columbus Ave, New York, NY 10023	40.778297, -73.977918
+112	Gyu-Kaku Japanese BBQ	4.0 star rating	467 reviews	$$$	            805 3rd Ave, New York, NY 10022	40.755318, -73.970719
+113	Sake Bar Kirakuya	3.5 star rating	106 reviews	$$	            2 W 32nd St, New York, NY 10001	40.747189, -73.986204
+114	Ki Sushi	4.0 star rating	433 reviews	$$	            122 Smith St, Brooklyn, NY 11201	40.687641, -73.990061
+115	Menkui Tei	3.5 star rating	375 reviews	$$	            63 Cooper Sq, New York, NY 10003	40.729064, -73.989906
+116	Sushi Yasuda	4.5 star rating	1144 reviews	$$$$	            204 E 43rd St, New York, NY 10017	40.751170, -73.973675
+117	Kotobuki Manhattan	4.0 star rating	245 reviews	$$	            56 3rd Ave, New York, NY 10003	40.731092, -73.989004
+118	Shabu-Tatsu East Village	4.0 star rating	334 reviews	$$	            216 E 10th St, New York, NY 10003	40.729286, -73.985903
+119	Iroha Japanese Restaurant	3.5 star rating	151 reviews	$$	            152 W 49th St, New York, NY 10019	40.760053, -73.983308
+120	Shigure	4.0 star rating	32 reviews	$$$	            277 Church St, New York, NY 10013	40.718536, -74.004755
+121	Curry-Ya	4.0 star rating	364 reviews	$$	            214 E 10th St, New York, NY 10003	40.729200, -73.986028
+122	Kodama Sushi	3.5 star rating	208 reviews	$$	            301 W 45th St, New York, NY 10036	40.759462, -73.988694
+123	Tomo Japanese Cuisine	3.5 star rating	92 reviews	$$	            86-12 37th Ave, Jackson Heights, NY 11372	40.750200, -73.879944
+124	Ichi Umi	3.5 star rating	607 reviews	$$$	            6 E 32nd St, New York, NY 10016	40.746729, -73.984860
+125	Sharaku	3.0 star rating	209 reviews	$$	            14 Stuyvesant St, New York, NY 10003	40.729746, -73.989065
+126	East Japanese Restaurant	3.5 star rating	372 reviews	$$	            366 3rd Ave, New York, NY 10016	40.741207, -73.981843
+127	Hatsuhana Sushi Restaurant	4.0 star rating	528 reviews	$$$	            17 E 48th St, New York, NY 10017	40.757028, -73.976915
+128	WAZA Sushi & Ramen	3.5 star rating	118 reviews	$$	            485 Myrtle Ave, Brooklyn, NY 11205	40.693664, -73.965724
+129	Katsu-Hama	3.5 star rating	154 reviews	$$	            45 W 55th St, New York, NY 10019	40.762602, -73.976701
+130	Kura	4.5 star rating	68 reviews	$$$$	            130 St Mark's Pl, New York, NY 10009	40.726655, -73.983593
+131	Cutting Board	3.5 star rating	203 reviews	$	            53 Bayard St, New York, NY 10013	40.715164, -73.997697
+132	Tsushima	4.0 star rating	146 reviews	$$	            141 E 47th St, New York, NY 10017	40.754477, -73.972790
+133	Tanoshi Bento	4.0 star rating	15 reviews	$$	            1372 York Ave, New York, NY 10021	40.767568, -73.952815
+134	Otafuku	4.0 star rating	34 reviews	$	            220 E 9th St, New York, NY 10003	40.729447, -73.988308
+135	Mai Cuisine	3.0 star rating	151 reviews	$$	            16 E 41st St, New York, NY 10017	40.752247, -73.980621
+136	Tsukushi	4.0 star rating	49 reviews	$$$	            300 E 41st St, New York, NY 10017	40.749065, -73.972610
+137	Sushi Yasu	4.0 star rating	310 reviews	$$	            70-11 Austin St, Forest Hills, NY 11375	40.720881, -73.846456
+138	Bugs	4.0 star rating	56 reviews	$$$	            504 E 12th St, New York, NY 10009	40.728736, -73.980953
+139	Megu	3.5 star rating	598 reviews	$$$$	            62 Thomas St, New York, NY 10013	40.716670, -74.007430
+140	Ogawa Japanese Restaurant	3.0 star rating	48 reviews	$$	            36 E 4th St, New York, NY 10003	40.727201, -73.992285
+141	Food Gallery 32	4.0 star rating	378 reviews	$	            11 W 32nd St, New York, NY 10001	40.747671, -73.986274
+142	Koi Restaurant	3.5 star rating	380 reviews	$$$	            40 W 40th St, New York, NY 10018	40.752809, -73.983725
+143	Yakiniku Gen	4.0 star rating	23 reviews	$$	            250 E 52nd St, Manhattan, NY 10022	40.756179, -73.968031
+144	Suigo Chiraku	4.0 star rating	10 reviews	$$$	            430 3rd Ave, New York, NY 10016	40.743257, -73.980374
+145	Gyu-Kaku Japanese BBQ	4.0 star rating	305 reviews	$$	            321 W 44th St, New York, NY 10036	40.759302, -73.990046
+146	Ginza Japanese Restaurant	3.5 star rating	85 reviews	$$	            800 Lexington Ave, New York, NY 10021	40.764050, -73.967172
+147	Jin	3.5 star rating	178 reviews	$$	            252 Broome St, New York, NY 10002	40.718194, -73.989806
+148	Jukai	4.0 star rating	37 reviews	$$$	            237 E 53rd St, New York, NY 10022	40.757294, -73.967816
+149	Megu Midtown	3.5 star rating	224 reviews	$$$$	            845 United Nations Plz, New York, NY 10017	40.752579, -73.967524
+150	Totto Ramen	4.0 star rating	2265 reviews	$$	            366 W 52nd St, New York, NY 10019	40.764331, -73.987660
+151	JJ's Fusion	4.0 star rating	237 reviews	$$	            3705 31st Ave, Astoria, NY 11103	40.762149, -73.918278
+152	Sushi of Gari	4.0 star rating	347 reviews	$$$$	            402 E 78th St, New York, NY 10021	40.771247, -73.952859
+153	Cocoron	4.0 star rating	156 reviews	$$	            37 Kenmare St, New York, NY 10012	40.720917, -73.995255
+154	Ninja New York	3.5 star rating	818 reviews	$$$$	            25 Hudson St, New York, NY 10013	40.716835, -74.009293
+155	Yamato Restaurant	4.0 star rating	150 reviews	$$	            168 7th Ave, Brooklyn, NY 11215	40.671989, -73.977689
+156	Rue 57	3.5 star rating	509 reviews	$$$	            60 W 57th St, New York, NY 10019	40.764033, -73.977022
+157	Atami Japanese Fusion	3.5 star rating	18 reviews	$$	            1167 2nd Ave, New York, NY 10065	40.762265, -73.963500
+158	Taka Taka	3.0 star rating	174 reviews	$$$	            330 West Broadway, New York, NY 10013	40.722341, -74.004030
+159	Cho Cho San	3.5 star rating	79 reviews	$$	            15 W 8th St, New York, NY 10011	40.732820, -73.997304
+160	Kouzan	3.5 star rating	110 reviews	$$	            685 Amsterdam Ave, New York, NY 10025	40.792222, -73.971421
+161	Shabu-Shabu 70	3.5 star rating	56 reviews	$$$	            314 E 70th St, New York, NY 10021	40.766908, -73.958529
+162	HinoMaru	4.0 star rating	311 reviews	$$	            33-18 Ditmars Blvd, Astoria, NY 11105	40.774907, -73.909142
+163	Ushiwakamaru	4.0 star rating	358 reviews	$$$$	            136 W Houston St, New York, NY 10012	40.728041, -74.001491
+164	Tanoshi Sushi Sake Bar	4.5 star rating	120 reviews	$$$	            1372 York Ave, New York, NY 10021	40.767568, -73.952815
+165	Menchanko-Tei	3.5 star rating	344 reviews	$$	            131 E 45th St, New York, NY 10017	40.753361, -73.974181
+166	Ozu Japanese Cuisine & Lounge	3.5 star rating	96 reviews	$$	            78 Clark St, Brooklyn, NY 11201	40.697423, -73.993276
+167	Sushi Yu 2	3.5 star rating	106 reviews	$$	            827 W 181st St, New York, NY 10033	40.851416, -73.939516
+168	Rosanjin	4.5 star rating	49 reviews	$$$$	            141 Duane St, New York, NY 10013	40.716566, -74.007734
+169	Miyabi	3.5 star rating	78 reviews	$$	            121 W 3rd St, New York, NY 10012	40.730738, -74.000307
+170	Bento Sushi & Noodles	2.5 star rating	52 reviews	$	            173 Broadway, New York, NY 10007	40.709927, -74.010047
+171	Sushi You	4.0 star rating	109 reviews	$$	            246 E 51st St, New York, NY 10022	40.755485, -73.968789
+172	Momoya	4.0 star rating	194 reviews	$$$	            427 Amsterdam Ave, New York, NY 10024	40.783994, -73.977329
+173	Seo Japanese Restaurant	4.0 star rating	98 reviews	$$$	            249 E 49th St, New York, NY 10017	40.754560, -73.969415
+174	Bayridge Sushi	3.5 star rating	93 reviews	$$	            6914 3rd Ave, Brooklyn, NY 11209	40.635458, -74.026450
+175	Sushiden Sixth Ave	3.5 star rating	128 reviews	$$$	            123 W 49th St, New York, NY 10020	40.760160, -73.982363
+176	Sasabune	4.0 star rating	244 reviews	$$$$	            401 E 73rd St, New York, NY 10021	40.768417, -73.955031
+177	Suzume	4.0 star rating	78 reviews	$$	            545 Lorimer St, Brooklyn, NY 11211	40.713205, -73.949417
+178	Brushstroke	4.0 star rating	149 reviews	$$$$	            30 Hudson St, New York, NY 10013	40.716728, -74.008978
+179	Ten Japanese Cuisine	3.5 star rating	117 reviews	$$	            440 7th Ave, Brooklyn, NY 11215	40.663426, -73.984666
+180	Sushi of Gari 46	4.0 star rating	330 reviews	$$$$	            347 W 46th St, New York, NY 10036	40.760724, -73.989560
+181	Sushi of Gari 46	4.0 star rating	330 reviews	$$$$	            347 W 46th St, New York, NY 10036	40.760724, -73.989560
+182	Maisono	4.0 star rating	38 reviews	$$$	            98 Kenmare St, New York, NY 10012	40.721120, -73.996948
+183	Haru Sushi	3.5 star rating	343 reviews	$$$	            205 W 43rd St, New York, NY 10036	40.757189, -73.986910
+184	Hakubai	4.0 star rating	66 reviews	$$$$	            66 Park Ave, New York, NY 10016	40.749679, -73.979957
+185	Souen	3.5 star rating	262 reviews	$$	            28 E 13th St, New York, NY 10003	40.734608, -73.992916
+186	Qoo Robata Bar	3.5 star rating	68 reviews	$$	            367 Metropolitan Ave, Brooklyn, NY 11211	40.714266, -73.955661
+187	Mishima Restaurant	3.5 star rating	61 reviews	$$	            164 Lexington Ave, New York, NY 10016	40.744147, -73.981605
+188	Taro Sushi	4.0 star rating	285 reviews	$$	            244 Flatbush Ave, Brooklyn, NY 11217	40.681882, -73.976320
+189	Aji Sushi House	4.0 star rating	78 reviews	$$	            3606 Ditmars Blvd, Astoria, NY 11105	40.774027, -73.908180
+190	Noodle Caf Zen	3.0 star rating	332 reviews	$$	            31 St Marks Pl, New York, NY 10003	40.729077, -73.988173
+191	Mika Japanese Cuisine & Bar	3.0 star rating	71 reviews	$$	            150 Centre St, New York, NY 10013	40.717410, -74.000233
+192	Aji Sushi House	4.0 star rating	78 reviews	$$	            3606 Ditmars Blvd, Astoria, NY 11105	40.774027, -73.908180
+193	Ichie Japanese Restaurant	4.0 star rating	40 reviews	$$	            53 W 106th St, New York, NY 10025	40.799054, -73.961668
+194	Hane Sushi	3.5 star rating	139 reviews	$$	            346 1st Ave, New York, NY 10010	40.735671, -73.979953
+195	Izakaya On Smith	3.0 star rating	44 reviews	$$	            176 Smith St, Brooklyn, NY 11201	40.685751, -73.991363
+196	Sushi Park	3.0 star rating	380 reviews	$$	            121 E 2nd Ave, New York, NY 10003	40.728246, -73.988266
+197	Sake Bar Satsko	4.0 star rating	92 reviews	$$	            202 E 7th St, New York, NY 10009	40.724418, -73.980257
+198	Blue Ribbon Sushi Bar & Grill	4.0 star rating	330 reviews	$$$	            308 W 58th St, New York, NY 10019	40.767520, -73.983174
+199	Benihana	3.0 star rating	286 reviews	$$$	            47 W 56th St, New York, NY 10019	40.763336, -73.976585
+200	Nanatori Japanese Restaurant	3.5 star rating	91 reviews	$$	            162 Montague St, Brooklyn, NY 11201	40.694153, -73.992818
+201	Benihana	3.0 star rating	286 reviews	$$$	            47 W 56th St, New York, NY 10019	40.763336, -73.976585
+202	Osaka	3.5 star rating	81 reviews	$$	            2524 Broadway, Astoria, NY 11106	40.763064, -73.927989
+203	Ajisen Noodle Restaurant	2.5 star rating	104 reviews	$$	            14 Mott St, New York, NY 10013	40.714156, -73.998505
+204	TJ Asian Bistro	4.0 star rating	234 reviews	$$	            50-19 Skillman Ave, Woodside, NY 11377	40.746228, -73.913521
+205	Takashi	4.5 star rating	335 reviews	$$$	            456 Hudson St, New York, NY 10014	40.731455, -74.006422
+206	Fatty Fish	4.0 star rating	226 reviews	$$	            406 E 64 St, New York, NY 10065	40.762287, -73.959225
+207	Spicy Shallot	3.5 star rating	185 reviews	$$	            77-01 Woodside Ave, Elmhurst, NY 11373	40.743624, -73.887629
+208	Minca	4.0 star rating	939 reviews	$$	            536 E 5th St, New York, NY 10009	40.723998, -73.982949
+209	Kanoyama	4.0 star rating	335 reviews	$$$	            175 2nd Ave, New York, NY 10003	40.730712, -73.986565
+210	TOMO Japanese Fusion	3.5 star rating	92 reviews	$$	            1077 Flushing Ave, Brooklyn, NY 11237	40.704742, -73.929308
+211	TOMO Japanese Fusion	3.5 star rating	92 reviews	$$	            1077 Flushing Ave, Brooklyn, NY 11237	40.704742, -73.929308
+212	Japonica	4.0 star rating	220 reviews	$$$	            100 University Pl, New York, NY 10003	40.734208, -73.992828
+213	Umami Shoppu	3.5 star rating	63 reviews	$$	            513 6th Ave, New York, NY 10011	40.736945, -73.997360
+214	Family Recipe	3.5 star rating	145 reviews	$$	            231 Eldridge St, New York, NY 10002	40.722356, -73.990101
+215	Asuka Sushi	4.0 star rating	233 reviews	$$	            300 W 23rd St, New York, NY 10011	40.745240, -73.998946
+216	Colala	2.5 star rating	42 reviews	$$	            791 Washington Ave, Brooklyn, NY 11238	40.672912, -73.962439
+217	Narita Japanese Restaurant	3.0 star rating	97 reviews	$$	            10708 70th Rd, Forest Hills, NY 11375	40.721207, -73.845471
+218	Soba Nippon	3.5 star rating	75 reviews	$$$	            19 W 52nd St, New York, NY 10019	40.760219, -73.977435
+219	Ramen Okidoki	4.0 star rating	117 reviews	$$	            34-05 30th Ave, Astoria, NY 11103	40.765831, -73.918579
+220	Kuruma Zushi	4.0 star rating	117 reviews	$$$$	            7 E 47th St, New York, NY 10017	40.756537, -73.977685
+221	Kuruma Zushi	4.0 star rating	117 reviews	$$$$	            7 E 47th St, New York, NY 10017	40.756537, -73.977685
+222	Samurai Fusion Sushi	4.0 star rating	61 reviews	$$	            1709 86 St, Brooklyn, NY 11214	40.608558, -74.004335
+223	Terakawa Ramen	3.5 star rating	319 reviews	$$	            18 Lexington Ave, New York, NY 10010	40.739201, -73.985171
+224	Sushi Zen	3.5 star rating	92 reviews	$$$	            108 W 44th St, New York, NY 10036	40.756341, -73.983741
+225	Hirohisa	4.0 star rating	14 reviews	$$$$	            73 Thompson St, New York, NY 10012	40.724600, -74.003181
+226	Sushi Tatsu II	2.5 star rating	97 reviews	$$	            609 Franklin Ave, Brooklyn, NY 11238	40.677650, -73.955177
+227	Takara Sushi	4.0 star rating	74 reviews	$$	            15011 14th Ave, Whitestone, NY 11357	40.789234, -73.813417
+228	Sushiden Madison Avenue	3.5 star rating	60 reviews	$$$	            19 E 49th St, New York, NY 10017	40.757621, -73.976381
+229	Kobeyaki	3.5 star rating	69 reviews	$$	            110 W 40th St, New York, NY 10018	40.753619, -73.985974
+230	Dan Tempura House	2.5 star rating	73 reviews	$$	            2018 Broadway, New York, NY 10023	40.776034, -73.981842
+231	Bento Nouveau	2.5 star rating	48 reviews	$	            32 Broadway, New York, NY 10184	40.705862, -74.012811
+232	Ippudo Westside	4.0 star rating	540 reviews	$$	            321 W 51st St, New York, NY 10019	40.763541, -73.986538
+233	Haru Sushi	3.0 star rating	178 reviews	$$	            1 Wall St Ct, New York, NY 10005	40.703476, -74.022667
+234	Blue Ribbon Sushi	4.0 star rating	641 reviews	$$$	            119 Sullivan St, New York, NY 10012	40.726056, -74.002373
+235	Jin Ramen	4.0 star rating	450 reviews	$$	            3183 Broadway, New York, NY 10027	40.815477, -73.958767
+236	Guzan	3.5 star rating	51 reviews	$$	            1534 3rd Ave, New York, NY 10028	40.779215, -73.954102
+237	Saburi Restaurant	3.5 star rating	37 reviews	$$	            168 Lexington Ave., New York, NY 10016	40.744240, -73.981551
+238	Nada Sushi	3.5 star rating	53 reviews	$$	            135 E 50th St, New York, NY 10022	40.756315, -73.971894
+239	Ganso	3.5 star rating	269 reviews	$$	            25 Bond St, Brooklyn, NY 11201	40.688871, -73.983261
+240	Woorijip Authentic Korean Food	4.0 star rating	1322 reviews	$	            12 W 32nd St, New York, NY 10001	40.747356, -73.986569
+241	Cafe Zaiya	4.0 star rating	87 reviews	$	            69 Cooper Sq, New York, NY 10008	40.729139, -73.989928
+242	Mimi & Coco	4.0 star rating	28 reviews	$	            92 Rivington St, New York, NY 10002	40.720374, -73.988641
+243	Sarku Japan Express	2.5 star rating	6 reviews	$	            3721 Junction Blvd, New York, NY 11368	40.750928, -73.870293
+244	Kajitsu	4.0 star rating	43 reviews	$$$$	            125 E 39th St, New York, NY 10016	40.749900, -73.977686
+245	Mottsu	3.5 star rating	83 reviews	$$	            285 Mott St, New York, NY 10012	40.724321, -73.994688
+246	Misoya	3.5 star rating	13 reviews	$$	            158-09 Northern Blvd, New York, NY 11358	40.763463, -73.807203
+247	Ginza	3.0 star rating	103 reviews	$$	            296 5th Ave, Brooklyn, NY 11215	40.673728, -73.982586
+248	Tomi Jazz	3.5 star rating	54 reviews	$$	            239 E 53rd St, New York, NY 10022	40.757256, -73.967729
+249	East Noodle	2.5 star rating	139 reviews	$$	            119 E 2nd Ave, New York, NY 10003	40.728207, -73.988358
+250	Shobu Sushi & Grill	4.0 star rating	77 reviews	$$	            9427 5th Ave, Brooklyn, NY 11209	40.615828, -74.030682
+251	Koto Sushi	4.0 star rating	75 reviews	$$	            67 1/2 6th Ave, Brooklyn, NY 11217	40.680574, -73.974345
+252	Oki Japanese	2.5 star rating	48 reviews	$$	            4511 Queens Blvd, Sunnyside, NY 11104	40.743531, -73.918956
+253	Mitoushi Japanese Restaurant	4.0 star rating	66 reviews	$$	            1221 Quentin Rd, Brooklyn, NY 11229	40.608236, -73.960276
+254	Masago Bistro	4.0 star rating	30 reviews	$	            766 Nostrand Ave, Brooklyn, NY 11216	40.672384, -73.950467
+255	Nori Nori	3.5 star rating	192 reviews	$$$	            136-20 38th Ave, Flushing, NY 11354	40.760836, -73.829654
+256	Ramen Setagaya	3.5 star rating	342 reviews	$$	            34 1/2 St Marks Pl, New York, NY 10003	40.728639, -73.988361
+257	Mikaku Sushi	3.5 star rating	63 reviews	$$	            85 Kenmare St, New York, NY 10012	40.721442, -73.996765
+258	Maroo	3.5 star rating	18 reviews	$$	            1640 3rd Ave, New York, NY 10128	40.782476, -73.951333
+259	Tokubei 86	3.5 star rating	49 reviews	$$	            314 E 86th St Frnt, New York, NY 10028	40.776641, -73.952147
+260	Sushi Nakazawa	4.5 star rating	148 reviews	$$$$	            23 Commerce St, New York, NY 10014	40.731802, -74.004491
+261	Matsu Japanese Cuisine	3.5 star rating	144 reviews	$$	            411 E 70th St, New York, NY 10021	40.766313, -73.956122
+262	Shinbashi	3.5 star rating	48 reviews	$$$	            7 E 48th St, New York, NY 10017	40.757112, -73.977288
+263	Fresh Tortilla & Japanese Restaurant	3.5 star rating	24 reviews	$$	            2123 Williamsbridge Road, Bronx, NY 10461	40.856031, -73.855688
+264	Kyoto Sushi	4.0 star rating	105 reviews	$$	            115 Smith St, Brooklyn, NY 11201	40.687747, -73.989498
+265	Longevousjoy	3.5 star rating	90 reviews	$$	            6610 Bay Pkwy, Brooklyn, NY 11204	40.613146, -73.982496
+266	Tataki Japanese Restaurant	3.0 star rating	59 reviews	$$	            3 Lispenard St, New York, NY 10013	40.720672, -74.004863
+267	Haru Sushi	3.5 star rating	117 reviews	$$	            433 Amsterdam Ave, New York, NY 10024	40.784167, -73.977247
+268	Momoya	4.0 star rating	197 reviews	$$$	            185 7th Ave, New York, NY 10011	40.742695, -73.996440
+269	Kobe Sushi	4.0 star rating	58 reviews	$$	            1472 York Ave, New York, NY 10075	40.770771, -73.950654
+270	Sun Cafe	3.5 star rating	83 reviews	$$	            67 Reade St, New York, NY 10007	40.715010, -74.006781
+281	Gowasabi	3.0 star rating	120 reviews	$$	            3402 30th Ave, Astoria, NY 11103	40.765527, -73.918986
+282	Umi Sushi	4.0 star rating	310 reviews	$$	            118 E 31st St, New York, NY 10016	40.744595, -73.981897
+283	SUSHISAMBA Gramercy	3.5 star rating	392 reviews	$$$	            245 Park Ave S, New York, NY 10003	40.737978, -73.987497
+284	Nobu Next Door	3.5 star rating	242 reviews	$$$$	            105 Hudson St, New York, NY 10013	40.719450, -74.008976
+285	Akiyama Japanese Restaurant	3.5 star rating	27 reviews	$$	            13216 14th Ave, College Point, NY 11356	40.786273, -73.835967
+286	Soy & Sake	4.0 star rating	258 reviews	$$	            47 7th Ave S, New York, NY 10014	40.731350, -74.003881
+287	SUSHISAMBA West Village	3.5 star rating	700 reviews	$$$	            87 7th Ave S, New York, NY 10014	40.732791, -74.003264
+288	Go! Go! Curry!	4.0 star rating	72 reviews	$	            231 Thompson St, New York, NY 10012	40.729500, -73.999026
+289	Zest	4.5 star rating	160 reviews	$$	            249 Broome St, New York, NY 10002	40.717833, -73.989960
+290	Japas 27	3.5 star rating	88 reviews	$$	            366 3rd Ave, New York, NY 10016	40.741207, -73.981843
+291	OZU RESTAURANT	3.5 star rating	63 reviews	$$	            566 Amsterdam Ave, New York, NY 10024	40.788749, -73.974639
+292	Mikado Bistro	3.0 star rating	68 reviews	$$	            525 6th Ave, New York, NY 10011	40.737237, -73.997150
+293	Monster Sushi	3.5 star rating	211 reviews	$$	            158 W 23rd St, New York, NY 10011	40.743549, -73.995091
+294	Hiroshi Japanese Fusion	3.5 star rating	99 reviews	$$	            585 3rd Ave, New York, NY 10016	40.748356, -73.975841
+295	Sushi Island	3.5 star rating	128 reviews	$$	            87-18 Queens Blvd, Elmhurst, NY 11373	40.734974, -73.875865
+296	Iron Sushi	3.5 star rating	95 reviews	$$	            212 E 10th St, New York, NY 10003	40.729235, -73.986105
+297	Yuka Japanese Restaurant	3.5 star rating	317 reviews	$$	            1557 2nd Ave, New York, NY 10028	40.774614, -73.954459
+298	Hane Sushi	3.5 star rating	83 reviews	$$	            581B 3rd Avenue, New York, NY 10016	40.748247, -73.975981
+299	Rai Rai Ken	3.5 star rating	586 reviews	$$	            218 E 10th St, New York, NY 10003	40.729269, -73.985929
+300	15 East	4.0 star rating	319 reviews	$$$$	            15 E 15th St, New York, NY 10003	40.736466, -73.992115
+301	Sakura 6	3.5 star rating	78 reviews	$$	            837 Manhattan Ave, Brooklyn, NY 11222	40.728661, -73.953799
+302	Sen NYC	3.5 star rating	55 reviews	$$$	            12 W 21st St, New York, NY 10010	40.740455, -73.991689
+303	Gari	4.0 star rating	162 reviews	$$$$	            370 Columbus Ave, New York, NY 10024	40.781114, -73.976401
+304	To To Sushi	3.0 star rating	28 reviews	$$	            216 Thompson St, New York, NY 10012	40.728865, -73.998973
+305	Osaka	3.5 star rating	87 reviews	$$	            272 Court St, Brooklyn, NY 11231	40.684832, -73.994994
+306	Rainbow	3.5 star rating	11 reviews	$	            5121 43rd Ave, Sunnyside, NY 11104	40.751827, -73.948077
+307	Izumi Sushi	3.0 star rating	77 reviews	$$	            139 W 28th St, New York, NY 10001	40.746980, -73.992167
+308	BentOn Cafe	2.5 star rating	25 reviews	$	            123 William St, New York, NY 10038	40.709332, -74.006954
+309	Mira Sushi & Izakaya	3.5 star rating	91 reviews	$$	            46 W 22nd St, New York, NY 10010	40.741648, -73.992500
+310	Isohama Japanese Restaurant	3.5 star rating	45 reviews	$$	            1666 3rd Ave, New York, NY 10128	40.783614, -73.950888
+311	KOKO	3.0 star rating	91 reviews	$$	            120 Greenwich St, New York, NY 10006	40.709041, -74.013317
+312	Asea Fusion & Yakitori Lounge	4.0 star rating	62 reviews	$$	            4120 8th Ave, Brooklyn, NY 11232	40.645872, -73.999144
+313	Kumo	3.0 star rating	32 reviews	$$	            37-18 Ditmars Blvd, Astoria, NY 11105	40.773526, -73.907190
+314	Fulton Chef	2.5 star rating	11 reviews	$	            64 Fulton St, New York, NY 10038	40.708721, -74.005361
+315	Azuki Japanese Restaurant	3.0 star rating	77 reviews	$$	            520 8th Ave, New York, NY 10018	40.753599, -73.991980
+316	Mitoushi Sushi	4.0 star rating	102 reviews	$$	            177 Atlantic Ave, Brooklyn, NY 11201	40.690310, -73.993802
+317	SUteiShi	4.0 star rating	202 reviews	$$$	            24 Peck Slip, New York, NY 10038	40.707884, -74.001941
+318	Mickey's Place	4.0 star rating	140 reviews	$$	            40-17 Bell Blvd, Bayside, NY 11361	40.763752, -73.770942
+319	Inase Restaurant	4.0 star rating	60 reviews	$$$	            1586 1st Ave, New York, NY 10028	40.774521, -73.950719
+320	Naruto Ramen	3.5 star rating	197 reviews	$$	            276 5th Ave, Brooklyn, NY 11215	40.674419, -73.982298
+321	SUteiShi	4.0 star rating	202 reviews	$$$	            24 Peck Slip, New York, NY 10038	40.707884, -74.001941
+322	Mickey's Place	4.0 star rating	140 reviews	$$	            40-17 Bell Blvd, Bayside, NY 11361	40.763752, -73.770942
+323	Inase Restaurant	4.0 star rating	60 reviews	$$$	            1586 1st Ave, New York, NY 10028	40.774521, -73.950719
+324	Naruto Ramen	3.5 star rating	197 reviews	$$	            276 5th Ave, Brooklyn, NY 11215	40.674419, -73.982298
+325	Taste of Tokyo	3.0 star rating	63 reviews	$$	            60 Beaver St, New York, NY 10004	40.705125, -74.009668
+326	MAKANA	3.5 star rating	41 reviews	$$	            161 W 106th St, New York, NY 10025	40.800221, -73.965178
+327	Yopparai	4.0 star rating	66 reviews	$$$$	            151 Rivington St, New York, NY 10002	40.719125, -73.985732
+328	Sake Sushi	4.0 star rating	111 reviews	$$	            95-34 Queens Blvd, Flushing, NY 11374	40.730126, -73.863601
+329	Zuzu Ramen	3.5 star rating	191 reviews	$$	            173 4th Ave, Brooklyn, NY 11217	40.678459, -73.981944
+330	Ajisen Ramen	3.0 star rating	113 reviews	$$	            136 W 28th St, Manhattan, NY 10001	40.746507, -73.992236
+331	New York Sushi Ko	3.5 star rating	28 reviews	$$$$	            91 Clinton St, New York, NY 10002	40.718672, -73.985573
+332	Sushi Time	4.5 star rating	221 reviews	$$	            72-42 Austin St, Forest Hills, NY 11375	40.718680, -73.841344
+333	Sake	3.0 star rating	15 reviews	$	            2087 Coney Island Ave, Brooklyn, NY 11229	40.606281, -73.961431
+334	After Hours	5.0 star rating	1 review	None	            141 E 47th St, New York, NY 10017	40.754477, -73.972790
+335	Shinjuku	4.0 star rating	18 reviews	$$	            1664 Sheepshead Bay Rd, Brooklyn, NY 11235	40.586247, -73.952453
+336	BondSt	4.0 star rating	509 reviews	$$$$	            6 Bond St, New York, NY 10012	40.726957, -73.994399
+337	Blue Ginger	3.5 star rating	91 reviews	$$	            106 8th Ave, New York, NY 10011	40.740558, -74.001619
+338	Kawaii Sushi	4.0 star rating	26 reviews	$$	            82-19 153rd Ave, Howard Beach, NY 11414	40.666139, -73.851706
+339	Amber	3.5 star rating	218 reviews	$$	            221 Columbus Ave, New York, NY 10023	40.776113, -73.979408
+340	52nd Sushi	4.0 star rating	47 reviews	$	            5221 Roosevelt Ave, Woodside, NY 11377	40.744606, -73.911582
+361	Nikko	3.5 star rating	119 reviews	$$	            1280 Amsterdam Ave, Manhattan, NY 10027	40.811501, -73.957958
+362	Hana Sushi	3.5 star rating	140 reviews	$$	            211 7th Ave, New York, NY 10011	40.743447, -73.995792
+363	Koto Sushi	3.5 star rating	34 reviews	$$	            552 Henry St, Brooklyn, NY 11231	40.682305, -74.000576
+364	Yama	3.5 star rating	229 reviews	$$	            122 E 17th St, New York, NY 10003	40.735895, -73.987490
+365	Sakura 7	4.0 star rating	32 reviews	$$	            65-54 Grand Ave, Maspeth, NY 11378	40.724088, -73.898798
+366	251 Ginza Sushi	4.0 star rating	57 reviews	$$	            251 E 35th St, New York, NY 10016	40.745633, -73.975830
+367	Butai	3.5 star rating	35 reviews	$$$	            115 E 18th St, New York, NY 10003	40.736883, -73.987614
+368	Sushi Akio	4.0 star rating	68 reviews	$$	            71-45 Yellowstone Blvd, Forest Hills, NY 11375	40.721337, -73.854996
+369	Ramen Takumi	3.0 star rating	192 reviews	$$	            1 University Pl, New York, NY 10003	40.730835, -73.995221
+370	Nagasaki Sushi	3.5 star rating	59 reviews	$$	            109 Eldridge St, New York, NY 10002	40.718204, -73.992233
+371	Totoya Japanese Restaurant	3.5 star rating	42 reviews	$$	            1144 1st Ave, New York, NY 10021	40.761894, -73.959930
+372	Sato Sushi	4.0 star rating	19 reviews	$$	            98-12 Queens Blvd, Rego Park, NY 11374	40.728102, -73.857427
+373	MOMO Hibachi Steak House & Bar	4.0 star rating	40 reviews	$$	            1901 Emmons Ave, Brooklyn, NY 11235	40.583961, -73.949214
+374	Ko Sushi	4.0 star rating	148 reviews	$$	            1329 2nd Ave, New York, NY 10021	40.767736, -73.959443
+375	The Loop	4.0 star rating	225 reviews	$$	            173 3rd Ave, New York, NY 10003	40.734867, -73.985821
+376	Tenzan	3.5 star rating	110 reviews	$$	            988 2nd Ave, New York, NY 10022	40.756202, -73.967201
+377	Sushi-Ann Restaurant	3.5 star rating	62 reviews	$$$	            38 E 51st St, New York, NY 10022	40.758043, -73.974363
+378	Hado Sushi	4.0 star rating	68 reviews	$$	            138-40 86th Ave, Briarwood, NY 11435	40.707778, -73.817361
+379	Hiro Sushi	2.5 star rating	24 reviews	$	            160 Freedom Pl, New York, NY 10069	40.777783, -73.988136
+380	East 21 Boy	3.0 star rating	16 reviews	$	            71-26 Roosevelt Ave, Jackson Heights, NY 11372	40.746349, -73.893889
+381	ChopStix Chinese Restaurant & Sushi Bar	3.5 star rating	42 reviews	$$	            3790 Nostrand Ave, Brooklyn, NY 11235	40.591398, -73.940232
+382	Dojo Restaurant and Bar	3.5 star rating	123 reviews	$$$	            570 10th Ave, New York, NY 10036	40.759199, -73.995509
+383	Oishii Sushi Restaurant	3.5 star rating	40 reviews	$$	            3704 Ditmars Blvd, Astoria, NY 11105	40.773527, -73.907602
+384	Kuho Sushi	3.5 star rating	51 reviews	$$	            1703 65th St, Brooklyn, NY 11204	40.620399, -73.992255
+385	Sapporo Ichiban	3.5 star rating	110 reviews	$$	            622 Manhattan Ave, Brooklyn, NY 11222	40.723678, -73.950489
+386	Wakamatsu	3.5 star rating	29 reviews	$$	            7018 Grand Ave, Maspeth, NY 11378	40.727466, -73.892286
+387	Domo Taco	2.5 star rating	44 reviews	$	            23rd St and Park Ave S, New York, NY 10010	40.740158, -73.986316
+388	Haru Ginger	3.5 star rating	31 reviews	$$	            7308 3rd Ave, Brooklyn, NY 11209	40.632587, -74.027647
+389	Kitaro	3.5 star rating	65 reviews	$$	            510 Amsterdam Ave, New York, NY 10024	40.786907, -73.975972
+390	Azuki Sushi	3.5 star rating	152 reviews	$$	            239 Park Ave S, New York, NY 10003	40.737832, -73.987657
+391	Sarku Japan	3.0 star rating	27 reviews	$	            90-15 Queens Blvd, Elmhurst, NY 11373	40.734500, -73.870942
+392	Makana	3.5 star rating	69 reviews	$$	            2245 1st Ave, New York, NY 10029	40.795675, -73.936001
+393	Haru	3.5 star rating	77 reviews	$$	            1329 3rd Ave, New York, NY 10075	40.772317, -73.958373
+394	Sapporo Ichiban	3.5 star rating	110 reviews	$$	            622 Manhattan Ave, Brooklyn, NY 11222	40.723678, -73.950489
+395	Tomo Japanese Cafe	3.5 star rating	154 reviews	$$	            8914 Queens Blvd, Elmhurst, NY 11373	40.734449, -73.874340
+396	Kiku Asian Bistro	4.0 star rating	140 reviews	$$	            163 5th Ave, Brooklyn, NY 11217	40.677726, -73.979549
+397	Azuki Sushi	3.5 star rating	152 reviews	$$	            239 Park Ave S, New York, NY 10003	40.737832, -73.987657
+398	Bay House	3.5 star rating	7 reviews	$$	            2226 Hylan Blvd, Staten Island, NY 10306	40.576094, -74.103549
+399	Aquamarine	3.0 star rating	117 reviews	$$	            713 2nd Ave, New York, NY 10016	40.747679, -73.974157
+400	Cho Cho San	4.0 star rating	6 reviews	$	            39-11 Queens Blvd, Sunnyside, NY 11104	40.744357, -73.925481
+401	Aquamarine	3.0 star rating	117 reviews	$$	            713 2nd Ave, New York, NY 10016	40.747679, -73.974157
+402	Cho Cho San	4.0 star rating	6 reviews	$	            39-11 Queens Blvd, Sunnyside, NY 11104	40.744357, -73.925481
+403	Nippon	4.0 star rating	79 reviews	$$$	            155 E 52nd St, New York, NY 10022	40.757537, -73.970334
+404	Osaka	2.5 star rating	45 reviews	$$	            535 8th Ave, New York, NY 10018	40.753723, -73.992583
+405	Maguro	4.0 star rating	123 reviews	$$	            160 E 28th St, New York, NY 10016	40.742002, -73.981367
+406	Njisen Noodle	3.0 star rating	10 reviews	$$	            16 Mott St, New York, NY 10013	40.714231, -73.998493
+407	Momofuku Noodle Bar	3.5 star rating	2374 reviews	$$	            171 1st Ave, New York, NY 10003	40.729233, -73.984510
+408	Atoyama Sushi	3.5 star rating	145 reviews	$$	            11 W 36th St, New York, NY 10018	40.750286, -73.984382
+409	Souen Restaurant	3.5 star rating	102 reviews	$$	            210 Ave of the Americas, New York, NY 10014	40.727218, -74.003124
+410	Ahana	4.0 star rating	23 reviews	$$	            1154 1st Ave, New York, NY 10065	40.762197, -73.959827
+411	Hunan Balcony	3.0 star rating	88 reviews	$$	            2596 Broadway, New York, NY 10025	40.795758, -73.970590
+412	Typhoon	3.5 star rating	11 reviews	$$	            165 8th Ave, New York, NY 10011	40.742597, -74.000854
+413	Oyishi Sushi	3.5 star rating	29 reviews	$	            374 W 46th St, New York, NY 10036	40.760767, -73.990551
+414	Shamisen Japanese Restaurant	4.0 star rating	13 reviews	$$	            384 5th Ave 6st, Brooklyn, NY 11215	40.668167, -73.980064
+415	Sushi D	3.5 star rating	77 reviews	$$	            207 Dekalb Ave, Brooklyn, NY 11205	40.689690, -73.971308
+416	Empire Szechuan Village	3.0 star rating	40 reviews	$$	            173 7th Ave S, New York, NY 10014	40.735965, -74.001217
+417	Nagoya Sushi	3.5 star rating	68 reviews	$$	            1907 Kings Hwy, Brooklyn, NY 11229	40.610598, -73.954439
+418	Amura Japanese	4.0 star rating	106 reviews	$$	            1567 2nd Ave, New York, NY 10028	40.774999, -73.954155
+419	Neta	4.0 star rating	149 reviews	$$$$	            61 W 8th St, New York, NY 10011	40.733600, -73.998997
+420	Hayashi	4.0 star rating	48 reviews	$$	            2901 Ocean Ave, Brooklyn, NY 11235	40.590465, -73.949380
+421	Chikurin	3.5 star rating	73 reviews	$	            1777 Ocean Ave, Brooklyn, NY 11230	40.618728, -73.955067
+422	Shi	3.5 star rating	321 reviews	$$	            4720 Center Blvd, Long Island City, NY 11109	40.745811, -73.956985
+423	Mizu Sushi	3.5 star rating	134 reviews	$$	            29 E 20th St, New York, NY 10003	40.739068, -73.988965
+424	Sushi Ichimasa	3.0 star rating	49 reviews	$$	            302 W 50th St, New York, NY 10019	40.762337, -73.986675
+425	Charlie's Place	4.0 star rating	35 reviews	$	            1960 Madison Ave, New York, NY 10035	40.806219, -73.940612
+426	Yama 49	4.0 star rating	98 reviews	$$$	            308 E 49th St, New York, NY 10017	40.753806, -73.968528
+427	Suma Sushi	3.5 star rating	70 reviews	$$	            964 Amsterdam Ave, New York, NY 10025	40.801499, -73.965340
+428	Bento Sushi & Noodles	2.0 star rating	19 reviews	$$	            685 3rd Ave, New York, NY 10017	40.751801, -73.973780
+429	Nu Sushi	3.0 star rating	55 reviews	$$	            76 Pearl St, New York, NY 10004	40.703730, -74.010278
+430	Amber	3.5 star rating	99 reviews	$$	            135 Christopher St, New York, NY 10014	40.733163, -74.006957
+431	Bento Nouveau	3.0 star rating	42 reviews	$	            1407 Broadway, New York, NY 10018	40.753408, -73.987422
+432	Miyako Sushi	3.5 star rating	85 reviews	$$	            642 Amsterdam Ave, New York, NY 10025	40.791170, -73.972878
+433	Chinatown Restaurant	3.0 star rating	123 reviews	$$	            1650 3 Ave, New York, NY 10128	40.782890, -73.951287
+434	Palace of Japan	3.5 star rating	59 reviews	$$	            3505 Johnson Ave, Bronx, NY 10463	40.885854, -73.909950
+435	Nomado 33	3.5 star rating	187 reviews	$$	            165 E 33rd St, New York, NY 10016	40.745485, -73.979014
+436	Ramen Misoya	3.5 star rating	345 reviews	$$	            129 Second Ave, New York, NY 10003	40.728511, -73.988140
+437	Hachi	3.5 star rating	107 reviews	$$	            631 Grand St, Brooklyn, NY 11211	40.711604, -73.946914
+438	Fu Gu Sushi	3.0 star rating	57 reviews	$	            6804 Bay Pkwy, Brooklyn, NY 11204	40.612183, -73.983616
+439	Maru	4.0 star rating	49 reviews	$	            267 W 17th St, New York, NY 10011	40.741618, -74.000685
+440	Imi Sushi	3.5 star rating	60 reviews	$$	            656 Amsterdam Ave, New York, NY 10025	40.791746, -73.972390
+441	Todai New York	4.5 star rating	2 reviews	$$	            6 East 32nd St, New York, NY 10016	40.746729, -73.984860
+442	Kyoto	3.5 star rating	11 reviews	$$	            418 Forest Ave, Staten Island, NY 10301	40.630928, -74.102707
+443	Yashinoya	3.5 star rating	14 reviews	$	            1741 Sheepshead Bay Rd, Brooklyn, NY 11235	40.585040, -73.951212
+444	Kang Suh Restaurant	3.5 star rating	271 reviews	$$	            1250 Broadway, New York, NY 10001	40.747847, -73.987963
+445	Osaka Oriental Food	3.5 star rating	19 reviews	$$	            1440 Forest Ave, Staten Island, NY 10302	40.624218, -74.136633
+446	Mihoko's 21 Grams	3.5 star rating	44 reviews	$$$$	            16 W 22nd St, New York, NY 10010	40.741244, -73.991320
+447	27th St. Ace Sushi	3.0 star rating	17 reviews	$$	            121 E 27th St, New York, NY 10016	40.742541, -73.983441
+448	Fushimi Japanese Restaurant	3.5 star rating	74 reviews	$$$	            2110 Richmond Rd, Staten Island, NY 10306	40.581302, -74.111445
+449	Takahachi Tribeca Restaurant	3.5 star rating	118 reviews	$$$	            145 Duane St, New York, NY 10013	40.716593, -74.007917
+450	Arbor Bistro	3.5 star rating	60 reviews	$$	            226 W Houston St, New York, NY 10014	40.728707, -74.004855
+451	Arbor Bistro	3.5 star rating	60 reviews	$$	            226 W Houston St, New York, NY 10014	40.728707, -74.004855
+452	Jack's Sliders & Sushi	4.0 star rating	89 reviews	$$	            171 3rd Ave, New York, NY 10003	40.734705, -73.985819
+453	Oyama Japanese Restaurant	3.0 star rating	118 reviews	$	            188 1st Ave, New York, NY 10009	40.729535, -73.983475
+454	Glaze Teriyaki Grill	3.5 star rating	142 reviews	$	            638 Lexington Ave, New York, NY 10022	40.759251, -73.970623
+455	Momofuku Ko	4.0 star rating	660 reviews	$$$$	            163 1st Ave, New York, NY 10003	40.729006, -73.984673
+456	Sake II	3.0 star rating	17 reviews	$$	            690 E 187 St, Bronx, NY 10458	40.854228, -73.884600
+457	New Ashiya	3.0 star rating	360 reviews	$$	            167 1st Ave, New York, NY 10003	40.729122, -73.984590
+458	10 Jin's Empire Asian Cuisine	2.0 star rating	21 reviews	$	            10 Murray St, New York, NY 10007	40.713343, -74.008086
+459	Hanabi	3.5 star rating	42 reviews	$	            1450 2nd Ave, New York, NY 10021	40.771101, -73.956438
+460	Aja Asian Bistro	3.5 star rating	47 reviews	$$	            432 6th Ave, New York, NY 10011	40.734516, -73.998894
+461	Sake Sushi	3.5 star rating	82 reviews	$$	            328 Church Ave, Brooklyn, NY 11218	40.643814, -73.976737
+462	Tanaka Sushi	3.5 star rating	75 reviews	$$	            222 E 51st St, New York, NY 10022	40.755935, -73.969285
+463	Ruby Foo's	3.0 star rating	396 reviews	$$$	            1626 Broadway, New York, NY 10019	40.761060, -73.984011
+464	Kumo Sushi	3.0 star rating	53 reviews	$$	            1406 Cortelyou Rd, Brooklyn, NY 11226	40.640691, -73.964964
+465	Blue Ribbon Sushi Izakaya	4.0 star rating	145 reviews	$$$	            187 Orchard St, New York, NY 10002	40.722135, -73.988438
+466	Mama Sushi	3.0 star rating	108 reviews	$$	            237 Dyckman St, New York, NY 10034	40.866255, -73.927712
+467	Ani Sushi Bar	3.5 star rating	81 reviews	$$	            142 Montague St, Brooklyn, NY 11201	40.694385, -73.993680
+468	Iron Chef House	4.0 star rating	195 reviews	$$	            92 Clark St, Brooklyn, NY 11201	40.697200, -73.992645
+469	Ramen Sanshiro	4.0 star rating	32 reviews	$$	            249 E 49th St, New York, NY 10022	40.754565, -73.969406
+470	Chikurin	3.0 star rating	58 reviews	$	            11072 Queens Blvd, Flushing, NY 11375	40.718939, -73.839017
+471	Chikurin	3.0 star rating	58 reviews	$	            11072 Queens Blvd, Flushing, NY 11375	40.718939, -73.839017
+472	Okadaman	2.5 star rating	44 reviews	$	            New York, NY 10001,         </address>	40.753685, -73.999164
+473	River Japanese Cuisine	3.5 star rating	184 reviews	$$	            61-44 Springfield Blvd, Bayside, NY 11364	40.748028, -73.756532
+474	Wild Ginger	3.0 star rating	78 reviews	$$	            226 E 51st St, New York, NY 10022	40.755799, -73.969316
+475	Vine: Sushi & Sake	2.5 star rating	172 reviews	$$	            2955 Broadway, New York, NY 10027	40.807928, -73.964338
+476	RAMEN Co by Keizo Shimamoto	3.5 star rating	27 reviews	$$	            100 Maiden Ln, New York, NY 10038	40.706747, -74.007086
+477	Klong	3.5 star rating	629 reviews	$$	            7 St Marks Pl, New York, NY 10003	40.729513, -73.989166
+478	Matsu	3.5 star rating	48 reviews	$$	            483 Columbus Ave, New York, NY 10024	40.784609, -73.973246
+479	Mura	3.5 star rating	96 reviews	$$	            369 5th Ave, Brooklyn, NY 11215	40.671114, -73.984291
+480	Ichi Sushi	4.0 star rating	73 reviews	$$	            2040 86th St, Brooklyn, NY 11214	40.603803, -73.997520
+481	Radiance Tea House and Books	4.0 star rating	463 reviews	$$	            158 W 55th St, New York, NY 10019	40.763878, -73.980542
+482	Poke	4.0 star rating	249 reviews	$$	            343 E 85th St, New York, NY 10028	40.776715, -73.950481
+483	Echiban Asian	3.0 star rating	27 reviews	$$	            6647 Fresh Pond Rd, New York, NY 11385	40.702156, -73.895067
+484	Wasabi Sushi & Bento	2.5 star rating	37 reviews	$$	            561 7th Ave, New York, NY 10036	40.754823, -73.987475
+485	Haru Sushi	3.5 star rating	221 reviews	$$	            220 Park Ave S, New York, NY 10003	40.737175, -73.988925
+486	Aki Japanese Cuisine	3.0 star rating	6 reviews	$$	            3306 Ditmars Blvd, Long Island City, NY 11105	40.775096, -73.909538
+487	BANY - Best Asian of New York	3.0 star rating	60 reviews	$$	            10-57 Jackson Ave, Long Island City, NY 11101	40.742676, -73.952677
+488	TAO	3.5 star rating	1228 reviews	$$$	            42 E 58th St, New York, NY 10022	40.762614, -73.971429
+489	Chuko	4.0 star rating	367 reviews	$$	            552 Vanderbilt Ave, Brooklyn, NY 11238	40.680138, -73.968259
+490	Sushi Family Express	4.0 star rating	59 reviews	$$	            3548 Union St, Flushing, NY 11354	40.764164, -73.828299
+491	Buddakan	4.0 star rating	1701 reviews	$$$	            75 9th Ave, New York, NY 10011	40.742232, -74.005511
+492	Bassanova Ramen	3.5 star rating	221 reviews	$$	            76 Mott St, New York, NY 10013	40.716414, -73.997807
+493	Chuko	4.0 star rating	367 reviews	$$	            552 Vanderbilt Ave, Brooklyn, NY 11238	40.680138, -73.968259
+494	Snacky	4.0 star rating	89 reviews	$$	            187 Grand St, Brooklyn, NY 11211	40.714458, -73.960619
+495	Koo Japanese Fusion	3.5 star rating	43 reviews	$$	            142 W Houston St, New York, NY 10012	40.728082, -74.001687
+496	Sake	3.5 star rating	252 reviews	$$	            2347 86th St, Brooklyn, NY 11214	40.600114, -73.990207
+497	Bamboo Ya	3.0 star rating	59 reviews	$$	            97-11 Queens Blvd, Rego Park, NY 11374	40.729898, -73.860565
+498	Yo Sushi Japanese Restaurant	2.5 star rating	62 reviews	$$	            351 2nd Ave, New York, NY 10010	40.736368, -73.982351
+499	Tenzan	3.5 star rating	111 reviews	$$	            7117 18th Ave, Brooklyn, NY 11220	40.615175, -73.993801
+500	Ajisai Japanese Fusion	3.5 star rating	19 reviews	$$	            795 Lexington Ave, New York, NY 10065	40.763759, -73.966747
+501	Ajisai Japanese Fusion	3.5 star rating	19 reviews	$$	            795 Lexington Ave, New York, NY 10065	40.763759, -73.966747
+502	Chez Sardine	3.5 star rating	89 reviews	$$$	            183 W 10th St, New York, NY 10014	40.734413, -74.002680
+503	Vanessa's Dumpling	3.5 star rating	462 reviews	$	            220 E 14th St, New York, NY 10003	40.732655, -73.986441
+504	Bamboo Sushi	3.5 star rating	46 reviews	$$	            1280 1st Ave, New York, NY 10021	40.765644, -73.957301
+505	Miyako Sushi	3.5 star rating	87 reviews	$$	            143 Berry St, Brooklyn, NY 11211	40.718046, -73.959337
+506	Shinju Sushi III	4.0 star rating	65 reviews	$	            75 5th Ave, Brooklyn, NY 11217	40.680391, -73.977450
+507	Bar Masa	3.5 star rating	103 reviews	$$$$	            10 Columbus Cir, New York, NY 10019	40.768415, -73.982707
+508	Ginza Japanese Restaurant	3.5 star rating	46 reviews	$$	            2809 Ocean Ave, Brooklyn, NY 11229	40.592955, -73.949867
+509	Jc Hibachi	3.0 star rating	5 reviews	$	            198-A Orchard St, Manhattan, NY 10002	40.722326, -73.987776
+510	Kiku Sushi	3.5 star rating	76 reviews	$$	            453 7th Ave, Brooklyn, NY 11215	40.662705, -73.984725
+511	Kiku Sushi	3.5 star rating	76 reviews	$$	            453 7th Ave, Brooklyn, NY 11215	40.662705, -73.984725
+512	Shochu & Tapas - Aya	4.5 star rating	12 reviews	$$	            247 E 50th St, New York, NY 10022	40.757783, -73.967931
+513	Shiro of Japan	3.5 star rating	5 reviews	None	            89 E 42nd St, New York, NY 10017	40.752471, -73.977295
+514	Kawaii Japanese Restaurant	3.5 star rating	23 reviews	$$	            2706 Ave U, Brooklyn, NY 11229	40.600167, -73.944109
+515	Nagoya Japanese Fusion	4.0 star rating	31 reviews	$$	            1948 86 St, Brooklyn, NY 11214	40.604944, -73.999463
+516	Sato Japanese Cuisine	3.5 star rating	45 reviews	$$$	            9812 Queens Blvd, Rego Park, NY 11374	40.728102, -73.857427
+517	Sushi Express	3.5 star rating	9 reviews	$$	            230 Park Ave, New York, NY 10169	40.754033, -73.975785
+518	A Canaan	2.5 star rating	82 reviews	$$	            154 W 29th St, New York, NY 10001	40.747348, -73.992311
+519	Okinawa Japanese Restaurant	3.0 star rating	60 reviews	$$	            3932 Bell Blvd, Bayside, NY 11361	40.764375, -73.771701
+520	Mooncake Foods	3.5 star rating	264 reviews	$$	            263 W 30th St, New York, NY 10001	40.749651, -73.994639
+521	Mooncake Foods	3.5 star rating	264 reviews	$$	            263 W 30th St, New York, NY 10001	40.749651, -73.994639
+522	Wei West	3.0 star rating	63 reviews	$$	            235 Murray St, New York, NY 10282	40.715394, -74.014755
+523	Maru Sushi	3.5 star rating	22 reviews	$$	            609 2nd Ave, New York, NY 10016	40.744470, -73.976462
+524	Hinata	3.5 star rating	31 reviews	$$	            159 E 55th St, New York, NY 10022	40.759302, -73.968787
+525	Wasabi Sushi	4.0 star rating	56 reviews	$$	            2375 86th St, Brooklyn, NY 11214	40.599649, -73.989448
+526	wd-50	4.0 star rating	754 reviews	$$$$	            50 Clinton St, New York, NY 10002	40.719605, -73.984504
+527	Dassara Brooklyn Ramen	3.5 star rating	187 reviews	$$	            271 Smith St, Brooklyn, NY 11231	40.682660, -73.993068
+528	Mooncake Foods	4.0 star rating	355 reviews	$	            28 Watts St, New York, NY 10013	40.723614, -74.004247
+529	Empire Szechuan	2.5 star rating	80 reviews	$$	            193 Columbus Ave, New York, NY 10023	40.775270, -73.980088
+530	Dieci	4.0 star rating	234 reviews	$$$	            228 E 10th St, New York, NY 10003	40.728972, -73.985477
+531	Pom's Fish & Japanese Food Market	5.0 star rating	2 reviews	None	            1138 1st Ave, New York, NY 10065	40.761728, -73.960023
+532	Suzu Sushi	4.0 star rating	93 reviews	$$	            1075 1st Ave, New York, NY 10022	40.759521, -73.962403
+533	Pad Thai	3.0 star rating	71 reviews	$$	            409 8th Ave, New York, NY 10001	40.750087, -73.995408
+534	Tenzan	3.5 star rating	76 reviews	$$	            1714 2nd Ave, New York, NY 10128	40.779571, -73.950097
+535	Joya	4.0 star rating	692 reviews	$	            215 Court St, Brooklyn, NY 11201	40.686667, -73.993560
+536	Ivan Ramen Slurp Shop	3.0 star rating	193 reviews	$$	            600 11th Ave, New York, NY 10036	40.762384, -73.996751
+537	Raku - It's Japanese 2!	3.5 star rating	120 reviews	$$	            57 W 76th St, New York, NY 10023	40.780076, -73.976463
+538	Miso Restaurant	2.5 star rating	55 reviews	$$	            40 Main St, Brooklyn, NY 11201	40.702805, -73.990840
+539	Sakura Tokyo	3.5 star rating	78 reviews	$	            604 Nostrand Ave, Brooklyn, NY 11216	40.677903, -73.949867
+540	Ramen Yebisu	3.0 star rating	126 reviews	$$	            126 N 6th St, New York, NY 11211	40.717840, -73.959570
+541	Tomoe Sushi	4.0 star rating	506 reviews	$$$	            172 Thompson St, New York, NY 10012	40.727674, -74.000102
+542	Two Ways Chinese & Japanese Restaurant	4.0 star rating	14 reviews	$	            5902 Broadway, Woodside, NY 11377	40.751196, -73.902693
+543	Matsu Sushi	4.0 star rating	26 reviews	$$	            3411 30th Ave, Queens, NY 11103	40.765678, -73.918518
+544	Aoki	3.5 star rating	124 reviews	$$	            234 W 48th St, New York, NY 10036	40.760570, -73.986299
+545	Little Tokyo	2.5 star rating	4 reviews	$	            89 South St, New York, NY 10038	40.706600, -74.002824
+546	Astoria Sushi & Asian Bistro	4.0 star rating	16 reviews	$$	            42-06 30th Ave, Astoria, NY 11103	40.762905, -73.913248
+547	Kumo Sushi	3.0 star rating	182 reviews	$$	            214 1st Ave, New York, NY 10009	40.730414, -73.982879
+548	Fuji East	3.0 star rating	39 reviews	$$	            455 Main St, New York, NY 10044	40.759223, -73.952605
+549	China Tokyo Restaurant	3.5 star rating	33 reviews	$$	            5908 Ave N, Brooklyn, NY 11234	40.619473, -73.917973
+550	Amber	3.5 star rating	118 reviews	$$	            1406 3rd Ave, New York, NY 10075	40.774973, -73.957145
+551	Amaze	3.0 star rating	85 reviews	$$	            694 3rd Ave, New York, NY 10017	40.751925, -73.973966
+552	Tabata Noodle	3.5 star rating	286 reviews	$$	            540 9th Ave, New York, NY 10018	40.756884, -73.993372
+553	Nobu 57	4.0 star rating	496 reviews	$$$$	            40 W 57th St, New York, NY 10019	40.763696, -73.976461
+554	Akina	3.0 star rating	85 reviews	$$	            424 E 14th St, New York, NY 10009	40.730566, -73.981524
+555	Lili's 57	3.5 star rating	115 reviews	$$	            200 W 57th St, New York, NY 10019	40.765496, -73.980830
+556	Delish / Ryoshi	3.0 star rating	14 reviews	$	            12 E 44th St Front, Manhattan, NY 10017	40.751985, -73.969780
+557	New Asia Grill	3.0 star rating	22 reviews	$$	            1817 2nd Ave, New York, NY 10128	40.783136, -73.948180
+558	Akane	3.5 star rating	45 reviews	$$	            216 E 39th Street, New York, NY 10016	40.748395, -73.975173
+559	Omiya Sushi Inc	3.0 star rating	101 reviews	$$	            8618 4th Ave, Brooklyn, NY 11209	40.622366, -74.028864
+560	Kambi Ramen House	3.5 star rating	349 reviews	$$	            351 E 14th St, New York, NY 10003	40.731679, -73.982775
+561	Kawa Sushi	3.0 star rating	44 reviews	$$	            24 8th Ave, New York, NY 10014	40.737708, -74.004366
+562	Akaru	4.5 star rating	12 reviews	$$	            201 Wyckoff Ave, Brooklyn, NY 11237	40.702559, -73.916014
+563	Panda Asian Bistro	3.0 star rating	93 reviews	$$	            95-25 Queens Blvd, Rego Park, NY 11374	40.731094, -73.863671
+564	Nana	3.5 star rating	144 reviews	$$	            155 5th Ave, Brooklyn, NY 11217	40.677845, -73.979151
+565	Chikurin Sushi	3.0 star rating	55 reviews	$	            9709 64th Ave, Rego Park, NY 11374	40.729848, -73.860309
+566	Fushimi	3.5 star rating	146 reviews	$$	            475 Driggs Ave, Brooklyn, NY 11211	40.718875, -73.954291
+567	Kan Izakaya	3.5 star rating	19 reviews	$$	            160-30 Northern Blvd, Flushing, NY 11358	40.762043, -73.804760
+568	Republic	3.0 star rating	1112 reviews	$$	            37 Union Sq W, New York, NY 10003	40.737009, -73.990855
+569	Malingo Restaurant & Bar	2.5 star rating	17 reviews	$$	            43-16 Queens Blvd, Sunnyside, NY 11104	40.743238, -73.920784
+570	Rasa	4.0 star rating	47 reviews	$$	            25 W 8th St, New York, NY 10011	40.733019, -73.997622
+571	Republic	3.0 star rating	1112 reviews	$$	            37 Union Sq W, New York, NY 10003	40.737009, -73.990855
+572	Kan Izakaya	3.5 star rating	19 reviews	$$	            160-30 Northern Blvd, Flushing, NY 11358	40.762043, -73.804760
+573	LuAnne's Wild Ginger All-Asian Vegan	4.0 star rating	392 reviews	$$	            380 Broome St, New York, NY 10013	40.720629, -73.996394
+574	Kami Sushi	3.5 star rating	24 reviews	$$	            1047 2nd Ave, New York, NY 10022	40.758227, -73.966297
+575	Ramen-Ya	4.0 star rating	93 reviews	$$	            181 W 4th St, New York, NY 10014	40.732536, -74.001681
+576	Kiku Sushi	3.5 star rating	85 reviews	$$	            235 9th Ave, New York, NY 10001	40.747565, -74.000951
+577	Tenzan New Time Kitchen and Japanese Cuisine	3.5 star rating	6 reviews	$$	            1970-1980 Victory Blvd, Staten Island, NY 10314	40.612319, -74.129743
+578	Suki Sushi	3.5 star rating	46 reviews	$$	            631 5th Ave, Brooklyn, NY 11215	40.663108, -73.991235
+579	Tokyo Bay	3.0 star rating	30 reviews	$$	            183 Duane St, New York, NY 10013	40.717564, -74.010207
+580	Nobi Sushi	4.0 star rating	77 reviews	$$	            437 3rd Ave, New York, NY 10016	40.743148, -73.980180
+581	Ozen	3.0 star rating	94 reviews	$$	            760 Amsterdam Ave, New York, NY 10025	40.795073, -73.970176
+582	Niu Noodle House	4.0 star rating	205 reviews	$$	            15 Greenwich Ave, New York, NY 10014	40.734346, -74.000082
+583	Prime KO	3.0 star rating	40 reviews	$$$	            217 W 85th St, Manhattan, NY 10024	40.787627, -73.976519
+584	Mitoushi	4.0 star rating	79 reviews	$$	            1714 Sheepshead Bay Rd, Brooklyn, NY 11235	40.585650, -73.951697
+585	East Sushi Japanese Restaurant	4.0 star rating	10 reviews	$	            4343 Amboy Rd, Staten Island, NY 10312	40.545697, -74.161096
+586	Fontana Sushi of Bay Ridge	3.0 star rating	61 reviews	$$	            9608 3rd Ave, Brooklyn, NY 11209	40.616280, -74.034017
+587	Shinobi Ramen	3.0 star rating	94 reviews	$$	            53 Morgan St, Brooklyn, NY 11237	40.705726, -73.932156
+588	Sushi Jun	3.0 star rating	8 reviews	$	            875 3rd Ave, New York, NY 10022	40.757203, -73.969165
+589	Aru Sushi	3.0 star rating	48 reviews	$$	            695 9th Ave, New York, NY 10036	40.762224, -73.990259
+590	Ooki Sushi	3.5 star rating	105 reviews	$$	            1575 3rd Ave, New York, NY 10128	40.780225, -73.952593
+591	Sango Sushi	2.0 star rating	17 reviews	$$	            1708 E 16th St, Brooklyn, NY 11229	40.608363, -73.957291
+592	Tong Tong Tonkatsu	3.5 star rating	36 reviews	$$	            146-17A Northern Blvd., Flushing, NY 11354	40.765317, -73.820051
+593	Asaka Sushi	2.0 star rating	4 reviews	$$	            321 Broadway, New York, NY 10007	40.716085, -74.005220
+594	Asian Gourmet	3.5 star rating	37 reviews	$$	            5711 Main St, New York, NY 11355	40.746130, -73.825948
+595	Lili's Asian Cusine & Sushi Bar	2.5 star rating	113 reviews	$$	            1500 3rd Ave, New York, NY 10028	40.778023, -73.954906
+596	Fusia Asian Cuisine	4.0 star rating	132 reviews	$$	            677 Lexington Ave, New York, NY 10022	40.760246, -73.969321
+597	Aashiya Sushi	2.5 star rating	10 reviews	None	            165 Front St, Peck Slip, NY 10038	40.707851, -74.001440
+598	Vegetarian's Paradise 2	4.0 star rating	311 reviews	$$	            144 W 4th St, New York, NY 10012	40.731375, -74.000458
+599	Sushiya Japanese Restaurant	3.5 star rating	83 reviews	$$	            28 W 56th St, New York, NY 10019	40.762731, -73.976103
+600	Fushimi	3.5 star rating	134 reviews	$$	            9316 4th Ave, Brooklyn, NY 11209	40.617242, -74.030975
+601	Yuji Ramen	4.0 star rating	98 reviews	$$	            95 E Houston St, New York, NY 10002	40.723811, -73.992352
+602	Express Manna Kitchen	3.5 star rating	113 reviews	$$	            28 E 18th St, New York, NY 10003	40.737550, -73.989804
+603	Izakaya Oni	2.0 star rating	5 reviews	$$	            141 1st Ave, New York, NY 10003	40.728124, -73.985393
+604	Fusha Japanese	3.5 star rating	76 reviews	$$	            1065 1st Ave, New York, NY 10022	40.759197, -73.962620
+605	Sakura Sushi & Thai Cuisine	3.0 star rating	39 reviews	$$	            273 Mott St, New York, NY 10012	40.723880, -73.994712
+606	Sea Thai Restaurant & Bistro	3.5 star rating	1489 reviews	$$	            114 N 6th St, Brooklyn, NY 11211	40.718055, -73.960026
+607	Amcook Fusion Cuisine	2.5 star rating	27 reviews	$$	            154 W 72nd St, New York, NY 10023	40.777955, -73.980791
+608	Ocha	3.0 star rating	72 reviews	$$	            350 W 46th St, New York, NY 10036	40.760347, -73.989860
+609	Atlantic Grill	4.0 star rating	278 reviews	$$$	            1341 3rd Ave, New York, NY 10075	40.772567, -73.958310
+610	Aki Sushi	2.5 star rating	56 reviews	$$	            366 W 52nd St, New York, NY 10019	40.764331, -73.987660
+611	Thai Season	2.5 star rating	93 reviews	$$	            612 Amsterdam Ave, New York, NY 10024	40.790121, -73.973576
+612	Akariba	4.0 star rating	25 reviews	$$	            77 N 6th St, Brooklyn, NY 11211	40.718972, -73.960830
+613	Planet Sushi	3.0 star rating	85 reviews	$$	            380 Amsterdam Ave, New York, NY 10024	40.782934, -73.979011
+614	Sushi a la Kawa	2.5 star rating	38 reviews	$$	            18 Maiden Ln, New York, NY 10038	40.709263, -74.009240
+615	Tabata Ramen 2	3.5 star rating	50 reviews	$$	            557 8th Ave, New York, NY 10018	40.754742, -73.992015
+616	Sosaku Japanese Restaurant	3.0 star rating	9 reviews	$$	            6328 Avenue N, Brooklyn, NY 11234	40.619586, -73.916221
+617	Jewel Bako Makimono	4.5 star rating	3 reviews	$$$$	            101 2nd Ave, New York, NY 10003	40.727432, -73.988897
+618	Go Sushi II	3.0 star rating	24 reviews	$$	            759 9th Ave, New York, NY 10022	40.764155, -73.988469
+619	Topaz Thai Restaurant	3.5 star rating	374 reviews	$$	            127 W 56th St, New York, NY 10019	40.764421, -73.978911
+620	Sarku Japan	3.0 star rating	17 reviews	$	            133-38 Whitestone Expy, Flushing, NY 11354	40.769073, -73.835964
+621	Zen Fusion Cuisine	3.0 star rating	81 reviews	$$	            79-28 Parsons Blvd, Flushing, NY 11367	40.724038, -73.810689
+622	Topaz Thai Restaurant	3.5 star rating	374 reviews	$$	            127 W 56th St, New York, NY 10019	40.764421, -73.978911
+623	Omiya Japanese Restaurant	3.0 star rating	42 reviews	$$	            2317 Ave U, Brooklyn, NY 11229	40.599999, -73.947934
+624	Sarku Japan	3.0 star rating	17 reviews	$	            133-38 Whitestone Expy, Flushing, NY 11354	40.769073, -73.835964
+625	Dake Sushi	3.0 star rating	29 reviews	$$	            348 7th Ave, New York, NY 10001	40.748157, -73.992711
+626	SriPraPhai Thai Restaurant	4.0 star rating	1292 reviews	$$	            6413 39th Ave, Woodside, NY 11377	40.746520, -73.899195
+627	Kyoto Sushi	4.0 star rating	83 reviews	$$	            161 Nassau Ave, Brooklyn, NY 11222	40.725219, -73.946992
+628	Lilli & Loo	3.5 star rating	169 reviews	$$	            792 Lexington Ave, New York, NY 10065	40.763860, -73.967288
+629	Akita Sushi	3.0 star rating	41 reviews	$$	            1771 1st Ave, New York, NY 10128	40.780568, -73.947083
+630	Sushi Mambo	3.5 star rating	192 reviews	$$	            255 Bleecker St, New York, NY 10014	40.731117, -74.002714
+641	Ichiraku Ramen Bar	2.5 star rating	18 reviews	$$	            141 1st Ave, New York, NY 10003	40.728124, -73.985393
+642	Lucky Cat	4.0 star rating	58 reviews	$$	            232 E 53rd St, New York, NY 10022	40.756976, -73.968260
+643	Kokage	5.0 star rating	2 reviews	$$$	            125 E 39th St, New York, NY 10016	40.749900, -73.977686
+644	Fujiyama	3.5 star rating	77 reviews	$$	            1466 1st Ave, New York, NY 10075	40.770468, -73.953697
+645	Ginger	4.0 star rating	97 reviews	$$	            109 1st Ave, New York, NY 10003	40.726889, -73.986162
+646	Jing	3.5 star rating	163 reviews	$$	            689 9th Ave, New York, NY 10036	40.761997, -73.990401
+647	Penn Sushi	3.5 star rating	23 reviews	$$	            2 Penn Plz, New York, NY 10121	40.749712, -73.992255
+648	Cafetasia	3.5 star rating	718 reviews	$$	            38 E 8th St, New York, NY 10003	40.731263, -73.994337
+649	Momofuku Ssam Bar	4.0 star rating	1576 reviews	$$$	            207 2nd Ave, New York, NY 10003	40.731690, -73.985846
+650	New Tokyo	3.0 star rating	25 reviews	$	            162-16 Union Tpke, Fresh Meadows, NY 11366	40.721122, -73.805291
+651	Sushi Family	4.0 star rating	73 reviews	$$	            25201 Northern Blvd, Little Neck, NY 11362	40.771299, -73.734871
+652	Sushi Yu	3.5 star rating	55 reviews	$$	            214 Prospect Park W, Brooklyn, NY 11215	40.660345, -73.980682
+653	A1 Sushi Cafe	3.0 star rating	13 reviews	None	            166 Pearl St, New York, NY 10005	40.705960, -74.007492
+654	Ma Sake	3.0 star rating	25 reviews	$	            1704 Ave M, Brooklyn, NY 11230	40.618028, -73.957849
+655	Chef's Secret	2.0 star rating	43 reviews	$	            137 E 45th St, New York, NY 10017	40.753310, -73.973991
+656	Mu Ramen	4.5 star rating	44 reviews	$$	            5106 Vernon Blvd, Long Island City, NY 11101	40.741836, -73.954672
+657	Tenda Asian Bistro	3.0 star rating	53 reviews	$$	            118 Montague St, Brooklyn, NY 11201	40.694698, -73.994769
+658	Japas 55	3.0 star rating	72 reviews	$$	            253 W 55th St, New York, NY 10019	40.765401, -73.983177
+659	Miyabi Asian Fusion	4.5 star rating	35 reviews	$$	            1348 Forest Ave, Staten Island, NY 10302	40.625883, -74.134563
+660	Pink Nori	4.5 star rating	38 reviews	$$	            36-06 30th Ave, Astoria, NY 11103	40.764689, -73.917282
+661	River Japanese Cuisine	3.0 star rating	53 reviews	$$	            37-18 Main St, Flushing, NY 11354	40.761009, -73.830868
+662	Room Service	3.5 star rating	1167 reviews	$$	            690 9th Ave, New York, NY 10036	40.761764, -73.989790
+663	Yoshi Sushi	3.5 star rating	100 reviews	$$	            131 Ave A, New York, NY 10009	40.726945, -73.983117
+664	Asiate	4.0 star rating	269 reviews	$$$$	            80 Columbus Cir, New York, NY 10023	40.769078, -73.982953
+665	New Wonjo Restaurant	3.5 star rating	488 reviews	$$	            23 W 32nd St, New York, NY 10001	40.747889, -73.986656
+666	Kun Jip	3.0 star rating	1105 reviews	$$	            9 W 32nd St, New York, NY 10001	40.747715, -73.986065
+667	Asian Fusion On Stone	2.5 star rating	27 reviews	$$	            11 Stone St, New York, NY 10004	40.704204, -74.012244
+668	Bamboo 52	3.0 star rating	316 reviews	$$	            344 W 52nd St, New York, NY 10019	40.764051, -73.986720
+669	Glaze Teriyaki Grill	3.5 star rating	85 reviews	$	            139 4th Ave, New York, NY 10003	40.733707, -73.989774
+670	Tokyo 11	2.0 star rating	13 reviews	$	            133 E 31st St, New York, NY 10016	40.744722, -73.981201
+671	Moshi Moshi	4.0 star rating	9 reviews	$$	            1987 Coney Island Ave, Brooklyn, NY 11223	40.608771, -73.961751
+672	Hokkaido	4.5 star rating	38 reviews	$$	            3295 Amboy Rd, Staten Island, NY 10306	40.560890, -74.135650
+673	Ace Sushi	2.5 star rating	24 reviews	$$	            121 E 27th St, Manhattan, NY 10016	40.742541, -73.983441
+674	New York Thai Grill & Sushi Bar	2.5 star rating	63 reviews	$$	            37 W 54th St, New York, NY 10019	40.762111, -73.977312
+675	Koodo Sushi Corp	3.0 star rating	61 reviews	$$	            55 Liberty St, New York, NY 10005	40.708805, -74.009407
+676	Kumo	3.0 star rating	61 reviews	$$	            165 W 72nd St, New York, NY 10023	40.778587, -73.980840
+677	Asia Kan	3.5 star rating	112 reviews	$$	            710 Amsterdam Ave, New York, NY 10025	40.793199, -73.971392
+678	Osaka	4.0 star rating	59 reviews	$$	            224-23 Union Tpke, New York, NY 11364	40.736005, -73.745830
+679	Elevate Restaurant & Lounge	3.5 star rating	61 reviews	$$$	            93 Bowery, New York, NY 10002	40.717033, -73.995272
+680	Hana Caf	3.5 star rating	54 reviews	$$	            235 Smith St, Brooklyn, NY 11231	40.683710, -73.992293
+681	Sushi Hana	4.0 star rating	35 reviews	$$	            524 86th Street, Brooklyn, NY 11209	40.620914, -74.025749
+682	BarKogi	3.0 star rating	52 reviews	$$	            957 2nd Ave, New York, NY 10022	40.755427, -73.968476
+683	Kiraku Sushi	3.0 star rating	25 reviews	$$	            1948 Williamsbridge Rd, Bronx, NY 10461	40.853406, -73.853781
+684	Kami Asian Restaurant	3.0 star rating	15 reviews	$$	            385 Flatbush Ave, New York, NY 11238	40.676123, -73.971477
+685	A.A. Yawa Sushi	2.5 star rating	31 reviews	$$	            187 Church St, New York, NY 10007	40.715727, -74.007124
+686	Pongsri Thai Restaurant	3.5 star rating	233 reviews	$$	            106 Bayard St, New York, NY 10013	40.716209, -73.999868
+687	Nyonya	4.0 star rating	991 reviews	$$	            199 Grand St, New York, NY 10013	40.719016, -73.997003
+688	Hibachi Noodle Soup and Sushi	2.5 star rating	2 reviews	None	            96 3rd Ave, New York, NY 10003	40.732340, -73.988248
+689	Sushi Dojo	4.5 star rating	72 reviews	$$$	            110 1st Ave, New York, NY 10009	40.726633, -73.985665
+690	The Buffet	3.5 star rating	144 reviews	$$$	            20-07 127th St, Flushing, NY 11356	40.781281, -73.840995
+691	The Buffet	3.5 star rating	144 reviews	$$$	            20-07 127th St, Flushing, NY 11356	40.781281, -73.840995
+692	Kitaku	3.5 star rating	74 reviews	$$	            2921 23rd Ave, Astoria, NY 11105	40.773926, -73.914193
+693	Lemongrass Grill	3.5 star rating	135 reviews	$$	            156 Court St, Brooklyn, NY 11201	40.688691, -73.993152
+694	Sapporo	4.0 star rating	22 reviews	$$	            7812 3rd Ave, Brooklyn, NY 11209	40.629019, -74.029102
+695	Yuki Sushi	2.5 star rating	31 reviews	$$	            6218 18th Ave, Brooklyn, NY 11204	40.620593, -73.989079
+696	Beyond Sushi	4.5 star rating	390 reviews	$$	            229 E 14th St, New York, NY 10003	40.733009, -73.985798
+697	Sushi Excellent	4.0 star rating	45 reviews	$$	            366 New Dorp Ln, Staten Island, NY 10306	40.570619, -74.110558
+698	Thainy	3.5 star rating	298 reviews	$$	            394 3rd Ave, New York, NY 10016	40.742178, -73.981035
+699	Katsu Noodle House	3.0 star rating	10 reviews	$$	            40-46 Main St, Flushing, NY 11354	40.758296, -73.829922
+700	Sushi Ko	2.0 star rating	27 reviews	$$	            212 E 52nd St, New York, NY 10022	40.756652, -73.969110
+701	MoCA Asian Bistro	3.0 star rating	196 reviews	$$	            107-18 70th Rd, Forest Hills, NY 11375	40.720974, -73.845187
+702	Go! Go! Curry!	4.0 star rating	11 reviews	$$	            144 W 19th St, New York, NY 10011	40.741130, -73.996738
+703	Shell Cove BBQ Shabu Shabu Noodle	3.5 star rating	69 reviews	$$	            8302 Broadway, Elmhurst, NY 11373	40.740832, -73.880095
+704	Hokkaido	3.5 star rating	26 reviews	$$	            1817 2nd Ave, New York, NY 10128	40.783136, -73.948180
+705	Chopstick House	2.0 star rating	44 reviews	$	            130 W 36th St, New York, NY 10018	40.751525, -73.988352
+706	Kushi Q	2.5 star rating	23 reviews	$	            153 E 53rd St, Manhattan, NY 10022	40.751868, -73.982394
+707	Sigiri	4.0 star rating	301 reviews	$$	            91 1st Ave, New York, NY 10003	40.726254, -73.986680
+708	Blaue Gans	4.0 star rating	191 reviews	$$$	            139 Duane St, New York, NY 10013	40.716508, -74.007628
+709	Okami Fusion Sushi	3.0 star rating	20 reviews	$$	            63 Reade St, New York, NY 10007	40.714781, -74.006661
+710	Wild Ginger	4.0 star rating	265 reviews	$$	            212 Bedford Ave, Brooklyn, NY 11249	40.716982, -73.958859
+711	Pure Thai Cookhouse	4.0 star rating	878 reviews	$$	            766 9th Ave, New York, NY 10019	40.764203, -73.988011
+712	MoCA Asian Bistro	3.0 star rating	196 reviews	$$	            107-18 70th Rd, Forest Hills, NY 11375	40.720974, -73.845187
+713	Blaue Gans	4.0 star rating	191 reviews	$$$	            139 Duane St, New York, NY 10013	40.716508, -74.007628
+714	Hokkaido	3.5 star rating	26 reviews	$$	            1817 2nd Ave, New York, NY 10128	40.783136, -73.948180
+715	Tanko	3.5 star rating	51 reviews	$$	            38-05 Bell Blvd, Bayside, NY 11361	40.766306, -73.772104
+716	Wild Ginger	4.0 star rating	265 reviews	$$	            212 Bedford Ave, Brooklyn, NY 11249	40.716982, -73.958859
+717	Ishihama Japanese Restaurant	2.5 star rating	39 reviews	$$$	            319 5th Ave, New York, NY 10016	40.747168, -73.985242
+718	Okami Fusion Sushi	3.0 star rating	20 reviews	$$	            63 Reade St, New York, NY 10007	40.714781, -74.006661
+719	Tokyo Sushi & Seafood Buffet	1.5 star rating	5 reviews	$$	            1501 Forest Ave, Staten Island, NY 10302	40.626056, -74.137452
+720	BCD Tofu House	4.0 star rating	311 reviews	$$	            5W 32nd St, New York, NY 10001	40.747344, -73.985940
+721	Tokyo Sushi & Seafood Buffet	1.5 star rating	5 reviews	$$	            1501 Forest Ave, Staten Island, NY 10302	40.626056, -74.137452
+722	BCD Tofu House	4.0 star rating	311 reviews	$$	            5W 32nd St, New York, NY 10001	40.747344, -73.985940
+723	Sushi Yama Asian Bistro	4.0 star rating	51 reviews	$$	            268 Prospect Park W, Brooklyn, NY 11215	40.658583, -73.982310
+724	Spice Market	3.5 star rating	1503 reviews	$$$	            403 W 13th St, New York, NY 10014	40.740526, -74.006077
+725	Sushi Tatsu	2.5 star rating	68 reviews	$$	            1185 Bedford Ave, Brooklyn, NY 11216	40.682742, -73.953586
+726	Sakura Tokyo II	3.5 star rating	21 reviews	$	            354 Myrtle Ave, Brooklyn, NY 11205	40.692999, -73.972107
+727	Mr. Wasabi	3.5 star rating	99 reviews	$$	            4232 Bell Blvd, Bayside, NY 11361	40.761906, -73.770181
+728	Ichimura At Brushstroke	4.5 star rating	41 reviews	$$$$	            30 Hudson St, New York, NY 10013	40.716728, -74.008978
+729	Sushi of Gari Tribeca	3.5 star rating	40 reviews	$$$$	            130 West Broadway, New York, NY 10013	40.716795, -74.008474
+730	Sunrise Mart	4.0 star rating	4 reviews	$	            18 E 41st St, New York, NY 10017	40.752224, -73.980512
+731	Fortune Hawaii Restaurant	3.0 star rating	14 reviews	$$	            900 Hylan Blvd, Staten Island, NY 10305	40.598247, -74.072317
+732	Song	4.0 star rating	653 reviews	$	            295 5th Ave, Brooklyn, NY 11215	40.673499, -73.982676
+733	Potluck	3.0 star rating	34 reviews	$$	            255 W 26th St, New York, NY 10001	40.747075, -73.996589
+734	Tuk Tuk	4.0 star rating	267 reviews	$$	            4906 Vernon Blvd, Long Island City, NY 11101	40.743224, -73.954089
+735	Sushi Hana	3.0 star rating	71 reviews	$$	            466 Amsterdam Ave, New York, NY 10024	40.785522, -73.976987
+736	Mado Japanese Restaurant	3.5 star rating	29 reviews	$	            9516A Queens Blvd, Rego Park, NY 11374	40.722787, -73.848010
+737	Heidi's House	4.5 star rating	219 reviews	$$	            308 E 78th St, New York, NY 10075	40.772189, -73.955064
+738	Tendo Sushi	3.5 star rating	39 reviews	$$	            66-26 Fresh Pond Rd, Ridgewood, NY 11385	40.708142, -73.898139
+739	Veronica's Kitchen	4.0 star rating	78 reviews	$	            Water Street between Pine and Wall St, New York, NY 10005	40.706001, -74.008819
+740	Yoshi	3.5 star rating	27 reviews	$$	            5827 Ave T, Brooklyn, NY 11234	40.615579, -73.918004
+741	Dang Lai Palace	2.5 star rating	64 reviews	$$	            180 3rd Ave, New York, NY 10003	40.735091, -73.986215
+742	Szechuan Gourmet	4.0 star rating	42 reviews	$$	            239 W 105th St, New York, NY 10025	40.800582, -73.967539
+743	The General	3.0 star rating	162 reviews	$$$	            199 Bowery, New York, NY 10002	40.721138, -73.993373
+744	Nana Sushi	3.5 star rating	88 reviews	$$	            511 3rd Ave, New York, NY 10016	40.745860, -73.977603
+745	Terakawa Ramen	3.5 star rating	140 reviews	$$	            885C 9th Ave, New York, NY 10019	40.768248, -73.985727
+746	Lucky Cat	4.0 star rating	58 reviews	$$	            232 E 53rd St, New York, NY 10022	40.756976, -73.968260
+747	Ichiraku Ramen Bar	2.5 star rating	18 reviews	$$	            141 1st Ave, New York, NY 10003	40.728124, -73.985393
+748	Kokage	5.0 star rating	2 reviews	$$$	            125 E 39th St, New York, NY 10016	40.749900, -73.977686
+749	Suki Sushi	4.5 star rating	10 reviews	$$	            9208 3rd Ave, Brooklyn, NY 11209	40.619116, -74.033148
+750	Ginger	4.0 star rating	97 reviews	$$	            109 1st Ave, New York, NY 10003	40.726889, -73.986162
+751	Thai Terminal	4.0 star rating	340 reviews	$$	            349 E 12th St, New York, NY 10003	40.730374, -73.983804
+752	Ichiban	3.0 star rating	42 reviews	$$	            409 8th Ave, New York, NY 10001	40.750087, -73.995408
+753	Hiura Restaurant	4.0 star rating	69 reviews	$$$	            400B Main St, Fort Lee, NJ 07024	40.853375, -73.974688
+754	Avenue A Japanese Restaurant	3.0 star rating	52 reviews	$$	            105 Ave A, New York, NY 10009	40.725933, -73.983928
+755	Asia Dog	3.5 star rating	193 reviews	$	            66 Kenmare St, New York, NY 10012	40.720879, -73.996191
+756	East Pacific Restaurant	3.5 star rating	58 reviews	$$	            2655 Richmond Ave, Staten Island, NY 10314	40.581990, -74.166071
+757	Spot One Cafe	4.0 star rating	41 reviews	$	            2122 86th St, Brooklyn, NY 11214	40.602725, -73.995625
+758	Pig and Khao	4.0 star rating	327 reviews	$$	            68 Clinton St, New York, NY 10002	40.719272, -73.984804
+759	Oishi Bay	4.0 star rating	10 reviews	$$	            232 E 29th St, New York, NY 10016	40.741873, -73.978779
+760	Cafe Himalaya	4.0 star rating	272 reviews	$	            78 E 1st St, New York, NY 10009	40.723225, -73.987932
+771	HK Tea and Sushi	3.0 star rating	193 reviews	$	            2033 86th St, Brooklyn, NY 11214	40.604195, -73.997269
+772	Maru	3.5 star rating	284 reviews	$$	            11 W 32nd St, New York, NY 10001	40.747671, -73.986274
+773	Hashi	2.5 star rating	61 reviews	$$	            5009 Broadway, New York, NY 10034	40.869292, -73.917226
+774	Zengo	3.5 star rating	408 reviews	$$$	            622 3rd Ave at 40th St, New York, NY 10017	40.749697, -73.975535
+775	Kimganae Korean Restaurant	4.0 star rating	160 reviews	$	            3912 Union St, Flushing, NY 11354	40.760858, -73.826774
+776	Sik Gaek	4.0 star rating	244 reviews	$$	            49-11 Roosevelt Ave, Woodside, NY 11377	40.743291, -73.915405
+777	Kum Gang San Restaurant	3.5 star rating	202 reviews	$$	            13828 Northern Blvd, Flushing, NY 11354	40.763891, -73.826903
+778	Oriental Cafe	3.0 star rating	46 reviews	$$	            1580 1st Ave, New York, NY 10028	40.774359, -73.950917
+779	Kori	4.0 star rating	231 reviews	$$	            253 Church St, New York, NY 10013	40.717909, -74.005328
+780	Pho 32 & Shabu	3.0 star rating	379 reviews	$$	            2 W 32nd St, New York, NY 10014	40.747189, -73.986204
+781	Pocha 32	4.0 star rating	645 reviews	$$	            15 W 32nd St, New York, NY 10001	40.747971, -73.986912
+782	Spice	3.5 star rating	903 reviews	$$	            39 E 13th St, New York, NY 10003	40.734495, -73.991862
+783	Dai-Hachi	4.0 star rating	35 reviews	$$	            303 E 56th St, New York, NY 10022	40.758652, -73.965234
+784	Yamakage Tokyo	3.0 star rating	26 reviews	$$	            1026E 2nd Ave, Manhattan, NY 10022	40.757409, -73.966332
+785	Sweet Basil	3.0 star rating	99 reviews	$$	            709 Franklin Ave, Brooklyn, NY 11238	40.674388, -73.956612
+786	Mitsui Sushi	2.0 star rating	2 reviews	None	            721 Columbus Ave, Manhattan, NY 10025	40.792209, -73.967599
+787	Yoro Japanese Restaurant	3.0 star rating	6 reviews	$$	            106 Fulton St, New York, NY 10038	40.709703, -74.007007
+788	Tokyo Steak & Sushi	3.5 star rating	56 reviews	$$	            18416 Horace Harding Expy, Fresh Meadows, NY 11365	40.739796, -73.789483
+789	Sushi Village	3.0 star rating	334 reviews	$$	            3250 Francis Lewis Blvd, Bayside, NY 11358	40.767645, -73.790989
+790	Sakura	4.0 star rating	18 reviews	$$	            3118 Avenue U, Brooklyn, NY 11229	40.602089, -73.934438
+791	Red Rooster	3.5 star rating	960 reviews	$$$	            310 Lenox Ave, New York, NY 10027	40.808057, -73.944914
+792	Westville	4.0 star rating	655 reviews	$$	            210 W 10th St, New York, NY 10014	40.733955, -74.004169
+793	Haru Sake Bar	3.5 star rating	39 reviews	$$	            1327 3rd Ave, New York City, NY 10021	40.772126, -73.958527
+794	5th Avenue Vegetarian Delight	3.5 star rating	25 reviews	$	            718 5th Ave, Brooklyn, NY 11215	40.660553, -73.994584
+795	Lucky Cheng's	3.0 star rating	295 reviews	$$$	            240 W 52nd St, New York, NY 10019	40.762904, -73.984266
+796	Samurai Sam's	2.5 star rating	2 reviews	None	            12434 Queens Blvd, Kew Gardens, NY 11415	40.712439, -73.827102
+797	Queens Comfort	4.0 star rating	538 reviews	$$	            4009 30th Ave, Astoria, NY 11103	40.763788, -73.914594
+798	Udom Thai Restaurant	3.0 star rating	169 reviews	$$	            661 Washington Ave, Brooklyn, NY 11238	40.677309, -73.963395
+799	Shoga Sushi & Oyster Bar	3.5 star rating	47 reviews	$$	            300 E 88th St, New York, NY 10128	40.778956, -73.950561
+800	Catch	3.5 star rating	366 reviews	$$$	            21 Ninth Avenue, New York, NY 10014	40.740088, -74.006194
+801	Aki Sushi West	2.5 star rating	49 reviews	$$	            128 W 36th St, New York, NY 10018	40.751447, -73.988338
+802	Arata Sushi	4.0 star rating	25 reviews	$$	            1047 2nd Ave, New York, NY 10022	40.758227, -73.966297
+803	Chikurin	4.0 star rating	140 reviews	$$	            2274 86th St, Brooklyn, NY 11214	40.600587, -73.992123
+804	Kiku Japanese Restaurant	3.0 star rating	39 reviews	$$	            50 W 55th St, New York, NY 10019	40.762334, -73.977098
+805	Umai Fusion	3.5 star rating	32 reviews	$$	            2330 Arthur Ave, Bronx, NY 10458	40.853940, -73.888577
+806	Shin Ju Sushi	3.0 star rating	60 reviews	$$	            164 Pearl St, New York, NY 10005	40.705877, -74.007403
+807	Totto Ramen	4.0 star rating	113 reviews	$$	            464 W 51st St, New York, NY 10019	40.765031, -73.991028
+808	Franchia Vegan Cafe	4.0 star rating	332 reviews	$$	            12 Park Ave, New York, NY 10016	40.747604, -73.981371
+809	OBAO	3.0 star rating	65 reviews	$$	            38 Water St, New York, NY 10004	40.703392, -74.010666
+810	RedFarm	3.5 star rating	316 reviews	$$$	            529 Hudson St, New York, NY 10014	40.734196, -74.006519
+811	Wasabi	3.0 star rating	49 reviews	$$	            638 Manhattan Ave, Brooklyn, NY 11222	40.724147, -73.950767
+812	Sachiko	2.0 star rating	9 reviews	$	            3083 Brighton 1st Pl, Brooklyn, NY 11235	40.576376, -73.965695
+813	Ceetay	4.5 star rating	79 reviews	$$	            129 Alexander Ave, Bronx, NY 10454	40.807159, -73.927597
+814	Nagomi	3.5 star rating	46 reviews	$$	            179 Prince St, New York, NY 10012	40.726489, -74.001877
+815	Bodhi Tree	4.0 star rating	342 reviews	$$	            58 3rd Ave, New York, NY 10003	40.731165, -73.989087
+816	New Yoshi Japanese Restaurant	2.0 star rating	6 reviews	$$	            416 W 46th St, New York, NY 10036	40.761243, -73.991866
+817	Tenda Asian Fusion	4.5 star rating	60 reviews	$$	            1734 Sheepshead Bay Rd, Brooklyn, NY 11235	40.585193, -73.951419
+818	Kitto	3.5 star rating	25 reviews	$$	            16 E 48th St, New York, NY 10017	40.756643, -73.977192
+819	E Sushi	4.5 star rating	16 reviews	$$	            2118 Flatbush Ave, Brooklyn, NY 11234	40.618227, -73.932319
+820	Fuji Japanese Cuisine	3.5 star rating	76 reviews	$$	            113-27 Queens Blvd, Forest Hills, NY 11375	40.718621, -73.837397
+821	Fuji Japanese Cuisine	3.5 star rating	76 reviews	$$	            113-27 Queens Blvd, Forest Hills, NY 11375	40.718621, -73.837397
+822	Great NY Noodle Town	3.5 star rating	603 reviews	$	            28 Bowery, New York, NY 10013	40.715023, -73.997185
+823	Muk Eun Ji	3.5 star rating	166 reviews	$$	            34 W 32nd St, New York, NY 10001	40.747724, -73.987285
+824	A-chiban Japanese Cuisine	3.5 star rating	28 reviews	$$	            252 13 Union Tpke, Bellerose, NY 11426	40.743913, -73.718139
+825	Yuko	3.5 star rating	39 reviews	$$	            1531 York Ave, New York, NY 10028	40.772707, -73.949821
+826	Pinto	4.0 star rating	545 reviews	$$	            118 Christopher St, New York, NY 10014	40.733099, -74.005483
+827	Minado Restaurant	4.0 star rating	220 reviews	$$	            1 Valley Rd, Little Ferry, NJ 07643	40.854131, -74.033163
+828	Ajisen Ramen	2.0 star rating	62 reviews	$	            38-10 138th St, Flushing, NY 11354	40.761705, -73.829610
+829	Tian Tian Cafe	3.5 star rating	9 reviews	$$	            2170 86th St, New York, NY 11214	40.601984, -73.994507
+830	Cherry	4.0 star rating	83 reviews	$$$$	            355 W 16th St, New York, NY 10011	40.742088, -74.003624
+831	Aki Sushi	2.5 star rating	42 reviews	$$	            1425 York Ave, New York, NY 10021	40.769216, -73.952429
+832	Ramen Takumi	3.0 star rating	35 reviews	$$	            517 3rd Ave, New York, NY 10016	40.746062, -73.977553
+833	Mooncake Foods	4.0 star rating	123 reviews	$$	            359 W 54th St, New York, NY 10019	40.765939, -73.986717
+834	Sushi & Deli Box	3.5 star rating	25 reviews	$	            68 W 39th St, New York, NY 10018	40.752634, -73.985241
+835	Nakata	4.5 star rating	38 reviews	$$	            1775 D Richmond Rd, Staten Island, NY 10304	40.587272, -74.104073
+836	Shin Ju 2	3.5 star rating	93 reviews	$	            236 7th Ave, Brooklyn, NY 11215	40.669889, -73.979470
+837	Iji	3.0 star rating	48 reviews	$$	            2508 Broadway, Astoria, NY 11106	40.762592, -73.926729
+838	Land	4.0 star rating	564 reviews	$$	            450 Amsterdam Ave, New York, NY 10024	40.784980, -73.977336
+839	Sushiyama	4.5 star rating	19 reviews	$$	            6612 Ave U, Brooklyn, NY 11234	40.617514, -73.910638
+840	Greenbay Sushi	4.0 star rating	13 reviews	$$	            1659 1st Ave, New York, NY 10028	40.777343, -73.949431
+841	Sushiyama	4.5 star rating	19 reviews	$$	            6612 Ave U, Brooklyn, NY 11234	40.617514, -73.910638
+842	Greenbay Sushi	4.0 star rating	13 reviews	$$	            1659 1st Ave, New York, NY 10028	40.777343, -73.949431
+843	Spur Tree	3.5 star rating	214 reviews	$$	            76 Orchard St, New York, NY 10002	40.717661, -73.990189
+844	Aji Sushi	3.5 star rating	90 reviews	$$	            519 3rd Ave, New York, NY 10016	40.746098, -73.977505
+845	Lily Thai	3.5 star rating	120 reviews	$$	            615 Grand St, Brooklyn, NY 11211	40.711475, -73.947597
+846	Ayada Thai	4.0 star rating	358 reviews	$$	            77-08 Woodside Ave, Elmhurst, NY 11373	40.743359, -73.887591
+847	NY Kom Tang Soot Bul Kalbi	3.0 star rating	112 reviews	$$	            32 W 32nd St, New York, NY 10001	40.747605, -73.987256
+848	Yummy Thai	2.0 star rating	24 reviews	$	            383 Flatbush Ave, Brooklyn, NY 11238	40.676122, -73.971670
+849	Salt & Fat	4.0 star rating	599 reviews	$$	            41-16 Queens Blvd, Sunnyside, NY 11104	40.743205, -73.922933
+850	Don's Bogam	4.0 star rating	472 reviews	$$$	            17 E 32nd St, New York, NY 10016	40.746916, -73.984264
+851	Co Co Lin Vegetarian House	4.0 star rating	85 reviews	$$	            64-19 Fresh Pond Rd, Ridgewood, NY 11385	40.709891, -73.898848
+852	Izumi Haru Sushi	2.5 star rating	8 reviews	$$	            857 9th Ave, Manhattan, NY 10019	40.767137, -73.986674
+853	Caf China	3.5 star rating	258 reviews	$$	            13 E 37th St, New York, NY 10016	40.750105, -73.982082
+854	Leng Thai	3.5 star rating	291 reviews	$$	            33-09 Broadway, Astoria, NY 11106	40.761198, -73.923273
+855	Asian Taste	4.0 star rating	12 reviews	$$	            10335 Queens Blvd, Forest Hills, NY 11375	40.719027, -73.839089
+856	Pado Sushi	3.5 star rating	37 reviews	$$	            17153 46th Ave, Flushing, NY 11358	40.753558, -73.794395
+857	Santouka Ramen	4.0 star rating	322 reviews	$$	            595 River Rd, Edgewater, NJ 07020	40.816245, -73.980120
+858	Apartment 13	4.5 star rating	55 reviews	$$$	            115 Loisaida Ave, New York, NY 10009	40.724447, -73.978932
+859	Nikai Japanese Restaurant and Bar	3.5 star rating	13 reviews	$$	            830 3rd Ave, New York, NY 10022	40.756386, -73.970755
+860	Mr. Robata	3.0 star rating	41 reviews	$$$	            1674 Broadway, New York, NY 10019	40.762809, -73.982872
+861	Apartment 13	4.5 star rating	55 reviews	$$$	            115 Loisaida Ave, New York, NY 10009	40.724447, -73.978932
+862	Q2 Thai	3.5 star rating	273 reviews	$$	            788 9th Ave, New York, NY 10019	40.764835, -73.987551
+863	Bay House Bistro	3.5 star rating	25 reviews	$$	            574 Bay St, Staten Island, NY 10304	40.627793, -74.076327
+864	Sushi Hana	2.5 star rating	31 reviews	$$	            1501 2nd Ave, New York, NY 10021	40.772917, -73.955642
+865	Suki  Thai Shabu	4.0 star rating	107 reviews	$$	            60-15 Woodside Ave, Woodside, NY 11377	40.745105, -73.903868
+866	Fatty Crab	3.5 star rating	552 reviews	$$$	            643 Hudson St, New York, NY 10014	40.739140, -74.005719
+867	Qi	3.5 star rating	342 reviews	$$	            31 W 14th St, New York, NY 10011	40.736924, -73.995058
+868	Big Apple Chinese & Japanese Restaurant	3.5 star rating	32 reviews	$$	            3255 Francis Lewis Blvd, Flushing, NY 11358	40.767839, -73.790847
+869	Debasaki	4.0 star rating	151 reviews	$$	            3367 Farrington St, Flushing, NY 11354	40.766913, -73.832760
+870	Bai Sushi Restaurant	3.5 star rating	68 reviews	$$	            3703 Broadway, Astoria, NY 11103	40.759734, -73.920316
+871	Sushi Pacific	2.5 star rating	28 reviews	$$	            84 Manhattan Ave, Brooklyn, NY 11206	40.705201, -73.944378
+872	Sushi-teria	3.5 star rating	32 reviews	$$	            153 E 53rd St, Manhattan, NY 10022	40.751868, -73.982394
+873	Peep	3.5 star rating	433 reviews	$$	            177 Prince St, New York, NY 10012	40.726411, -74.001815
+874	Thai Market	4.0 star rating	436 reviews	$$	            960 Amsterdam Ave, New York, NY 10025	40.801375, -73.965433
+875	Golden Mall	4.0 star rating	119 reviews	$	            41-28 Main St, Flushing, NY 11355	40.757178, -73.829437
+876	Pok Pok Phat Thai	3.5 star rating	116 reviews	$$	            137 Rivington St, New York, NY 10002	40.719281, -73.986476
+877	Guayoyo	4.0 star rating	164 reviews	$$	            67 1st Ave, New York, NY 10003	40.725414, -73.987292
+878	Jimmy's Diner	4.0 star rating	333 reviews	$$	            577 Union Ave, Brooklyn, NY 11211	40.717697, -73.952458
+879	Fujiyama Japanese Restaurant	3.0 star rating	17 reviews	$	            7307 13th Ave, Brooklyn, NY 11228	40.621053, -74.006186
+880	Tomo Japanese Restaurant	3.0 star rating	11 reviews	$$	            4561 Amboy Rd, Staten Island, NY 10312	40.542552, -74.164927
+881	Sakura Japanese Restaurant	4.0 star rating	25 reviews	$$	            2832 Coney Island Ave, Brooklyn, NY 11235	40.587559, -73.960606
+882	Chai	3.5 star rating	196 reviews	$$	            930 8th Ave, New York, NY 10019	40.765407, -73.983497
+883	Naniwa Sushi	3.5 star rating	46 reviews	$$	            276 Kings Hwy, Brooklyn, NY 11223	40.604967, -73.980418
+884	Citrus Bar & Grill	3.0 star rating	236 reviews	$$	            320 Amsterdam Ave, New York, NY 10023	40.780879, -73.980368
+885	Tatany	5.0 star rating	2 reviews	$$	            1400 2nd Ave, New York, NY 10021	40.769193, -73.957795
+886	Ngam	4.0 star rating	447 reviews	$$	            99 3rd Ave, New York, NY 10003	40.732314, -73.987527
+887	Rin Thai	3.5 star rating	131 reviews	$$	            265 W 23rd St, New York, NY 10011	40.745236, -73.997672
+888	Natsu Japanese Restaurant	3.0 star rating	6 reviews	$$	            321 Broadway, Manhattan, NY 10007	40.716085, -74.005220
+889	Sushi Sushi	4.0 star rating	71 reviews	$	            54 Tiemann Pl, New York, NY 10027	40.815239, -73.959482
+890	Top 1 Sushi	2.0 star rating	5 reviews	$$	            9011 5th Ave, Brooklyn, NY 11209	40.618764, -74.028183
+891	Taijiyama	4.0 star rating	23 reviews	$$	            1718 2nd Ave, New York, NY 10016	40.779959, -73.950054
+892	Soho Sushi	3.5 star rating	104 reviews	$$	            231 Sullivan St, New York, NY 10012	40.729717, -73.999404
+893	Lan Kwai Fong	3.5 star rating	18 reviews	$$	            135-23 40th Rd, Flushing, NY 11354	40.758839, -73.830854
+894	Hyo Dong Gak	3.5 star rating	234 reviews	$$	            51 W 35th St, New York, NY 10001	40.750206, -73.986229
+895	Tiny Thai	3.5 star rating	186 reviews	$$	            1558 3rd Ave, New York, NY 10128	40.779952, -73.953515
+896	Hanbat Restaurant	3.5 star rating	231 reviews	$$	            53 W 35th St, New York, NY 10001	40.750155, -73.986235
+897	Glaze Teriyaki Grill	3.5 star rating	19 reviews	$$	            60 W 56th St, New York, NY 10019	40.763184, -73.977388
+898	Shanghai Asian Manor	4.0 star rating	365 reviews	$$	            21 Mott St, New York, NY 10013	40.714395, -73.999034
+899	I Am Thai	4.0 star rating	128 reviews	$	            49-08 43rd Ave, Woodside, NY 11377	40.744312, -73.915282
+900	Jing Fong Restaurant	3.5 star rating	953 reviews	$$	            20 Elizabeth St, New York, NY 10013	40.716042, -73.997033
+901	Minnis Shabu Shabu II	3.5 star rating	191 reviews	$$	            136-17 38th Ave, Flushing, NY 11354	40.761179, -73.830153
+902	Zabb Elee	3.5 star rating	270 reviews	$$	            75 2nd Ave, New York, NY 10003	40.726584, -73.989538
+903	Oyogu Restaurant	4.0 star rating	24 reviews	$$$	            1164 1st Ave, New York, NY 10021	40.762504, -73.959578
+904	Chop Shop	4.0 star rating	100 reviews	$$	            254 10th Ave, New York, NY 10001	40.748689, -74.003156
+905	Teriyaki Express and Sushi	3.0 star rating	20 reviews	$	            96 3rd Ave, Manhattan, NY 10003	40.732340, -73.988248
+906	KO Sushi	3.0 star rating	38 reviews	$$	            1619 York Ave, New York, NY 10028	40.775542, -73.947800
+907	Cafe Asean	4.0 star rating	278 reviews	$$	            117 W 10th St, New York, NY 10011	40.734899, -73.999501
+908	Cho Dang Gol Korean Restaurant	4.0 star rating	418 reviews	$$	            55 W 35th St, New York, NY 10001	40.750245, -73.986193
+909	Apple Restaurant & Bombar	3.5 star rating	145 reviews	$$	            17 Waverly Pl, New York, NY 10003	40.730306, -73.994294
+910	Junko Sushi	3.0 star rating	113 reviews	$$	            3302 Broadway, Astoria, NY 11106	40.761064, -73.923766
+911	Junko Sushi	3.0 star rating	113 reviews	$$	            3302 Broadway, Astoria, NY 11106	40.761064, -73.923766
+912	Naruto Ramen	3.5 star rating	31 reviews	$	            133 East 31st St, New York, NY 10016	40.744722, -73.981201
+913	Tatsumi of Japan	4.0 star rating	44 reviews	$$	            1034 River Rd, Edgewater, NJ 07020	40.830038, -73.972263
+914	Yu Sushi Bar	4.0 star rating	20 reviews	$$	            133-44 37th Ave, Flushing, NY 11354	40.760534, -73.833343
+915	Dokebi Bar & Grill	3.5 star rating	183 reviews	$$	            199 Grand St, Brooklyn, NY 11211	40.714214, -73.960284
+916	Sushi Seki	3.0 star rating	8 reviews	$$$$	            208 W 23rd St, New York, NY 10011	40.744128, -73.996496
+917	Dong Chun Hong	3.5 star rating	92 reviews	$$	            312 5th Ave, New York, NY 10001	40.747036, -73.985887
+918	Tokyo Hanten	3.5 star rating	30 reviews	$	            595 River Rd, Edgewater, NJ 07020	40.816245, -73.980120
+919	JR Sushi	2.5 star rating	50 reviews	$$	            86A W Broadway, Manhattan, NY 10007	40.715303, -74.009616
+920	Jado Sushi	3.5 star rating	102 reviews	$$$	            2118 Frederick Douglass Blvd, New York, NY 10026	40.803280, -73.955824
+921	Gotham West Market	3.5 star rating	84 reviews	$$	            600 11th Ave, New York, NY 10036	40.762384, -73.996751
+922	NY Tofu House	3.5 star rating	163 reviews	$$	            6 Saint Marks Pl, New York, NY 10003	40.729116, -73.989539
+923	Tokyo Hanten	3.5 star rating	30 reviews	$	            595 River Rd, Edgewater, NJ 07020	40.816245, -73.980120
+924	Breeze Thai-French Kitchen	3.5 star rating	243 reviews	$$	            661 9th Ave, New York, NY 10036	40.760943, -73.991154
+925	Khe-Yo	4.0 star rating	128 reviews	$$$	            157 Duane St, New York, NY 10013	40.716906, -74.008587
+926	Swish Cafe & Shabu Shabu	2.5 star rating	29 reviews	$$	            88 W 3rd St, New York, NY 10012	40.729829, -73.999175
+927	Rohm Thai	3.5 star rating	210 reviews	$$	            27 E 20th St, New York, NY 10003	40.739128, -73.989007
+928	C2 Cafe	3.5 star rating	30 reviews	$$	            2024 86th St, Brooklyn, NY 11214	40.604230, -73.997674
+929	Empire Szechuan Kyoto Sushi	3.0 star rating	54 reviews	$$	            2642 Broadway, New York, NY 10025	40.797215, -73.969410
+930	Chikurin Japanese Restaurant	3.0 star rating	41 reviews	$$	            1105 Quentin Rd, Brooklyn, NY 11229	40.607892, -73.961580
+941	Lovely Day	3.5 star rating	174 reviews	$$	            196 Elizabeth St, New York, NY 10012	40.721761, -73.994248
+942	Hanjan	3.5 star rating	94 reviews	$$$	            36 W 26th St, New York, NY 10010	40.744179, -73.990669
+943	Nori Sushi	4.0 star rating	39 reviews	$$	            55 New Dorp Plz, Staten Island, NY 10314	40.573805, -74.117599
+944	Big Wing Wong	3.5 star rating	264 reviews	$	            102 Mott St, New York, NY 10013	40.717349, -73.997141
+945	Arirang Korean Restaurant	3.5 star rating	344 reviews	$$	            32 W 32nd St, New York, NY 10001	40.747605, -73.987256
+946	Legend Bar & Restaurant	3.5 star rating	142 reviews	$$	            88 7th Ave, New York, NY 10011	40.739605, -73.999303
+947	Mikado Japanese	4.0 star rating	5 reviews	$$	            1734 Sheepshead Bay Rd, Brooklyn, NY 11235	40.585193, -73.951419
+948	Top Thai	4.0 star rating	46 reviews	$$	            8510 4th Ave, Brooklyn, NY 11209	40.623276, -74.028189
+949	M Shanghai Bistro & Garden	3.5 star rating	282 reviews	$$	            292 Grand St, Brooklyn, NY 11211	40.712900, -73.957662
+950	Oh Sho Sushi	3.5 star rating	101 reviews	$$	            2341 86th St, Brooklyn, NY 11214	40.600214, -73.990371
+951	Asian Fusion	4.5 star rating	5 reviews	$$	            2006 65th St, New York, NY 11204	40.616393, -73.985678
+952	Hanami Sushi	2.5 star rating	34 reviews	$$	            857 9th Ave, New York, NY 10019	40.767137, -73.986674
+953	Bann Restaurant	3.5 star rating	258 reviews	$$$	            350 W 50th St, New York, NY 10019	40.762895, -73.988075
+954	Thailand Cafe	3.5 star rating	181 reviews	$$	            95 2nd Ave, New York, NY 10003	40.727246, -73.989034
+955	Natural Tofu Restaurant	4.0 star rating	187 reviews	$$	            40-06 Queens Blvd, Sunnyside, NY 11104	40.743463, -73.924062
+956	Spice	3.5 star rating	186 reviews	$$	            75 2nd Ave, New York, NY 10003	40.726584, -73.989538
+957	J. King Seafood Palace	3.5 star rating	47 reviews	$$	            618 62nd St, Brooklyn, NY 11220	40.636617, -74.014666
+958	Moim	3.5 star rating	142 reviews	$$	            206 Garfield Pl, Brooklyn, NY 11215	40.672038, -73.976994
+959	Arang	3.5 star rating	161 reviews	$$	            9 W 32nd St, New York, NY 10001	40.747715, -73.986065
+960	Little Basil	3.5 star rating	181 reviews	$$	            153 E 26th St, New York, NY 10010	40.741141, -73.982224
+961	Miss Korea BBQ	3.5 star rating	524 reviews	$$	            10 W 32nd St, New York, NY 10001	40.747364, -73.986439
+962	Good Enough To Eat	3.5 star rating	772 reviews	$$	            520 Columbus Ave 85th St, New York, NY 10024	40.786416, -73.974126
+963	Aoyu Sushi	4.5 star rating	44 reviews	$$	            3532 A Johnson Ave, Riverdale, NY 10463	40.886232, -73.909790
+964	Buddha BBeeQ	4.0 star rating	90 reviews	$$	            1750 2nd Ave, New York, NY 10128	40.781107, -73.949001
+965	Thai Select	3.5 star rating	235 reviews	$$	            472 9th Ave, New York, NY 10018	40.754769, -73.994896
+966	Third Floor Cafe	3.5 star rating	386 reviews	$$	            315 5th Ave, New York, NY 10016	40.746983, -73.985343
+967	Gan Da Sushi	4.0 star rating	60 reviews	$$	            8008 Surrey Pl, Jamaica, NY 11432	40.726154, -73.789221
+968	Sushi Suki	4.0 star rating	95 reviews	$$	            1577 York Ave, New York, NY 10028	40.774567, -73.948490
+969	China Grill	3.5 star rating	268 reviews	$$$	            60 W 53rd St, New York, NY 10019	40.761254, -73.978765
+970	E-Mo	4.0 star rating	154 reviews	$	            2 W 32nd St, New York, NY 10001	40.747189, -73.986204
+971	Boon Chu Thai Place	4.0 star rating	95 reviews	$	            83-18 Broadway, Elmhurst, NY 11373	40.740650, -73.879595
+972	Noodle Bar	3.5 star rating	250 reviews	$$	            26 Carmine St, New York, NY 10014	40.730046, -74.002681
+973	Oriental Garden Restaurant	3.5 star rating	286 reviews	$$	            14 Elizabeth St, New York, NY 10013	40.715825, -73.997259
+974	Mister Hotpot	4.0 star rating	184 reviews	$$	            5306 8th Ave, Brooklyn, NY 11220	40.639413, -74.005854
+975	Bangkok 2 Thai	3.5 star rating	89 reviews	$	            349 1st Ave, New York, NY 10010	40.735318, -73.979683
+976	Cafe R	3.0 star rating	86 reviews	$	            116 W 32nd St, New York, NY 10001	40.748930, -73.989751
+977	Fukuoka Shabu Shabu	4.0 star rating	70 reviews	$$	            45-68 Kissena Blvd, Flushing, NY 11355	40.750570, -73.819506
+978	Seasonal	4.0 star rating	169 reviews	$$$	            132 W 58th St, New York, NY 10019	40.765308, -73.978034
+979	Brooklyn Wok Shop	3.5 star rating	129 reviews	$$	            182 N 10th St, Brooklyn, NY 11211	40.718885, -73.955372
+980	MADANGSUI	3.5 star rating	414 reviews	$$	            35 W 35th St, New York, NY 10001	40.750022, -73.985616
+981	Kin Shop	3.5 star rating	337 reviews	$$$	            469 6th Ave, New York, NY 10011	40.735393, -73.998170
+982	Oriental Garden Restaurant	3.5 star rating	286 reviews	$$	            14 Elizabeth St, New York, NY 10013	40.715825, -73.997259
+983	Mad For Chicken	4.0 star rating	278 reviews	$$	            157-18 Northern Blvd, Flushing, NY 11354	40.763680, -73.807953
+984	AA Ichiban Sushi	3.0 star rating	33 reviews	$$	            232 7th Ave, New York, NY 10011	40.744569, -73.995658
+985	St. Andrews	4.0 star rating	263 reviews	$$	            140 W 46th St, New York, NY 10036	40.757948, -73.984049
+986	Brooklyn Wok Shop	3.5 star rating	129 reviews	$$	            182 N 10th St, Brooklyn, NY 11211	40.718885, -73.955372
+987	Spice	3.0 star rating	270 reviews	$$	            199 8th Ave, New York, NY 10011	40.743690, -74.000084
+988	Genki Sushi	4.0 star rating	49 reviews	$$	            262 Arden Ave, Staten Island, NY 10312	40.552329, -74.191031
+989	Sage	3.5 star rating	159 reviews	$$	            299-301 Graham Ave, Brooklyn, NY 11211	40.712908, -73.944420
+990	Fuji Hana Restaurant	3.5 star rating	7 reviews	$$	            512 Ave U, Brooklyn, NY 11223	40.597484, -73.966395
+991	Yum Yum Bangkok	3.5 star rating	344 reviews	$$	            650 9th Ave, New York, NY 10036	40.760586, -73.990645
+992	PP Boy Japan Teriyaki & Sushi	4.0 star rating	12 reviews	$	            90-22 161th St, Jamaica, NY 11432	40.704693, -73.799206
+993	Wasabi	3.0 star rating	41 reviews	$$	            7222 18th Ave, Brooklyn, NY 11204	40.614831, -73.994890
+994	Eden Wok	2.5 star rating	50 reviews	$$	            43 E 34th St, New York, NY 10016	40.747604, -73.982544
+995	Emperor Japanese Tapas Shabu Restaurant	2.5 star rating	34 reviews	$$	            96 Bowery, New York, NY 10013	40.717663, -73.995570
+996	Osaka Sushi & Barbeque	2.0 star rating	21 reviews	$$	            535 8th Ave, New York, NY 10018	40.753723, -73.992583
+997	Hahm Ji Bach	4.0 star rating	450 reviews	$$	            40-11 149th Pl, Flushing, NY 11355	40.761953, -73.814576
+998	Phoenix Garden Restaurant	3.5 star rating	115 reviews	$$	            242 E 40th St, New York, NY 10016	40.748619, -73.973939
+999	Bisutoro	3.5 star rating	21 reviews	$$$	            313 Church St, New York, NY 10006	40.719744, -74.003968
+1000	Aceluck Thai Cuisine	3.5 star rating	101 reviews	$$	            530 9th Ave, New York, NY 10018	40.756647, -73.993594

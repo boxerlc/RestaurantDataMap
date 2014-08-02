@@ -1,0 +1,13 @@
+New York City Fire Companies
+
+The service area boundaries for New York City's fire companies.
+
+Attributes:
+SHAPE_Area: Area of feature in internal units squared. - 
+FireDiv: The division number servicing the district - 
+SHAPE_Leng: SHAPE_Leng - 
+FireBN: FireBN - 
+FireCoNum: The company number servicing the district - 
+FireCoType: Denotes whether the company is an engine or ladder company. - 
+
+exported on Sun Jan 13 07:20:08 -0500 2013

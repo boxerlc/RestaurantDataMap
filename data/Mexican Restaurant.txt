@@ -1,0 +1,1000 @@
+1	Taqueria Lower East Side	4.0 star rating	375 reviews	$	            198 Orchard St, New York, NY 10002	40.722326, -73.987776
+2	Caf Ollin	4.5 star rating	192 reviews	$	            339 E 108th St, New York, NY 10029	40.791231, -73.939381
+3	Barrio Chino	4.0 star rating	646 reviews	$$	            253 Broome St, New York, NY 10002	40.718007, -73.990023
+4	La Esquina Corner Deli	4.0 star rating	1067 reviews	$$	            114 Kenmare St, New York, NY 10012	40.721406, -73.997617
+5	De Mole	4.0 star rating	357 reviews	$$	            4502 48th Ave, Woodside, NY 11377	40.739193, -73.920262
+6	Mesa Coyoacan	4.0 star rating	414 reviews	$$	            372 Graham Ave, Brooklyn, NY 11211	40.715531, -73.944282
+7	Toloache	4.0 star rating	685 reviews	$$$	            251 W 50th St, New York, NY 10019	40.762309, -73.985574
+8	Dos Toros Taqueria	4.0 star rating	946 reviews	$	            137 4th Ave, New York, NY 10003	40.733717, -73.989832
+9	Fonda	4.0 star rating	365 reviews	$$	            434 7th Ave, Brooklyn, NY 11215	40.663633, -73.984669
+10	Tacos Matamoros	4.0 star rating	311 reviews	$	            4508 5th Ave, Brooklyn, NY 11220	40.647872, -74.007868
+11	Fonda	4.0 star rating	235 reviews	$$	            40 Avenue B, New York, NY 10009	40.722907, -73.983065
+12	Guelaguetza	4.0 star rating	140 reviews	$	            526 W 47th St, New York, NY 10036	40.763116, -73.994451
+13	Casa Enrique	4.0 star rating	160 reviews	$$	            5-48 49th Ave, Long Island City, NY 11101	40.743394, -73.954235
+14	Tortilleria Mexicana Los Hermanos	4.0 star rating	403 reviews	$	            271 Starr St, Brooklyn, NY 11237	40.706608, -73.921969
+15	Great Burrito	4.0 star rating	103 reviews	$	            100 W 23rd St, New York, NY 10011	40.742849, -73.993216
+16	Baby Bo's Cantina	3.5 star rating	322 reviews	$$	            627 2nd Ave, New York, NY 10016	40.745132, -73.975981
+17	Taqueria De Los Muertos	4.0 star rating	203 reviews	$	            663 Washington Ave, Brooklyn, NY 11238	40.677257, -73.963395
+18	Tortilleria Nixtamal	4.0 star rating	378 reviews	$	            104-05 47th Ave, Corona, NY 11368	40.745935, -73.859248
+19	La Superior	3.5 star rating	366 reviews	$$	            295 Berry St, Brooklyn, NY 11211	40.713555, -73.963662
+20	Hell's Kitchen	4.0 star rating	277 reviews	$$$	            679 9th Ave, New York, NY 10036	40.761553, -73.990670
+21	Hell's Kitchen	4.0 star rating	277 reviews	$$$	            679 9th Ave, New York, NY 10036	40.761553, -73.990670
+22	Taqueria Diana	4.5 star rating	112 reviews	$	            129 2nd Ave, New York, NY 10003	40.728511, -73.988140
+23	El Centro	3.5 star rating	388 reviews	$$	            824 9th Ave, New York, NY 10019	40.766002, -73.986888
+24	Crema	3.5 star rating	329 reviews	$$$	            111 W 17th St, New York, NY 10011	40.739711, -73.995995
+25	Taqueria Coatzingo	4.0 star rating	196 reviews	$	            7605 Roosevelt Ave, Jackson Heights, NY 11372	40.747096, -73.889304
+26	Rosa Mexicano	3.5 star rating	528 reviews	$$$	            61 Columbus Ave, New York, NY 10023	40.771189, -73.983160
+27	Mercadito	3.5 star rating	370 reviews	$$	            179 Ave B, New York, NY 10009	40.727589, -73.979091
+28	Homemade Taqueria	4.5 star rating	36 reviews	$	            7103 Grand Ave, Maspeth, NY 11378	40.727853, -73.892135
+29	Rosa Mexicano	3.5 star rating	777 reviews	$$$	            9 E 18th St, New York, NY 10003	40.738246, -73.990868
+30	El Grill Restaurant and Bar	4.0 star rating	104 reviews	$	            3011 30th Ave, Astoria, NY 11102	40.765934, -73.922995
+31	Chavela's	4.0 star rating	344 reviews	$$	            736 Franklin Ave, Brooklyn, NY 11238	40.673447, -73.957197
+32	Ofrenda	4.0 star rating	368 reviews	$$	            113 7th Ave S, New York, NY 10014	40.733917, -74.002415
+33	La Posada Mexican Food	4.0 star rating	109 reviews	$	            364 3rd Ave, New York, NY 10016	40.741148, -73.981886
+34	Castro's Restaurant	3.5 star rating	153 reviews	$	            511 Myrtle Ave, Brooklyn, NY 11205	40.693855, -73.964402
+35	Great Burrito	4.0 star rating	126 reviews	$$	            405 Amsterdam Ave, New York, NY 10024	40.783279, -73.977872
+36	El Paso Mexican Grill	4.0 star rating	22 reviews	$	            1610 Newkirk Ave, Brooklyn, NY 11226	40.635877, -73.962081
+37	Las Margaritas	4.0 star rating	68 reviews	$	            7215 3rd Ave, Brooklyn, NY 11209	40.633131, -74.026959
+38	Mle	3.5 star rating	177 reviews	$$	            205 Allen St, New York, NY 10014	40.722717, -73.989104
+39	Dos Caminos	3.5 star rating	630 reviews	$$$	            373 Park Ave S, New York, NY 10016	40.742243, -73.984541
+40	Florencia 13	3.5 star rating	217 reviews	$$	            185 Sullivan St, New York, NY 10012	40.728348, -74.000661
+41	Taqueria y Fonda La Mexicana	4.0 star rating	281 reviews	$	            968 Amsterdam Ave, New York, NY 10025	40.801617, -73.965207
+42	Arriba Arriba	3.5 star rating	413 reviews	$$	            762 9th Ave, New York, NY 10019	40.764143, -73.988198
+43	Taqueria Tepango	4.0 star rating	90 reviews	$	            568 Myrtle Ave, Brooklyn, NY 11205	40.693716, -73.961781
+44	Ponche Taqueria & Cantina	4.0 star rating	189 reviews	$$	            420 W 49th St, New York, NY 10019	40.763083, -73.990529
+45	Sinigual	3.5 star rating	262 reviews	$$	            640 3rd Ave, New York, NY 10017	40.750343, -73.975184
+46	Acapulco	4.0 star rating	141 reviews	$	            1116 Manhattan Ave, Brooklyn, NY 11222	40.736714, -73.955085
+47	Tajin	3.5 star rating	75 reviews	$	            85 Greenwich St, New York, NY 10006	40.707661, -74.013454
+48	Papatzul	3.5 star rating	236 reviews	$$	            55 Grand St, New York, NY 10013	40.722170, -74.003658
+49	Cario	4.0 star rating	182 reviews	$$	            82 S 4th St, Brooklyn, NY 11211	40.712544, -73.964780
+50	Cinco de Mayo Restaurant	3.5 star rating	96 reviews	$	            1202 Cortelyou Rd, Brooklyn, NY 11218	40.639888, -73.966854
+51	El Rey Restaurant	4.0 star rating	44 reviews	$$	            2521 Astoria Blvd, Astoria, NY 11102	40.769830, -73.916622
+52	Vamos Al Tequila	3.5 star rating	144 reviews	$$	            162 Franklin St, Brooklyn, NY 11222	40.730788, -73.957501
+53	Lolita's Restaurant	3.5 star rating	137 reviews	$$	            57 Lenox Ave, New York, NY 10026	40.800044, -73.951247
+54	Rocking Horse Cafe	3.5 star rating	296 reviews	$$	            182 8th Ave, New York, NY 10011	40.742894, -73.999882
+55	Taqueria Tlaxcalli	4.5 star rating	161 reviews	$	            2103 Starling Ave, Bronx, NY 10462	40.836099, -73.854812
+56	New Mexico Place Restaurant	4.0 star rating	107 reviews	$	            189 Graham Ave., Brooklyn, NY 11226	40.708496, -73.943686
+57	Villa Pancho Taqueria	3.5 star rating	106 reviews	$	            1047 Bedford Ave, Brooklyn, NY 11216	40.688148, -73.954553
+58	Cilantro	3.5 star rating	236 reviews	$$	            1712 2nd Ave, New York, NY 10128	40.779510, -73.950141
+59	Maz Mezcal	3.5 star rating	184 reviews	$$	            316 E 86th St, New York, NY 10028	40.777243, -73.951061
+60	Dos Caminos	3.0 star rating	656 reviews	$$$	            825 3rd Ave, New York, NY 10022	40.755795, -73.970070
+61	Tacombi	3.5 star rating	445 reviews	$$	            267 Elizabeth St, New York, NY 10012	40.724030, -73.993903
+62	Noche Mexicana	3.5 star rating	138 reviews	$$	            842 Amsterdam Ave, New York, NY 10025	40.797478, -73.968268
+63	5 Burro Cafe	3.5 star rating	536 reviews	$$	            72-05 Austin St, Forest Hills, NY 11375	40.719334, -73.842354
+64	Los Tacos No.1	4.5 star rating	191 reviews	$	            75 9th Ave, New York, NY 10011	40.742232, -74.005511
+65	Cafe Frida	3.5 star rating	250 reviews	$$	            368 Columbus Ave, New York, NY 10024	40.781008, -73.976442
+66	Rachel's Taqueria	3.5 star rating	331 reviews	$$	            408 5th Ave, Brooklyn, NY 11215	40.670319, -73.985674
+67	Tortilla Flats	3.5 star rating	301 reviews	$$	            767 Washington St, New York, NY 10014	40.737446, -74.007967
+68	Cascabel Taqueria	3.5 star rating	573 reviews	$$	            1538 2nd Ave, New York, NY 10028	40.773983, -73.954174
+69	Taco Bandito	3.5 star rating	85 reviews	$	            325 8th Ave, New York, NY 10001	40.747346, -73.997015
+70	Blockheads	3.5 star rating	373 reviews	$$	            499 3rd Ave, New York, NY 10016	40.745347, -73.978021
+71	Calexico	3.5 star rating	329 reviews	$$	            645 Manhattan Ave, Brooklyn, NY 11222	40.724164, -73.951355
+72	Haab	4.0 star rating	108 reviews	$$	            202 Leonard St, Brooklyn, NY 11206	40.710970, -73.947064
+73	El Paso Taqueria & Cerveceria	3.5 star rating	110 reviews	$$	            237 E 116th St, New York, NY 10029	40.797557, -73.938342
+74	Mad Dog & Beans	3.0 star rating	277 reviews	$$	            83 Pearl St, New York, NY 10004	40.704208, -74.010312
+75	Nuevo Mexico Bar & Restaurant	3.5 star rating	147 reviews	$$	            489 5th Ave, Brooklyn, NY 11215	40.667474, -73.987344
+76	Mi Nuevo Rancho Bar & Restaurant	4.0 star rating	34 reviews	$	            4320 Greenpoint Ave, Sunnyside, NY 11104	40.740974, -73.921299
+77	El Cantinero	3.0 star rating	308 reviews	$$	            86 University Pl, New York, NY 10003	40.733641, -73.993239
+78	Palacio Azteca	3.5 star rating	56 reviews	$$	            1374 York Ave, New York, NY 10021	40.767628, -73.952770
+79	Calexico- Red Hook	3.5 star rating	181 reviews	$	            122 Union St, Brooklyn, NY 11231	40.684132, -74.002581
+80	La Taqueria Kermes	4.5 star rating	94 reviews	$$	            66-36 Fresh Pond Rd, Ridgewood, NY 11385	40.707859, -73.897986
+81	Alma	3.5 star rating	243 reviews	$$	            187 Columbia St, Brooklyn, NY 11231	40.685552, -74.002152
+82	Rosa Mexicano	3.5 star rating	246 reviews	$$$	            1063 1st Ave, New York, NY 10022	40.758966, -73.962704
+83	Fiesta Poblana	4.5 star rating	36 reviews	$$	            31 Corson Ave, Staten Island, NY 10301	40.638205, -74.079886
+84	Estrellita Poblana	4.5 star rating	78 reviews	$$	            2231 Westchester Ave, Bronx, NY 10462	40.834308, -73.850799
+85	La Palapa	3.5 star rating	389 reviews	$$	            77 St. Marks Pl, New York, NY 10003	40.727956, -73.985599
+86	Maya	3.5 star rating	277 reviews	$$$	            1191 1st Ave, New York, NY 10065	40.765629, -73.957915
+87	Tacos El Bronco	4.5 star rating	156 reviews	$	            4324 4th Ave, Brooklyn, NY 11220	40.650050, -74.008965
+88	Ah! Chihuahua	3.0 star rating	161 reviews	$$	            330 E 53rd St, New York, NY 10022	40.756040, -73.966071
+89	The Bigger Place	3.0 star rating	85 reviews	$$	            61 Warren St, New York, NY 10007	40.714762, -74.009580
+90	Las Palmas Deli Restaurant	4.0 star rating	39 reviews	$	            3891 Broadway, New York, NY 10032	40.837705, -73.942389
+91	Las Tres Espigas	4.5 star rating	19 reviews	$	            187 Suydam St, Brooklyn, NY 11221	40.700270, -73.925713
+92	Pequena	3.5 star rating	218 reviews	$$	            86 S Portland Ave, Brooklyn, NY 11217	40.686873, -73.974721
+93	El Rey del Sabor	4.0 star rating	53 reviews	$	            166 E 60th St, New York, NY 10021	40.762538, -73.967017
+94	El Mariachi Restaurant	3.5 star rating	128 reviews	$	            3311 Broadway, Astoria, NY 11106	40.761178, -73.923196
+95	Pinche Taqueria	3.0 star rating	267 reviews	$	            333 Lafayette St, New York, NY 10012	40.725787, -73.994729
+96	Burrito Box	4.0 star rating	382 reviews	$	            885 9th Ave, New York, NY 10019	40.768248, -73.985727
+97	Calexico Cart	4.0 star rating	252 reviews	$	            1030 Broadway, New York, NY 10003	40.734786, -73.990763
+98	Mary Ann's Chelsea Mexican Restaurant	3.0 star rating	161 reviews	$$	            116 8th Ave, New York, NY 10011	40.740884, -74.001420
+99	Blockheads	3.5 star rating	404 reviews	$$	            350 W 50th St, New York, NY 10019	40.762895, -73.988075
+100	Mesa Azteca	4.0 star rating	99 reviews	$$	            91 Wyckoff Ave, Brooklyn, NY 11237	40.705122, -73.920125
+101	El Toro Blanco	3.5 star rating	134 reviews	$$$	            257 Sixth Ave, New York, NY 10014	40.729026, -74.002807
+102	Choza Taquera	3.5 star rating	117 reviews	$	            66 Madison Ave, New York, NY 10016	40.743759, -73.986362
+103	Dos Caminos	3.0 star rating	393 reviews	$$	            675 Hudson St, New York, NY 10014	40.740427, -74.005458
+104	Mole	3.5 star rating	225 reviews	$$$	            57 Jane St, New York, NY 10014	40.738217, -74.005367
+105	Los Portales Taqueria	3.5 star rating	91 reviews	$	            2508 Broadway, Astoria, NY 11106	40.762592, -73.926729
+106	Sabor de Mexico	3.0 star rating	24 reviews	$$	            97 Trinity Pl, New York, NY 10006	40.709094, -74.011851
+107	De Mole II	4.0 star rating	106 reviews	$$	            4220 30th Ave, Astoria, NY 11103	40.762652, -73.912844
+108	Tortaria	3.5 star rating	220 reviews	$$	            94 University Pl, New York, NY 10003	40.733879, -73.993043
+109	Cilantro	3.5 star rating	159 reviews	$$	            485 Columbus Ave, New York, NY 10024	40.784657, -73.973201
+110	Homemade Taqueria	4.0 star rating	75 reviews	$	            45-09 34th Ave, Long Island City, NY 11101	40.754766, -73.916455
+111	Mamasita's	4.5 star rating	43 reviews	$$$	            818 10th Ave, New York, NY 10019	40.767330, -73.989450
+112	Los Mariachis Mexican Restaurant	3.5 star rating	38 reviews	$$	            805 Coney Island Ave, Brooklyn, NY 11218	40.637700, -73.968037
+113	Paquito's Restaurant	3.5 star rating	132 reviews	$	            143 1st Ave, New York, NY 10003	40.728169, -73.985290
+114	Hot Jalapeno Restaurant	4.0 star rating	14 reviews	$$	            219 E 116th St, New York, NY 10029	40.797780, -73.938981
+115	Pampano	4.0 star rating	256 reviews	$$$	            209 E 49th St, New York, NY 10017	40.755055, -73.970434
+116	La Slowteria	4.0 star rating	57 reviews	$$	            548 Court St, Brooklyn, NY 11231	40.675136, -73.999656
+117	El Camion	4.0 star rating	207 reviews	$$	            194 Ave A, New York, NY 10009	40.729075, -73.981044
+118	Taqueria El Fogon	3.5 star rating	103 reviews	$	            1050 Flushing Ave, Brooklyn, NY 11237	40.704416, -73.929130
+119	El Aguila	3.5 star rating	79 reviews	$$	            1634 Lexington Ave, New York, NY 10029	40.790588, -73.947701
+120	Dos Toros	3.5 star rating	184 reviews	$	            11 Carmine St, New York, NY 10014	40.730627, -74.002303
+121	Chevys Fresh Mex	3.0 star rating	244 reviews	$$	            259 West 42nd Street, New York, NY 10036	40.757209, -73.989331
+122	Sabor A Mexico	3.5 star rating	72 reviews	$$	            1744 1st Ave, New York, NY 10184	40.779526, -73.947040
+123	Toloache 82	4.0 star rating	127 reviews	$$$	            166 E 82nd St, New York, NY 10028	40.776356, -73.956775
+124	Pachanga Patterson	3.5 star rating	233 reviews	$$	            33-17 31st Ave, Astoria, NY 11103	40.763501, -73.921136
+125	Guacamole	3.0 star rating	92 reviews	$$	            38-07 Broadway, Astoria, NY 11103	40.759365, -73.919296
+126	Chinantla	4.0 star rating	36 reviews	$	            657 Myrtle Ave, Brooklyn, NY 11205	40.694595, -73.957498
+127	El Mexicano Restaurant & Coffee Inc	4.5 star rating	22 reviews	$	            2102 E 15th St, New York, NY 11229	40.598564, -73.956535
+128	El Rancho Burritos	3.5 star rating	55 reviews	$	            359 W 45th St, New York, NY 10036	40.760301, -73.990875
+129	Diego's Mexican Grill	3.5 star rating	176 reviews	$$	            714 9th Ave, New York, NY 10019	40.762582, -73.989268
+130	Homemade Taqueria	4.0 star rating	75 reviews	$	            45-09 34th Ave, Long Island City, NY 11101	40.754766, -73.916455
+131	Florentinas Restaurant	4.0 star rating	50 reviews	$	            454 Graham Ave, Brooklyn, NY 11211	40.718681, -73.944900
+132	Mexico Lindo Restaurant	3.5 star rating	122 reviews	$$	            459 2nd Ave, New York, NY 10010	40.739796, -73.979839
+133	Blockheads Mexican Diner	3.5 star rating	192 reviews	$$	            954 2nd Ave, New York, NY 10022	40.755099, -73.968015
+134	Chiquitita Mexican Grill	3.0 star rating	58 reviews	$	            8321 5th Ave, Brooklyn, NY 11209	40.622864, -74.025034
+135	Picante	3.5 star rating	142 reviews	$	            3424 Broadway, New York, NY 10031	40.822704, -73.952788
+136	Cafe Habana	4.0 star rating	2146 reviews	$$	            17 Prince St, New York, NY 10012	40.722933, -73.994193
+137	Antojito Mexicano	4.0 star rating	10 reviews	$	            6th Avenue &amp; 28th Street, New York, NY 10001	40.746024, -73.990520
+138	Cafe El Portal	3.5 star rating	190 reviews	$$	            174 Elizabeth St, New York, NY 10012	40.721001, -73.994669
+139	La Villita	4.0 star rating	28 reviews	$$	            1249 Avenue U, Brooklyn, NY 11229	40.598850, -73.958437
+140	Cocina Economica Mexico	4.0 star rating	89 reviews	$$	            452 Amsterdam Ave, New York, NY 10024	40.784972, -73.977166
+141	Taqueria Coatzingo	4.0 star rating	21 reviews	$	            40-18 82nd St, Jackson Heights, NY 11373	40.747021, -73.884087
+142	Hotel Tortuga	3.5 star rating	185 reviews	$	            246 E 14th St, New York, NY 10003	40.732424, -73.985460
+143	Panchito's Mexican Restaurant & Cantina	2.5 star rating	185 reviews	$$	            105 MacDougal St, New York, NY 10012	40.729853, -74.000994
+144	Agave	3.5 star rating	465 reviews	$$	            140 7th Ave S, New York, NY 10014	40.734764, -74.002413
+145	Diablo Royale	3.5 star rating	263 reviews	$$	            189 W 10th St, New York, NY 10014	40.734249, -74.003052
+146	Las Palmitas Deli	4.5 star rating	18 reviews	$	            10915 Jamaica Ave, Richmond Hill, NY 11418	40.702271, -73.819486
+147	The Creek & The Cave	3.5 star rating	166 reviews	$	            10-93 Jackson Ave, Long Island City, NY 11101	40.743246, -73.951704
+148	Dos Caminos	3.5 star rating	490 reviews	$$$	            475 W Broadway, New York, NY 10012	40.726611, -73.999915
+149	La Lucha	3.5 star rating	145 reviews	$$	            147 Avenue A, New York, NY 10009	40.727485, -73.982729
+150	Oaxaca Taqueria	3.5 star rating	69 reviews	$$	            48 Greenwich Ave, New York, NY 10011	40.735697, -74.000231
+151	La Espiguita Taqueria	4.0 star rating	27 reviews	$	            32-44 31st St, Astoria, NY 11106	40.760962, -73.926295
+152	Tacos El Paisa	4.0 star rating	24 reviews	$	            1548 Saint Nicholas Ave, New York, NY 10040	40.853298, -73.930595
+153	Taco Rey de Oro	4.5 star rating	44 reviews	$	            52nd St and Roosevelt Ave, Woodside, NY 11377	40.744192, -73.912470
+154	Estrellita Poblana IV	4.0 star rating	59 reviews	$$	            45 Westchester Sq, Bronx, NY 10461	40.840950, -73.841483
+155	El Ranchito Poblano	3.5 star rating	35 reviews	$$	            1228 Flatbush Ave, Brooklyn, NY 11226	40.640153, -73.955651
+156	Fajitas Sunrise	3.5 star rating	59 reviews	$$	            5924 Myrtle Ave, Ridgewood, NY 11385	40.700815, -73.894441
+157	Dos Toros Taqueria	4.0 star rating	135 reviews	$	            1111 Lexington Ave, New York, NY 10075	40.773828, -73.959380
+158	Blue Chips	3.5 star rating	124 reviews	$$	            4215 Queens Blvd, Sunnyside, NY 11104	40.743364, -73.919223
+159	Cilantro	3.0 star rating	112 reviews	$$	            1321 1st Ave, New York, NY 10021	40.767116, -73.956792
+160	Gran Electrica	3.5 star rating	148 reviews	$$	            5 Front St, Brooklyn, NY 11201	40.702629, -73.993086
+161	Santa Fe Grill	3.5 star rating	90 reviews	$$	            62 7th Ave, Brooklyn, NY 11217	40.675678, -73.974896
+162	Skinny's Cantina	3.0 star rating	158 reviews	$$	            4705 Center Blvd, Long Island City, NY 11101	40.745928, -73.956457
+163	LA Burrito	3.0 star rating	78 reviews	$	            67 Wilson Ave, Brooklyn, NY 11237	40.702446, -73.928267
+164	El Mitote	3.5 star rating	97 reviews	$$	            208 Columbus Ave, New York, NY 10023	40.775886, -73.980132
+165	Burrito Bar	3.0 star rating	255 reviews	$$	            307 Flatbush Ave, Brooklyn, NY 11238	40.677460, -73.972682
+166	Pulqueria	3.5 star rating	217 reviews	$$	            11 Doyers St, New York, NY 10038	40.714344, -73.998208
+167	Cantina Royal	3.5 star rating	86 reviews	$$	            58 N 3rd St, Brooklyn, NY 11211	40.717488, -73.963512
+168	Caliente Cab Co	2.5 star rating	231 reviews	$$	            488 3rd Ave, New York, NY 10016	40.745346, -73.978697
+169	La Lupita	4.0 star rating	19 reviews	$	            3550 E Tremont Ave, Bronx, NY 10465	40.829864, -73.825966
+170	El Diablito Taqueria	4.0 star rating	56 reviews	$	            60 E 3rd St, New York, NY 10003	40.724969, -73.989222
+171	Empelln Taqueria	3.5 star rating	343 reviews	$$$	            230 W 4th St, New York, NY 10014	40.734133, -74.003147
+172	El Coyote Restaurant	3.5 star rating	68 reviews	$$	            80-18 Northern Blvd, Jackson Heights, NY 11372	40.755330, -73.887019
+173	Oaxaca Taqueria	3.5 star rating	202 reviews	$	            250 4th Ave, Brooklyn, NY 11215	40.676656, -73.983949
+174	Tequila Chito's Mexican Grill	3.0 star rating	91 reviews	$$	            358 W 23rd St, New York, NY 10011	40.746008, -74.000883
+175	Vamos! Tacos & Tequila	3.5 star rating	177 reviews	$$	            348 1st Ave, New York, NY 10010	40.735146, -73.979470
+176	La Fiesta	4.0 star rating	45 reviews	$	            3797 Broadway, New York, NY 10032	40.834749, -73.944873
+177	Oaxaca	3.5 star rating	57 reviews	$	            424 Amsterdam Ave, New York, NY 10024	40.784163, -73.977919
+178	Tacos Morelos	4.0 star rating	68 reviews	$	            25 Ave A, New York, NY 10009	40.722999, -73.986043
+179	Toloache Taqueria	3.0 star rating	108 reviews	$	            83 Maiden Ln, New York, NY 10038	40.707514, -74.007324
+180	The Haab	4.0 star rating	59 reviews	$	            4722 48th Ave, Woodside, NY 11377	40.738974, -73.917824
+181	Taco Mix	4.0 star rating	114 reviews	$	            234 E 116th St, New York, NY 10029	40.797194, -73.938738
+182	Taqueria El Puente	4.5 star rating	11 reviews	$	            9300 5th Ave, Brooklyn, NY 11209	40.616517, -74.030514
+183	Taco Chulo	3.5 star rating	273 reviews	$$	            318 Grand St, Brooklyn, NY 11211	40.712509, -73.956654
+184	Ricos Tacos	4.0 star rating	84 reviews	$	            505 51st St, Brooklyn, NY 11220	40.644471, -74.010748
+185	La Camelia	3.5 star rating	111 reviews	$$	            64 Downing St, New York, NY 10014	40.728831, -74.004869
+186	Los Amigos Mexican Restaurant	3.0 star rating	47 reviews	$$	            2273 31st St, Astoria, NY 11105	40.774501, -73.912415
+187	Mezcal's Mexican Restaurant	3.0 star rating	27 reviews	$$	            522 Court St, Brooklyn, NY 11231	40.676124, -73.999187
+188	Elora's Restaurant	3.5 star rating	74 reviews	$$	            272 Prospect Park W, Brooklyn, NY 11215	40.658474, -73.982424
+189	Mxico Blvd	4.0 star rating	49 reviews	$$	            Ditmars &amp; 31st, Astoria, NY 11106	40.776157, -73.910731
+190	Pequena	3.0 star rating	149 reviews	$$	            601 Vanderbilt Ave, Brooklyn, NY 11238	40.679470, -73.967853
+191	Mi Nidito	2.5 star rating	108 reviews	$$	            789 9th Ave, New York, NY 10019	40.765214, -73.988099
+192	Mercadito Grove	3.5 star rating	193 reviews	$$	            100 7th Ave S, New York, NY 10014	40.732785, -74.003473
+193	Don Burrito Restaurant	4.0 star rating	44 reviews	$	            5 Newkirk Plaza, Brooklyn, NY 11226	40.635510, -73.962755
+194	Mandato Mexican Restaurant	3.5 star rating	21 reviews	$$	            7218 3rd Ave, Brooklyn, NY 11209	40.633116, -74.027434
+195	Gabriela's Restaurant & Tequila Bar	3.0 star rating	193 reviews	$$	            688 Columbus Ave, New York, NY 10025	40.791279, -73.969080
+196	Los Pollitos Mexican Cuisine & Tequila Bar	3.5 star rating	64 reviews	$$	            7215b 3rd Ave, Brooklyn, NY 11209	40.633131, -74.026959
+197	Calexico	3.5 star rating	61 reviews	$$	            153 Rivington St, New York, NY 10002	40.719107, -73.985669
+198	Limon Jungle	3.0 star rating	294 reviews	$$	            803 9th Ave, New York, NY 10019	40.765661, -73.987768
+199	Estrellita Poblana III	4.0 star rating	30 reviews	$$	            2328 Arthur Ave, Bronx, NY 10458	40.853827, -73.888676
+200	Dorado Tacos	4.0 star rating	226 reviews	$	            28 E 12th St, New York, NY 10003	40.733920, -73.993135
+201	Cancun	3.0 star rating	146 reviews	$$	            937 8th Ave, New York, NY 10019	40.765839, -73.983916
+202	Burro Borracho	3.5 star rating	53 reviews	$	            251 Church St, New York, NY 10013	40.717789, -74.005389
+203	Dorado Tacos	4.0 star rating	226 reviews	$	            28 E 12th St, New York, NY 10003	40.733920, -73.993135
+204	Maya Taqueria	3.5 star rating	162 reviews	$	            637 Vanderbilt Ave, Brooklyn, NY 11238	40.677910, -73.968432
+205	Two Lizards Mexican Bar & Grill	4.0 star rating	82 reviews	$$	            1365 1st Ave, New York, NY 10021	40.768825, -73.955604
+206	Aprovecho	3.0 star rating	101 reviews	$$	            1229 1st Ave, New York, NY 10021	40.764203, -73.958733
+207	Mexican Radio	3.0 star rating	313 reviews	$$	            19 Cleveland Pl, New York, NY 10012	40.721598, -73.997056
+208	Mexicali Restaurant	2.5 star rating	64 reviews	$$	            141 Court St, Brooklyn, NY 11201	40.689325, -73.992294
+209	San Loco	3.0 star rating	188 reviews	$	            160 N 4th St, Brooklyn, NY 11211	40.715733, -73.959223
+210	Lupe's	3.5 star rating	154 reviews	$$	            110 Ave of the Americas, New York, NY 10013	40.723663, -74.004514
+211	Lupe's	3.5 star rating	154 reviews	$$	            110 Ave of the Americas, New York, NY 10013	40.723663, -74.004514
+212	El Toro Mexican Grill	3.5 star rating	24 reviews	$	            69 New St, New York, NY 10004	40.705861, -74.012226
+213	El Toro Taqueria	3.5 star rating	89 reviews	$	            254 Driggs Ave, Brooklyn, NY 11222	40.722870, -73.948021
+214	Grand Morelos	3.5 star rating	104 reviews	$	            727 Grand St, Brooklyn, NY 11211	40.711861, -73.943679
+215	Hecho en Dumbo	3.5 star rating	275 reviews	$$	            354 Bowery, New York, NY 10012	40.726929, -73.992080
+216	Carrera's	4.0 star rating	22 reviews	$	            915 Flushing Ave, Brooklyn, NY 11206	40.702347, -73.936215
+217	Zaragoza Mexican Deli & Grocery	4.0 star rating	207 reviews	$	            215 Ave A, New York, NY 10009	40.730059, -73.980982
+218	Sabor A Mexico	3.0 star rating	73 reviews	$$	            233 E 77th St, New York, NY 10021	40.772670, -73.956947
+219	Fresca Tortilla	3.0 star rating	46 reviews	$	            3115 Ditmars Blvd, Astoria, NY 11105	40.775895, -73.909905
+220	Mariachis	2.5 star rating	21 reviews	$$	            235 E 53rd St, New York, NY 10022	40.757304, -73.967920
+221	Fresh Taco	3.5 star rating	36 reviews	$	            799 Cypress Ave, Ridgewood, NY 11385	40.699719, -73.905492
+222	Harry's Burritos	2.5 star rating	252 reviews	$$	            241 Columbus Ave, New York, NY 10023	40.776803, -73.978982
+223	Taqueria Cocoyoc	3.5 star rating	28 reviews	$	            211 Wyckoff Ave, Brooklyn, NY 11237	40.702438, -73.915753
+224	Picante Picante	4.5 star rating	37 reviews	$$	            156 W 231st St, Bronx, NY 10463	40.878527, -73.903788
+225	Amigos	3.0 star rating	60 reviews	$$	            2888 Broadway, New York, NY 10025	40.805536, -73.965314
+226	Don Nico's	4.5 star rating	16 reviews	$	            9-43 Dekalb Ave, Brooklyn, NY 11201	40.689943, -73.981571
+227	Mayahuel	4.0 star rating	394 reviews	$$$	            304 E 6th St, New York, NY 10003	40.727111, -73.988193
+228	Plaza Mexico Doa Zita	4.0 star rating	26 reviews	$	            Bowery St &amp; Henderson Walk, Brooklyn, NY 11224	40.574801, -73.980893
+229	Pedro's Mexican Bar & Restaurant	2.5 star rating	182 reviews	$$	            73 Jay St, Brooklyn, NY 11201	40.702521, -73.986548
+230	Sindicato De Cocineros	4.0 star rating	54 reviews	$$	            57 Nassau Ave, New York, NY 11222	40.723537, -73.952173
+231	Cascabel Taqueria	3.0 star rating	137 reviews	$$	            2799 Broadway 108th St, New York, NY 10025	40.801741, -73.964760
+232	Lobo	3.0 star rating	197 reviews	$$	            188 5th Ave, Brooklyn, NY 11217	40.677081, -73.980023
+233	Wahoo's Fish Tacos	3.5 star rating	214 reviews	$	            333 Park Ave S., New York, NY 10010	40.741081, -73.985317
+234	Anejo	3.5 star rating	187 reviews	$$$	            668 10th Ave, New York, NY 10036	40.762588, -73.992940
+235	Taka Taka	3.0 star rating	174 reviews	$$$	            330 West Broadway, New York, NY 10013	40.722341, -74.004030
+236	Pampano Taqueria	3.5 star rating	114 reviews	$	            805 3rd Ave, New York, NY 10022	40.755318, -73.970719
+237	El Rio Grande	3.0 star rating	299 reviews	$$	            160 E 38th St, New York, NY 10016	40.748235, -73.976648
+238	Hoja Santa	3.5 star rating	25 reviews	$$	            250 Dekalb Ave, New York, NY 11205	40.689249, -73.968878
+239	Xixa	4.5 star rating	191 reviews	$$$	            241 S 4th St, Brooklyn, NY 11211	40.710382, -73.958516
+240	Taco King	4.0 star rating	52 reviews	$	            6405 108th St, Forest Hills, NY 11375	40.732789, -73.849506
+241	El Azteca	3.0 star rating	75 reviews	$$	            783 9th Ave, New York, NY 10019	40.765032, -73.988231
+242	El Paso Taqueria	3.0 star rating	79 reviews	$$	            64 E 97th St, New York, NY 10029	40.787287, -73.952823
+243	Ho' Brah Taco Joint	4.0 star rating	254 reviews	$$	            8618 3rd Ave, Brooklyn, NY 11209	40.622983, -74.031536
+244	Mole	3.0 star rating	134 reviews	$$	            1735 2nd Ave, New York, NY 10128	40.780330, -73.950306
+245	Refried Beans Mexican Grill	3.5 star rating	80 reviews	$$	            591 Fort Washington, Manhattan, NY 10033	40.855026, -73.937186
+246	Pipo's Mexican Restaurant	4.0 star rating	12 reviews	$	            166 E 118th St, New York, NY 10035	40.799409, -73.939885
+247	Cafe De La Esquina	2.5 star rating	147 reviews	$$	            225 Wythe Ave, Brooklyn, NY 11211	40.717102, -73.963104
+248	Tacos Mexico	3.5 star rating	65 reviews	$	            32-08 38 St, Astoria, NY 11103	40.759171, -73.920182
+249	Empellon Cocina	3.5 star rating	170 reviews	$$$	            105 1st Ave, New York, NY 10003	40.726798, -73.986287
+250	Trece Mexican Cuisine & Tequila Bar	3.0 star rating	46 reviews	$$	            54 E 13th St, New York, NY 10003	40.734152, -73.991687
+251	El Cafetal Mexican Restaurant	3.5 star rating	23 reviews	$	            3019 Astoria Blvd, Astoria, NY 11102	40.769830, -73.916622
+252	Taco City	3.0 star rating	51 reviews	$	            1143 1st Ave, New York, NY 10065	40.761981, -73.960614
+253	MexiBBQ	3.5 star rating	440 reviews	$$	            37-11 30th Ave, Astoria, NY 11103	40.764611, -73.915944
+254	El Rey Del Sabor	4.0 star rating	24 reviews	$	            148 49th St, New York, NY 10022	40.755475, -73.971926
+255	Burger One	4.0 star rating	53 reviews	$	            1150 Lexington Ave, New York, NY 10075	40.775396, -73.958824
+256	Estrellita Poblana II	4.0 star rating	21 reviews	$$	            2819 White Plains Rd, Bronx, NY 10467	40.867103, -73.867319
+257	Matilda	3.5 star rating	166 reviews	$$	            647 E 11th St, New York, NY 10009	40.726675, -73.977246
+258	El Ranchito del Agave	3.0 star rating	68 reviews	$$	            476 9th Ave, New York, NY 10018	40.754887, -73.994809
+259	Fresh Soft Tacos	3.5 star rating	28 reviews	$	            9403A 63rd Dr, Rego Park, NY 11374	40.731343, -73.857546
+260	El Porton Bar and Restaurant	3.0 star rating	61 reviews	$$	            3151 Broadway, New York, NY 10027	40.814513, -73.959661
+261	Antojitos Mexicanos	3.5 star rating	19 reviews	$	            107 Graham Ave, Brooklyn, NY 11206	40.705397, -73.943210
+262	Kimchi Grill	4.0 star rating	153 reviews	$	            766 Washington Ave, Brooklyn, NY 11238	40.675089, -73.963498
+263	Tulcingo Del Valle	3.5 star rating	149 reviews	$	            665 10th Ave, New York, NY 10036	40.762758, -73.993543
+264	Maizal	3.5 star rating	50 reviews	$$	            990 Bay St, Staten Island, NY 10305	40.618308, -74.069578
+265	Las Margaritas Restaurant and Lounge	2.5 star rating	101 reviews	$$	            3801 Broadway, Astoria, NY 11103	40.759431, -73.919541
+266	Arriba Arriba	3.0 star rating	97 reviews	$$	            40-15 Queens Blvd, Sunnyside, NY 11104	40.744101, -73.923464
+267	El Pollito Mexicano	3.0 star rating	112 reviews	$$	            119 5th Ave, Brooklyn, NY 11217	40.678838, -73.978476
+268	Original California Taqueria	2.5 star rating	63 reviews	$	            187 Court St, Brooklyn, NY 11201	40.687599, -73.993070
+269	Tequilitas Restaurant	3.5 star rating	13 reviews	$	            5213 4th Avenue, Brooklyn, NY 11220	40.644885, -74.013836
+270	La Adelita Restaurant	3.5 star rating	45 reviews	$$	            52-22 Roosevelt Ave, Woodside, NY 11377	40.744213, -73.911656
+271	La Adelita Restaurant	3.5 star rating	45 reviews	$$	            52-22 Roosevelt Ave, Woodside, NY 11377	40.744213, -73.911656
+272	Mexican Trail Fast Food	3.5 star rating	14 reviews	$	            20-07 127th St, Flushing, NY 11356	40.781281, -73.840995
+273	Cafe Los Arcos	3.5 star rating	50 reviews	$	            255 A Bushwick Ave, Brooklyn, NY 11206	40.707080, -73.939576
+274	El Paso	3.5 star rating	235 reviews	$$	            1643 Lexington Ave, New York, NY 10029	40.790672, -73.947102
+275	Mission Cantina	3.5 star rating	73 reviews	$$	            172 Orchard St, New York, NY 10002	40.721463, -73.988248
+276	Five Tacos	4.0 star rating	111 reviews	$	            119 St Marks Pl, Manhattan, NY 10009	40.727008, -73.983550
+277	Maria's Bistro Mexicano	3.5 star rating	100 reviews	$$	            886 5th Ave, Brooklyn, NY 11232	40.651517, -74.003980
+278	Tacos Morelos	4.5 star rating	11 reviews	$	            438 E 9th St, New York, NY 10009	40.727317, -73.983162
+279	Reyes Deli & Grocery	4.5 star rating	98 reviews	$	            532 4th Ave, Brooklyn, NY 11215	40.667313, -73.991621
+280	Happy Taco	2.5 star rating	26 reviews	$	            1167 2nd Ave, New York, NY 10021	40.762112, -73.963329
+281	Don Pancho	3.5 star rating	123 reviews	$	            492 Grand St, Brooklyn, NY 11211	40.710800, -73.951521
+282	Los Pollitos 2	3.0 star rating	142 reviews	$$	            148 5th Ave, Brooklyn, NY 11217	40.678283, -73.979468
+283	Mary Ann's Mexican	2.5 star rating	122 reviews	$$	            86 2nd Ave, New York, NY 10003	40.726611, -73.988872
+284	Taqueria San Pedro	4.5 star rating	24 reviews	$	            3662 Broadway, New York, NY 10031	40.830345, -73.947244
+285	Lobo	3.0 star rating	197 reviews	$$	            218 Court St, Brooklyn, NY 11201	40.686581, -73.994126
+286	Haab	4.0 star rating	33 reviews	$$	            396 6th Ave, Brooklyn, NY 11215	40.669442, -73.983094
+287	Buddy's Burrito & Taco Bar	3.5 star rating	83 reviews	$	            260 Court St, Brooklyn, NY 11231	40.685279, -73.994726
+288	Agua Fresca	4.0 star rating	80 reviews	$$	            207 E 117th St, New York, NY 10035	40.798558, -73.938883
+289	Tulcingo Deli Vl	4.0 star rating	25 reviews	$	            5520 5th Ave, Brooklyn, NY 11220	40.642076, -74.013902
+290	Emilia's Pizza & Authentic Mexican Food	4.0 star rating	5 reviews	$	            3705 28th Ave, Astoria, NY 11103	40.766300, -73.915040
+291	Estrella Poblanita	4.0 star rating	23 reviews	$$	            2348 Arthur Ave, Bronx, NY 10458	40.854320, -73.888254
+292	Gueros	4.0 star rating	235 reviews	$	            605 Prospect Pl, Brooklyn, NY 11238	40.675107, -73.956567
+293	Blockheads	3.0 star rating	284 reviews	$$	            1563 2nd Ave, New York, NY 10028	40.774912, -73.954218
+294	Bushwick Pita Palace	3.5 star rating	89 reviews	$	            243 Bushwick Ave, Brooklyn, NY 11206	40.707518, -73.939586
+295	Bar San Miguel	4.5 star rating	18 reviews	$$	            307 Smith St, New York, NY 11231	40.681340, -73.993828
+296	Mexico 2000 Grocery	4.5 star rating	46 reviews	$	            367 Broadway, Brooklyn, NY 11211	40.707642, -73.955074
+297	Santa Fe Restaurant	3.0 star rating	53 reviews	$$	            73 W 71st St, New York, NY 10023	40.776790, -73.978817
+298	New Fresh Tortillas Taco	3.0 star rating	7 reviews	$	            1708 86th St, Brooklyn, NY 11214	40.608322, -74.004767
+299	Bakery La Flor	4.0 star rating	9 reviews	None	            4021 5th Ave, Brooklyn, NY 11232	40.650111, -74.004693
+300	Puebla Restaurant	3.5 star rating	6 reviews	$	            7006 Fort Hamilton Pkwy, Brooklyn, NY 11228	40.628184, -74.013293
+301	Camelia Cocina Mexicana	3.5 star rating	18 reviews	$$	            499 5th Ave, Brooklyn, NY 11215	40.667092, -73.987668
+302	Tehuitzingo	4.0 star rating	226 reviews	$	            695 10th Ave, New York, NY 10036	40.763215, -73.993213
+303	Mezcals Mexican Restaurant	3.5 star rating	26 reviews	$$	            20 Bradley Ave, Staten Island, NY 10314	40.611797, -74.132595
+304	Pinche Taqueria	3.0 star rating	67 reviews	$$	            103 W 14th St, New York, NY 10011	40.737857, -73.997203
+305	G's Coffee Shop	4.5 star rating	17 reviews	$	            634 W 207th St, New York, NY 10034	40.868249, -73.921895
+306	Cantina 1838	3.5 star rating	47 reviews	$$	            1838 Adam Clayton Powell Jr Blvd, New York, NY 10026	40.800385, -73.955101
+307	Mexicana Mama	3.5 star rating	92 reviews	$$	            525 Hudson St, New York, NY 10014	40.734068, -74.006654
+308	Adobe Blues	4.0 star rating	113 reviews	$$	            63 Lafayette Ave, Staten Island, NY 10301	40.643233, -74.095313
+309	Salsa Y Salsa	2.5 star rating	115 reviews	$$	            206 7th Ave, New York, NY 10011	40.743352, -73.996222
+310	Patron Mexican Grill	3.0 star rating	82 reviews	$$	            608 9th Ave, New York, NY 10036	40.759222, -73.991719
+311	Taco Santana	4.0 star rating	47 reviews	$	            301 Keap St, Brooklyn, NY 11211	40.707890, -73.955542
+312	Otto's Tacos	4.0 star rating	143 reviews	$	            141 2nd Ave, New York, NY 10003	40.729125, -73.987529
+313	La Paloma	3.5 star rating	26 reviews	$	            175 3rd Ave, New York, NY 10003	40.734793, -73.985756
+314	Tortas Neza	5.0 star rating	16 reviews	$	            11103 Roosevelt Ave, Corona, NY 11368	40.751818, -73.855712
+315	Mle	3.0 star rating	112 reviews	$$	            178 Kent Ave, Brooklyn, NY 11211	40.718827, -73.963529
+316	Campeon	3.5 star rating	31 reviews	$$	            9 E 16th St, New York, NY 10003	40.737153, -73.991669
+317	Caliente Cab Co	2.0 star rating	340 reviews	$$	            61 7th Ave S, New York, NY 10014	40.731798, -74.003581
+318	MaryAnn's	2.5 star rating	61 reviews	$$	            353 Greenwich St, New York, NY 10013	40.718642, -74.010138
+319	La Villita One	3.5 star rating	12 reviews	$$	            1455 Saint Nicholas Ave, New York, NY 10033	40.850467, -73.932919
+320	Lupita's Restaurant	4.0 star rating	7 reviews	None	            2049 2nd Ave, New York, NY 10029	40.790243, -73.943091
+321	El Mirador	3.5 star rating	12 reviews	$	            59 Church Ave, Brooklyn, NY 11218	40.642340, -73.981115
+322	Blockheads	3.0 star rating	120 reviews	$$	            951 Amsterdam Ave, New York, NY 10025	40.800772, -73.965034
+323	VeraCruz Mexican Restaurant	2.5 star rating	114 reviews	$$	            195 Bedford Ave, Brooklyn, NY 11211	40.717317, -73.958062
+324	Taco Today	3.0 star rating	37 reviews	$	            355 E 86th St, New York, NY 10028	40.777343, -73.949729
+325	Tacos Al Suadero	4.0 star rating	70 reviews	$	            3757 90th St, Jackson Heights, NY 11372	40.748816, -73.876531
+326	Las Delicias Mexicanas	4.0 star rating	14 reviews	$	            2109 3rd Ave, New York, NY 10029	40.797355, -73.940073
+327	Gallitos Kitchen	4.0 star rating	40 reviews	$	            140 Montague St, Brooklyn, NY 11201	40.694401, -73.993745
+328	Iguana New York	3.0 star rating	310 reviews	$$	            240 W 54th St, New York, NY 10019	40.764154, -73.983200
+329	Blockheads	3.5 star rating	32 reviews	$$	            322 W 50th St, New York, NY 10009	40.762563, -73.986761
+330	El Rey Del Taco Truck #2	4.5 star rating	44 reviews	$	            31st St and Ditmars Ave, Astoria, NY 11105	40.776157, -73.910731
+331	Mi Ranchito	4.0 star rating	8 reviews	$	            1468 St Nicholas Ave, New York, NY 10033	40.850705, -73.932304
+332	Habana To-Go	4.0 star rating	192 reviews	$	            229 Elizabeth St, New York, NY 10012	40.722925, -73.994097
+333	Isabela Mexican Restaurant	4.0 star rating	6 reviews	$	            4412 4th Ave, Brooklyn, NY 11220	40.649706, -74.009623
+334	El Rey Del Taco Truck	4.5 star rating	228 reviews	$	            3301 30th Ave, Astoria, NY 11103	40.766198, -73.919308
+335	Jolie Cantina	4.0 star rating	138 reviews	$$	            241 Smith St, Brooklyn, NY 11231	40.683543, -73.992313
+336	LA Burrito	3.5 star rating	132 reviews	$	            287 Bedford Ave, Brooklyn, NY 11211	40.714004, -73.961444
+337	Cholulita Bella Deli	4.0 star rating	26 reviews	$	            888 Broadway, Brooklyn, NY 11206	40.698105, -73.937276
+338	Sombrero	2.0 star rating	95 reviews	$$	            303 W 48th St, New York, NY 10036	40.761309, -73.987365
+339	Cinco de Mayo	3.0 star rating	85 reviews	$$	            39-32 Bell Blvd, Bayside, NY 11361	40.764375, -73.771701
+340	Mexico Magico	4.0 star rating	32 reviews	$$	            1761 Crosby Ave, Bronx, NY 10461	40.846616, -73.832009
+341	Mezcal's D'os Restaurant	3.0 star rating	56 reviews	$$	            7508 3rd Ave, Brooklyn, NY 11209	40.631242, -74.028157
+342	Tex Mex Fresco	2.5 star rating	12 reviews	$	            763 Flatbush Ave, Brooklyn, NY 11226	40.654270, -73.959195
+343	El Sol de Cholula	4.5 star rating	12 reviews	$	            161 Wilson Ave, Brooklyn, NY 11237	40.700288, -73.924525
+344	Taqueria El Maguey	4.0 star rating	17 reviews	$	            3910 4th Ave, Brooklyn, NY 11232	40.652541, -74.006738
+345	Salvation Taco	3.0 star rating	210 reviews	$$	            145 E 39th St, New York, NY 10016	40.749335, -73.976623
+346	Tio Pepe	3.0 star rating	162 reviews	$$	            168 W 4th St, New York, NY 10014	40.731968, -74.001658
+347	The Taco Shop	4.0 star rating	78 reviews	$$	            166 W 4th St, New York, NY 10014	40.731939, -74.001561
+348	La Nortea	2.5 star rating	41 reviews	$	            668 Manhattan Ave, Brooklyn, NY 11222	40.724789, -73.951140
+349	Mad Dog & Beans	2.0 star rating	12 reviews	$$$	            276 Smith St, New York, NY 11231	40.682505, -73.993469
+350	La Troca del Sabor	4.5 star rating	32 reviews	$	            N 4th St and Bedford Avenue, Brooklyn, NY 11211	40.716172, -73.959511
+351	Tres Carnes	4.0 star rating	151 reviews	$$	            688 6th Ave, New York, NY 10010	40.742090, -73.993116
+352	Choza Taqueria	3.5 star rating	48 reviews	$	            124 Macdougal St, New York, NY 10012	40.729905, -74.000246
+353	Mexicue	3.5 star rating	119 reviews	$	            New York, NY 10001,         </address>	40.753685, -73.999164
+354	El Paso Restaurant	3.5 star rating	56 reviews	$$	            134 W Houston St, New York, NY 10012	40.727965, -74.001475
+355	El Aguila	3.0 star rating	22 reviews	$	            1215 Lexington Ave, New York, NY 10028	40.777019, -73.957166
+356	Tequila Sunrise	2.5 star rating	69 reviews	$$	            34-37 Bell Blvd, Bayside, NY 11361	40.769354, -73.773545
+357	Clemen's	3.5 star rating	41 reviews	$	            252 Prospect Park W, Brooklyn, NY 11215	40.659123, -73.981812
+358	Tacos El Catrin	4.0 star rating	27 reviews	$$	            265 E 7th St, Brooklyn, NY 11218	40.645749, -73.973051
+359	Zefe's	3.0 star rating	21 reviews	$	            1224 Myrtle Ave, Brooklyn, NY 11221	40.697524, -73.928963
+360	Mexican Festival Restaurant	3.0 star rating	24 reviews	$$	            2672 Broadway, New York, NY 10025	40.798246, -73.968798
+361	Taqueria Garibaldi	4.0 star rating	12 reviews	$	            Bleecker &amp; Thompson, New York, NY 10012	40.728405, -73.999696
+362	Mexican Festival Restaurant	3.0 star rating	24 reviews	$$	            2672 Broadway, New York, NY 10025	40.798246, -73.968798
+363	Taco Morelos	4.0 star rating	44 reviews	$	            N 7th and Bedford Ave, Brooklyn, NY 11211	40.717842, -73.957727
+364	Holy Mole Tamale!	4.5 star rating	7 reviews	$	            133 E 110th St, New York, NY 10029	40.795181, -73.944726
+365	Mexicue	3.0 star rating	121 reviews	$$	            345 7th Ave, New York, NY 10001	40.748078, -73.992366
+366	Mojave	3.5 star rating	301 reviews	$$	            22-36 31st St, Astoria, NY 11105	40.775399, -73.911660
+367	Sembrado	3.5 star rating	26 reviews	$$	            432 E 13th St, New York, NY 10009	40.729922, -73.981873
+368	Baja Fresh	3.0 star rating	72 reviews	$	            465 Lexington Ave, New York, NY 10017	40.753512, -73.974175
+369	Tacos La Carcachita	4.5 star rating	16 reviews	$	            Wyckoff Ave &amp; Palmetto St, Brooklyn, NY 11237	40.699537, -73.911056
+370	La Gringa Taqueria	3.5 star rating	79 reviews	$$	            800 Grand St, Brooklyn, NY 11211	40.711680, -73.941352
+371	La Gringa Taqueria	3.5 star rating	79 reviews	$$	            800 Grand St, Brooklyn, NY 11211	40.711680, -73.941352
+372	Metate	3.0 star rating	65 reviews	$$	            3515 Johnson Ave, Bronx, NY 10463	40.886091, -73.909999
+373	Mi Barrio	4.0 star rating	11 reviews	$$	            3415 14th Ave, Brooklyn, NY 11218	40.641727, -73.981506
+374	La Flor	4.0 star rating	125 reviews	$$	            53-02 Roosevelt Ave, Woodside, NY 11377	40.744296, -73.911381
+375	Taco Mix	4.5 star rating	6 reviews	$	            1986 Amsterdam Ave, Manhattan, NY 10032	40.833899, -73.941678
+376	Yola's Cafe	3.0 star rating	150 reviews	$	            524 Metropolitan Ave, Brooklyn, NY 11211	40.713862, -73.951190
+377	San Loco	3.5 star rating	143 reviews	$	            129 2nd Ave, New York, NY 10003	40.728511, -73.988140
+378	Burrito Bar	3.0 star rating	71 reviews	$$	            585 Forest Ave, Staten Island, NY 10310	40.630461, -74.108786
+379	Rancho Alegre	3.0 star rating	53 reviews	$$	            204 Garfield Pl, Brooklyn, NY 11215	40.672067, -73.977053
+380	Xochimilco Family Restaurant	3.5 star rating	14 reviews	$$	            653 Melrose Ave, Bronx, NY 10455	40.818806, -73.916543
+381	Mezcals Mexican Restaurant	2.5 star rating	52 reviews	$$	            223 5th Ave, Brooklyn, NY 11215	40.675820, -73.980764
+382	Murphy & Gonzalez	3.0 star rating	85 reviews	$$	            21 Waverly Pl, New York, NY 10003	40.730402, -73.994520
+383	Jalapeno King	3.5 star rating	3 reviews	$	            719 5th Ave, Brooklyn, NY 11215	40.660263, -73.994116
+384	Taqueria Santa Fe	3.5 star rating	30 reviews	$$	            47-08 47th Ave, Woodside, NY 11377	40.740962, -73.917877
+385	Cafe Condesa	4.0 star rating	278 reviews	$$	            183 W 10th St, New York, NY 10014	40.734413, -74.002680
+386	Casa Mezcal	3.5 star rating	178 reviews	$$	            86 Orchard St, New York, NY 10002	40.717928, -73.990167
+387	Casa Vieja	4.0 star rating	7 reviews	$$	            6007 5th Avenue, Brooklyn, NY 11220	40.639132, -74.016171
+388	El Rey del Taco Deli	4.0 star rating	13 reviews	$	            49-06 43rd Ave, Woodside, NY 11377	40.744345, -73.915337
+389	Salva Vida	3.0 star rating	56 reviews	$	            291 Greene Ave, Brooklyn, NY 11238	40.687488, -73.960146
+390	The King of the Taco	4.5 star rating	3 reviews	None	            90-17 31st Ave, Corona, NY 11369	40.760106, -73.877918
+391	La Piata	3.5 star rating	48 reviews	$$	            4930 Broadway, New York, NY 10034	40.867502, -73.921279
+392	Hector's Mexican Cuisine	4.5 star rating	12 reviews	$	            283 E Kingsbridge Rd, Bronx, NY 10458	40.863365, -73.893994
+393	Casa Vieja	4.0 star rating	7 reviews	$$	            6007 5th Avenue, Brooklyn, NY 11220	40.639132, -74.016171
+394	Zona Rosa	3.5 star rating	75 reviews	$$	            571 Lorimer St, Brooklyn, NY 11211	40.713923, -73.949652
+395	Fresco Tortillas	3.0 star rating	22 reviews	$	            858 10th Ave, New York, NY 10019	40.768559, -73.988554
+396	Burritoville	3.0 star rating	16 reviews	$	            141 2nd Ave, New York, NY 10003	40.729125, -73.987529
+397	Lucky Luna	4.0 star rating	24 reviews	$$	            167 Nassau Ave, Brooklyn, NY 11222	40.725308, -73.946550
+398	Carlos & Gabby's	3.0 star rating	16 reviews	$$	            1376 Coney Island Ave, Brooklyn, NY 11230	40.623931, -73.965365
+399	Tequilla Sunrise	2.5 star rating	73 reviews	$$	            4001 Northern Blvd, Long Island City, NY 11101	40.752729, -73.923744
+400	Country Boys Restaurant	3.5 star rating	14 reviews	$	            568 4th Ave, Brooklyn, NY 11215	40.666372, -73.992440
+401	La Oaxaquena Restaurant	4.0 star rating	11 reviews	$	            1969 Amsterdam Ave, New York, NY 10032	40.833132, -73.941463
+402	Fresco Tortillas	3.0 star rating	28 reviews	$	            620 Manhattan Ave, Brooklyn, NY 11222	40.723612, -73.950453
+403	Venga Mexican Grill	3.5 star rating	31 reviews	$	            1903 Victory Blvd, Staten Island, NY 10314	40.612988, -74.127458
+404	El Rey Del Sabor	3.5 star rating	20 reviews	$	            43rd and 6th Ave, New York, NY 10036	40.755515, -73.983623
+405	Brooklyn Taco Co	4.5 star rating	139 reviews	$	            120 Essex St, New York, NY 10002	40.719324, -73.987446
+406	Fatty Daddy Taco	3.5 star rating	50 reviews	$	            310 9th St, Brooklyn, NY 11215	40.669256, -73.986517
+407	Terrace Coffee Shop	3.5 star rating	57 reviews	$	            598 19th St, Brooklyn, NY 11218	40.654380, -73.979362
+408	Taqueria Los Poblanos	3.0 star rating	19 reviews	$	            733 Church Ave, Brooklyn, NY 11218	40.646008, -73.972229
+409	Paco's Tacos	3.0 star rating	32 reviews	$$	            2368 Flatbush Ave, Brooklyn, NY 11234	40.612259, -73.925870
+410	Patron Mexican Grill	2.5 star rating	127 reviews	$$	            772 9th Ave, Manhattan, NY 10019	40.764356, -73.988027
+411	Taco Express	3.5 star rating	18 reviews	$	            145th St, New York, NY 10030	40.822443, -73.941245
+412	Casa Pepe	3.0 star rating	51 reviews	$$	            114 Bay Ridge Ave, Brooklyn, NY 11220	40.637452, -74.031683
+413	Toloache	4.5 star rating	25 reviews	$$$	            205 Thompson St, New York, NY 10012	40.728710, -73.999604
+414	Patron Mexican Grill	2.5 star rating	127 reviews	$$	            772 9th Ave, Manhattan, NY 10019	40.764356, -73.988027
+415	El Loco Burrito	2.5 star rating	105 reviews	$	            345 Graham Ave, Brooklyn, NY 11211	40.714770, -73.944445
+416	Taco & Tortilla King	2.5 star rating	21 reviews	$	            285 3rd Ave, New York, NY 10010	40.738395, -73.983709
+417	Fresh Tortilla & Japanese Restaurant	3.5 star rating	24 reviews	$$	            2123 Williamsbridge Road, Bronx, NY 10461	40.856031, -73.855688
+418	Benny's Burritos	3.5 star rating	402 reviews	$$	            113 Greenwich Ave, New York, NY 10014	40.738027, -74.002165
+419	Yummy Taco	2.5 star rating	36 reviews	$	            941 Manhattan Ave, Brooklyn, NY 11222	40.731406, -73.954680
+420	La Cucina Mexican Grill & Cantina Bar	3.0 star rating	8 reviews	None	            4503 5th Ave, Brooklyn, NY 11217	40.647664, -74.007336
+421	Taco Azteca	4.5 star rating	27 reviews	$	            75 Victory Blvd, Staten Island, NY 10301	40.638418, -74.078672
+422	Guadalajara De Dia 2 Corp.	4.0 star rating	17 reviews	$	            566 Seneca Ave, Ridgewood, NY 11385	40.704697, -73.910910
+423	El Patron	3.5 star rating	130 reviews	$$	            19401 Northern Blvd, Flushing, NY 11358	40.758169, -73.787472
+424	Cochinita	3.0 star rating	66 reviews	$$	            922 Fulton St, Brooklyn, NY 11238	40.682684, -73.964101
+425	Momento Restaurant	3.5 star rating	9 reviews	$$	            25-13 Queens Plz N, Long Island City, NY 11101	40.750651, -73.939493
+426	Rinconcito Mexicano	3.0 star rating	15 reviews	$	            476 9th Ave  36/37 St, New York, NY 10018	40.754887, -73.994809
+427	Alimentos Saludables	4.5 star rating	4 reviews	None	            5919 4th Ave, Brooklyn, NY 11220	40.640879, -74.017971
+428	Frescos Tortillas	3.5 star rating	19 reviews	$	            116-32 Queens Blvd, Forest Hills, NY 11375	40.715275, -73.833107
+429	La Delicia - Deli & Grocery	4.5 star rating	14 reviews	$	            270 Jefferson St, Brooklyn, NY 11237	40.703951, -73.926234
+430	La Cocina	3.0 star rating	33 reviews	$$	            430 3rd Ave, New York, NY 10016	40.743257, -73.980374
+431	Cantina	2.5 star rating	29 reviews	$$	            494 4th Ave, Brooklyn, NY 11215	40.668763, -73.990392
+432	La Cocina	3.0 star rating	33 reviews	$$	            430 3rd Ave, New York, NY 10016	40.743257, -73.980374
+433	Luna's	4.0 star rating	11 reviews	$$	            4313 Broadway, Astoria, NY 11103	40.757707, -73.916042
+434	Jesus Taco	2.5 star rating	37 reviews	$	            501 W 145th St, New York, NY 10031	40.825547, -73.947834
+435	La Flaca	3.0 star rating	102 reviews	$$	            384 Grand St, New York, NY 10002	40.716492, -73.987632
+436	Fresco Tortillas	3.0 star rating	31 reviews	$	            3708 30th Ave, Astoria, NY 11102	40.764323, -73.916426
+437	Los Tres Potrillos Restaurant	3.5 star rating	18 reviews	$	            1004 4th Ave, Brooklyn, NY 11226	40.652794, -74.006257
+438	Margarita Murphys	3.0 star rating	38 reviews	$$	            591 3rd Ave, New York, NY 10016	40.748480, -73.975698
+439	Monsignor's Restaurant	4.0 star rating	71 reviews	$$	            679 5th Ave, Brooklyn, NY 11215	40.661552, -73.992823
+440	Tulcingo Restaurant	4.0 star rating	17 reviews	$$	            40-36 National St, Corona, NY 11368	40.748839, -73.863422
+441	Taqueria Tehuitzingo	3.5 star rating	8 reviews	$	            578 9th Ave, New York, NY 10036	40.757960, -73.992458
+442	Tacos Y Quesadillas Mexico	3.5 star rating	14 reviews	$	            2030 Broadway Ave, New York, NY 10023	40.782042, -73.960021
+443	Antojeria La Popular	3.5 star rating	52 reviews	$$	            50 Spring St, New York, NY 10012	40.721826, -73.996544
+444	Taco Express	3.5 star rating	47 reviews	$	            225 7th Ave, New York, NY 10011	40.744195, -73.995245
+445	Cinco De Mayo Restaurant	2.5 star rating	18 reviews	$$	            1028 Amsterdam Ave, New York, NY 10025	40.803489, -73.963781
+446	Paco's Mexican Bistro	3.5 star rating	50 reviews	$$	            1642 Hylan Blvd, Staten Island, NY 10305	40.588400, -74.089974
+447	Kortako	3.5 star rating	127 reviews	$	            80 Nassau St, New York, NY 10038	40.709823, -74.007931
+448	Carlos & Gabby's	3.0 star rating	38 reviews	$$	            67-11 Main St, Forest Hills, NY 11367	40.733997, -73.825381
+449	El Molino Mexican Grill & Pizzeria	4.0 star rating	3 reviews	$$	            32-41 Steinway St, Queens, NY 11103	40.757724, -73.919552
+450	Fresh Tortillas Express	3.0 star rating	30 reviews	$	            206 Varick St, New York, NY 10014	40.728750, -74.005055
+451	El Molino Mexican Grill & Pizzeria	4.0 star rating	3 reviews	$$	            32-41 Steinway St, Queens, NY 11103	40.757724, -73.919552
+452	Carlos & Gabby's	3.0 star rating	38 reviews	$$	            67-11 Main St, Forest Hills, NY 11367	40.733997, -73.825381
+453	Oaxaca Mexican Grill	3.0 star rating	68 reviews	$	            245 Park Ave, New York, NY 10167	40.754743, -73.974718
+454	Las Maravillas de Mexico Restaurant	4.5 star rating	9 reviews	$$	            11 Bedford Park Blvd E, Bronx, NY 10468	40.872886, -73.888720
+455	Mezcals	3.0 star rating	22 reviews	$$	            1470 86th St, Brooklyn, NY 11228	40.611499, -74.010180
+456	Tacos Y Tortas Carrusel	4.0 star rating	5 reviews	$	            108-06 Roosevelt Ave, Corona, NY 11368	40.750836, -73.858410
+457	El Puerto De Acapulco Bar And Restaurant	4.0 star rating	4 reviews	$$	            93-16A 37 Ave, Jackson Heights, NY 11372	40.750803, -73.873198
+458	Taqueria La Placita Puebla	4.0 star rating	20 reviews	$	            830 Broadway, Brooklyn, NY 11206	40.699040, -73.939466
+459	El Lobito Loco Corporation	5.0 star rating	2 reviews	$$	            244 Port Richmond Ave, Staten Island, NY 10302	40.635352, -74.135500
+460	Paco's Tacos	3.0 star rating	48 reviews	$$	            1504 86 St, New York, NY 11228	40.611072, -74.009562
+461	San Loco	3.0 star rating	135 reviews	$	            111 Stanton St, New York, NY 10002	40.721009, -73.987473
+462	Paco's Tacos	3.0 star rating	48 reviews	$$	            1504 86 St, New York, NY 11228	40.611072, -74.009562
+463	El Azteca Rincon	4.0 star rating	4 reviews	$	            47-16 Greenpoint Ave, Sunnyside, NY 11104	40.742454, -73.917269
+464	Chichen Itza Mexican Grill	3.5 star rating	12 reviews	$$$$	            274 53rd St, Brooklyn, NY 11232	40.646317, -74.016895
+465	Happy Fresh Tortillas Grill	3.5 star rating	34 reviews	$	            299 7th Ave, Brooklyn, NY 11215	40.667653, -73.980583
+466	La Herradura Restaurant	3.5 star rating	7 reviews	$	            Astoria Blvd &amp; Newtown Ave, Astoria, NY 11102	40.772019, -73.925358
+467	Red Hook Ball Fields	4.0 star rating	191 reviews	$	            Clinton St &amp; Bay St, Brooklyn, NY 11231	40.671852, -74.003242
+468	Cascalote Latin Bistro	5.0 star rating	28 reviews	$$	            2126 2nd Ave, Manhattan, NY 10029	40.792663, -73.940585
+469	Trace	3.5 star rating	64 reviews	$$	            8814 3rd Ave, Brooklyn, NY 11209	40.621735, -74.032081
+470	Don Paco Lopez Panaderia	4.0 star rating	13 reviews	$	            4703 4th Ave, Brooklyn, NY 11220	40.647878, -74.010696
+471	Don Paco Lopez Panaderia	4.0 star rating	13 reviews	$	            4703 4th Ave, Brooklyn, NY 11220	40.647878, -74.010696
+472	San Francisco De Assis Restaurant Corporation	3.5 star rating	13 reviews	$$	            1779 Lexington Ave, New York, NY 10029	40.794898, -73.944033
+473	Iguanas Mexican Grill & Cantina	2.5 star rating	79 reviews	$$	            17911 Union Tpke, Fresh Meadows, NY 11366	40.726879, -73.788787
+474	El Maguey Y La Tuna Mexican Restaurant	3.5 star rating	90 reviews	$$	            321 E Houston St, New York, NY 10002	40.720935, -73.982900
+475	Coatzingo Restaurant	4.5 star rating	5 reviews	$	            79-11 Roosevelt Ave, Jackson Heights, NY 11372	40.747596, -73.886237
+476	Sabor A Mexico Taqueria	3.5 star rating	40 reviews	$$	            160 1st Ave, New York, NY 10009	40.728484, -73.984235
+477	El Habanero Mexican Cocina	3.5 star rating	27 reviews	$$	            43 Bruckner Blvd, New York, NY 10454	40.806903, -73.926995
+478	La Huasteca Restaurant	3.5 star rating	19 reviews	$$	            1217 Church Ave, Brooklyn, NY 11218	40.647776, -73.967930
+479	Ta Cocina	4.0 star rating	4 reviews	$$	            714 9th Ave, New York, NY 10019	40.762582, -73.989268
+480	Fresh Tortillas	3.0 star rating	8 reviews	$	            7106 3rd Ave, Brooklyn, NY 11209	40.634047, -74.027046
+481	Benny's Burritos	3.0 star rating	217 reviews	$$	            93 Ave A, New York, NY 10009	40.725389, -73.984227
+482	Yummy Taco	2.5 star rating	3 reviews	$	            2807 Mermaid Ave, Brooklyn, NY 11224	40.575766, -73.994686
+483	Fresco Tortillas	3.5 star rating	4 reviews	None	            84-17 Jamaica Avenue, Woodhaven, NY 11421	40.692621, -73.860329
+484	Flatbush Latin Grill	3.5 star rating	19 reviews	$	            1902 Church Ave, Brooklyn, NY 11226	40.649595, -73.961946
+485	Papasito Mexican Grill & Agave Bar	3.0 star rating	119 reviews	$$	            223 Dyckman St, New York, NY 10034	40.865974, -73.927357
+486	Los Feliz	3.0 star rating	263 reviews	$$	            109 Ludlow St, New York, NY 10002	40.719408, -73.988945
+487	Elena's Restaurant Authentic Mexican Cusine	4.0 star rating	8 reviews	None	            5 West Tremont Ave, New York, NY 10453	40.852114, -73.909621
+488	Taqueria Nixtamalito	3.5 star rating	44 reviews	$	            1 Centre St, New York, NY 10007	40.712931, -74.003748
+489	Taquitos Mexico	4.5 star rating	8 reviews	None	            6720 14 Ave, Brooklyn, NY 11219	40.623130, -74.001239
+490	Bella's Place Restaurant	3.5 star rating	5 reviews	$	            87-77 Sutphin Blvd, Jamaica, NY 11435	40.705182, -73.809406
+491	El Atoradero	5.0 star rating	8 reviews	$	            800 E 149th St, Bronx, NY 10455	40.812540, -73.906588
+492	Montezuma Mexican Rest	3.0 star rating	42 reviews	$$$	            119 W Kingsbridge Rd, Bronx, NY 10468	40.868898, -73.902048
+493	La Morada Restaurant	4.5 star rating	13 reviews	$$	            308 Willis Ave, Bronx, NY 10454	40.810555, -73.921410
+494	Rosarito Fish Shack	3.0 star rating	230 reviews	$$	            168 Wythe Ave, Brooklyn, NY 11211	40.719558, -73.960753
+495	Zocalo	3.5 star rating	63 reviews	$	            295 Broadway, Brooklyn, NY 11211	40.708681, -73.958057
+496	Mexicozina	4.5 star rating	5 reviews	$	            444 E 149th St, Bronx, NY 10455	40.814997, -73.915866
+497	Qdoba Mexican Grill	3.5 star rating	90 reviews	$	            6140 188th St, Fresh Meadows, NY 11365	40.739814, -73.786287
+498	Calexico Taco / Burrito Cart	3.5 star rating	26 reviews	$	            Pier 1 Brooklyn Bridge Park, Brooklyn, NY 11201	40.701561, -73.997748
+499	Blockheads	3.0 star rating	58 reviews	$$	            175 W 90th St, New York, NY 10024	40.790362, -73.972677
+500	The Halal Guys	4.5 star rating	4712 reviews	$	            6th Ave &amp; W 53rd St, New York, NY 10019	40.761788, -73.979084
+501	Blockheads	3.0 star rating	58 reviews	$$	            175 W 90th St, New York, NY 10024	40.790362, -73.972677
+502	Taqueria Downtown	4.0 star rating	628 reviews	$	            236 Grove St, Jersey City, NJ 07302	40.716205, -74.044512
+503	Sunstone Tortillas Express Restaurant	3.5 star rating	23 reviews	$	            5411 5th Ave, Brooklyn, NY 11220	40.642447, -74.012701
+504	Mxco	3.5 star rating	17 reviews	$$	            981 2nd Ave, New York, NY 10022	40.756148, -73.967945
+505	Tacos Mexico	3.5 star rating	8 reviews	$	            8812 Roosevelt Ave, Jackson Heights, NY 11372	40.747993, -73.878091
+506	Mexican Food	4.0 star rating	7 reviews	$	            71st Ave &amp; Austin St, Forest Hills, NY 11375	40.720163, -73.844800
+507	Green Rancho	3.0 star rating	29 reviews	$$	            741 9th Ave, New York, NY 10019	40.763721, -73.989186
+508	Fresh Tortillas & Taco	3.5 star rating	31 reviews	$	            304 New Dorp Ln, Staten Island, NY 10306	40.571813, -74.112244
+509	Bar Bruno	4.0 star rating	90 reviews	$$	            520 Henry St, Brooklyn, NY 11231	40.683416, -74.000010
+510	Oaxaca Taqueria	3.5 star rating	25 reviews	$	            1116 Bedford Ave, Brooklyn, NY 11216	40.686340, -73.954767
+511	Fresco Tortilla Taco	3.0 star rating	12 reviews	$	            397 8th Ave, New York, NY 10001	40.749552, -73.995640
+512	Lucy's Cantina Royale	2.5 star rating	213 reviews	$$	            1 Penn Plz, New York, NY 10119	40.751129, -73.992471
+513	OMG Taco	3.0 star rating	37 reviews	$$	            213 Montrose Ave, Brooklyn, NY 11206	40.707818, -73.940518
+514	Sabor Mexicano	4.0 star rating	17 reviews	$	            Roosevelt Ave &amp; 75th St, Jackson Heights, NY 11372	40.746942, -73.890501
+515	Gonzalez Y Gonzalez	3.0 star rating	94 reviews	$$	            192 Mercer St, New York, NY 10012	40.726203, -73.997038
+516	Chips & Salsa Restaurant	3.5 star rating	11 reviews	$$	            43 W 46th St, New York, NY 10036	40.756969, -73.980638
+517	Paraiso Azteca Restaurant	3.5 star rating	9 reviews	$	            1681 E 16 St, Brooklyn, NY 11229	40.608680, -73.957318
+518	Tres Carnes	4.0 star rating	29 reviews	$$	            101 Maiden Ln, New York, NY 10038	40.706964, -74.006812
+519	Yolanda's Tamales	5.0 star rating	7 reviews	$	            3380 Broadway, New York, NY 10031	40.821616, -73.953828
+520	El Tequilazo	2.0 star rating	39 reviews	$$	            43 W 46th St, New York, NY 10036	40.756969, -73.980638
+521	San Loco	3.0 star rating	124 reviews	$	            151 Avenue A, New York, NY 10009	40.727655, -73.982745
+522	Mojito's	3.0 star rating	41 reviews	$$	            227 E 116 St, New York, NY 10029	40.797709, -73.938706
+523	El Acatlan	4.0 star rating	6 reviews	$	            2132 Cruger Ave, Bronx, NY 10462	40.854422, -73.866672
+524	Happy Taco Burrito	3.5 star rating	64 reviews	$	            235 Sullivan St, New York, NY 10012	40.729764, -73.999390
+525	Maldonado Restaurant	3.5 star rating	6 reviews	$	            1726 Amsterdam Ave, New York, NY 10031	40.825690, -73.947683
+526	Junior's Tacos	4.0 star rating	12 reviews	$	            253 Sherman Ave, Manhattan, NY 10034	40.865892, -73.918653
+527	Oaxaca Taqueria	4.0 star rating	9 reviews	$	            125 E 7th St, New York, NY 10009	40.726429, -73.984094
+528	Super Tacos	3.5 star rating	102 reviews	$	            96th St and Broadway, New York, NY 10025	40.794624, -73.971669
+529	Azteca Mexican Food Truck	4.5 star rating	2 reviews	$	            83-93 Park Ave, New York, NY 10016	40.750566, -73.978656
+530	La Boulangerie Lopez	4.0 star rating	90 reviews	$	            647 5th Ave, Brooklyn, NY 11215	40.662564, -73.991722
+531	Festival Mexicano	3.0 star rating	34 reviews	$$	            120 Rivington St, New York, NY 10002	40.719904, -73.987190
+532	Piaxtla Es Mexico Deli	4.0 star rating	4 reviews	None	            505 51st St, Brooklyn, NY 11220	40.644471, -74.010748
+533	El Aguila Dorada	4.5 star rating	69 reviews	$$	            830 Broadway, Bayonne, NJ 07002	40.675560, -74.108086
+534	Sabores Restaurante Mexicano	4.0 star rating	153 reviews	$$	            518 Washington St, Hoboken, NJ 07030	40.742870, -74.029509
+535	Charrito's	4.0 star rating	208 reviews	$$	            121 Washington St, Hoboken, NJ 07030	40.738112, -74.030436
+536	Jesus Taco	3.0 star rating	27 reviews	$	            1346 Amsterdam Ave, New York, NY 10027	40.813870, -73.956159
+537	Super Taco Plus	3.0 star rating	15 reviews	$	            51B Willoughby St, Brooklyn, NY 11226	40.692364, -73.987012
+538	Antojitos Mexicanos	4.5 star rating	4 reviews	$	            2703 Church Ave, New York, NY 11226	40.650674, -73.952377
+539	Taqueria Los Jarritos	3.5 star rating	13 reviews	$	            1555 St. Nicholas Ave, New York, NY 10040	40.853607, -73.930641
+540	Taco King	2.5 star rating	20 reviews	$	            1448 1st Ave, New York, NY 10021	40.769850, -73.954115
+541	Tacos Morelos	4.0 star rating	11 reviews	$$	            94-13 37th Ave, Jackson Heights, NY 11372	40.750956, -73.872999
+542	El Toro Taqueria	3.5 star rating	23 reviews	$	            89 Fort Greene Pl, Brooklyn, NY 11217	40.687385, -73.976433
+543	Chipotle Mexican Grill	3.5 star rating	8 reviews	$	            234 5th Ave, New York, NY 10001	40.744349, -73.988107
+544	Southwest NY	3.0 star rating	203 reviews	$$	            301 S End Ave, New York, NY 10280	40.710351, -74.016551
+545	La Pasadita Taco Truck	5.0 star rating	5 reviews	$	            957 Broadway, New York, NY 11206	40.696878, -73.934719
+546	Sabora Mexico	3.5 star rating	3 reviews	None	            1744 1st Ave, New York, NY 10128	40.779526, -73.947040
+547	Guadalajara De Noche	4.0 star rating	9 reviews	$	            8509 Roosevelt Ave, Jackson Heights, NY 11372	40.747988, -73.880744
+548	Moondos Grill	3.5 star rating	27 reviews	$$	            424 Church Ave, Brooklyn, NY 11218	40.644174, -73.975811
+549	Real Azteca	3.5 star rating	11 reviews	$	            1013 E 163rd St, Bronx, NY 10459	40.820986, -73.892448
+550	Fast and Fresh Deli	4.0 star rating	80 reviews	$	            84 Hoyt St, Brooklyn, NY 11201	40.688091, -73.987022
+551	Mexican Deli	4.5 star rating	6 reviews	$$$$	            2711 Broadway, Manhattan, NY 10025	40.799668, -73.968655
+552	Tortillas King	3.5 star rating	17 reviews	$	            7103 18th Ave, Brooklyn, NY 11204	40.615458, -73.993569
+553	Rodeo Bar & Grill	3.5 star rating	295 reviews	$$	            375 3rd Ave, New York, NY 10016	40.741329, -73.980971
+554	Agave Mexican Restaurant	4.5 star rating	51 reviews	$	            118 Pacific St, Newark, NJ 07105	40.723872, -74.167493
+555	Tulcingo Restaurant & Panaderia	3.5 star rating	9 reviews	$	            40-11 82nd St, Elmhurst, NY 11373	40.747243, -73.883542
+556	El Pollo Rancherito	4.0 star rating	4 reviews	None	            115 Ditmas Ave, Brooklyn, NY 11218	40.635892, -73.977567
+557	El Sol Azteca	3.5 star rating	8 reviews	$$	            8212 Roosevelt Ave, Jackson Heights, NY 11372	40.747545, -73.883401
+558	Rockaway Taco	4.0 star rating	282 reviews	$	            95-19 Rockaway Beach Blvd, Rockaway, NY 11693	40.585150, -73.817821
+559	Fresco Tortillas	2.5 star rating	15 reviews	$	            3112 36th Ave, Astoria, NY 11106	40.756180, -73.929413
+560	Pico Restaurant	4.0 star rating	26 reviews	$$	            419 Beach 129th St, Queens, NY 11694	40.578444, -73.849423
+561	Taco Palace	3.5 star rating	48 reviews	$	            4216 Bell Blvd, Bayside, NY 11361	40.762219, -73.770617
+562	Dos Toros Taqueria	3.0 star rating	49 reviews	$	            189 Bedford Ave, Brooklyn, NY 11211	40.717567, -73.957871
+563	Taco Grill	3.0 star rating	40 reviews	$	            146 W 72nd St, New York, NY 10023	40.777847, -73.980626
+564	Santa Fe Grill	3.5 star rating	29 reviews	$$	            6025 Broadway, Bronx, NY 10471	40.891503, -73.897522
+565	El Bohemio Jarocho	4.0 star rating	2 reviews	None	            5507 5th Ave, Brooklyn, NY 11220	40.641965, -74.013181
+566	La Flor Del Paraiso	3.5 star rating	23 reviews	$$	            491 Atlantic Ave, Brooklyn, NY 11217	40.685877, -73.981443
+567	El Gallo Giro	4.0 star rating	18 reviews	$	            Roosevelt Ave &amp; 75th St, Jackson Heights, NY 11372	40.746942, -73.890501
+568	Panaderia Puebla	4.5 star rating	4 reviews	$	            3710 13th Ave, Brooklyn, NY 11218	40.641711, -73.985584
+569	Moe's Southwest Grill	3.0 star rating	61 reviews	$	            367 1st Ave, New York, NY 10010	40.736015, -73.979582
+570	Tacolandia	3.0 star rating	5 reviews	$	            2131 3rd Ave, New York, NY 10035	40.798165, -73.939521
+571	New Taco Express	4.0 star rating	10 reviews	$	            130 E 28th St, New York, NY 10016	40.742636, -73.982487
+572	Cocinando en Casa	3.5 star rating	3 reviews	$	            2006 2nd Ave, New York, NY 10029	40.788852, -73.943365
+573	Tacos El Rey	3.5 star rating	19 reviews	$	            3168 Coney Island Ave, Brooklyn, NY 11235	40.578794, -73.960018
+574	TRI Mexican Tacos	4.5 star rating	9 reviews	$	            20th St &amp; Broadway, New York, NY 10003	40.739156, -73.989762
+575	Chipotle Mexican Grill	3.5 star rating	97 reviews	$	            100 Maiden Ln, New York, NY 10005	40.706747, -74.007086
+576	Mexico Jophsua 19 Grocery & Restaurant	4.5 star rating	8 reviews	$	            134-06 Jamaica Ave, Richmond Hill, NY 11418	40.702200, -73.818386
+577	Taqueria Viva Mexico Kitchen Cafe	3.5 star rating	89 reviews	$	            133 Morris St, Jersey City, NJ 07302	40.713955, -74.040305
+578	Tehuitzingo	4.5 star rating	9 reviews	$	            578 9th Ave, New York, NY 10036	40.757960, -73.992458
+579	Takumi Taco	4.5 star rating	14 reviews	$	            27 N 6th St, New York, NY 11211	40.720030, -73.962366
+580	Famous Gourmet	4.5 star rating	3 reviews	$	            4415 4th Ave, Brooklyn, NY 11220	40.649290, -74.009144
+581	Famous Gourmet	4.5 star rating	3 reviews	$	            4415 4th Ave, Brooklyn, NY 11220	40.649290, -74.009144
+582	Orale Mexican Kitchen	3.5 star rating	166 reviews	$$	            341 Grove St, Jersey City, NJ 07302	40.720538, -74.043127
+583	Mexi BBQ	3.0 star rating	56 reviews	$$	            1633 2nd Ave, New York, NY 10028	40.777206, -73.952592
+584	Yuca Bar & Restaurant	4.0 star rating	937 reviews	$$	            111 Ave A, New York, NY 10009	40.726206, -73.983621
+585	Calexico Burrito Cart	4.0 star rating	33 reviews	$	            Broome &amp; Crosby St, New York, NY 10013	40.721384, -73.999063
+586	Tribeca Taco Truck	4.0 star rating	82 reviews	$	            Spring St &amp; Broadway, New York, NY 10012	40.723038, -73.998809
+587	Mi Pueblito	4.0 star rating	51 reviews	$	            412 Kearny Ave, Kearny, NJ 07032	40.764985, -74.147762
+588	Caracas Arepa Bar	4.0 star rating	1905 reviews	$$	            93 1/2 E 7th St, New York, NY 10009	40.726912, -73.985297
+589	La Campena	3.5 star rating	6 reviews	$$	            300 Morningstar Rd, Staten Island, NY 10303	40.631098, -74.147217
+590	Al Carbon Taco	3.0 star rating	3 reviews	None	            211 E 14th St, New York, NY 10003	40.733083, -73.986292
+591	Queen Of Tacos	4.0 star rating	18 reviews	$	            9 E Mosholu Pkwy N, Bronx, NY 10467	40.879591, -73.883332
+592	La Campena	3.5 star rating	6 reviews	$$	            300 Morningstar Rd, Staten Island, NY 10303	40.631098, -74.147217
+593	Sunnyside Fresh Taco	3.0 star rating	27 reviews	$	            4222 Greenpoint Ave, Sunnyside, NY 11104	40.740607, -73.922331
+594	El Charrito Restaurant	5.0 star rating	2 reviews	None	            214 Highlawn Ave, Brooklyn, NY 11223	40.603334, -73.977934
+595	Tacos Y Burrito Grill	2.5 star rating	11 reviews	$$	            252 Prospect Park W, Brooklyn, NY 11215	40.659123, -73.981812
+596	Tacos Los Poblanos	5.0 star rating	8 reviews	$	            5320 5th Ave, Brooklyn, NY 11220	40.643196, -74.012781
+597	Taco Santo	3.5 star rating	30 reviews	$$	            669 Union St, Brooklyn, NY 11215	40.677296, -73.982700
+598	Patty's Tacos - Truck	4.0 star rating	10 reviews	None	            86th &amp; Lexington Ave, New York, NY 10028	40.779497, -73.955568
+599	Mexicosina	4.0 star rating	20 reviews	$$	            503 Jackson Ave, Bronx, NY 10455	40.811878, -73.909676
+600	Baja Fresh	3.5 star rating	67 reviews	$$	            1441 Broadway, New York, NY 10018	40.754945, -73.987017
+601	Taco House	3.0 star rating	45 reviews	$	            178 Church St, New York, NY 10013	40.715690, -74.007605
+602	Las Rosas Bakery	4.5 star rating	19 reviews	$	            5824 4th Ave, Brooklyn, NY 11220	40.641708, -74.018056
+603	Rojas Coffee Shop	4.0 star rating	3 reviews	$	            47-02 Metropolitan Ave, Ridgewood, NY 11385	40.713552, -73.920043
+604	El Paso Taco Truck	4.5 star rating	6 reviews	$	            175-9 E 116th St., New York, NY 10029	40.798422, -73.940494
+605	Court Street Fresco Tortilla	3.0 star rating	13 reviews	$	            113 Court St, Brooklyn, NY 11201	40.690557, -73.991667
+606	Tacos Hidalgo	5.0 star rating	2 reviews	$	            154 Bleecker St, New York, NY 10012	40.728132, -73.999632
+607	Yummy Taco	2.5 star rating	19 reviews	$	            52 Willoughby St, Brooklyn, NY 11201	40.692006, -73.986800
+608	Chipotle Mexican Grill	4.0 star rating	34 reviews	$	            350 5th Ave, New York, NY 10118	40.748183, -73.985063
+609	La Canela Restaurant & Hookah Lounge	3.5 star rating	35 reviews	$$	            25-79 Steinway St, Astoria, NY 11103	40.765899, -73.913039
+610	Molcajete Taqueria	3.0 star rating	13 reviews	None	            494 Laguardia Pl, New York, NY 10012	40.727430, -73.999757
+611	Fresh Tortilla's	3.5 star rating	19 reviews	$	            595 W 207th Street, New York, NY 10034	40.867282, -73.920579
+612	Girasol Bakery	4.0 star rating	22 reviews	$	            690 5th Ave, Brooklyn, NY 11226	40.661537, -73.993481
+613	Fresh Pond Mexican Restaurant	3.0 star rating	8 reviews	None	            67-22 Fresh Pond Rd, Ridgewood, NY 11385	40.705157, -73.896602
+614	Citrus Bar & Grill	3.0 star rating	236 reviews	$$	            320 Amsterdam Ave, New York, NY 10023	40.780879, -73.980368
+615	Chipotle Mexican Grill	3.5 star rating	73 reviews	$	            2 Broadway, New York, NY 10004	40.704597, -74.013066
+616	Mariachi Taco	4.0 star rating	6 reviews	$	            3428 Fulton St, Brooklyn, NY 11208	40.684265, -73.869112
+617	Calle Ocho	4.0 star rating	1387 reviews	$$	            45 W 81st St, New York, NY 10024	40.783065, -73.973671
+618	Victoria Restaurant	3.5 star rating	9 reviews	$	            3825 Broadway Ave, New York, NY 10032	40.857930, -73.930931
+619	Don Paco Lopez Tortas	4.0 star rating	6 reviews	$$	            2131 3rd Ave, Manhattan, NY 10029	40.798165, -73.939521
+620	Burrito Loco Restaurant	3.0 star rating	127 reviews	$$	            166 W 4th St, New York, NY 10014	40.731939, -74.001561
+621	Taqueria Guadalupe	1.5 star rating	7 reviews	None	            1743 Lexington Ave, New York, NY 10029	40.793707, -73.944913
+622	San Luis Tacos Truck	3.5 star rating	8 reviews	$	            129 Front St, New York, NY 10005	40.705139, -74.006235
+623	Queens Comfort	4.0 star rating	534 reviews	$$	            4009 30th Ave, Astoria, NY 11103	40.763788, -73.914594
+624	Tri Mexican Tacos	4.0 star rating	9 reviews	$	            46th St &amp; Greenpoint Ave, Sunnyside, NY 11104	40.742177, -73.918908
+625	GuacStar	3.0 star rating	26 reviews	$$	            43 Water St, New York, NY 10004	40.703275, -74.010226
+626	La Casa Del Idolo Restuarant	4.0 star rating	2 reviews	None	            9107 Corona Ave, Elmhurst, NY 11373	40.742507, -73.873246
+627	Los Molcajetes	4.5 star rating	3 reviews	None	            25-22 30 Ave, Long Island City, NY 11102	40.768067, -73.924520
+628	Gonzalez Mexican Restaurant	3.5 star rating	4 reviews	$	            830 Coney Island Ave, Brooklyn, NY 11218	40.637169, -73.968557
+629	Magic Chef	3.5 star rating	10 reviews	$	            4537 Bell Blvd, Bayside, NY 11361	40.759313, -73.768428
+630	Taqueria El Gallo Azteca	5.0 star rating	4 reviews	$	            75 Victory Blvd, Staten Island, NY 10301	40.638418, -74.078672
+631	Downtown Bakery	4.0 star rating	139 reviews	$	            69 1st Ave, New York, NY 10003	40.725472, -73.987251
+632	Los Pollitos III	2.5 star rating	52 reviews	$$	            499 Myrtle Ave, Brooklyn, NY 11205	40.693721, -73.965134
+633	La Cabana Restaursant	3.0 star rating	3 reviews	None	            2277 1st Ave, New York, NY 10035	40.796882, -73.935097
+634	Tacos Matamoros II	3.5 star rating	14 reviews	$	            5717 5th Ave, Brooklyn, NY 11220	40.640676, -74.014524
+635	Charrito's	3.5 star rating	125 reviews	$$	            1024 Washington St, Hoboken, NJ 07030	40.749453, -74.027568
+636	La Cemita Restaurant	3.0 star rating	4 reviews	$	            6417 20th Ave, Brooklyn, NY 11204	40.616551, -73.985416
+637	Salerno Pizza	3.0 star rating	17 reviews	$	            29-24 30th Ave, Astoria, NY 11102	40.767289, -73.922863
+638	Delicias Pizza & Fried Chicken	3.5 star rating	15 reviews	$	            141-20 Holly Ave, New York, NY 11355	40.751723, -73.817102
+639	Ok Mr. Pancho	4.0 star rating	12 reviews	$	            2871 Webster Ave, Bronx, NY 10458	40.867235, -73.883986
+640	Sandro's Latin Food	4.5 star rating	35 reviews	$$	            2703 23rd Ave, Astoria, NY 11105	40.776073, -73.914842
+641	Delicias Pizza & Fried Chicken	3.5 star rating	15 reviews	$	            141-20 Holly Ave, New York, NY 11355	40.751723, -73.817102
+642	Sandro's Latin Food	4.5 star rating	35 reviews	$$	            2703 23rd Ave, Astoria, NY 11105	40.776073, -73.914842
+643	ABC Cocina	4.0 star rating	186 reviews	$$$	            38 E 19th St, New York, NY 10003	40.738050, -73.989225
+644	Fresco Tortillas II	3.0 star rating	11 reviews	$	            561 W 235th St, Bronx, NY 10463	40.885722, -73.910024
+645	Jalapeno NYC Truck	4.0 star rating	4 reviews	$	            New York, NY,         </address>	40.714353, -74.005973
+646	Taquitoria	4.5 star rating	30 reviews	$	            168 Ludlow St, New York, NY 10002	40.721383, -73.987416
+647	Burrito Mariachi	2.5 star rating	19 reviews	$	            189 Church St, New York, NY 10007	40.715834, -74.006972
+648	Qdoba	3.5 star rating	14 reviews	$$	            2335 Richmond Ave, New York, NY 10314	40.590256, -74.166438
+649	Puebla Mexican Food & Coffee Shop	3.5 star rating	74 reviews	$	            47 1st Ave, New York, NY 10003	40.724486, -73.987921
+650	Chipotle Mexican Grill	3.5 star rating	64 reviews	$	            129 W 48th St, New York, NY 10020	40.759550, -73.983224
+651	Qdoba	3.5 star rating	14 reviews	$$	            2335 Richmond Ave, New York, NY 10314	40.590256, -74.166438
+652	Biggies Mexican Restaurant	4.0 star rating	13 reviews	$	            3700 Bergenline Ave, Union City, NJ 07087	40.774753, -74.026998
+653	La Candela Espanola	3.5 star rating	33 reviews	$$	            3925 Amboy Rd, Staten Island, NY 10308	40.551592, -74.149438
+654	The Original Fresh Tortillas Grill	2.5 star rating	21 reviews	$	            573 2nd Ave, New York, NY 10016	40.743311, -73.977343
+655	Nick's Place	4.0 star rating	11 reviews	$$	            201 West 39th Street, New York, NY 10018	40.754365, -73.988709
+656	St James Deli	4.0 star rating	16 reviews	$	            34-02 34th Ave, Astoria, NY 11106	40.758341, -73.924819
+657	Teqa	2.5 star rating	184 reviews	$$$	            443 3rd Ave, New York, NY 10016	40.743580, -73.979408
+658	Mi Pequeo Mexico	3.5 star rating	62 reviews	$$	            81 Ferry St, Newark, NJ 07105	40.731216, -74.161950
+659	Taco Veloz	4.0 star rating	14 reviews	$	            8610 Roosevelt Ave, Jackson Heights, NY 11372	40.747817, -73.879886
+660	Calexico	3.5 star rating	24 reviews	$$	            278B 5th Ave, Brooklyn, NY 11215	40.674286, -73.982412
+661	Pico de Gallo	4.5 star rating	3 reviews	$$	            82-12 Roosevelt Ave, Jackson Heights, NY 11372	40.747679, -73.883427
+662	El Verano Taqueria	4.0 star rating	11 reviews	$	            12301 Roosevelt Ave, Flushing, NY 11368	40.755916, -73.849069
+663	Bogota Latin Bistro	4.0 star rating	975 reviews	$$	            141 5th Ave, Brooklyn, NY 11217	40.678271, -73.979177
+664	Estrellita Poblana V	4.5 star rating	9 reviews	None	            240 W 231st St, New York, NY 10463	40.879615, -73.906225
+665	B'klyn Burro	4.0 star rating	11 reviews	$$	            90 Manhattan Ave, Brooklyn, NY 11206	40.705360, -73.944341
+666	Yummy Taco	2.5 star rating	35 reviews	$	            129 Church Ave, Brooklyn, NY 11218	40.643407, -73.978518
+667	Cafe R	3.0 star rating	86 reviews	$	            116 W 32nd St, New York, NY 10001	40.748930, -73.989751
+668	Aprobecho Mexican Restaurant	1.5 star rating	3 reviews	$	            1229 1st Ave, New York, NY 10065	40.765629, -73.957915
+669	Las Chicas Locas	2.5 star rating	42 reviews	$$$	            160 W 25th St, New York, NY 10001	40.744996, -73.994261
+670	Viva Empanada	4.0 star rating	9 reviews	$	            15935A Crossbay Blvd, Howard Beach, NY 11414	40.634088, -73.829725
+671	China One Taco House	2.0 star rating	6 reviews	$	            4420 48th Ave, Woodside, NY 11377	40.739242, -73.920558
+672	Cheong Fun Cart	4.5 star rating	10 reviews	$	            On the Corner of Elizabeth St and Hester St., Manhattan, NY 10013	40.716945, -73.994473
+673	El Matador Mexican Deli & Restaurant	4.5 star rating	45 reviews	$	            258 Montgomery St, Bloomfield, NJ 07003	40.792053, -74.192041
+674	New Yummy Taco	3.0 star rating	26 reviews	$	            177-09 Union Tpke, Jamaica, NY 11366	40.726325, -73.790668
+675	Tacos Al Suedero	3.5 star rating	7 reviews	$	            9406 Roosevelt Ave, Jackson Heights, NY 11372	40.748721, -73.872008
+676	Jalepeno Restaurant Corporation	4.5 star rating	2 reviews	None	            641 President St, Brooklyn, NY 11215	40.676288, -73.981296
+677	El Aguila III	4.0 star rating	4 reviews	None	            1215 Lexington Ave, New York, NY 10028	40.777019, -73.957166
+678	Taqueria Puebla	3.5 star rating	5 reviews	$	            374 Avenue P, Brooklyn, NY 11204	40.608470, -73.973663
+679	El Puerto Jarocho Bar Restaurant	4.0 star rating	4 reviews	$	            84-28 Jamaica Ave, Queens, NY 11421	40.692431, -73.859824
+680	La Flor Del Paraiso III	4.0 star rating	11 reviews	$	            520 3rd Ave, Brooklyn, NY 11215	40.669678, -73.992824
+681	Taqueria El Paisa	3.5 star rating	11 reviews	$	            298 Irving Ave, Brooklyn, NY 11237	40.698984, -73.914587
+682	Sabor De Mexico	2.5 star rating	14 reviews	$	            76 Nassau St, New York, NY 10038	40.709629, -74.008071
+683	Temaxcal G.M.C. Deli & Grocery	5.0 star rating	5 reviews	$	            163 Park Ave, Brooklyn, NY 11205	40.696420, -73.972955
+684	Veronica's Kitchen	4.0 star rating	78 reviews	$	            Water Street between Pine and Wall St, New York, NY 10005	40.706001, -74.008819
+685	Macondo	3.5 star rating	443 reviews	$$	            157 E Houston St, New York, NY 10002	40.722806, -73.989212
+686	MexiCali	1.0 star rating	5 reviews	$$	            1571 2nd Ave, Manhattan, NY 10028	40.775251, -73.954166
+687	2004 Viva Mexico	2.0 star rating	7 reviews	$	            3913 5th Avenue, Brooklyn, NY 11232	40.650791, -74.003948
+688	Top Tortillas	4.0 star rating	17 reviews	$	            3038 Buhre Ave, Bronx, NY 10461	40.847429, -73.831060
+689	La Hacienda	2.5 star rating	2 reviews	$$	            219 E 116th St, New York, NY 10029	40.797780, -73.938981
+690	Joselito Restaurant	4.0 star rating	10 reviews	$	            125 Ave D, New York, NY 10009	40.724171, -73.976014
+691	Tacos California	3.5 star rating	8 reviews	None	            4616 5th Ave, Brooklyn, NY 11220	40.647171, -74.008593
+692	Sabor de Mexico	2.5 star rating	14 reviews	$	            11 Park Pl, New York, NY 10007	40.713051, -74.008293
+693	Connie's Deli	4.5 star rating	3 reviews	$	            240 E 204th St, Bronx, NY 10458	40.874265, -73.884543
+694	What A Taco	2.5 star rating	22 reviews	$	            8612 4th Ave, Brooklyn, NY 11209	40.622473, -74.028821
+695	Charrito's Restaurant	3.5 star rating	125 reviews	$$	            974 Blvd E, Weehawken, NJ 07086	40.777142, -74.013831
+696	Empanada Mama	4.0 star rating	1101 reviews	$	            763 9th Ave, New York, NY 10019	40.764413, -73.988693
+697	Gloria's Mexican Food Cart	3.5 star rating	2 reviews	$	            Nassau St at Cedar St, New York, NY 10271	40.708157, -74.009800
+698	Chipotle Mexican Grill	3.5 star rating	84 reviews	$	            55 E 8th St, New York, NY 10003	40.731144, -73.993429
+699	The Jalapeo	2.5 star rating	5 reviews	None	            University Pl and Waverly Pl, Manhattan, NY 10003	40.730702, -73.995581
+700	IXTA Cocina Mexicana and Tequila Bar	4.0 star rating	2 reviews	None	            48 East 29th Street, New York, NY 10016	40.743936, -73.984193
+701	Cowgirl Sea Horse	4.0 star rating	251 reviews	$$	            259 Front St, New York, NY 10038	40.708102, -74.000459
+702	New Yummy Taco	3.5 star rating	12 reviews	$	            1106 8th Ave, Brooklyn, NY 11215	40.664303, -73.980452
+703	Tequila Bar and Grill	4.0 star rating	5 reviews	$$	            4460 Broadway Ave, New York, NY 10040	40.857930, -73.930931
+704	Gourmet Oasis	5.0 star rating	1 review	None	            1499 Bruckner Blvd, Bronx, NY 10472	40.823944, -73.879337
+705	Fresco Tortillas	2.5 star rating	15 reviews	$	            536 9th Ave, New York, NY 10018	40.756790, -73.993408
+706	Los Americanos	4.0 star rating	39 reviews	$$	            305 Church St, New York, NY 10013	40.719574, -74.003977
+707	Taqueria Mi Mariachi	4.0 star rating	41 reviews	$	            213 Sip Ave, Jersey City, NJ 07306	40.731562, -74.069740
+708	Yemen Cafe	4.0 star rating	117 reviews	$$	            176 Atlantic Ave, Brooklyn, NY 11201	40.689830, -73.993699
+709	Happy Fresh Taco	3.5 star rating	22 reviews	$	            1693A Putnam Ave, Ridgewood, NY 11385	40.699904, -73.907131
+710	Blend	3.5 star rating	266 reviews	$$	            47-04 Vernon Blvd, Long Island City, NY 11101	40.745386, -73.953512
+711	Casa Adela	4.0 star rating	126 reviews	$	            66 Ave C, New York, NY 10009	40.722626, -73.979679
+712	El Tamal	4.5 star rating	3 reviews	None	            85 18th St, Brooklyn, NY 11226	40.649114, -73.962975
+713	Tacos & More	2.5 star rating	7 reviews	$$	            668 Manhattan Ave, Brooklyn, NY 11222	40.724789, -73.951140
+714	La Cocina Mexicana	2.5 star rating	15 reviews	$$	            217 W 85th St, New York, NY 10024	40.787576, -73.976447
+715	Gramercy Grill	3.5 star rating	8 reviews	$	            32 Lexington Ave, New York, NY 10017	40.740023, -73.984633
+716	Place To Beach	2.5 star rating	13 reviews	None	            1302 Broadwalk W, Brooklyn, NY 11224	40.573459, -73.976962
+717	Tacolandia	2.5 star rating	9 reviews	$	            7704 Roosevelt Ave, Jackson Heights, NY 11372	40.747173, -73.888292
+718	Carlos & Gabby's	2.5 star rating	11 reviews	$$	            5685 Riverdale Ave, Bronx, NY 10471	40.906565, -73.904200
+719	Yerba Buena	4.0 star rating	493 reviews	$$$	            23 Ave A, New York, NY 10009	40.722931, -73.986011
+720	Tacos Cachanilla	3.0 star rating	10 reviews	$	            5807 5th Ave, Brooklyn, NY 11220	40.640276, -74.014930
+721	Chipotle Mexican Grill	3.0 star rating	13 reviews	$$	            405 6th Ave, New York, NY 10014	40.733602, -73.999983
+722	Chipotle	3.5 star rating	68 reviews	$	            150 E 44th St, New York, NY 10017	40.752107, -73.974246
+723	Essex	3.5 star rating	1118 reviews	$$	            120 Essex St, New York, NY 10002	40.719324, -73.987446
+724	Tortillas King Inc	5.0 star rating	4 reviews	$	            2238 86th St, Brooklyn, NY 11214	40.601099, -73.992983
+725	Tortillas Restaurant	3.0 star rating	9 reviews	$	            1049 Saint Nicholas Ave, New York, NY 10032	40.836719, -73.940321
+726	983-Bushwick's Living Room	3.5 star rating	94 reviews	$$	            983 Flushing Ave, Brooklyn, NY 11206	40.703085, -73.933402
+727	El Tapatio Mexican Restaurant	2.5 star rating	10 reviews	$	            209 E 116th St, New York, NY 10029	40.797836, -73.939220
+728	Mezcal's Mexican Restaurant	2.0 star rating	50 reviews	$$	            396 5th Ave, Brooklyn, NY 11215	40.670753, -73.985311
+729	Breakroom	4.5 star rating	128 reviews	$	            83 Baxter St, New York, NY 10013	40.716616, -73.999588
+730	Wah Fung #1 Fast Food	4.5 star rating	223 reviews	$	            79 Chrystie St, New York, NY 10002	40.717339, -73.994584
+731	Maizal Mexican Cuisine & Tequila Bar	4.5 star rating	13 reviews	$$	            32-07 34th Ave, Astoria, NY 11106	40.759352, -73.926009
+732	El Cocotero	4.0 star rating	280 reviews	$$	            228 W 18th St, New York, NY 10011	40.741489, -73.999373
+733	Calexico Cart	4.5 star rating	5 reviews	None	            Worth Square, New York, NY 10010	40.742744, -73.988972
+734	El Nuevo Amanecer Restaurant	3.0 star rating	58 reviews	$$	            117 Stanton St, New York, NY 10002	40.720963, -73.987229
+735	The Brothers L&C Latin Fast Food Truck	3.0 star rating	5 reviews	$	            18th St at 6th Ave, New York, NY 10011	40.739853, -73.995022
+736	El Poblano Restaurant	3.5 star rating	3 reviews	$	            75-13 Roosevelt Ave, Jackson Heights, NY 11372	40.747117, -73.889978
+737	Taco King	3.5 star rating	24 reviews	$	            25631 Union Tpke, Glen Oaks, NY 11004	40.745503, -73.714957
+738	Flacoz Tacoz	2.0 star rating	9 reviews	$	            311 E 23rd St, New York, NY 10010	40.737447, -73.980442
+739	Burrito House	2.5 star rating	20 reviews	$	            189 Church St, New York, NY 10007	40.715834, -74.006972
+740	La Cenita Steak	3.5 star rating	48 reviews	$$$$	            409 W 14th St, New York, NY 10014	40.741534, -74.005972
+741	Taqueria Tulcingo	3.5 star rating	6 reviews	$	            40-10 83rd St, Elmhurst, NY 11373	40.731401, -73.882120
+742	San Miguel	4.5 star rating	2 reviews	None	            680 Cary Ave, New York, NY 10310	40.631639, -74.124589
+743	Burrito House	2.5 star rating	20 reviews	$	            189 Church St, New York, NY 10007	40.715834, -74.006972
+744	East LA	3.0 star rating	146 reviews	$$	            508 Washington St, Hoboken, NJ 07030	40.742583, -74.029630
+745	Chipotle Mexican Grill	3.0 star rating	23 reviews	$	            275 Greenwich St, New York, NY 10007	40.715180, -74.010992
+746	Palo Santo	4.0 star rating	239 reviews	$$	            652 Union St, Brooklyn, NY 11215	40.676716, -73.982009
+747	Cubana Cafe	3.5 star rating	223 reviews	$$	            80 6th Ave, Brooklyn, NY 11217	40.680065, -73.975109
+748	El Nuevo Portal	4.0 star rating	52 reviews	$	            217 Smith Street, Brooklyn, NY 11231	40.684475, -73.991871
+749	Lea Latin Grill	4.0 star rating	160 reviews	$$	            34 W 35th St, New York, NY 10001	40.749630, -73.985826
+750	Eggs Travaganza	3.5 star rating	42 reviews	$	            NE Corner of 52nd St and Park Ave, New York, NY 10022	40.758390, -73.972952
+751	Eggs Travaganza	3.5 star rating	42 reviews	$	            NE Corner of 52nd St and Park Ave, New York, NY 10022	40.758390, -73.972952
+752	El Almacen	4.0 star rating	305 reviews	$$	            557 Driggs Ave, Brooklyn, NY 11211	40.716800, -73.956455
+753	Flor De Mayo	4.0 star rating	596 reviews	$$	            484 Amsterdam Ave, New York, NY 10024	40.786086, -73.976579
+754	Agave Blue Cantina	4.0 star rating	5 reviews	None	            650 W 42nd St, Manhattan, NY 10036	40.761040, -74.000224
+755	El Bracero	3.0 star rating	8 reviews	$	            973 Columbus Ave, New York, NY 10025	40.800244, -73.961710
+756	El Sabroso	4.0 star rating	49 reviews	$	            265 W 37th St, New York, NY 10018	40.754190, -73.991748
+757	Los Tacos Locos	2.5 star rating	3 reviews	$	            32-15 Junction Blvd, Jackson Heights, NY 11369	40.758139, -73.874354
+758	Caracas Arepa Bar	4.0 star rating	486 reviews	$$	            291 Grand St, Brooklyn, NY 11211	40.713201, -73.957399
+759	Taco Bell	4.0 star rating	5 reviews	$	            9701 Atlantic Ave, Woodhaven, NY 11421	40.689414, -73.845603
+760	Westville	4.0 star rating	654 reviews	$$	            210 W 10th St, New York, NY 10014	40.733955, -74.004169
+761	Caracas Arepa Bar	4.0 star rating	486 reviews	$$	            291 Grand St, Brooklyn, NY 11211	40.713201, -73.957399
+762	Taco Bell	4.0 star rating	5 reviews	$	            9701 Atlantic Ave, Woodhaven, NY 11421	40.689414, -73.845603
+763	Los Lobos	3.0 star rating	5 reviews	$$	            140 New Dorp Ln, Staten Island, NY 10306	40.573592, -74.116147
+764	Vallecito Bakery	4.0 star rating	3 reviews	$	            40-06 Benham St, Elmhurst, NY 11373	40.748188, -73.875250
+765	Taco Box	3.5 star rating	16 reviews	$$	            358 Bowery, New York, NY 10003	40.727023, -73.991845
+766	Chipotle	3.5 star rating	42 reviews	$$	            200 Varick St, New York, NY 10014	40.728165, -74.005140
+767	Great Jones Cafe	4.0 star rating	311 reviews	$$	            54 Great Jones St, New York, NY 10012	40.726720, -73.992158
+768	Moe's Southwest Grill	3.5 star rating	25 reviews	$	            30-33 Steinway St, Astoria, NY 11103	40.762960, -73.915743
+769	Out Latin Food	3.0 star rating	19 reviews	$$	            710 9th Ave, New York, NY 10019	40.762437, -73.989299
+770	Moe's Southwest Grill	2.5 star rating	31 reviews	$	            2397 Hylan Blvd, Staten Island, NY 10314	40.572567, -74.108106
+771	Tom's	4.0 star rating	645 reviews	$	            782 Washington Ave, Brooklyn, NY 11238	40.674477, -73.963419
+772	Yummy Chinese & Taco	3.5 star rating	9 reviews	$	            1508 Sheepshead Bay Rd, Brooklyn, NY 11235	40.587231, -73.953610
+773	Di Di	3.0 star rating	5 reviews	$	            437 5th Ave, Brooklyn, NY 11215	40.669312, -73.985841
+774	Zengo	3.5 star rating	407 reviews	$$$	            622 3rd Ave at 40th St, New York, NY 10017	40.749697, -73.975535
+775	Tacos El Vagabundo	4.0 star rating	57 reviews	$	            Queens Blvd &amp; 41st St, Sunnyside, NY 11104	40.743550, -73.923361
+776	Tierras Colombianas	3.5 star rating	114 reviews	$$	            3301 Broadway, Long Island City, NY 11106	40.761325, -73.923508
+777	Endless Summer	3.5 star rating	157 reviews	$	            261 Bedford Ave, Brooklyn, NY 11211	40.715085, -73.960428
+778	Dulce Vida Cafe & Restaurant	3.5 star rating	79 reviews	$$	            1219 Lexington Ave, New York, NY 10028	40.777146, -73.957121
+779	Baja Mexican Cuisine	3.0 star rating	89 reviews	$$	            104 14th St, Hoboken, NJ 07030	40.753520, -74.026359
+780	Genesis Restaurant	4.0 star rating	2 reviews	$	            7804 Woodside Ave, Flushing, NY 11373	40.743442, -73.886834
+781	211 New Taco Grill	3.0 star rating	18 reviews	$	            211 E 14th St, New York, NY 10003	40.733083, -73.986292
+782	Moe's Southwest Grill	3.5 star rating	48 reviews	$	            1 Penn Plz, New York, NY 10119	40.751129, -73.992471
+783	Flaming Burritos	3.5 star rating	56 reviews	$	            4625 Park Ave, Union City, NJ 07087	40.778443, -74.016900
+784	Fuego Royal	4.0 star rating	11 reviews	$$	            4620 5th Ave, Brooklyn, NY 10037	40.773770, -73.966089
+785	Le Bernardin	4.5 star rating	1221 reviews	$$$$	            155 W 51st St, New York, NY 10019	40.761471, -73.981702
+786	The Great Burrito	4.5 star rating	20 reviews	$$	            10 Hilliard Ave, Edgewater, NJ 07020	40.826050, -73.974592
+787	Best Time	3.5 star rating	3 reviews	$	            1571 Lexington Ave, Manhattan, NY 10029	40.788678, -73.948518
+788	Chipotle	2.5 star rating	64 reviews	$$	            70-30 Austin St, Forest Hills, NY 11375	40.720174, -73.845935
+789	Marcelinas Mexican Food	4.0 star rating	2 reviews	None	            913 Flushing Ave, Brooklyn, NY 11206	40.702327, -73.936332
+790	Los 3 Potrillos	2.5 star rating	11 reviews	$$	            111-16 Roosevelt Ave, Corona, NY 11368	40.751531, -73.855080
+791	Los 3 Potrillos	2.5 star rating	11 reviews	$$	            111-16 Roosevelt Ave, Corona, NY 11368	40.751531, -73.855080
+792	Yummy Taco	3.5 star rating	33 reviews	$	            48-14 Broadway, Long Island City, NY 11106	40.765075, -73.932325
+793	Cachapas Y Mas	4.0 star rating	121 reviews	$	            107B Dyckman St, New York, NY 10034	40.862114, -73.924793
+794	Palacio De Las Empanada 2	4.5 star rating	9 reviews	$	            4219 College Point Blvd, Flushing, NY 11355	40.757121, -73.834809
+795	Riviera Maya Mexican Cuisine	4.0 star rating	73 reviews	$$	            252 E Fort Lee Rd, Bogota, NJ 07603	40.874246, -74.023812
+796	El Tequilero	3.0 star rating	2 reviews	None	            39-22 61st St, Woodside, NY 11377	40.746597, -73.903270
+797	Tacos & Bakery El Jalapeo	5.0 star rating	1 review	None	            81-10 Broadway, New York, NY 11373	40.743273, -73.883635
+798	Guayoyo	4.0 star rating	164 reviews	$$	            67 1st Ave, New York, NY 10003	40.725414, -73.987292
+799	Pies-n-Thighs	4.0 star rating	1247 reviews	$$	            166 S 4th St, Brooklyn, NY 11211	40.711168, -73.961426
+800	Tacos Mexico Restaurant & Bar	4.0 star rating	4 reviews	$$	            4110 102nd St, Corona, NY 11368	40.748109, -73.863601
+801	Snack Dragon Taco Shack	3.5 star rating	177 reviews	$	            199 E 3rd St, New York, NY 10002	40.722831, -73.983102
+802	Plaza Garibaldi	4.5 star rating	3 reviews	$$	            8912 Roosevelt Ave, Jackson Heights, NY 11372	40.748125, -73.877369
+803	El Lobito Loco	3.5 star rating	2 reviews	$$	            74 Victory Blvd, Staten Island, NY 10301	40.637949, -74.079020
+804	Fresh Tortillas Grill Tex-Mex Food	3.0 star rating	22 reviews	$	            118-19 Metropolitan Ave, New York, NY 11415	40.706929, -73.834503
+805	El Maguey Bar Lounge	3.0 star rating	16 reviews	$$	            3473 Broadway, New York, NY 10031	40.824417, -73.952312
+806	Delicioso Restaurant	3.0 star rating	8 reviews	$$	            423 E 149th St, Bronx, NY 10455	40.815967, -73.916833
+807	Clinton St. Baking Company	4.0 star rating	2172 reviews	$$	            4 Clinton St, New York, NY 10002	40.721143, -73.983863
+808	El Malecon Restaurant	4.0 star rating	272 reviews	$$	            4141 Bdwy, New York, NY 10033	40.846510, -73.938824
+809	Guacamole'X	4.5 star rating	2 reviews	$	            451 Morris Park Ave, Bronx, NY 10460	40.840608, -73.873215
+810	Cafe Luluc	4.0 star rating	509 reviews	$$	            214 Smith St, Brooklyn, NY 11201	40.684500, -73.992246
+811	Tacos y Quesadillas Mexicanos	4.5 star rating	18 reviews	$	            6022 Roosevelt Ave, Woodside, NY 11377	40.745446, -73.903609
+812	Piquant	3.5 star rating	219 reviews	$$	            259 Flatbush Ave, Brooklyn, NY 11217	40.680150, -73.974212
+813	Fresh Taco Twin Dragon Restaurant	3.5 star rating	5 reviews	$$	            1556A White Plains Rd, Bronx, NY 10462	40.839503, -73.863716
+814	Jimbo's Hamburger Palace	3.0 star rating	7 reviews	$	            284 Lenox Ave, New York, NY 10027	40.807219, -73.945773
+815	Authentic Mexican Cuisine & American Fast Food Cart	4.0 star rating	7 reviews	$	            Metropolitan Ave and Bedford Ave, Brooklyn, NY 11211	40.715311, -73.960437
+816	Chipotle	3.5 star rating	85 reviews	$	            304 W 34th St, New York, NY 10001	40.752359, -73.993903
+817	Mexicocina	4.0 star rating	3 reviews	$	            503 Jackson Ave, West Bronx, NY 10455	40.811878, -73.909676
+818	Snack Dragon Taco Shack II	3.5 star rating	83 reviews	$	            164 Orchard St, New York, NY 10002	40.721092, -73.988443
+819	Los Paisamos Deli	3.0 star rating	1 review	None	            974 McDonald Ave, Brooklyn, NY 11230	40.629978, -73.977315
+820	Cafe El Idolo	3.5 star rating	2 reviews	None	            4th St &amp; 2nd Ave, New York, NY 10003	40.726160, -73.989438
+821	Cafe El Idolo	3.5 star rating	2 reviews	None	            4th St &amp; 2nd Ave, New York, NY 10003	40.726160, -73.989438
+822	New Taco Express	3.0 star rating	12 reviews	$	            858 10th Ave, New York, NY 10019	40.768559, -73.988554
+823	Chipotle	3.5 star rating	126 reviews	$	            185 Montague St, Brooklyn, NY 11201	40.694379, -73.991836
+824	Margot Restaurant	4.0 star rating	58 reviews	$	            3822 Broadway, New York, NY 10032	40.835326, -73.943525
+825	Calico Jack's Cantina	2.0 star rating	221 reviews	$$	            800 2nd Ave, New York, NY 10017	40.749838, -73.971728
+826	Carta Azul	4.0 star rating	2 reviews	$$	            103 W 14th St, New York, NY 10011	40.737857, -73.997203
+827	Brooklyn Label	3.0 star rating	301 reviews	$$	            180 Franklin St, Brooklyn, NY 11222	40.731476, -73.957731
+828	Jane	4.0 star rating	1531 reviews	$$	            100 W Houston St, New York, NY 10012	40.727370, -74.000251
+829	La Hoguera Paisa	4.0 star rating	10 reviews	None	            40-12 Queens Blvd, Sunnyside, NY 11104	40.743593, -73.923858
+830	El paraiso	4.0 star rating	1 review	None	            353 Myrtle Ave, Brooklyn, NY 11205	40.693232, -73.972151
+831	Taco Bite Food Truck	4.0 star rating	34 reviews	$	            New York, NY 10005,         </address>	40.699843, -74.007244
+832	Times Restaurant & Bar	2.0 star rating	5 reviews	$$	            601 8th Ave, New York, NY 10018	40.755652, -73.991352
+833	Lobster Joint	4.0 star rating	247 reviews	$$	            1073 Manhattan Ave, Brooklyn, NY 11222	40.735387, -73.955409
+834	Chipotle	2.5 star rating	20 reviews	$$	            1153 3rd Ave, Manhattan, NY 10065	40.766659, -73.962466
+835	Tacos Juquilita	4.5 star rating	4 reviews	$	            28th Street and 6th Ave, New York, NY 10001	40.746024, -73.990520
+836	Chipotle	3.0 star rating	46 reviews	$	            283 7th Ave, New York, NY 10001	40.746076, -73.993954
+837	Sugar Freak	4.0 star rating	438 reviews	$$	            36-18 30th Ave, Astoria, NY 11103	40.764514, -73.916912
+838	King of Falafel & Shawarma	4.5 star rating	340 reviews	$	            30th St &amp; Broadway, Astoria, NY 11106	40.762363, -73.926172
+839	Chipotle Mexican Grill	3.5 star rating	14 reviews	$	            1379 6th Ave, New York, NY 10019	40.763701, -73.977925
+840	Arepera Guacuco Restaurant	4.0 star rating	196 reviews	$$	            44 Irving Ave, Brooklyn, NY 11237	40.704586, -73.924621
+841	Arepera Guacuco Restaurant	4.0 star rating	196 reviews	$$	            44 Irving Ave, Brooklyn, NY 11237	40.704586, -73.924621
+842	Saln Hecho	3.5 star rating	7 reviews	$$$	            356 Bowery, Manhattan, NY 10003	40.727118, -73.991587
+843	Chipotle	3.5 star rating	51 reviews	$	            620 9th Ave, New York, NY 10036	40.759569, -73.991598
+844	Le Barricou	4.0 star rating	501 reviews	$$	            533 Grand St, Brooklyn, NY 11211	40.711237, -73.950074
+845	Yerba Buena Perry	4.0 star rating	321 reviews	$$$	            1 Perry St, New York, NY 10014	40.735987, -74.000974
+846	Firehouse	3.0 star rating	89 reviews	$$	            522 Columbus Ave, New York, NY 10024	40.785941, -73.972640
+847	Las Margaritas	3.0 star rating	37 reviews	$$	            83-22 37th Ave, Jackson Heights, NY 11372	40.749913, -73.882699
+848	Sabor Mexicano	4.0 star rating	2 reviews	None	            105-09 Northern Blvd, East Elmhurst, NY 11368	40.757907, -73.863314
+849	Fresh Tortillas & Taco	2.5 star rating	2 reviews	$	            78 Victory Blvd, Staten Island, NY 10301	40.637893, -74.079136
+850	Tortas a la Plancha Don Pepe	4.0 star rating	15 reviews	$	            3908 5th Ave, Brooklyn, NY 11232	40.651166, -74.004384
+851	Azul Tequila	3.0 star rating	5 reviews	None	            783 Lydig Ave, New York, NY 10462	40.854449, -73.864381
+852	Los Perros Locos	4.0 star rating	154 reviews	$	            201 Allen St, New York, NY 10002	40.722535, -73.989185
+853	King Taco Supreme	2.5 star rating	5 reviews	$	            3806 Ft Hamilton Pkwy, Brooklyn, NY 11219	40.643622, -73.990232
+854	Taco King	3.0 star rating	18 reviews	$	            7306 Bell Blvd, Oakland Gardens, NY 11364	40.740622, -73.758272
+855	Mussels & More	4.0 star rating	141 reviews	$$	            8001 5th Ave, Brooklyn, NY 11209	40.625480, -74.023906
+856	Freshco Burrito Taco	2.5 star rating	10 reviews	$	            235 Sullivan St, New York, NY 10012	40.729764, -73.999390
+857	El Ay Si	3.5 star rating	245 reviews	$$	            47-38 Vernon Blvd, Long Island City, NY 11101	40.744456, -73.953825
+858	Cookshop	4.0 star rating	843 reviews	$$$	            156 10th Ave, New York, NY 10011	40.745519, -74.005483
+859	Casa Piquin	3.5 star rating	79 reviews	$$	            537 Bloomfield Ave, Montclair, NJ 07042	40.815247, -74.219274
+860	Express Soft Taco	3.0 star rating	15 reviews	None	            10123 Queens Blvd, Forest Hills, NY 11375	40.719033, -73.839101
+861	Molcajete	3.0 star rating	2 reviews	None	            25-22 30th Ave, Queens, NY 11102	40.768067, -73.924520
+862	Habana To Go	4.0 star rating	2 reviews	$$	            690 Fulton St, Brooklyn, NY 11217	40.686060, -73.974227
+863	Yummy Taco	2.5 star rating	9 reviews	$	            22107 Jamaica Ave, Queens Village, NY 11428	40.720075, -73.733006
+864	Ines Bakery	3.5 star rating	14 reviews	$	            948 4th Ave, Brooklyn, NY 11220	40.654630, -74.004519
+865	AG Kitchen	3.0 star rating	177 reviews	$$	            269 Columbus Ave, New York, NY 10023	40.777683, -73.978352
+866	Win Xin Kitchen	2.5 star rating	3 reviews	$	            615 Wilson Ave, Brooklyn, NY 11207	40.690210, -73.906800
+867	Westside Coffee Shop II	4.0 star rating	26 reviews	$	            323 Church St, New York, NY 10013	40.720070, -74.003626
+868	Norma's	3.5 star rating	848 reviews	$$$	            119 W 56th St, New York, NY 10019	40.764195, -73.978341
+869	Lovely Day	3.5 star rating	175 reviews	$$	            196 Elizabeth St, New York, NY 10012	40.721761, -73.994248
+870	Antojitos	5.0 star rating	4 reviews	None	            100 E 117th St, New York, NY 10035	40.799729, -73.942598
+871	Yummy Taco	2.5 star rating	50 reviews	$	            245 Flatbush Ave, Brooklyn, NY 11217	40.680653, -73.974743
+872	Marea	4.0 star rating	812 reviews	$$$$	            240 Central Park S, New York, NY 10019	40.767425, -73.981119
+873	' La Cerveceria	3.5 star rating	281 reviews	$$	            65 2nd Ave &amp; 4th St, New York, NY 10003	40.726160, -73.989438
+874	Chipotle	3.5 star rating	85 reviews	$	            149 8th Ave, New York, NY 10011	40.742054, -74.001246
+875	Home Made Taqueria	4.0 star rating	2 reviews	None	            45-09 34th Ave, Long Island City, NY 11101	40.754766, -73.916455
+876	Kimchi Taco	3.0 star rating	191 reviews	$	            New York, NY 10281,         </address>	40.711143, -74.014621
+877	Lali Restaurant	4.5 star rating	73 reviews	$	            630 10th Ave, New York, NY 10036	40.761275, -73.993908
+878	Blue Moon Mexican Cafe	3.0 star rating	67 reviews	$$	            117 Montgomery St, Jersey City, NJ 07302	40.716776, -74.039723
+879	The Grey Dog's Coffee	4.0 star rating	489 reviews	$$	            90 University Pl, New York, NY 10003	40.733795, -73.993199
+880	Friedman's	4.0 star rating	151 reviews	$$	            132 W 31st St, New York, NY 10001	40.748300, -73.990655
+881	Tacos Y Quesadillas Mexico	4.0 star rating	1 review	None	            6100 Roosevelt Ave, Queens, NY 11377	40.745172, -73.908253
+882	Mamoun's Falafel	4.0 star rating	729 reviews	$	            22 St. Marks Pl, New York, NY 10003	40.728814, -73.988908
+883	Taqueria Los Gueros	3.5 star rating	17 reviews	$$	            93 State Rt 17, East Rutherford, NJ 07073	40.829009, -74.092766
+884	Los Tres Chilitos	4.5 star rating	20 reviews	$	            456 Central Ave, Jersey City, NJ 07307	40.750210, -74.046185
+885	Taqueria La Casa Del Idolo	3.5 star rating	2 reviews	None	            91-07 Corona Ave, Queens, NY 11373	40.742507, -73.873246
+886	El Diablo Taco Truck	4.0 star rating	55 reviews	$	            484 Union Ave, Brooklyn, NY 11211	40.714968, -73.951513
+887	La Mixteca	4.0 star rating	2 reviews	$	            189 Avenue U, Brooklyn, NY 11223	40.596782, -73.977069
+888	Brooklyn Beso Restaurant & Bar	2.5 star rating	82 reviews	$$	            370 Lewis Ave, Brooklyn, NY 11233	40.682932, -73.935324
+889	Princesa Bakery Restaurant	3.5 star rating	10 reviews	$	            94 Graham Ave, Brooklyn, NY 11206	40.704391, -73.942434
+890	Burrito Shop	3.5 star rating	10 reviews	$$	            5975 Broadway, Bronx, NY 10471	40.889680, -73.898276
+891	Miranda Restaurant	4.0 star rating	153 reviews	$$	            80 Berry St, Brooklyn, NY 11249	40.719874, -73.957892
+892	Sik Gaek	4.0 star rating	245 reviews	$$	            49-11 Roosevelt Ave, Woodside, NY 11377	40.743291, -73.915405
+893	Cafe Con Pan Bakery II	5.0 star rating	1 review	$$	            137 Port Richmond Ave, Staten Island, NY 10302	40.637621, -74.133278
+894	Red Rooster	3.5 star rating	954 reviews	$$$	            310 Lenox Ave, New York, NY 10027	40.808057, -73.944914
+895	The Taco Truck	4.0 star rating	393 reviews	$	            62 Newark St, Hoboken, NJ 07030	40.736930, -74.030635
+896	Rice N Beans Restaurant	3.5 star rating	87 reviews	$$	            744 9th Ave, New York, NY 10019	40.763522, -73.988510
+897	Win Xin	3.0 star rating	1 review	None	            6001 14th Ave, New York, NY 11219	40.627211, -73.996351
+898	Esperanto	3.5 star rating	443 reviews	$$	            145 Ave C, New York, NY 10009	40.725462, -73.978049
+899	Heidi's House	4.5 star rating	218 reviews	$$	            308 E 78th St, New York, NY 10075	40.772189, -73.955064
+900	Las Estrellas De Mexico	3.5 star rating	11 reviews	$$	            2421 West St, Union City, NJ 07087	40.768711, -74.033574
+901	Queens Comfort	4.0 star rating	534 reviews	$$	            4009 30th Ave, Astoria, NY 11103	40.763788, -73.914594
+902	Mexican Specialty Corp	5.0 star rating	1 review	$$	            106 E 183rd St, Bronx, NY 10453	40.857863, -73.901625
+903	Mezcal's Mexican Restaurant	2.5 star rating	12 reviews	$$	            1474 86th Street, Brooklyn, NY 11228	40.611445, -74.010146
+904	Ming's Chinese Kitchen	3.5 star rating	9 reviews	$	            56-15 Junction Blvd, Queens, NY 11373	40.736938, -73.865940
+905	Chipotle	3.0 star rating	27 reviews	$	            235 W 56th St, New York, NY 10106	40.765798, -73.982751
+906	Chipotle	3.0 star rating	51 reviews	$	            125 E 23rd St, New York, NY 10010	40.739926, -73.985062
+907	Tacos Veracruz	4.0 star rating	5 reviews	$	            430 51st St, West New York, NJ 07093	40.783269, -74.019545
+908	Sandro's Latin Food	4.5 star rating	35 reviews	$$	            2703 23rd Ave, Astoria, NY 11105	40.776073, -73.914842
+909	Cafe R	3.0 star rating	86 reviews	$	            116 W 32nd St, New York, NY 10001	40.748930, -73.989751
+910	Chinelos II	4.5 star rating	7 reviews	$	            530 W 136th st, Manhattan, NY 10031	40.820368, -73.953767
+911	Restaurant El Paisa	4.0 star rating	14 reviews	$	            324 Suydam St, Brooklyn, NY 11237	40.703334, -73.922215
+912	Fresco Tortillas	3.0 star rating	2 reviews	None	            1041 Morris Park Ave, Bronx, NY 10462	40.848737, -73.854872
+913	Do or Dine	4.0 star rating	303 reviews	$$	            1108 Bedford Ave, Brooklyn, NY 11216	40.686746, -73.954883
+914	Los Tres Potrillos	4.0 star rating	1 review	None	            82-11 Roosevelt Ave, Jackson Heights, NY 11372	40.747939, -73.883451
+915	Littleneck	3.5 star rating	161 reviews	$$	            288 3rd Ave, Brooklyn, NY 11215	40.677339, -73.986383
+916	JV Pizza & Taco	3.0 star rating	7 reviews	None	            702 Grand St, Brooklyn, NY 11211	40.711317, -73.944624
+917	Caf Orlin	4.0 star rating	1077 reviews	$$	            41 St. Marks Pl, New York, NY 10003	40.728504, -73.987061
+918	Chipotle	2.5 star rating	16 reviews	$	            2298 Broadway, New York, NY 10024	40.786191, -73.977863
+919	Scratch Bread	4.5 star rating	145 reviews	$	            1069 Bedford Ave, Brooklyn, NY 11216	40.687447, -73.954481
+920	Super Taco	2.5 star rating	9 reviews	$	            54 Willoughby St, Brooklyn, NY 11201	40.692055, -73.986722
+921	Caf Orlin	4.0 star rating	1077 reviews	$$	            41 St. Marks Pl, New York, NY 10003	40.728504, -73.987061
+922	El Riconcito Tepeyac Mexican Restaurant	5.0 star rating	1 review	None	            381 E 138th St, New York, NY 10454	40.809550, -73.923226
+923	Union Square Cafe	4.0 star rating	674 reviews	$$$	            21 E 16th St, New York, NY 10003	40.736865, -73.991262
+924	Frites 'n' Meats	3.5 star rating	133 reviews	$$	            Greenwich St &amp; Chambers St, New York, NY 10005	40.716303, -74.010975
+925	Chipotle	2.5 star rating	16 reviews	$	            2298 Broadway, New York, NY 10024	40.786191, -73.977863
+926	Johny's Luncheonette	4.0 star rating	346 reviews	$	            124 W 25th St, New York, NY 10001	40.744441, -73.993076
+927	Don Panchito	5.0 star rating	1 review	None	            2102 Amsterdam Avenue, New York, NY 10032	40.837532, -73.939025
+928	Mi Rancho	4.0 star rating	45 reviews	$$	            59 Main St., Hackensack, NJ 07601	40.880008, -74.044358
+929	Havana Alma de Cuba	3.5 star rating	477 reviews	$$$	            94 Christopher St, New York, NY 10014	40.733208, -74.004514
+930	Sofrito	3.5 star rating	509 reviews	$$$	            400 E 57th St, New York, NY 10022	40.757954, -73.962751
+931	Sofrito	3.5 star rating	509 reviews	$$$	            400 E 57th St, New York, NY 10022	40.757954, -73.962751
+932	Rancho Los Compadres	3.0 star rating	2 reviews	$	            110 Sherman Ave, New York, NY 10034	40.864252, -73.925070
+933	El Idolo	3.5 star rating	89 reviews	$	            W 14th St and 8th Ave, New York, NY 10011	40.739743, -74.002529
+934	Saro Bistro	4.5 star rating	201 reviews	$$	            102 Norfolk St, New York, NY 10002	40.718723, -73.986913
+935	Joe's Shanghai	4.0 star rating	2558 reviews	$$	            9 Pell St, New York, NY 10013	40.714630, -73.997766
+936	King Tacos Mexico	3.0 star rating	5 reviews	$	            102-03 Northern Blvd, Flushing, NY 11368	40.757818, -73.866412
+937	Mile End Delicatessen Brooklyn	3.5 star rating	480 reviews	$$	            97A Hoyt St, Brooklyn, NY 11217	40.687537, -73.986952
+938	Naranjo's Taco Truck	4.0 star rating	5 reviews	$	            936 Broadway, Manhattan, NY 10010	40.740340, -73.989194
+939	Grito Mexican Grill	3.5 star rating	4 reviews	$$	            1555 St Nicholas Ave, Manhattan, NY 10040	40.853607, -73.930641
+940	Freemans Restaurant	4.0 star rating	958 reviews	$$$	            8 Rivington St, New York, NY 10002	40.721580, -73.992708
+941	Casa Masa	3.0 star rating	4 reviews	None	            200 Liberty St, New York, NY 10281	40.710651, -74.015526
+942	Chipotle	3.0 star rating	21 reviews	$$	            604 2nd Ave, New York, NY 10016	40.744214, -73.975792
+943	Pio Pio	4.0 star rating	467 reviews	$$	            1746 1st Ave, New York, NY 10128	40.779584, -73.946996
+944	Chipotle Mexican Grill	3.5 star rating	8 reviews	$	            304 W 34th St, New York, NY 10001	40.752359, -73.993903
+945	Quality Meats	4.0 star rating	811 reviews	$$$$	            57 W 58th St, New York, NY 10019	40.764963, -73.976181
+946	Penelope	4.0 star rating	1287 reviews	$$	            159 Lexington Ave, New York, NY 10016	40.743859, -73.981545
+947	Didi Restaurant	4.0 star rating	5 reviews	$	            2972 Ave U, Brooklyn, NY 11229	40.600613, -73.940046
+948	Tu Casa Deli	2.5 star rating	2 reviews	$$	            2148 2nd Ave, New York, NY 10029	40.793213, -73.940130
+949	Cienaga Grocery And Deli Oaxaca	4.0 star rating	1 review	$	            104-32 Corona Ave, Corona, NY 11368	40.743701, -73.857664
+950	Toro Loco	3.0 star rating	68 reviews	$$	            23 Valley St, South Orange, NJ 07079	40.745219, -74.259446
+951	Arepas Cafe	4.0 star rating	393 reviews	$	            33-07 36th Ave, Astoria, NY 11106	40.755755, -73.927737
+952	Mamoun's Falafel	4.5 star rating	1523 reviews	$	            119 MacDougal St, New York, NY 10012	40.730222, -74.000470
+953	Cask Bar + Kitchen	4.0 star rating	589 reviews	$$	            167 E 33rd St, New York, NY 10016	40.745371, -73.979014
+954	Chipotle	3.0 star rating	58 reviews	$$	            1497 3rd Ave, New York, NY 10028	40.777652, -73.954416
+955	Foxy's Diner	3.5 star rating	123 reviews	$	            4311 Queens Blvd, Sunnyside, NY 11104	40.743365, -73.919232
+956	La Fonda	3.0 star rating	76 reviews	$$	            169 E 106th St, New York, NY 10029	40.791998, -73.944949
+957	Punta Cana Coffee Shop	2.5 star rating	13 reviews	$	            490 Dekalb St, Brooklyn, NY 11205	40.690569, -73.956974
+958	Jimmy's Diner	4.0 star rating	331 reviews	$$	            577 Union Ave, Brooklyn, NY 11211	40.717697, -73.952458
+959	Extra Virgin	4.0 star rating	710 reviews	$$	            259 W 4th St, New York, NY 10014	40.735420, -74.003146
+960	La Ambatenita Bakery	4.0 star rating	2 reviews	$	            11126 Roosevelt Ave, Corona, NY 11368	40.751624, -73.854765
+961	New Taco Express	3.5 star rating	13 reviews	$	            118 Lexington Ave, New York, NY 10016	40.742660, -73.982755
+962	Republic	3.0 star rating	1108 reviews	$$	            37 Union Sq W, New York, NY 10003	40.737009, -73.990855
+963	Tu Casa Restaurant	3.5 star rating	195 reviews	$$	            30-10 Steinway St, Astoria, NY 11103	40.763618, -73.915243
+964	Los Cuatro Vientos	4.5 star rating	3 reviews	None	            Roosevelt Ave &amp; 67th St, Woodside, NY 11377	40.746121, -73.898107
+965	Honky Tonk Tavern	4.0 star rating	64 reviews	$$	            1154 First Ave, New York, NY 10065	40.762197, -73.959827
+966	!Savory	3.0 star rating	31 reviews	$$	            532 W 46th St, Manhattan, NY 10036	40.762533, -73.995062
+967	Acapulco Plaza Deli	4.5 star rating	6 reviews	$	            618 Broadway, Bayonne, NJ 07002	40.668026, -74.114421
+968	Sylvia's Restaurant	3.5 star rating	554 reviews	$$	            328 Malcolm X Blvd, New York, NY 10027	40.808596, -73.944406
+969	Cafe Con Leche	3.0 star rating	186 reviews	$$	            424 Amsterdam Ave, New York, NY 10024	40.784163, -73.977919
+970	La Tarte Flambee	4.5 star rating	220 reviews	$$	            1750 2nd Ave, New York, NY 10128	40.781107, -73.949001
+971	Tacos El Poblano	4.0 star rating	42 reviews	$	            200 New Main St, Yonkers, NY 10701	40.931769, -73.895719
+972	Pure Bistro	4.0 star rating	67 reviews	$$	            88 5th Ave, Brooklyn, NY 11217	40.680471, -73.978003
+973	Good Enough To Eat	3.5 star rating	771 reviews	$$	            520 Columbus Ave 85th St, New York, NY 10024	40.786416, -73.974126
+974	Cabana Restaurant	4.0 star rating	247 reviews	$$	            1022 3rd Ave, New York, NY 10021	40.762638, -73.966027
+975	Chipotle	3.0 star rating	59 reviews	$	            680 Ave of the Americas, New York, NY 10010	40.741805, -73.993402
+976	Cafecito Bogota	3.5 star rating	111 reviews	$$	            1015 Manhattan Ave, Brooklyn, NY 11222	40.733530, -73.955127
+977	Revoluion	2.0 star rating	33 reviews	$$	            JFK Expy &amp; S Cargo Rd, Jamaica, NY 11430	40.654794, -73.790042
+978	SeoulFood Truck	2.5 star rating	80 reviews	$	            303 5th Ave, New York, NY 10022	40.746586, -73.985583
+979	Eatery	3.5 star rating	762 reviews	$$	            798 9th Ave, New York, NY 10019	40.765136, -73.987330
+980	Oficina Latina	3.0 star rating	183 reviews	$$	            24 Prince St, New York, NY 10012	40.722672, -73.994648
+981	Ridgewood Eats	3.0 star rating	137 reviews	$$	            903 Seneca Ave, Ridgewood, NY 11385	40.700743, -73.903978
+982	Pio Pio	4.0 star rating	538 reviews	$$	            84-02 Northern Blvd, Jackson Heights, NY 11372	40.755592, -73.883297
+983	Aquagrill	4.5 star rating	793 reviews	$$$	            210 Spring St, New York, NY 10012	40.725309, -74.003843
+984	Cmodo	4.0 star rating	110 reviews	$$$	            58 MacDougal St, New York, NY 10012	40.727598, -74.002402
+985	Flex Mussels	4.0 star rating	477 reviews	$$$	            174 E 82nd St, New York, NY 10028	40.776257, -73.956534
+986	Mezcal's Mexican Restaurant	2.5 star rating	12 reviews	$$	            1474 86th Street, Brooklyn, NY 11228	40.611445, -74.010146
+987	Golden Mall	4.0 star rating	119 reviews	$	            41-28 Main St, Flushing, NY 11355	40.757178, -73.829437
+988	Mexican Specialty Corp	5.0 star rating	1 review	$$	            106 E 183rd St, Bronx, NY 10453	40.857863, -73.901625
+989	Dragon Garden	3.0 star rating	11 reviews	$	            8024 18th Avenue, Brooklyn, NY 11214	40.610098, -73.999328
+990	Chipotle	3.0 star rating	27 reviews	$	            235 W 56th St, New York, NY 10106	40.765798, -73.982751
+991	Fish	4.0 star rating	763 reviews	$$	            280 Bleecker St, New York, NY 10014	40.731700, -74.003494
+992	Chipotle	3.0 star rating	27 reviews	$	            235 W 56th St, New York, NY 10106	40.765798, -73.982751
+993	Palm Restaurant	3.5 star rating	168 reviews	$$$$	            250 W 50th St, New York, NY 10019	40.761986, -73.985676
+994	I Love Paraguay	4.0 star rating	31 reviews	$	            43-16 Greenpoint Ave, Sunnyside, NY 11104	40.740945, -73.921427
+995	Buttermilk Channel	4.0 star rating	882 reviews	$$$	            524 Ct St, Brooklyn, NY 11231	40.682708, -73.995447
+996	Crown Victoria	3.5 star rating	111 reviews	$$	            60 S 2nd St, Brooklyn, NY 11211	40.714210, -73.965659
+997	Le Petit Caf	3.5 star rating	224 reviews	$$	            502 Court St, Brooklyn, NY 11231	40.676753, -73.998876
+998	Chinelos II	4.5 star rating	7 reviews	$	            530 W 136th st, Manhattan, NY 10031	40.820368, -73.953767
+999	Senorita's	3.0 star rating	126 reviews	$$	            285 Glenwood Ave, Bloomfield, NJ 07003	40.792431, -74.198860
+1000	Sanford's Restaurant	4.0 star rating	734 reviews	$$	            30-13 Broadway, Astoria, NY 11106	40.762295, -73.925544

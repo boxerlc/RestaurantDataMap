@@ -1,0 +1,314 @@
+1	Food Gallery 32	4.0 star rating	378 reviews	$	            11 W 32nd St, New York, NY 10001	40.747671, -73.986274
+2	Woorijip Authentic Korean Food	4.0 star rating	1322 reviews	$	            12 W 32nd St, New York, NY 10001	40.747356, -73.986569
+3	Pocha 32	4.0 star rating	645 reviews	$$	            15 W 32nd St, New York, NY 10001	40.747971, -73.986912
+4	Miss Korea BBQ	3.5 star rating	524 reviews	$$	            10 W 32nd St, New York, NY 10001	40.747364, -73.986439
+5	BCD Tofu House	4.0 star rating	311 reviews	$$	            5W 32nd St, New York, NY 10001	40.747344, -73.985940
+6	DO Hwa	3.5 star rating	215 reviews	$$$	            55 Carmine St, New York, NY 10014	40.729982, -74.004224
+7	Geo Si Gi	4.0 star rating	69 reviews	$$	            152-28 Northern Blvd, Flushing, NY 11354	40.764585, -73.812021
+8	Kori	4.0 star rating	231 reviews	$$	            253 Church St, New York, NY 10013	40.717909, -74.005328
+9	Hangawi	4.0 star rating	514 reviews	$$$	            12 E 32nd St, New York, NY 10016	40.746541, -73.984802
+10	Kun Jip	3.0 star rating	1105 reviews	$$	            9 W 32nd St, New York, NY 10001	40.747715, -73.986065
+11	Hyo Dong Gak	3.5 star rating	234 reviews	$$	            51 W 35th St, New York, NY 10001	40.750206, -73.986229
+12	Sik Gaek	4.0 star rating	244 reviews	$$	            49-11 Roosevelt Ave, Woodside, NY 11377	40.743291, -73.915405
+13	New Wonjo Restaurant	3.5 star rating	488 reviews	$$	            23 W 32nd St, New York, NY 10001	40.747889, -73.986656
+14	Don's Bogam	4.0 star rating	472 reviews	$$$	            17 E 32nd St, New York, NY 10016	40.746916, -73.984264
+15	Jungsik	4.5 star rating	152 reviews	$$$$	            2 Harrison St, New York, NY 10013	40.718827, -74.009075
+16	Natural Tofu Restaurant	4.0 star rating	187 reviews	$$	            40-06 Queens Blvd, Sunnyside, NY 11104	40.743463, -73.924062
+17	Danji	4.0 star rating	421 reviews	$$$	            346 W 52nd St, New York, NY 10019	40.763997, -73.986864
+18	Gaonnuri	3.5 star rating	214 reviews	$$$	            1250 Broadway, New York, NY 10001	40.747847, -73.987963
+19	Korilla BBQ	4.0 star rating	419 reviews	$	            55th and Broadway, New York, NY 10001	40.752904, -73.906064
+20	Gahm Mi Oak Restaurant	3.5 star rating	463 reviews	$$	            43 W 32nd St, New York, NY 10001	40.748180, -73.987478
+21	Hahm Ji Bach	4.0 star rating	450 reviews	$$	            40-11 149th Pl, Flushing, NY 11355	40.761953, -73.814576
+22	Mandoo Bar	3.5 star rating	519 reviews	$$	            2 W 32nd St, New York, NY 10001	40.747189, -73.986204
+23	Kum Gang San	3.5 star rating	428 reviews	$$	            49 W 32nd St, New York, NY 10001	40.748498, -73.987852
+24	NY Tofu House	3.5 star rating	163 reviews	$$	            6 Saint Marks Pl, New York, NY 10003	40.729116, -73.989539
+25	Muk Eun Ji	3.5 star rating	166 reviews	$$	            34 W 32nd St, New York, NY 10001	40.747724, -73.987285
+26	Seoul Fusion Eatery	3.5 star rating	44 reviews	$	            2406 34th Ave, Astoria, NY 11106	40.758336, -73.924410
+27	Shilla	3.5 star rating	441 reviews	$$	            37 W 32nd St, New York, NY 10001	40.748122, -73.987189
+28	Moim	3.5 star rating	142 reviews	$$	            206 Garfield Pl, Brooklyn, NY 11215	40.672038, -73.976994
+29	232	4.0 star rating	65 reviews	$$	            232 Taaffe Pl, Brooklyn, NY 11205	40.690920, -73.959640
+30	Arirang Korean Restaurant	3.5 star rating	344 reviews	$$	            32 W 32nd St, New York, NY 10001	40.747605, -73.987256
+31	Shanghai Mong	3.0 star rating	227 reviews	$$	            30 W 32nd St, New York, NY 10001	40.747615, -73.987164
+32	Seoul Garden Restauarant	3.5 star rating	484 reviews	$$	            34 W 32nd St, New York, NY 10001	40.747724, -73.987285
+33	E-Mo	4.0 star rating	154 reviews	$	            2 W 32nd St, New York, NY 10001	40.747189, -73.986204
+34	Dong Chun Hong	3.5 star rating	92 reviews	$$	            312 5th Ave, New York, NY 10001	40.747036, -73.985887
+35	Chung Moo Rollrice & Dongas	4.0 star rating	54 reviews	$	            39-04 Union St, Flushing, NY 11354	40.760899, -73.826795
+36	Dok Suni's Restaurant	3.5 star rating	116 reviews	$$	            119 1st Ave, New York, NY 10003	40.727263, -73.985845
+37	Kimchi Grill	4.0 star rating	156 reviews	$	            766 Washington Ave, Brooklyn, NY 11238	40.675089, -73.963498
+38	Tong Sam Gyup Goo Ee Korean Restaurant	4.0 star rating	98 reviews	$$	            162-23 Depot Rd, Flushing, NY 11358	40.762059, -73.803021
+39	MADANGSUI	3.5 star rating	414 reviews	$$	            35 W 35th St, New York, NY 10001	40.750022, -73.985616
+40	Franchia Vegan Cafe	4.0 star rating	332 reviews	$$	            12 Park Ave, New York, NY 10016	40.747604, -73.981371
+41	Kang Suh Restaurant	3.5 star rating	271 reviews	$$	            1250 Broadway, New York, NY 10001	40.747847, -73.987963
+42	Express Manna Kitchen	3.5 star rating	113 reviews	$$	            28 E 18th St, New York, NY 10003	40.737550, -73.989804
+43	Dokebi Bar & Grill	3.5 star rating	183 reviews	$$	            199 Grand St, Brooklyn, NY 11211	40.714214, -73.960284
+44	Third Floor Cafe	3.5 star rating	386 reviews	$$	            315 5th Ave, New York, NY 10016	40.746983, -73.985343
+45	Momofuku Ssam Bar	4.0 star rating	1576 reviews	$$$	            207 2nd Ave, New York, NY 10003	40.731690, -73.985846
+46	Hanbat Restaurant	3.5 star rating	231 reviews	$$	            53 W 35th St, New York, NY 10001	40.750155, -73.986235
+47	HIT Korean Food & Deli	4.0 star rating	108 reviews	$	            150 W 28th St, New York, NY 10001	40.746757, -73.992822
+48	H Mart	3.5 star rating	22 reviews	$$	            46-40 Francis Lewis blvd, Flushing, NY 11361	40.754032, -73.781183
+49	Arang	3.5 star rating	161 reviews	$$	            9 W 32nd St, New York, NY 10001	40.747715, -73.986065
+50	Koreatown	4.0 star rating	18 reviews	$$	            Korea Way, New York, NY 10001	40.747738, -73.986894
+51	Kimganae Korean Restaurant	4.0 star rating	160 reviews	$	            3912 Union St, Flushing, NY 11354	40.760858, -73.826774
+52	Korea House	3.0 star rating	17 reviews	$	            17 W 32nd St, New York, NY 10001	40.747883, -73.986480
+53	Takashi	4.5 star rating	335 reviews	$$$	            456 Hudson St, New York, NY 10014	40.731455, -74.006422
+54	Boka	3.5 star rating	784 reviews	$$	            9 St Marks Pl, New York, NY 10003	40.729435, -73.989127
+55	Bangia	4.0 star rating	28 reviews	$$	            11 E 32nd St, New York, NY 10016	40.746852, -73.984522
+56	Take31	4.0 star rating	45 reviews	$$	            15 E 31st St, Manhattan, NY 10001	40.747018, -73.987067
+57	Hanjan	3.5 star rating	94 reviews	$$$	            36 W 26th St, New York, NY 10010	40.744179, -73.990669
+58	Bann Restaurant	3.5 star rating	258 reviews	$$$	            350 W 50th St, New York, NY 10019	40.762895, -73.988075
+59	Kristalbelli	3.5 star rating	108 reviews	$$$	            8 W 36th St, New York, NY 10018	40.749890, -73.984462
+60	Fat Buddha	4.0 star rating	283 reviews	$$	            212 Ave A, New York, NY 10009	40.729864, -73.980718
+61	Choga Korean Restaurant	3.5 star rating	64 reviews	$$	            145 Bleecker St, New York, NY 10012	40.728378, -73.999058
+62	Korean Express	3.5 star rating	92 reviews	$$	            807 Lexington Ave, New York, NY 10065	40.764170, -73.966434
+63	Kum Gang San Restaurant	3.5 star rating	202 reviews	$$	            13828 Northern Blvd, Flushing, NY 11354	40.763891, -73.826903
+64	BonChon Chicken	3.5 star rating	264 reviews	$$	            104 John St, New York, NY 10038	40.707694, -74.006235
+65	NY Kom Tang Soot Bul Kalbi	3.0 star rating	112 reviews	$$	            32 W 32nd St, New York, NY 10001	40.747605, -73.987256
+66	Sik Gaek Chun Ha	4.0 star rating	202 reviews	$$	            161-29 Crocheron Ave, Flushing, NY 11358	40.762651, -73.803826
+67	Gangnam	4.0 star rating	37 reviews	$$	            3 Hanover Square, New York, NY 10004	40.705032, -74.009734
+68	Kimchee	3.0 star rating	77 reviews	$$	            9324 3rd Ave, Brooklyn, NY 11209	40.618115, -74.033527
+69	Maru	3.5 star rating	284 reviews	$$	            11 W 32nd St, New York, NY 10001	40.747671, -73.986274
+70	Cho Dang Gol Korean Restaurant	4.0 star rating	418 reviews	$$	            55 W 35th St, New York, NY 10001	40.750245, -73.986193
+71	Mapo BBQ	4.0 star rating	177 reviews	$$$	            41st Ave &amp; 149th Pl, Murray Hill, NY 11355	40.762355, -73.814782
+72	Little Dokebi	4.0 star rating	22 reviews	$$	            85 Driggs Ave, Brooklyn, NY 11222	40.723048, -73.942335
+73	Pajunia	4.0 star rating	22 reviews	$$	            75-24 Broadway, Elmhurst, NY 11373	40.745775, -73.889668
+74	Mill Korean	3.0 star rating	169 reviews	$$	            2895 Broadway, New York, NY 10025	40.806167, -73.965857
+75	Barn Joo	3.5 star rating	132 reviews	$$	            893 Broadway, New York, NY 10003	40.738842, -73.990075
+76	Kimchi Taco	3.0 star rating	191 reviews	$	            New York, NY 10281,         </address>	40.711143, -74.014621
+77	Jin Jja Roo	4.0 star rating	8 reviews	$	            11 W 32nd St, New York, NY 10016	40.746852, -73.984522
+78	Haewoondae Korean Restaurant	3.5 star rating	66 reviews	$$	            7532 Broadway, Elmhurst, NY 11373	40.745693, -73.889588
+79	Han Joo	3.5 star rating	91 reviews	$$	            12 St Marks Pl, New York, NY 10003	40.729011, -73.989290
+80	GoGo-Gi	4.0 star rating	37 reviews	$	            3908 Broadway, New York, NY 10032	40.838176, -73.941749
+91	Angry Chicken	3.5 star rating	52 reviews	$	            11 W 32nd St, New York, NY 10001	40.747671, -73.986274
+92	Nolbu Sushi Korean Restaurant	4.5 star rating	43 reviews	$	            16425A Northern Blvd, Flushing, NY 11358	40.771244, -73.734917
+93	KyoChon	3.0 star rating	512 reviews	$$	            319 5th Ave, New York, NY 10016	40.747168, -73.985242
+94	Han Joo Chik Naeng Myun & BBQ	4.5 star rating	112 reviews	$$	            41-06 149th Pl, Flushing, NY 11355	40.762116, -73.814691
+95	KyoChon	4.0 star rating	153 reviews	$$	            156-50 Northern Blvd, Flushing, NY 11354	40.763913, -73.808706
+96	Bitgoul Tofu & BBQ Restaurant	3.5 star rating	62 reviews	$$	            136-72 Roosevelt Ave, Flushing, NY 11354	40.759892, -73.827444
+97	Chung Ki Wa Restaurant	3.5 star rating	70 reviews	$$	            4006 74th St, Jackson Heights, NY 11373	40.746485, -73.891634
+98	Brooklyn Seoul	3.0 star rating	75 reviews	$	            749 Metropolitan Ave, Brooklyn, NY 11211	40.714687, -73.944064
+99	Kang Ho Dong Baekjeong	4.0 star rating	78 reviews	$$$	            152-12 Northern Blvd, Flushing, NY 11354	40.764702, -73.812481
+100	Bon Chon Chicken	3.0 star rating	472 reviews	$$	            325 5th Ave, New York, NY 10016	40.747470, -73.985029
+101	Pho 32 & Shabu	3.0 star rating	379 reviews	$$	            2 W 32nd St, New York, NY 10014	40.747189, -73.986204
+102	Bunn	3.5 star rating	40 reviews	$	            11 W 32nd St, New York, NY 10001	40.747671, -73.986274
+103	Bi Won	4.0 star rating	46 reviews	$$	            6158 Springfield Blvd, Oakland Gardens, NY 11364	40.747518, -73.756082
+104	Chinese House	4.0 star rating	65 reviews	$$	            149-08 41 Ave, Flushing, NY 11355	40.761938, -73.815334
+105	Chopsticks Bar and Restaurant	4.0 star rating	10 reviews	$$	            11 E 32nd St, New York, NY 10016	40.746852, -73.984522
+106	Tong Tong Tonkatsu	3.5 star rating	36 reviews	$$	            146-17A Northern Blvd., Flushing, NY 11354	40.765317, -73.820051
+107	Hiroko's Place	4.0 star rating	185 reviews	$$	            75 Thompson St, New York, NY 10012	40.724684, -74.003182
+108	Kim Chayul's Myung Poom Kalbi	3.5 star rating	10 reviews	$$$	            41-22 162nd St, Murray Hill, NY 11358	40.760770, -73.804206
+109	Pro Korean Restaurant	3.0 star rating	39 reviews	$	            62 W 56th St, New York, NY 10019	40.763250, -73.977434
+110	Mad For Chicken	4.0 star rating	278 reviews	$$	            157-18 Northern Blvd, Flushing, NY 11354	40.763680, -73.807953
+111	Cana Restaurant	4.0 star rating	28 reviews	$$	            21230 48th Ave, Oakland Gardens, NY 11364	40.755418, -73.768410
+112	Gu Gong Tan	4.0 star rating	12 reviews	$$	            40-03 149 Pl, Flushing, NY 11354	40.763337, -73.815143
+113	Bapcha Korean Cuisine Cart	3.5 star rating	40 reviews	$	            W 49th St, New York, NY 10020	40.758854, -73.979899
+114	Chom Chom	3.0 star rating	94 reviews	$$	            40 W 56th St, New York, NY 10019	40.762916, -73.976537
+115	Su Ra Chung	4.5 star rating	34 reviews	$$	            149-09 41 Ave, Flushing, NY 11355	40.762192, -73.815450
+116	Kum Sung Chik Naengmyun	4.5 star rating	22 reviews	$$	            40-07 149th Pl, Flushing, NY 11354	40.763238, -73.814949
+117	KalBQ	3.5 star rating	65 reviews	$	            36 Lexington Ave, New York, NY 10010	40.740097, -73.984554
+118	Daheen Wang Mandoo	3.5 star rating	18 reviews	$$	            2 W 32nd St, New York, NY 10001	40.747189, -73.986204
+119	Bann Next Door	3.0 star rating	20 reviews	$$	            350 W 50th St, New York, NY 10019	40.762895, -73.988075
+120	Debasaki	4.0 star rating	151 reviews	$$	            3367 Farrington St, Flushing, NY 11354	40.766913, -73.832760
+131	Gowasabi	3.0 star rating	120 reviews	$$	            3402 30th Ave, Astoria, NY 11103	40.765527, -73.918986
+132	Bon Juk	4.0 star rating	36 reviews	$$	            152-26 Northern Blvd, Flushing, NY 11354	40.764595, -73.812099
+133	K Town Chicken & Hof	3.5 star rating	98 reviews	$$	            34 W 32nd St, New York, NY 10001	40.747724, -73.987285
+134	The Starry Night	4.0 star rating	8 reviews	$$	            28 W 33rd St, New York, NY 10001	40.748312, -73.986624
+135	HanaMichi	3.0 star rating	232 reviews	$$	            28 W 32nd St, New York, NY 10001	40.747578, -73.987101
+136	1962 Tofu	3.5 star rating	20 reviews	$$	            147-34B Northern Blvd, Flushing, NY 11354	40.765273, -73.817656
+137	153 Fusion Po-Cha	4.0 star rating	10 reviews	$$	            40-11 149th Pl, Flushing, NY 11354	40.763104, -73.814846
+138	Book Chang Dong Soon Tofu	3.5 star rating	139 reviews	$$	            152-22 Northern Blvd, Flushing, NY 11354	40.764694, -73.812277
+139	Kan Izakaya	3.5 star rating	19 reviews	$$	            160-30 Northern Blvd, Flushing, NY 11358	40.762043, -73.804760
+140	BCD Tofu House	4.0 star rating	173 reviews	$$	            220-05 Northern Blvd, Bayside, NY 11361	40.761415, -73.761964
+141	Mat Baram Restaurant	4.0 star rating	16 reviews	$$	            150-40 Northern Blvd, Flushing, NY 11354	40.765016, -73.813656
+142	Guh Song Chinese Restaurant	4.0 star rating	67 reviews	$	            4724 Bell Blvd, Bayside, NY 11361	40.756158, -73.767753
+143	Gyu-Kaku Japanese BBQ	4.0 star rating	894 reviews	$$$	            34 Cooper Sq, New York, NY 10003	40.728255, -73.991460
+144	Sake Bar Kirakuya	3.5 star rating	106 reviews	$$	            2 W 32nd St, New York, NY 10001	40.747189, -73.986204
+145	Gaji Gaji Janchijip Corporation	4.5 star rating	2 reviews	None	            154-28 Northern Blvd, New York, NY 11354	40.764388, -73.825055
+146	Bada Story	4.0 star rating	16 reviews	$$$	            161-23 Crocheron Ave, Flushing, NY 11358	40.762870, -73.801099
+147	Morimoto	4.0 star rating	1771 reviews	$$$$	            88 10th Ave, New York, NY 10011	40.743037, -74.007374
+148	San Soo Kap San	4.0 star rating	80 reviews	$$	            17110 Northern Blvd, Flushing, NY 11358	40.757717, -73.795562
+149	Roll Zip	3.5 star rating	34 reviews	$	            3614 Union St, Queens, NY 11354	40.763297, -73.828279
+150	Pro Bagel & Deli	3.0 star rating	6 reviews	$$	            62 W 56th St, New York, NY 10019	40.763250, -73.977434
+151	Shinjung Galbi	4.0 star rating	6 reviews	$$	            16013 Northern Blvd, Flushing, NY 11358	40.762930, -73.804851
+152	Gam Mee Ok TANG	3.5 star rating	87 reviews	$$	            196-50 Northern Blvd, Flushing, NY 11358	40.757438, -73.783827
+153	Caracas Arepa Bar	4.0 star rating	1906 reviews	$$	            93 1/2 E 7th St, New York, NY 10009	40.726912, -73.985297
+154	Namudol	4.0 star rating	2 reviews	$	            2902 Union Street, Flushing, NY 11354	40.771619, -73.826596
+155	TAO	3.5 star rating	1228 reviews	$$$	            42 E 58th St, New York, NY 10022	40.762614, -73.971429
+156	Cho Won Gal Bi	5.0 star rating	2 reviews	None	            4105 150th St, Flushing, NY 11355	40.762730, -73.813950
+157	Prince Hof - Hwang Tae Ja	3.0 star rating	14 reviews	$$	            75-10 Broadway, Elmhurst, NY 11373	40.746133, -73.890170
+158	Deung Chon Shabu & Noodles	3.5 star rating	4 reviews	$$	            36-34 Union St, Queens, NY 11354	40.762757, -73.828012
+159	BBQ Village	3.0 star rating	122 reviews	$$	            157-26 Northern Blvd, Flushing, NY 11354	40.763666, -73.807912
+160	Yakitori Taisho	4.0 star rating	958 reviews	$$	            5 St Marks Pl, New York, NY 10003	40.729529, -73.989254
+161	Dae Bach Sik Dang	4.5 star rating	3 reviews	$$	            14606 34th Ave, Flushing, NY 11354	40.766793, -73.822546
+162	Joong Han Boon Sik / Korean-Chinese Noodle & Dumpling	4.0 star rating	22 reviews	$	            133-33 39th Ave, Flushing, NY 11354	40.760462, -73.829365
+163	Woo Chon	3.0 star rating	56 reviews	$$	            4119 Kissena Blvd, Flushing, NY 11355	40.758145, -73.828880
+164	Gyu-Kaku Japanese BBQ	4.0 star rating	305 reviews	$$	            321 W 44th St, New York, NY 10036	40.759302, -73.990046
+165	Szechuan Gourmet	3.5 star rating	529 reviews	$$	            21 W 39th St, New York, NY 10018	40.752335, -73.983568
+166	Qi Bangkok Eatery	3.5 star rating	545 reviews	$$	            675 8th Ave, New York, NY 10036	40.757759, -73.989430
+167	Sol Hyang Ki	3.5 star rating	10 reviews	None	            13673 41st Ave, Flushing, NY 11355	40.759339, -73.826947
+168	Joe's Shanghai	4.0 star rating	2563 reviews	$$	            9 Pell St, New York, NY 10013	40.714630, -73.997766
+169	Oh! Taisho	3.5 star rating	642 reviews	$$	            9 St. Marks Pl, New York, NY 10003	40.729435, -73.989127
+170	Ippudo Ny	4.0 star rating	5846 reviews	$$	            65 4th Ave, New York, NY 10003	40.730940, -73.990223
+171	Ichi Umi	3.5 star rating	607 reviews	$$$	            6 E 32nd St, New York, NY 10016	40.746729, -73.984860
+172	Mexicue	3.5 star rating	119 reviews	$	            New York, NY 10001,         </address>	40.753685, -73.999164
+173	Siruyeon	4.0 star rating	24 reviews	$$	            150-36 Northern Blvd, Flushing, NY 11354	40.765023, -73.813771
+174	Aburiya Kinnosuke	4.0 star rating	404 reviews	$$$	            213 E 45th St, New York, NY 10017	40.752530, -73.972249
+175	LuAnne's Wild Ginger All-Asian Vegan	4.0 star rating	392 reviews	$$	            380 Broome St, New York, NY 10013	40.720629, -73.996394
+176	Caf China	3.5 star rating	258 reviews	$$	            13 E 37th St, New York, NY 10016	40.750105, -73.982082
+177	Hakata Tonton	4.0 star rating	376 reviews	$$	            61 Grove St, New York, NY 10014	40.733317, -74.003312
+178	Shabu-Tatsu East Village	4.0 star rating	334 reviews	$$	            216 E 10th St, New York, NY 10003	40.729286, -73.985903
+179	Ninja New York	3.5 star rating	818 reviews	$$$$	            25 Hudson St, New York, NY 10013	40.716835, -74.009293
+180	Village Yokocho	3.5 star rating	509 reviews	$$	            8 Stuyvesant St, New York, NY 10003	40.729771, -73.989161
+181	Radiance Tea House and Books	4.0 star rating	463 reviews	$$	            158 W 55th St, New York, NY 10019	40.763878, -73.980542
+182	K-POP  Korean Restaurant	2.5 star rating	7 reviews	$$	            64-16 Roosevelt Ave, Woodside, NY 11377	40.745821, -73.899537
+183	Republic	3.0 star rating	1112 reviews	$$	            37 Union Sq W, New York, NY 10003	40.737009, -73.990855
+184	Salt & Fat	4.0 star rating	599 reviews	$$	            41-16 Queens Blvd, Sunnyside, NY 11104	40.743205, -73.922933
+185	Sushi Yasuda	4.5 star rating	1144 reviews	$$$$	            204 E 43rd St, New York, NY 10017	40.751170, -73.973675
+186	Cha-An	4.0 star rating	808 reviews	$$	            230 E 9th St, New York, NY 10003	40.729444, -73.988137
+187	Jing Fong Restaurant	3.5 star rating	953 reviews	$$	            20 Elizabeth St, New York, NY 10013	40.716042, -73.997033
+188	MEW Izakaya	4.0 star rating	116 reviews	$$	            53 W 35th St, New York, NY 10001	40.750155, -73.986235
+189	Gyu-Kaku Japanese BBQ	4.0 star rating	467 reviews	$$$	            805 3rd Ave, New York, NY 10022	40.755318, -73.970719
+190	New Tony BBQ Restaurant	2.5 star rating	6 reviews	$$	            5915 7th Ave, Brooklyn, NY 11220	40.636911, -74.011294
+191	Blue Water Grill	3.5 star rating	905 reviews	$$$	            31 Union Sq W, New York, NY 10003	40.736659, -73.990829
+192	Sapporo	3.5 star rating	600 reviews	$$	            152 W 49th St, New York, NY 10019	40.760053, -73.983308
+193	Dae Sung Kal Kuk Soo Restaurant	4.0 star rating	11 reviews	$	            45-14 162nd St, Flushing, NY 11358	40.755975, -73.804866
+194	Cheogajip Fried Chicken	3.0 star rating	17 reviews	$$	            160-24A Northern Blvd, New York, NY 11358	40.762160, -73.804847
+195	Myung San	4.5 star rating	4 reviews	None	            162-21 Depot Rd, Flushing, NY 11358	40.762059, -73.803021
+196	Dinosaur Bar-B-Que	4.0 star rating	1643 reviews	$$	            700 W 125th St, New York, NY 10027	40.818082, -73.960937
+197	Bozu	4.0 star rating	439 reviews	$$	            296 Grand St, Brooklyn, NY 11211	40.712827, -73.957562
+198	Onya	4.0 star rating	342 reviews	$$	            143 E 47th St, New York, NY 10017	40.754452, -73.972739
+199	Sushi of Gari 46	4.0 star rating	330 reviews	$$$$	            347 W 46th St, New York, NY 10036	40.760724, -73.989560
+200	Sake Bar Decibel	4.0 star rating	575 reviews	$$	            240 E 9th St, New York, NY 10003	40.729284, -73.987790
+201	Bon Chon Chicken	3.5 star rating	59 reviews	$$	            45-37 Bell Blvd, Bayside, NY 11361	40.759313, -73.768428
+202	Ruby Foo's	3.0 star rating	396 reviews	$$$	            1626 Broadway, New York, NY 10019	40.761060, -73.984011
+203	Hongchun Korean Bbq	2.0 star rating	3 reviews	$$	            793 6th Ave, New York, NY 10001	40.745394, -73.991001
+204	Totto Ramen	4.0 star rating	2265 reviews	$$	            366 W 52nd St, New York, NY 10019	40.764331, -73.987660
+205	Sao Mai	3.5 star rating	198 reviews	$$	            203 1st Ave, New York, NY 10003	40.730368, -73.983608
+206	Katsu-Hama	3.5 star rating	462 reviews	$$	            11 E 47th St, New York, NY 10017	40.756468, -73.977525
+207	Fatty Fish	4.0 star rating	226 reviews	$$	            406 E 64 St, New York, NY 10065	40.762287, -73.959225
+208	Momofuku Noodle Bar	3.5 star rating	2374 reviews	$$	            171 1st Ave, New York, NY 10003	40.729233, -73.984510
+209	Jang Won Ru Restaurant	3.5 star rating	7 reviews	$	            15626 Northern Blvd, Flushing, NY 11354	40.763922, -73.808736
+210	Sushi Yasaka	4.0 star rating	453 reviews	$$	            251 W 72nd St, New York, NY 10023	40.779668, -73.983392
+211	Curry-Ya	4.0 star rating	364 reviews	$$	            214 E 10th St, New York, NY 10003	40.729200, -73.986028
+212	Sam Won Gahk	3.0 star rating	26 reviews	$$	            219-01 Northern Blvd, Bayside, NY 11361	40.761623, -73.762739
+213	Kosofresh	4.0 star rating	3 reviews	$$	            101 Park Ave, New York, NY 10178	40.751048, -73.977861
+214	Parksanbal Babs	4.5 star rating	2 reviews	$	            41-10 162nd St, New York, NY 11358	40.761031, -73.803901
+215	Robataya NY	4.0 star rating	313 reviews	$$$	            231 E 9th St, New York, NY 10003	40.729610, -73.987798
+216	52nd Sushi	4.0 star rating	47 reviews	$	            5221 Roosevelt Ave, Woodside, NY 11377	40.744606, -73.911582
+217	Asian Jewels Seafood Restaurant	4.0 star rating	483 reviews	$$	            13330 39th Ave, Flushing, NY 11354	40.759282, -73.833427
+218	Japas 27	3.5 star rating	88 reviews	$$	            366 3rd Ave, New York, NY 10016	40.741207, -73.981843
+219	Dora Dora	4.0 star rating	15 reviews	$$	            1629 Lemoine Ave, Fort Lee, NJ 07024	40.850327, -73.970531
+220	Nori Nori	3.5 star rating	192 reviews	$$$	            136-20 38th Ave, Flushing, NY 11354	40.760836, -73.829654
+221	Tomoe Sushi	4.0 star rating	506 reviews	$$$	            172 Thompson St, New York, NY 10012	40.727674, -74.000102
+222	Sakura IV	3.5 star rating	45 reviews	$$	            64-19 Myrtle Ave, Glendale, NY 11385	40.701067, -73.891563
+223	Brother Jimmy's BBQ	3.0 star rating	305 reviews	$$	            1485 2nd Ave, New York, NY 10021	40.772359, -73.956115
+224	Takahachi Tribeca Restaurant	3.5 star rating	118 reviews	$$$	            145 Duane St, New York, NY 10013	40.716593, -74.007917
+225	Kuruma Zushi	4.0 star rating	117 reviews	$$$$	            7 E 47th St, New York, NY 10017	40.756537, -73.977685
+226	Sushi Park	3.0 star rating	380 reviews	$$	            121 E 2nd Ave, New York, NY 10003	40.728246, -73.988266
+227	Miyako Sushi	3.5 star rating	87 reviews	$$	            143 Berry St, Brooklyn, NY 11211	40.718046, -73.959337
+228	Noodle Caf Zen	3.0 star rating	332 reviews	$$	            31 St Marks Pl, New York, NY 10003	40.729077, -73.988173
+229	Dumplings & Things	3.5 star rating	101 reviews	$	            375 5th Ave, Brooklyn, NY 11215	40.671116, -73.984508
+230	Sushi Yasu	4.0 star rating	310 reviews	$$	            70-11 Austin St, Forest Hills, NY 11375	40.720881, -73.846456
+231	Joe's Shanghai	3.5 star rating	564 reviews	$$	            13621 37th Ave, Flushing, NY 11354	40.761909, -73.830410
+232	Ming Chan Dong	3.0 star rating	3 reviews	None	            36-24 Union St, Queens, NY 11354	40.763042, -73.828243
+233	Charlie's Place	4.0 star rating	35 reviews	$	            1960 Madison Ave, New York, NY 10035	40.806219, -73.940612
+234	Back Alley Memory Lane	4.0 star rating	1 review	None	            4113 150th St, New York, NY 11355	40.762474, -73.813440
+235	BentOn Cafe	2.5 star rating	25 reviews	$	            123 William St, New York, NY 10038	40.709332, -74.006954
+236	Sarangbang Restaurant	2.5 star rating	11 reviews	$$	            21617 Northern Blvd, Bayside, NY 11361	40.761159, -73.765085
+237	Poke	4.0 star rating	249 reviews	$$	            343 E 85th St, New York, NY 10028	40.776715, -73.950481
+238	Ishihama Japanese Restaurant	2.5 star rating	39 reviews	$$$	            319 5th Ave, New York, NY 10016	40.747168, -73.985242
+239	Anando Restaurant	3.5 star rating	7 reviews	$	            29-14 36th Ave, Astoria, NY 11106	40.756955, -73.931001
+240	Bai Sushi Restaurant	3.5 star rating	68 reviews	$$	            3703 Broadway, Astoria, NY 11103	40.759734, -73.920316
+241	Kraverie	4.0 star rating	312 reviews	$$	            24 Mercer St, Jersey City, NJ 07302	40.718111, -74.043244
+242	Yuka Japanese Restaurant	3.5 star rating	317 reviews	$$	            1557 2nd Ave, New York, NY 10028	40.774614, -73.954459
+243	Hide-Chan Ramen	3.5 star rating	620 reviews	$$	            248 E 52nd St, New York, NY 10022	40.756127, -73.968193
+244	Eden Wok	2.5 star rating	50 reviews	$$	            43 E 34th St, New York, NY 10016	40.747604, -73.982544
+245	Maid Cafe NY	3.0 star rating	69 reviews	$	            150 Centre St, New York, NY 10013	40.717410, -74.000233
+246	East Noodle	2.5 star rating	139 reviews	$$	            119 E 2nd Ave, New York, NY 10003	40.728207, -73.988358
+247	McGully Alley	3.0 star rating	3 reviews	None	            19212 Northern Blvd, Flushing, NY 11358	40.757559, -73.788870
+248	Homemade Falafel	4.0 star rating	38 reviews	$	            36-18 Broadway, Astoria, NY 11106	40.759780, -73.920733
+249	Asian Station	2.5 star rating	50 reviews	$$	            1444 3rd Ave, New York, NY 10028	40.776233, -73.956203
+250	So Moon Nan Jip	4.0 star rating	202 reviews	$$	            238 Broad Ave, Palisades Park, NJ 07650	40.846685, -73.998736
+251	Manna's Restaurant	3.5 star rating	9 reviews	$	            54 E 125th St, New York, NY 10035	40.805823, -73.940361
+252	Wei West	3.0 star rating	63 reviews	$$	            235 Murray St, New York, NY 10282	40.715394, -74.014755
+253	So Kong Dong Restaurant	4.0 star rating	350 reviews	$$	            130 Main St, Fort Lee, NJ 07024	40.850555, -73.967011
+254	Mr. Wasabi	3.5 star rating	99 reviews	$$	            4232 Bell Blvd, Bayside, NY 11361	40.761906, -73.770181
+255	You Chun	4.0 star rating	52 reviews	$$	            135 Broad Ave, Palisades Park, NJ 07650	40.845449, -73.999973
+256	Te Min Quan	4.0 star rating	40 reviews	$$	            270 Broad Ave, Palisades Park, NJ 07650	40.847803, -73.997655
+257	Shinpo Restuarant	3.5 star rating	15 reviews	$$	            606 Anderson Ave, Cliffside Park, NJ 07010	40.824739, -73.988003
+258	Sushi Okdol	2.5 star rating	8 reviews	None	            497 Myrtle Ave, Brooklyn, NY 11205	40.693713, -73.965235
+259	Chung Dam Dong Restaurant	4.0 star rating	53 reviews	$$	            118 Broad Ave, Palisades Park, NJ 07650	40.844855, -73.999815
+260	Crown Restaurant & Lounge	3.5 star rating	48 reviews	$$	            243 Broad Ave, Palisades Park, NJ 07650	40.846877, -73.999038
+261	To Sok Chon	4.5 star rating	12 reviews	$$	            138 W Central Blvd, Palisades Park, NJ 07650	40.851124, -74.003077
+262	Son Ja Jang	4.0 star rating	53 reviews	$$	            232 Broad Ave, Palisades Park, NJ 07650	40.846337, -73.998684
+263	Sunny Sashimi	2.5 star rating	11 reviews	$$	            2 W 32 St, New York, NY 10001	40.747189, -73.986204
+264	Zen Zen Barbecue	4.0 star rating	54 reviews	$$$	            356 Bergen Blvd, Fairview, NJ 07022	40.821388, -73.999008
+265	Samdado Restaurant	3.5 star rating	9 reviews	$$	            22102A Horace Harding Expy, Oakland Gardens, NY 11364	40.749302, -73.755071
+266	Myung Dong Noodle House	3.5 star rating	54 reviews	$$	            2013 Lemoine Ave, Fort Lee, NJ 07024	40.851858, -73.969918
+267	Chicken Factory	3.5 star rating	74 reviews	$$	            529 Washington St, Hoboken, NJ 07030	40.743068, -74.028961
+268	BonChon Chicken	3.0 star rating	95 reviews	$$	            172 Newark Ave, Jersey City, NJ 07302	40.721186, -74.045343
+269	Omori Restaurant	3.0 star rating	6 reviews	$$	            520 Bergen Blvd, Palisades Park, NJ 07650	40.847657, -73.984678
+270	Pine Hill Restaurant	3.5 star rating	32 reviews	$$	            123 Paramus Rd, Paramus, NJ 07653	40.934135, -74.091439
+271	BCD Tofu House	4.0 star rating	159 reviews	$$	            1640 Schlosser St, Fort Lee, NJ 07024	40.850151, -73.970036
+272	Han Jan	4.5 star rating	3 reviews	None	            555 Anderson Ave, Cliffside Park, NJ 07010	40.823420, -73.989644
+273	So Gong Dong	4.0 star rating	51 reviews	$$	            118 Broad Ave, Palisades Park, NJ 07650	40.844855, -73.999815
+274	Kaya Sushi Restaurant	4.0 star rating	18 reviews	$$	            450 Broad Ave, Leonia, NJ 07605	40.865682, -73.985446
+275	Dong Bang Grill	4.0 star rating	129 reviews	$$$	            1616 Palisade Ave, Fort Lee, NJ 07024	40.849284, -73.968863
+276	Picnic Garden	4.0 star rating	116 reviews	$$$	            150 Sylvan Ave, Englewood Cliffs, NJ 07632	40.870395, -73.956980
+277	New Totowa	3.5 star rating	39 reviews	$$	            421 Broad Ave, Palisades Park, NJ 07650	40.850766, -73.996265
+278	Bon Juk	4.5 star rating	12 reviews	$$	            4 E Columbia Ave, Palisades Park, NJ 07650	40.842505, -74.001512
+279	Han' Sang Restaurant	4.0 star rating	5 reviews	$$	            520 Bergen Blvd, Palisades Park, NJ 07650	40.847657, -73.984678
+280	The Tea Bar	3.5 star rating	44 reviews	$$	            1636 Palisade Ave, Fort Lee, NJ 07024	40.849961, -73.968501
+281	Izakaya Maru	3.5 star rating	8 reviews	None	            631 Anderson Ave, Cliffside Park, NJ 07010	40.825770, -73.987899
+282	To Soc Chon	4.5 star rating	29 reviews	$$	            166 Main St, Fort Lee, NJ 07024	40.850776, -73.968649
+283	Kun Jip	3.0 star rating	19 reviews	$$	            268 Broad Ave, Palisades Park, NJ 07650	40.847709, -73.997680
+284	Gam Mee Ok Restaurant	3.5 star rating	89 reviews	$$	            485 Main St, Fort Lee, NJ 07024	40.855699, -73.977252
+285	BonChon Chicken	4.0 star rating	101 reviews	$$	            2467 Lemoine Ave, Fort Lee, NJ 07024	40.864893, -73.961650
+286	Poong Lim BBQ	3.5 star rating	31 reviews	$$	            2053 Lemoine Ave, Fort Lee, NJ 07024	40.853042, -73.969406
+287	MukEunJi	4.0 star rating	23 reviews	$$	            217 Broad Ave, Palisades Park, NJ 07650	40.846198, -73.999301
+288	Masil House	4.0 star rating	17 reviews	$$	            400 Main St, Fort Lee, NJ 07024	40.853375, -73.974688
+289	Bada Story	3.5 star rating	10 reviews	$$$	            799 Abbott Blvd, Fort Lee, NJ 07024	40.831520, -73.982928
+290	Woo Chon	3.5 star rating	8 reviews	$$	            280 Broad Ave, Palisades Park, NJ 07650	40.847987, -73.997442
+291	School Zone	3.0 star rating	35 reviews	$$	            1635 Lemoine Ave, Fort Lee, NJ 07024	40.850539, -73.970737
+292	Myung Ga Tofu and B.B.Q. Restaurant	3.5 star rating	8 reviews	$$	            261 Broad Ave, Fairview, NJ 07022	40.822923, -74.009186
+293	Ah Woo Rang	3.5 star rating	14 reviews	$$	            449 Broad Ave, Palisades Park, NJ 07650	40.851662, -73.995559
+294	Bunsik Nara	3.0 star rating	11 reviews	$$	            232 Broad Ave, Palisades Park, NJ 07650	40.846337, -73.998684
+295	Hanbat	3.0 star rating	24 reviews	$$	            452 Broad Ave, Palisades Park, NJ 07650	40.851595, -73.994912
+296	Noodle & Noodle	3.0 star rating	13 reviews	$$	            2024 Center Ave, Fort Lee, NJ 07024	40.852766, -73.971460
+297	Book Chang Dong Tofu	3.5 star rating	5 reviews	$$	            520 Bergen Blvd, Palisades Park, NJ 07650	40.847657, -73.984678
+298	Santouka Ramen	4.0 star rating	322 reviews	$$	            595 River Rd, Edgewater, NJ 07020	40.816245, -73.980120
+299	Jane Cafe & Restaurant	4.0 star rating	71 reviews	$$	            92 Main St, Mineola, NY 11501	40.741410, -73.638536
+300	Katsuhana	3.5 star rating	35 reviews	$$	            595 River Rd, Edgewater, NJ 07020	40.816245, -73.980120
+301	Woori Noodle	3.0 star rating	9 reviews	$$	            210 Main St, Fort Lee, NJ 07024	40.851094, -73.970709
+302	Deh Gee Koom Restaurant	4.0 star rating	1 review	None	            14 E Columbia Ave, Palisades Park, NJ 07650	40.842514, -74.001003
+303	Keumsan Samgyetang	3.0 star rating	5 reviews	$$	            131 W Central Blvd, Palisades Park, NJ 07650	40.851612, -74.002870
+304	Nizi Sushi Newark	4.0 star rating	49 reviews	$$	            28 Central Ave, Newark, NJ 07102	40.741573, -74.170506
+305	Organic Tofu House	4.0 star rating	96 reviews	$$	            88 Godwin Ave, Ridgewood, NJ 07450	40.978519, -74.123812
+306	Yiga Restaurant	3.0 star rating	1 review	None	            799 Abbott Blvd, Fort Lee, NJ 07024	40.831520, -73.982928
+307	Hiura Restaurant	4.0 star rating	69 reviews	$$$	            400B Main St, Fort Lee, NJ 07024	40.853375, -73.974688
+308	Homung Nangmyun	4.0 star rating	20 reviews	$$	            570 Piermont Rd, Closter, NJ 07624	40.968539, -73.952806
+309	Blue Ocean	3.5 star rating	8 reviews	None	            518 Broad Ave, Ridgefield, NJ 07657	40.833858, -74.009155
+310	Korea Garden	4.0 star rating	8 reviews	None	            2375 Central Park Ave, Yonkers, NY 10710	40.979152, -73.830542
+311	Pokoo Sushi & Sashimi	4.0 star rating	5 reviews	None	            337 Broad Ave, Palisades Park, NJ 07650	40.849292, -73.996891
+312	Cubby's BBQ	3.5 star rating	86 reviews	$$	            249 S River St, Hackensack, NJ 07602	40.870577, -74.039654
+313	Hwang bu ja	4.0 star rating	62 reviews	$$	            65 New Rd, Parsippany, NJ 07054	40.857032, -74.348298
+314	Ewha Won	3.0 star rating	11 reviews	$$	            570 Piermont Rd, Closter, NJ 07624	40.968539, -73.952806
+315	Poong Yein Korea	2.0 star rating	1 review	None	            306 Broad Ave, Palisades Park, NJ 07650	40.848425, -73.997154
+316	Doma Doma	4.5 star rating	19 reviews	$$	            215-D Rivervale Rd, Rivervale, NJ 07675	40.996110, -74.007193
+317	U 1 Sushi	4.0 star rating	18 reviews	$$	            5 Paterson Ave, Little Falls, NJ 07424	40.881428, -74.227307
+318	Korea Palace New Jersey	2.0 star rating	3 reviews	$$	            208 Piermont Rd, Closter, NJ 07624	40.976129, -73.945591
+319	Duri Restaurant	4.0 star rating	1 review	None	            280 Broad Ave, Palisades Park, NJ 07650	40.847987, -73.997442
+320	Go Ba Woo Kalbi Korean Barbeque	3.5 star rating	14 reviews	$$	            4 Route 303, Tappan, NY 10983	41.016353, -73.945263
+321	Keum Ho Jung Restaurant	4.0 star rating	65 reviews	$$	            518 Old Post Rd, Edison, NJ 08817	40.515782, -74.376390
+322	Chung Sol Bat	4.0 star rating	92 reviews	$$	            560 Old Post Rd, Edison, NJ 08817	40.514704, -74.372747
+323	Duk Soo Goong	4.5 star rating	10 reviews	$$	            475 Old Post Rd, Edison, NJ 08817	40.515358, -74.375955
+324	Picnic Garden	3.5 star rating	156 reviews	$$	            1763 Rt 27, Edison, NJ 08817	40.512665, -74.406108
+325	Taiko Restaurant	4.0 star rating	41 reviews	$$	            13 S Village Ave, Rockville Centre, NY 11570	40.656136, -73.647764
+326	Mr Sushi	3.5 star rating	64 reviews	$$	            186 Mountainview Blvd, Wayne, NJ 07470	40.914988, -74.269139
+327	Miso Japanese Restaurant	4.0 star rating	14 reviews	$$	            317 Valley Rd, Wayne, NJ 07470	40.924442, -74.234040
+328	Maxin Bakery	4.5 star rating	12 reviews	None	            3701 Main St, Flushing, NY 11354	40.761503, -73.830784
+329	Manna Rice Bar	4.5 star rating	2 reviews	None	            2190 Woodbridge Ave, Edison, NJ 08817	40.501180, -74.393881
+330	Sushi Niji	3.5 star rating	31 reviews	$$	            71 Main St, Dobbs Ferry, NY 10522	41.014039, -73.876259
+331	Maru Restaurant	4.0 star rating	13 reviews	$$	            415 State Hwy 18, East Brunswick, NJ 08816	40.446574, -74.396078
+332	Maru Restaurant	3.0 star rating	12 reviews	$$	            415 State Rt 18, East Brunswick, NJ 08816	40.446574, -74.396078
+333	Coco Asian Cuisine	4.0 star rating	86 reviews	$$	            1803 Lincoln Hwy, Edison, NJ 08817	40.513756, -74.404617
+334	Dunkin Donuts	3.0 star rating	4 reviews	None	            353 Broad Ave Ste 1, Leonia, NJ 07605	40.862330, -73.987168

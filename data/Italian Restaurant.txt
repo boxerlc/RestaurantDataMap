@@ -1,0 +1,1000 @@
+1	Gaia Italian Caf	4.5 star rating	377 reviews	$	            251 E Houston St, New York, NY 10002	40.721668, -73.985343
+2	Carmine's	4.0 star rating	1184 reviews	$$	            200 W 44th St, New York, NY 10036	40.757498, -73.986654
+3	Trattoria L'incontro	4.5 star rating	386 reviews	$$$	            21-76 31st St, Astoria, NY 11105	40.776468, -73.910614
+4	Eataly NYC	3.5 star rating	2232 reviews	$$$	            200 5th Ave, New York, NY 10010	40.741943, -73.989906
+5	Malatesta Trattoria	4.0 star rating	619 reviews	$$	            649 Washington St, New York, NY 10014	40.732849, -74.008439
+6	Tony's Di Napoli	4.0 star rating	617 reviews	$$	            147 W 43rd St, New York, NY 10036	40.756508, -73.985383
+7	Parkside Restaurant	4.0 star rating	193 reviews	$$$	            107-01 Corona Ave, Corona, NY 11368	40.743841, -73.856132
+8	IL Passatore	4.0 star rating	251 reviews	$$	            14 Bushwick Ave, Brooklyn, NY 11211	40.714337, -73.942133
+9	Trattoria Trecolori	4.0 star rating	644 reviews	$$	            254 W 47th St, New York, NY 10036	40.759947, -73.986745
+10	Bianca Restaurant	4.0 star rating	763 reviews	$$	            5 Bleecker St, New York, NY 10012	40.725510, -73.992670
+11	Piccolo Angolo	4.0 star rating	211 reviews	$$	            621 Hudson St, New York, NY 10014	40.738045, -74.005812
+12	Don Peppe	4.5 star rating	178 reviews	$$$	            13558 Lefferts Blvd, Ozone Park, NY 11420	40.668928, -73.821557
+13	Carmine's	4.0 star rating	414 reviews	$$	            2450 Broadway, New York, NY 10024	40.791121, -73.973971
+14	Ornella Trattoria Italiana	4.0 star rating	320 reviews	$$	            29-17 23rd Ave, Astoria, NY 11105	40.774816, -73.913258
+15	Supper	4.0 star rating	650 reviews	$$	            156 E 2nd St, New York, NY 10009	40.722927, -73.985198
+16	Il Corallo Trattoria	4.0 star rating	412 reviews	$$	            172 Prince St, New York, NY 10012	40.726080, -74.001873
+17	Mercato	4.0 star rating	256 reviews	$$	            352 W 39th St, New York, NY 10018	40.756181, -73.993688
+18	Fragole Ristorante	4.0 star rating	196 reviews	$$	            394 Court St, Brooklyn, NY 11231	40.680881, -73.996875
+19	Carbone Ristorante Italiano	3.5 star rating	183 reviews	$$	            331 W 38th St, New York, NY 10018	40.755519, -73.992952
+20	Da Nico Ristorante	3.5 star rating	246 reviews	$$	            164 Mulberry St, New York, NY 10013	40.719626, -73.996905
+21	Il Mulino New York	4.0 star rating	256 reviews	$$$$	            86 W 3rd St, New York, NY 10012	40.729735, -73.999148
+22	Becco Restaurant	4.0 star rating	1260 reviews	$$$	            355 W 46th St, New York, NY 10036	40.760828, -73.989807
+23	Noodle Pudding	4.0 star rating	274 reviews	$$	            38 Henry St, Brooklyn, NY 11201	40.699802, -73.991917
+24	Da Andrea	4.0 star rating	334 reviews	$$	            35 W 13th St, New York, NY 10011	40.736248, -73.995812
+25	Pellegrino's Italian Restaurant	4.0 star rating	239 reviews	$$$	            138 Mulberry St, New York, NY 10013	40.718608, -73.997415
+26	PT Restaurant	4.5 star rating	196 reviews	$$	            331 Bedford Ave, Brooklyn, NY 11211	40.712621, -73.962286
+27	Pepolino Restaurant	4.0 star rating	221 reviews	$$$	            281 W Broadway, New York, NY 10013	40.720770, -74.004898
+28	D. Coluccio & Sons	4.5 star rating	27 reviews	$$	            1214-20 60th St, Brooklyn, NY 11219	40.629896, -74.000382
+29	Celeste	4.0 star rating	499 reviews	$$	            502 Amsterdam Ave, New York, NY 10024	40.786714, -73.976112
+30	Basta Pasta	4.0 star rating	736 reviews	$$$	            37 W 17th St, New York, NY 10011	40.738935, -73.994035
+31	Gino's	4.0 star rating	198 reviews	$$	            7414 5th Ave, Brooklyn, NY 11209	40.629988, -74.022757
+32	Il Posto	4.0 star rating	16 reviews	$$$	            7409 Ave U, Brooklyn, NY 11234	40.621585, -73.905188
+33	Il Triangolo Restaurant	4.5 star rating	87 reviews	$$	            96-01 Corona Ave, Corona, NY 11368	40.742202, -73.867322
+34	Pepe Rosso To Go	4.0 star rating	208 reviews	$	            149 Sullivan St, New York, NY 10012	40.727113, -74.001512
+35	Il Colosseo	4.0 star rating	63 reviews	$$	            7704 18th Ave, Brooklyn, NY 11214	40.612231, -73.997545
+36	Pepe Rosso Social	5.0 star rating	29 reviews	$$	            173 Mott St, New York, NY 10013	40.720107, -73.996077
+37	Crispo	4.0 star rating	514 reviews	$$$	            240 W 14th St, New York, NY 10011	40.739120, -74.001784
+38	Paprika	4.0 star rating	675 reviews	$$	            110 St Marks Pl, New York, NY 10009	40.726931, -73.984343
+39	Nuovo Fiore	4.0 star rating	252 reviews	$$	            284 Grand St, Brooklyn, NY 11211	40.712954, -73.957854
+40	Monte's Trattoria	4.0 star rating	123 reviews	$$	            97 MacDougal St, New York, NY 10012	40.729583, -74.001094
+41	Sole di Capri	4.0 star rating	109 reviews	$$	            165 Church St, New York, NY 10007	40.715039, -74.007540
+42	Cataldo's Restaurant	4.0 star rating	93 reviews	$$	            554 Vanderbilt Ave, Brooklyn, NY 11238	40.680081, -73.968242
+43	Caffe E Vino	4.0 star rating	190 reviews	$$	            112 Dekalb Ave, Brooklyn, NY 11201	40.689628, -73.978270
+44	Il Tinello Ristorante	4.5 star rating	61 reviews	$$$$	            16 W 56th St, New York, NY 10019	40.762629, -73.975605
+45	Vinny's	4.0 star rating	89 reviews	$$	            295 Smith St, Brooklyn, NY 11231	40.681839, -73.993506
+46	Max	3.5 star rating	237 reviews	$$	            181 Duane St, New York, NY 10013	40.717555, -74.010134
+47	Russo's Mozzarella and Pasta	4.5 star rating	116 reviews	$	            363 7th Ave, Brooklyn, NY 11215	40.665761, -73.982204
+48	Patzeria Family & Friends	4.0 star rating	182 reviews	$$	            311 W 48th St, New York, NY 10036	40.761416, -73.987617
+49	Trattoria Pesce Pasta	4.0 star rating	102 reviews	$$	            262 Bleecker St, New York, NY 10014	40.731165, -74.003170
+50	La Mela Ristorante	3.5 star rating	340 reviews	$$	            167 Mulberry St, New York, NY 10013	40.719931, -73.997352
+51	Manducatis	3.5 star rating	57 reviews	$$	            13-27 Jackson Ave, Long Island City, NY 11101	40.744539, -73.948925
+52	Via Emilia	4.0 star rating	170 reviews	$$	            47 E 21st St, New York, NY 10010	40.739376, -73.987888
+53	Basso56	4.0 star rating	329 reviews	$$$	            234 W 56th St, New York, NY 10019	40.765527, -73.982641
+54	La Masseria	4.0 star rating	190 reviews	$$$	            235 W 48th St, New York, NY 10036	40.760845, -73.986110
+55	Uva	4.0 star rating	918 reviews	$$	            1486 2nd Ave, New York, NY 10075	40.772152, -73.955558
+56	Bamonte's	4.0 star rating	129 reviews	$$	            32 Withers St, Brooklyn, NY 11211	40.716603, -73.951199
+57	Faicco's Italian Specialties	4.5 star rating	139 reviews	$$	            260 Bleecker St, New York, NY 10014	40.731092, -74.003182
+58	Lupa	4.0 star rating	877 reviews	$$$	            170 Thompson St, New York, NY 10012	40.727597, -74.000103
+59	Bistango	4.0 star rating	317 reviews	$$	            415 3rd Ave, New York, NY 10016	40.742580, -73.980075
+60	Novita Restaurant	4.0 star rating	181 reviews	$$$	            102 E 22nd St, New York, NY 10010	40.739159, -73.986404
+61	Pisticci	4.0 star rating	344 reviews	$$	            125 La Salle St, New York, NY 10027	40.814202, -73.960312
+62	Max Soha	4.0 star rating	233 reviews	$$	            1274 Amsterdam Ave, New York, NY 10027	40.811355, -73.958256
+63	Patrizia's Pizza and Pasta	4.0 star rating	188 reviews	$$	            35 Broadway, Brooklyn, NY 11249	40.710885, -73.967372
+64	Park Italian Gourmet	4.0 star rating	90 reviews	$	            60 W 45th St, New York, NY 10036	40.756211, -73.981948
+65	Rao's	4.5 star rating	62 reviews	$$$$	            455 E 114th St, New York, NY 10029	40.793895, -73.934393
+66	L'Artusi	4.5 star rating	668 reviews	$$$	            228 W 10th St, New York, NY 10014	40.733785, -74.005139
+67	Babbo Ristorante e Enoteca	4.0 star rating	1370 reviews	$$$$	            110 Waverly Pl, New York, NY 10011	40.732286, -73.999279
+68	SUD vino & cucina	4.5 star rating	98 reviews	$$	            1102 Bedford Ave, Brooklyn, NY 11216	40.686991, -73.954880
+69	Lanza's Restaurant	3.0 star rating	83 reviews	$$	            168 1st Ave, New York, NY 10009	40.728868, -73.983980
+70	Falanghina Pizza Bar	5.0 star rating	42 reviews	$$	            130 St Marks Pl, New York, NY 10009	40.726655, -73.983593
+71	Frankies 457	4.0 star rating	402 reviews	$$	            457 Court St, Brooklyn, NY 11231	40.677376, -73.998054
+72	Scalini Fedeli	4.5 star rating	160 reviews	$$$$	            165 Duane St, New York, NY 10013	40.717431, -74.009317
+73	Canaletto	3.5 star rating	22 reviews	$$	            208 E 60th St, New York, NY 10022	40.761744, -73.965688
+74	Locanda Vini e Olii	4.0 star rating	148 reviews	$$$	            129 Gates Ave, Brooklyn, NY 11238	40.685007, -73.962943
+75	Piccoli Trattoria	4.0 star rating	158 reviews	$$	            522 6th Ave, Brooklyn, NY 11215	40.665229, -73.986623
+76	La Nonna	3.5 star rating	162 reviews	$$	            237 Bedford  Ave, Brooklyn, NY 11211	40.715903, -73.959528
+77	Gennaro	3.5 star rating	232 reviews	$$	            665 Amsterdam Ave, New York, NY 10025	40.791772, -73.971728
+78	Queen Italian Restaurant	4.0 star rating	122 reviews	$$$	            84 Court St, Brooklyn, NY 11201	40.691331, -73.991811
+79	Oregano	4.5 star rating	75 reviews	$$	            102 Berry St, Brooklyn, NY 11211	40.719226, -73.958716
+80	Gnocco	3.5 star rating	221 reviews	$$	            337 E 10th St, New York, NY 10009	40.727219, -73.980213
+81	ReSette	4.0 star rating	191 reviews	$$$	            7 W 45th St, New York, NY 10036	40.755910, -73.980066
+82	Nino's 46	4.0 star rating	213 reviews	$$	            39 W 46th St, New York, NY 10036	40.756916, -73.980516
+83	Scalino	4.0 star rating	124 reviews	$$	            347 7th Ave, Brooklyn, NY 11215	40.666323, -73.982048
+84	Le Zie	3.5 star rating	189 reviews	$$	            172 7th Ave, New York, NY 10011	40.742470, -73.997081
+85	Antonios Trattoria	4.5 star rating	109 reviews	$$	            2370 Belmont Ave, Bronx, NY 10458	40.854158, -73.886477
+86	Scarpetta	4.0 star rating	866 reviews	$$$	            355 W 14th St, New York, NY 10014	40.740893, -74.004815
+87	Rubirosa	4.0 star rating	465 reviews	$$	            235 Mulberry St, New York, NY 10012	40.722743, -73.996199
+88	Osteria Morini	4.0 star rating	469 reviews	$$$	            218 Lafayette St, New York, NY 10012	40.721993, -73.997789
+89	Aurora Soho	4.0 star rating	192 reviews	$$$	            510 Broome St, New York, NY 10013	40.723621, -74.003119
+90	Spiga	4.0 star rating	140 reviews	$$$	            200 W 84th St, New York, NY 10024	40.786370, -73.976015
+91	Rocco's Calamari	4.0 star rating	88 reviews	$$	            6408 Fort Hamilton Pkwy, Brooklyn, NY 11219	40.631093, -74.009029
+92	Ristorante Il Melograno	4.0 star rating	127 reviews	$$	            501 W 51st St, New York, NY 10019	40.765541, -73.991641
+93	John's of 12th Street	3.5 star rating	269 reviews	$$	            302 E 12th St, New York, NY 10003	40.730605, -73.985535
+94	Amarone Restaurant	4.0 star rating	96 reviews	$$	            686 9th Ave, New York, NY 10036	40.761685, -73.989908
+95	La Palina Restaurant	4.0 star rating	56 reviews	$$	            159 Ave O, Brooklyn, NY 11204	40.611024, -73.978877
+96	La Vigna Restaurant	4.0 star rating	63 reviews	$$	            10011 Metropolitan Ave, Forest Hills, NY 11375	40.710987, -73.852720
+97	La Carbonara	3.5 star rating	176 reviews	$$	            202 W 14th St, New York, NY 10011	40.738554, -74.000348
+98	Pepe Giallo	4.0 star rating	173 reviews	$$	            253 10th Ave, New York, NY 10001	40.748972, -74.003707
+99	Ortobello Restaurant	4.0 star rating	43 reviews	$$	            6401 Bay Pkwy, Brooklyn, NY 11204	40.614092, -73.980715
+100	Da Marcella	4.0 star rating	84 reviews	$$	            142 W Houston St, New York, NY 10012	40.728082, -74.001687
+101	Via Della Pace	3.5 star rating	250 reviews	$$	            48 E 7th St, New York, NY 10003	40.727690, -73.987746
+102	Trattoria Spaghetto	3.5 star rating	126 reviews	$$	            228 Bleecker St, New York, NY 10014	40.730096, -74.002550
+103	Via Trenta Osteria & Wine Bar	4.0 star rating	185 reviews	$$	            36-19 30th Ave, Astoria, NY 11103	40.764886, -73.916529
+104	Il Corso	4.0 star rating	119 reviews	$$$	            54 W 55th St, New York, NY 10019	40.762387, -73.977221
+105	Coppola's East	3.0 star rating	84 reviews	$$	            378 3rd Ave, New York, NY 10016	40.741651, -73.981536
+106	Rafele Ristorante	4.0 star rating	117 reviews	$$$	            29 7th Ave S, New York, NY 10014	40.730752, -74.004144
+107	Trattoria Romana	4.0 star rating	60 reviews	$$$	            1476 Hylan Blvd, Staten Island, NY 10305	40.592218, -74.087013
+108	Enoteca Maria	4.0 star rating	120 reviews	$$	            27 Hyatt St, Staten Island, NY 10301	40.642021, -74.076916
+109	Tony's Di Napoli	3.5 star rating	140 reviews	$$	            1081 3rd Ave, New York, NY 10021	40.764300, -73.964244
+110	Salumeria Rosi Parmacotto	4.0 star rating	233 reviews	$$$	            283 Amsterdam Ave, New York, NY 10023	40.779289, -73.980707
+111	Acappella	4.0 star rating	78 reviews	$$$$	            1 Hudson St, New York, NY 10013	40.715763, -74.009398
+112	Ancora Italian Restaurant	4.5 star rating	53 reviews	$$$	            8 Stone Street, New York, NY 10004	40.703841, -74.012268
+113	Tuscan Hills	4.0 star rating	171 reviews	$$	            115-20 Queens Blvd, Forest Hills, NY 11375	40.716619, -73.834362
+114	Ciccio	4.5 star rating	40 reviews	$$	            190 6th Ave, New York, NY 10012	40.726336, -74.003471
+115	Giano Restaurant	4.0 star rating	243 reviews	$$	            126 E 7th St, New York, NY 10009	40.726099, -73.984229
+116	Nanni's Restaurant	3.5 star rating	38 reviews	$$$	            146 E 46th St, New York, NY 10017	40.753536, -73.973707
+117	Giacomo's Wood Fired Pizza & Trattoria	4.0 star rating	52 reviews	$$	            7902 3rd Ave, Brooklyn, NY 11209	40.628513, -74.029309
+118	La Follia Osteria	4.0 star rating	162 reviews	$$	            226 3rd Ave, New York, NY 10003	40.736601, -73.985084
+119	Villa Mosconi	4.0 star rating	86 reviews	$$	            69 MacDougal St, New York, NY 10012	40.728593, -74.002001
+120	River Deli	4.0 star rating	74 reviews	$$	            32 Joralemon St, Brooklyn, NY 11201	40.693665, -73.998620
+121	Otto Enoteca Pizzeria	3.5 star rating	1387 reviews	$$	            1 5th Ave, New York, NY 10003	40.731903, -73.996192
+122	Lusardi's	4.0 star rating	77 reviews	$$$	            1494 2nd Ave, New York, NY 10021	40.772368, -73.955387
+123	Sfoglia Restaurant	4.0 star rating	151 reviews	$$$	            1402 Lexington Ave, New York, NY 10128	40.783626, -73.952750
+124	Scalinatella Restaurant	4.5 star rating	70 reviews	$$$$	            201 E 61st St, New York, NY 10021	40.762765, -73.965219
+125	Zero Otto Nove Manhattan	4.0 star rating	150 reviews	$$$	            15 W 21st St, New York, NY 10010	40.740811, -73.991508
+126	Frank	3.5 star rating	345 reviews	$$	            88 2nd Ave, New York, NY 10003	40.726809, -73.988615
+127	Lavagna Restaurant	4.0 star rating	225 reviews	$$$	            545 E 5th St, New York, NY 10009	40.724095, -73.982343
+128	Benito One	4.0 star rating	105 reviews	$$	            174 Mulberry St, New York, NY 10013	40.719958, -73.996920
+129	Manetta's Fine Foods	4.0 star rating	145 reviews	$$	            1076 Jackson Ave, Long Island City, NY 11101	40.745701, -73.945819
+130	In Vino	4.0 star rating	361 reviews	$$$	            215 E 4th St, New York, NY 10009	40.723909, -73.983398
+131	Cara Mia	3.5 star rating	153 reviews	$$	            654 9th Ave, New York, NY 10036	40.760682, -73.990651
+132	Trattoria Alba	4.0 star rating	46 reviews	$$	            233 E 34th St, New York, NY 10016	40.745255, -73.976520
+133	Quality Italian	4.0 star rating	123 reviews	$$$	            57 W 57th St, New York, NY 10019	40.764462, -73.976846
+134	Mama Rao Cucina Italiana	4.5 star rating	41 reviews	$$$	            6408 11th Avenue, Brooklyn, NY 11219	40.629187, -74.005752
+135	Napoli Pizza Pasta	4.0 star rating	119 reviews	$	            33-02 35th Ave, Astoria, NY 11106	40.757256, -73.926857
+136	Paesano of Mulberry Street	3.5 star rating	173 reviews	$$	            136 Mulberry St, New York, NY 10013	40.718531, -73.997433
+137	Piacere	4.5 star rating	64 reviews	$$	            351 Broome St, New York, NY 10013	40.719621, -73.995159
+138	Caffe Buon Gusto	3.5 star rating	117 reviews	$$	            236 E 77th St, New York, NY 10075	40.772266, -73.957153
+139	Gigino Trattoria	3.5 star rating	126 reviews	$$	            323 Greenwich St, New York, NY 10013	40.717264, -74.010475
+140	Aurora	4.0 star rating	256 reviews	$$	            70 Grand St, Brooklyn, NY 11211	40.715686, -73.964730
+141	Roberto's	4.0 star rating	118 reviews	$$$	            603 Crescent Ave, Bronx, NY 10458	40.853740, -73.888376
+142	Gaetana's	3.5 star rating	144 reviews	$$	            143 Christopher St, New York, NY 10014	40.732961, -74.007796
+143	Harry's Italian Pizza Bar	3.5 star rating	226 reviews	$$	            2 Gold St, New York, NY 10038	40.707332, -74.007081
+144	Al Di La Trattoria	4.0 star rating	459 reviews	$$$	            248 5th Ave, Brooklyn, NY 11215	40.675299, -73.981531
+145	Cucino a Modo Mio	4.5 star rating	16 reviews	$$	            51-01 108 St, Corona, NY 11368	40.744270, -73.854561
+146	Graziella Ristorante	4.0 star rating	29 reviews	$$	            3329 Francis Lewis Blvd, Flushing, NY 11358	40.766771, -73.789637
+147	Galli Restaurant	4.0 star rating	163 reviews	$$	            45 Mercer St, New York, NY 10013	40.721674, -74.001407
+148	Il Vagabondo	3.5 star rating	126 reviews	$$	            351 E 62nd St, New York, NY 10021	40.761923, -73.961179
+149	Il Poeta	4.0 star rating	78 reviews	$$	            98-04 Metropolitan Ave, Forest Hills, NY 11375	40.710795, -73.854548
+150	Anthony's Place	4.0 star rating	45 reviews	$$	            2110 Ave X, Brooklyn, NY 11235	40.592660, -73.948643
+151	La Locanda	4.0 star rating	40 reviews	$$	            432 Graham Ave, Brooklyn, NY 11211	40.717827, -73.944660
+152	Acquista Trattoria	4.0 star rating	143 reviews	$$	            178-01 Union Tpke, Flushing, NY 11366	40.726512, -73.789878
+153	Sauce	3.5 star rating	245 reviews	$$	            78-84 Rivington St, New York, NY 10002	40.720443, -73.989300
+154	La Lanterna di Vittorio	4.0 star rating	541 reviews	$$	            129 MacDougal St, New York, NY 10012	40.730709, -74.000147
+155	Belli Osteria	4.0 star rating	59 reviews	$$	            860 Fulton St, Brooklyn, NY 11238	40.683261, -73.966516
+156	Carino Ristorante Italiano	4.0 star rating	35 reviews	$$	            1710 2nd Ave, New York, NY 10128	40.779450, -73.950185
+157	Caffe Linda	4.0 star rating	142 reviews	$$	            145 E 49th St, New York, NY 10017	40.755783, -73.972012
+158	Trattoria Zero Otto Nove	4.0 star rating	264 reviews	$$	            2357 Arthur Ave, Bronx, NY 10458	40.854652, -73.888353
+159	Bacaro	4.0 star rating	230 reviews	$$$	            136 Division St, New York, NY 10002	40.714531, -73.991564
+160	Lil' Frankie's	4.0 star rating	463 reviews	$$	            19 1st Ave, New York, NY 10003	40.723606, -73.988529
+161	Emporio	4.0 star rating	329 reviews	$$	            231 Mott St, New York, NY 10012	40.722637, -73.995315
+162	Luna Piena	3.5 star rating	117 reviews	$$	            243 E 53rd St, New York, NY 10022	40.757230, -73.967660
+163	Covo Trattoria	3.5 star rating	187 reviews	$$	            701 W 135 St, New York, NY 10031	40.821573, -73.957953
+164	Da Nonna Rosa	4.0 star rating	81 reviews	$$	            140 7th Ave, Brooklyn, NY 11215	40.672913, -73.976986
+165	Joe's Restaurant	4.0 star rating	44 reviews	$$	            6611 Forest Ave, New York, NY 11385	40.707499, -73.903220
+166	Joe's of Avenue U Italian Cuisine	4.0 star rating	79 reviews	$$	            287 Avenue U, Brooklyn, NY 11223	40.596981, -73.973444
+167	Vapiano	3.5 star rating	439 reviews	$$	            113 University Pl, New York, NY 10003	40.734310, -73.992243
+168	Uvarara	4.0 star rating	78 reviews	$$$	            79-28 Metropolitan Ave, Middle Village, NY 11379	40.713021, -73.872460
+169	Russo Mozzarella & Pasta	4.5 star rating	67 reviews	$$	            344 E 11th St, New York, NY 10003	40.729408, -73.984367
+170	Il Palazzo Ristorante Italiano	3.5 star rating	134 reviews	$$$	            151 Mulberry St, New York, NY 10013	40.719050, -73.997571
+171	Locanda Verde	4.0 star rating	865 reviews	$$$	            377 Greenwich St, New York, NY 10013	40.719846, -74.009854
+172	Scottadito Osteria Toscana	4.0 star rating	444 reviews	$$	            788A Union St, Brooklyn, NY 11215	40.674750, -73.976544
+173	Dell'Anima	4.0 star rating	377 reviews	$$$	            38 8th Ave, New York, NY 10014	40.737955, -74.004007
+174	Testo	4.5 star rating	54 reviews	$$	            141 Leonard St, Brooklyn, NY 11206	40.708328, -73.946983
+175	Vivolo Restaurant	4.0 star rating	67 reviews	$$	            140 East 74th St, New York, NY 10021	40.771666, -73.961564
+176	Enoteca on Court	4.0 star rating	120 reviews	$$	            347 Court St, Brooklyn, NY 11231	40.682127, -73.995720
+177	Mario's	3.0 star rating	20 reviews	$$	            4304 47th Ave, Sunnyside, NY 11104	40.741321, -73.921695
+178	Tavola	4.0 star rating	108 reviews	$$	            488 9th Ave, New York, NY 10018	40.755403, -73.994517
+179	Via Italia Restaurant	3.0 star rating	47 reviews	$$	            45 W 46th St, New York, NY 10036	40.756994, -73.980701
+180	Peasant	4.0 star rating	438 reviews	$$$	            194 Elizabeth St, New York, NY 10012	40.721696, -73.994272
+181	Gastronomia Culinaria	4.0 star rating	37 reviews	$$	            53 W 106th St, New York, NY 10025	40.799054, -73.961668
+182	Portalia	4.0 star rating	139 reviews	$$	            35-03 Broadway, Astoria, NY 11106	40.760513, -73.921881
+183	Fiat Cafe	4.0 star rating	163 reviews	$$	            203 Mott St, New York, NY 10012	40.721432, -73.995689
+184	Elio's	4.0 star rating	80 reviews	$$$$	            1621 2nd Ave, New York, NY 10028	40.776842, -73.952858
+185	Pomodoro Rosso	3.5 star rating	127 reviews	$$$	            229 Columbus Ave, New York, NY 10023	40.776306, -73.979175
+186	Alberto Restaurant	4.0 star rating	47 reviews	$$$	            9831 Metropolitan Ave, Forest Hills, NY 11375	40.711093, -73.853485
+187	Sociale	4.0 star rating	55 reviews	$$$	            72 Henry St, Brooklyn, NY 11201	40.698697, -73.992567
+188	Bartolino's Italian Ristorante	3.5 star rating	78 reviews	$$	            34-15 Broadway, Astoria, NY 11106	40.760790, -73.922267
+189	Bar Pitti	3.5 star rating	377 reviews	$$	            268 Ave of the Americas, New York, NY 10014	40.729289, -74.002369
+190	Trattoria Belvedere	4.0 star rating	119 reviews	$$$	            165 Lexington Ave, New York, NY 10016	40.744032, -73.981145
+191	Alberto Restaurant	4.0 star rating	47 reviews	$$$	            9831 Metropolitan Ave, Forest Hills, NY 11375	40.711093, -73.853485
+192	Bar Pitti	3.5 star rating	377 reviews	$$	            268 Ave of the Americas, New York, NY 10014	40.729289, -74.002369
+193	Nick's Pizza	4.0 star rating	236 reviews	$$	            1814 2nd Ave, New York, NY 10128	40.782703, -73.947804
+194	Serafina Broadway	3.5 star rating	191 reviews	$$$	            210 West 55th St, New York, NY 10019	40.764579, -73.982100
+195	Luzzo's	4.0 star rating	678 reviews	$$	            211 1st Ave, New York, NY 10003	40.730574, -73.983368
+196	Zio Ristorante	4.0 star rating	105 reviews	$$$	            17 W 19th St, New York, NY 10011	40.739669, -73.992480
+197	Osteria Laguna Restaurant	3.5 star rating	131 reviews	$$	            209 E 42nd St, New York, NY 10017	40.750644, -73.973551
+198	Antica Trattoria	4.0 star rating	50 reviews	$$	            6810 Fresh Pond Rd, Ridgewood, NY 11385	40.702146, -73.895063
+199	Prima Pasta & Cafe	3.5 star rating	54 reviews	$$	            16150 B Crossbay Blvd, Howard Beach, NY 11414	40.654399, -73.839258
+200	Ferdinando's	4.0 star rating	91 reviews	$$	            151 Union St, Brooklyn, NY 11231	40.684236, -74.001843
+201	La Piazzetta	4.0 star rating	92 reviews	$$	            442 Graham Ave, Brooklyn, NY 11211	40.718326, -73.944699
+202	Osteria Al Doge	3.5 star rating	187 reviews	$$$	            142 W 44th St, New York, NY 10036	40.756625, -73.984907
+203	Il Bagatto -to go	3.5 star rating	137 reviews	$$$	            192 E 2nd St, New York, NY 10009	40.722537, -73.983879
+204	Vesta	4.0 star rating	433 reviews	$$	            21-02 30th Ave, Astoria, NY 11102	40.769622, -73.927766
+205	Three of Cups	4.0 star rating	240 reviews	$$	            83 1st Ave, New York, NY 10003	40.725997, -73.986807
+206	Pesce Pasta	3.5 star rating	61 reviews	$$	            1562 3rd Ave, New York, NY 10128	40.780014, -73.953406
+207	Da Mikele	4.0 star rating	176 reviews	$$	            275 Church St, New York, NY 10013	40.718477, -74.004802
+208	IL Brigante	3.5 star rating	78 reviews	$$	            214 Front St, New York, NY 10038	40.707451, -74.002642
+209	Perla	4.0 star rating	176 reviews	$$$	            24 Minetta Ln, New York, NY 10012	40.730469, -74.001262
+210	Piccolo Cafe	4.0 star rating	141 reviews	$	            238 Madison Ave, New York, NY 10016	40.749927, -73.981671
+211	Pesce Pasta	3.5 star rating	61 reviews	$$	            1562 3rd Ave, New York, NY 10128	40.780014, -73.953406
+212	Palma	4.0 star rating	230 reviews	$$$	            28 Cornelia St, New York, NY 10014	40.731146, -74.002324
+213	Trattoria Toscana	4.0 star rating	75 reviews	$$	            64 Carmine St, New York, NY 10014	40.729752, -74.004256
+214	Sam's Place	4.0 star rating	51 reviews	$$	            132 E 39th St, New York, NY 10016	40.749335, -73.977226
+215	Coppola's West	3.5 star rating	99 reviews	$$	            206 W 79th St, New York, NY 10024	40.783115, -73.978995
+216	Lasagna Ristorante	3.5 star rating	97 reviews	$$	            941 2nd Ave, New York, NY 10022	40.754898, -73.968887
+217	Tiella	4.0 star rating	78 reviews	$$$	            1109 1st Ave, New York, NY 10065	40.760832, -73.961479
+218	Torrisi Italian Specialties	4.0 star rating	375 reviews	$$$	            250 Mulberry St, New York, NY 10012	40.723116, -73.995696
+219	Barosa	4.0 star rating	93 reviews	$$	            62-29 Woodhaven Blvd, Rego Park, NY 11374	40.725974, -73.869644
+220	Malaparte	4.0 star rating	71 reviews	$$	            753 Washington Street, Manhattan, NY 10014	40.736869, -74.008038
+221	Malaparte	4.0 star rating	71 reviews	$$	            753 Washington Street, Manhattan, NY 10014	40.736869, -74.008038
+222	Cafe Fiorello	3.5 star rating	317 reviews	$$$	            1900 Broadway, New York, NY 10023	40.771514, -73.981913
+223	Portofino Ristorante	3.0 star rating	95 reviews	$$	            109-32 Ascan Ave, Forest Hills, NY 11375	40.712636, -73.844149
+224	Etcetera Etcetera	4.0 star rating	195 reviews	$$$	            352 W 44th St, New York, NY 10036	40.759256, -73.991147
+225	Piccoli	4.5 star rating	32 reviews	$$	            157 A Prospect Park SW, Brooklyn, NY 11218	40.654836, -73.973482
+226	Morandi	3.5 star rating	354 reviews	$$$	            211 Waverly Pl, New York, NY 10014	40.735331, -74.001639
+227	Delizia 92 Restaurant & Pizza	3.5 star rating	74 reviews	$$	            1762 2nd Ave, New York, NY 10128	40.781465, -73.948733
+228	A Voce	3.5 star rating	217 reviews	$$$	            41 Madison Ave, New York, NY 10010	40.742456, -73.986592
+229	Dazie's	3.5 star rating	36 reviews	$$$	            39-41 Queens Blvd, Sunnyside, NY 11104	40.744179, -73.924557
+230	Saggio	4.0 star rating	183 reviews	$$	            829 W 181St, New York, NY 10033	40.851473, -73.939588
+231	Graziella's Restaurant	4.0 star rating	199 reviews	$$	            232 Vanderbilt Ave, Brooklyn, NY 11205	40.690451, -73.969642
+232	Antica Pesa	3.5 star rating	112 reviews	$$$	            115 Berry St, New York, NY 11211	40.718799, -73.958585
+233	Saggio	4.0 star rating	183 reviews	$$	            829 W 181St, New York, NY 10033	40.851473, -73.939588
+234	Trattoria 35	4.0 star rating	148 reviews	$$	            213-15 35th Ave, Bayside, NY 11361	40.769031, -73.774176
+235	Cara Mia Restaurant	4.0 star rating	54 reviews	$$	            220-20 Hillside Ave, Queens Village, NY 11427	40.730806, -73.742705
+236	La Villa	3.5 star rating	209 reviews	$$	            261 5th Ave, Brooklyn, NY 11215	40.674307, -73.981628
+237	La Taverna	3.5 star rating	81 reviews	$	            946 Manhattan Ave, Brooklyn, NY 11222	40.731522, -73.954138
+238	Osteria Cotta	3.5 star rating	256 reviews	$$	            513 Columbus Ave, New York, NY 10024	40.785584, -73.972855
+239	Luna Rossa	4.0 star rating	38 reviews	$$$	            347 E 85th St, New York, NY 10028	40.776636, -73.950320
+240	Gino's Trattoria	4.0 star rating	61 reviews	$$	            548 Flatbush Ave, Brooklyn, NY 11225	40.660583, -73.960783
+241	Tutta Pasta	3.0 star rating	67 reviews	$$	            160 7th Ave, Brooklyn, NY 11215	40.672234, -73.977529
+242	Taverna Di Bacco	4.0 star rating	59 reviews	$$$	            175 Ludlow St, Manhattan, NY 10002	40.721902, -73.987682
+243	Giovanni's Brooklyn Eats	4.0 star rating	141 reviews	$$	            1657 8th Ave, Brooklyn, NY 11215	40.660080, -73.983608
+244	Vesuvio	3.5 star rating	99 reviews	$$	            7305 3rd Ave, Brooklyn, NY 11209	40.632600, -74.027307
+245	Gargiulo's	4.0 star rating	58 reviews	$$	            2911 W 15th St, Brooklyn, NY 11224	40.576366, -73.982241
+246	Marcony	3.5 star rating	78 reviews	$$$	            184 Lexington Ave, New York, NY 10016	40.744870, -73.981167
+247	Puglia Ristorante	3.5 star rating	88 reviews	$$	            189 Hester St, New York, NY 10013	40.718202, -73.997653
+248	Trattoria Dell'Arte	4.0 star rating	272 reviews	$$$	            900 7th Ave, New York, NY 10019	40.765200, -73.980575
+249	Dieci	4.0 star rating	232 reviews	$$$	            228 E 10th St, New York, NY 10003	40.728972, -73.985477
+250	Nizza	3.5 star rating	333 reviews	$$	            630 9th Ave, New York, NY 10036	40.759954, -73.991264
+251	Isle of Capri	4.0 star rating	58 reviews	$$$	            1028 3rd Ave, New York, NY 10065	40.762832, -73.966032
+252	Bistro Milano	3.5 star rating	75 reviews	$$$	            1350 Ave of the Americas, New York, NY 10019	40.762585, -73.977429
+253	Paola's Restaurant	3.5 star rating	67 reviews	$$$	            1295 Madison Ave, New York, NY 10128	40.784737, -73.955713
+254	Tre Giovani	3.5 star rating	51 reviews	$$	            548 Laguardia Pl, New York, NY 10012	40.729060, -73.998383
+255	Bella Via Restaurant	3.5 star rating	151 reviews	$$	            4746 Vernon Blvd, Long Island City, NY 11101	40.744271, -73.953889
+256	Fresh Basil's Trattoria	3.5 star rating	47 reviews	$$	            930 3rd Ave, New York, NY 10022	40.759545, -73.968345
+257	Ristorante Grifone	4.0 star rating	53 reviews	$$$	            244 E 46th St, New York, NY 10017	40.752400, -73.971007
+258	Cutting Board	3.5 star rating	202 reviews	$	            53 Bayard St, New York, NY 10013	40.715164, -73.997697
+259	Sotto Cinque	3.5 star rating	129 reviews	$$	            322 E 86th St, New York, NY 10028	40.777209, -73.950923
+260	Fresco by Scotto	3.5 star rating	98 reviews	$$$	            34 E 52nd St, New York, NY 10022	40.758446, -73.973129
+261	La Vela Ristorante	3.0 star rating	64 reviews	$$	            373 Amsterdam Ave, New York, NY 10024	40.782168, -73.978675
+262	Epistrophy	4.0 star rating	235 reviews	$$	            200 Mott St, New York, NY 10012	40.721185, -73.995363
+263	Sergimmo Salumeria	4.5 star rating	192 reviews	$$	            456 9th Ave, New York, NY 10018	40.754219, -73.995341
+264	Stella 34 Trattoria	4.0 star rating	152 reviews	$$	            151 W 34th St, New York, NY 10001	40.750547, -73.990755
+265	Lenny's Pizza & Restaurant	4.0 star rating	28 reviews	$$	            16402 Crossbay Blvd, Howard Beach, NY 11414	40.650517, -73.838151
+266	Mia Famiglia	4.0 star rating	16 reviews	$$	            44-29 Vernon Blvd, Long Island City, NY 11101	40.742923, -73.954032
+267	Incognito Bistro	3.5 star rating	64 reviews	$$$	            30 W 18th St, New York, NY 10011	40.739078, -73.993618
+268	Acqua Santa	3.5 star rating	117 reviews	$$	            556 Driggs Ave, Brooklyn, NY 11211	40.717051, -73.956763
+269	Testaccio	3.5 star rating	152 reviews	$$	            47-30 Vernon Blvd, Long Island City, NY 11101	40.744658, -73.953756
+270	Il Piccolo Bufalo	3.5 star rating	88 reviews	$$	            141 Mulberry St, New York, NY 10013	40.718834, -73.997813
+271	Broccolino	4.0 star rating	44 reviews	$$	            446A Dean St, Brooklyn, NY 11217	40.681934, -73.976468
+272	Sofias Ristorante Italiano	4.0 star rating	42 reviews	$$$	            8406 3rd Ave, Brooklyn, NY 11209	40.624896, -74.030782
+273	Piccolo Cafe	4.0 star rating	129 reviews	$$	            313 Amsterdam Ave, New York, NY 10023	40.780272, -73.980133
+274	I Sodi	4.0 star rating	119 reviews	$$$	            105 Christopher St, New York, NY 10014	40.733476, -74.005008
+275	Iavarone Bros Quality Foods	4.5 star rating	25 reviews	$$$	            6900 Grand Ave, Maspeth, NY 11378	40.725906, -73.895106
+276	Pappardella	3.5 star rating	235 reviews	$$	            316 Columbus Ave, New York, NY 10023	40.779360, -73.977805
+277	Piadina Restaurant	3.5 star rating	90 reviews	$$	            57 W 10th St, New York, NY 10011	40.734672, -73.997848
+278	Claudine's	3.5 star rating	41 reviews	$$	            311 Smith St, Brooklyn, NY 11231	40.681256, -73.993920
+279	Dominick's	3.5 star rating	105 reviews	$$	            2335 Arthur Ave, Bronx, NY 10458	40.854287, -73.888997
+280	Osteria del Principe	4.5 star rating	13 reviews	$$$	            27 E 23rd St, New York, NY 10010	40.740845, -73.987234
+281	Fiorentino's Ristorante	3.5 star rating	52 reviews	$$$	            313 Avenue U, Brooklyn, NY 11223	40.597088, -73.972470
+282	Sotto Cinque	3.5 star rating	129 reviews	$$	            322 E 86th St, New York, NY 10028	40.777209, -73.950923
+283	Grotta Azzurra Restaurant	3.0 star rating	231 reviews	$$	            177 Mulberry St, New York, NY 10013	40.720273, -73.997082
+284	Tre	3.5 star rating	261 reviews	$$	            173 Ludlow St, New York, NY 10002	40.721840, -73.987714
+285	Bello Giardino	3.5 star rating	79 reviews	$$	            71 W 71st St, New York, NY 10023	40.776721, -73.978753
+286	Cavatappo Grill	3.5 star rating	88 reviews	$$	            1712 1st Ave, New York, NY 10128	40.778485, -73.947831
+287	Pasta Lovers	3.0 star rating	68 reviews	$$	            142 W 49th St, New York, NY 10019	40.759977, -73.982976
+288	Piatto D'oro	4.0 star rating	24 reviews	$$	            349 E 109th St, New York, NY 10029	40.791815, -73.938934
+289	Il Salumaio	4.5 star rating	23 reviews	$$	            1731 Second Ave, New York, NY 10128	40.780227, -73.950434
+290	Giardino D'Oro	4.0 star rating	32 reviews	$$$	            5 Gold St, New York, NY 10038	40.707561, -74.007227
+291	Ribalta Pizza	4.0 star rating	95 reviews	$$	            48 E 12th St, New York, NY 10003	40.733258, -73.991595
+292	Dominick's	3.5 star rating	105 reviews	$$	            2335 Arthur Ave, Bronx, NY 10458	40.854287, -73.888997
+293	Osteria del Principe	4.5 star rating	13 reviews	$$$	            27 E 23rd St, New York, NY 10010	40.740845, -73.987234
+294	Fiorentino's Ristorante	3.5 star rating	52 reviews	$$$	            313 Avenue U, Brooklyn, NY 11223	40.597088, -73.972470
+295	Sotto Cinque	3.5 star rating	129 reviews	$$	            322 E 86th St, New York, NY 10028	40.777209, -73.950923
+296	Grotta Azzurra Restaurant	3.0 star rating	231 reviews	$$	            177 Mulberry St, New York, NY 10013	40.720273, -73.997082
+297	Tre	3.5 star rating	261 reviews	$$	            173 Ludlow St, New York, NY 10002	40.721840, -73.987714
+298	Villaggio Ristorante	4.0 star rating	58 reviews	$$	            15007 14th Rd, Whitestone, NY 11357	40.787697, -73.813080
+299	Bello Giardino	3.5 star rating	79 reviews	$$	            71 W 71st St, New York, NY 10023	40.776721, -73.978753
+300	Adelina's	4.0 star rating	53 reviews	$$	            159 Greenpoint Ave, Brooklyn, NY 11222	40.730457, -73.953406
+301	Porsena	3.5 star rating	144 reviews	$$	            21 E 7th St, New York, NY 10003	40.728651, -73.989432
+302	Tino's Delicatessen	4.5 star rating	92 reviews	$	            2410 Arthur Ave, Bronx, NY 10458	40.855736, -73.887049
+303	Arturo's	4.0 star rating	342 reviews	$$	            106 W Houston St, New York, NY 10012	40.727487, -74.000332
+304	Il Buco Alimentari e Vineria	3.5 star rating	231 reviews	$$$	            53 Great Jones St, New York, NY 10012	40.726454, -73.992549
+305	Italian Village	4.0 star rating	71 reviews	$	            1526 1st Ave, New York, NY 10021	40.772812, -73.952175
+306	Bocca	3.5 star rating	207 reviews	$$$	            39 E 19th St, New York, NY 10003	40.738266, -73.988846
+307	Teodora	4.0 star rating	74 reviews	$$	            141 E 57th St Frnt, New York, NY 10022	40.759394, -73.969780
+308	Bottega Del Vino	3.5 star rating	99 reviews	$$$	            7 E 59th St, New York, NY 10022	40.764152, -73.972239
+309	Forlini's Restaurant	3.5 star rating	69 reviews	$$	            93 Baxter St, New York, NY 10013	40.716922, -73.999505
+310	Cucina Mia	4.0 star rating	11 reviews	$$	            1898 Victory Blvd, Staten Island, NY 10314	40.612703, -74.127529
+311	Bocca Lupo	4.0 star rating	185 reviews	$$	            391 Henry St, Brooklyn, NY 11201	40.688047, -73.997340
+312	Bocca Di Bacco	3.5 star rating	348 reviews	$$$	            828 9th Ave, New York, NY 10019	40.766130, -73.986785
+313	Sac's Place	3.5 star rating	227 reviews	$$	            2541 Broadway, Astoria, NY 11106	40.763086, -73.926909
+314	Focacceria	3.5 star rating	70 reviews	$$	            87 MacDougal St, New York, NY 10012	40.728952, -74.001508
+315	Sette Mezzo	4.0 star rating	36 reviews	$$$	            969 Lexington Ave, New York, NY 10021	40.769241, -73.962756
+316	Matilda	3.5 star rating	166 reviews	$$	            647 E 11th St, New York, NY 10009	40.726675, -73.977246
+317	Primola	3.5 star rating	39 reviews	$$$	            1226 2nd Ave, New York, NY 10021	40.763931, -73.961601
+318	Sorella	4.0 star rating	179 reviews	$$$	            95 Allen St, New York, NY 10002	40.718800, -73.991077
+319	Acqua At Peck Slip	3.5 star rating	110 reviews	$$	            21 Peck Slip, New York, NY 10038	40.708243, -74.001633
+320	Marea	4.0 star rating	812 reviews	$$$$	            240 Central Park S, New York, NY 10019	40.767425, -73.981119
+321	La Panineria	5.0 star rating	15 reviews	$	            1 W 8th St, New York, NY 11001	40.744065, -73.671679
+322	Piccolo Cafe	4.0 star rating	114 reviews	$$	            274 W 40th St, New York, NY 10018	40.755782, -73.990462
+323	Areo Ristorante	3.5 star rating	81 reviews	$$$	            8424 3rd Ave, Brooklyn, NY 11209	40.624433, -74.030704
+324	Bettolona	4.0 star rating	138 reviews	$$	            3143 Broadway, New York, NY 10027	40.814215, -73.959882
+325	Manzo	4.0 star rating	141 reviews	$$$	            200 5th Ave, New York, NY 10010	40.741943, -73.989906
+326	Pizza D'Amore	4.0 star rating	37 reviews	$$	            2147 Mill Ave, Brooklyn, NY 11234	40.614741, -73.912601
+327	Zucca Trattoria	2.5 star rating	62 reviews	$$	            95 7th Ave S, Manhattan, NY 10017	40.733002, -74.002845
+328	Da Silvano	3.5 star rating	171 reviews	$$$	            260 6th Ave, New York, NY 10014	40.729021, -74.002344
+329	Il Postino	4.0 star rating	46 reviews	$$$$	            337 E 49th St, New York, NY 10017	40.753834, -73.967400
+330	Zampa	4.0 star rating	228 reviews	$$$	            306 W 13th St, New York, NY 10014	40.739107, -74.003623
+331	Pane E Vino	3.5 star rating	143 reviews	$$	            174 Smith St, Brooklyn, NY 11201	40.685823, -73.991358
+332	A Reali Gourmet	4.0 star rating	14 reviews	$$	            4608 Hollis Ct Blvd, Flushing, NY 11358	40.752714, -73.791895
+333	Pomodoro	4.0 star rating	56 reviews	$$	            518 9th Ave, New York, NY 10018	40.756239, -73.993894
+334	Joe Abbracciamento Restaurant	3.5 star rating	31 reviews	$$	            6296 Woodhaven Blvd, Rego Park, NY 11374	40.724493, -73.869458
+335	Daniela Trattoria	3.5 star rating	112 reviews	$$	            728 8th Ave, New York, NY 10036	40.759231, -73.987970
+336	Lido	4.0 star rating	254 reviews	$$	            2168 Frederick Douglass Blvd, New York, NY 10026	40.804893, -73.954680
+337	Gabriel's Bar & Restaurant	4.0 star rating	57 reviews	$$$	            11 W 60th St, New York, NY 10023	40.769365, -73.982870
+338	Bella Luna	3.5 star rating	88 reviews	$$	            584 Columbus Ave, New York, NY 10024	40.788102, -73.971290
+339	Cacio E Vino	3.5 star rating	169 reviews	$$	            80 2nd Ave, New York, NY 10003	40.726409, -73.988951
+340	Giovanni's Restaurant	3.5 star rating	75 reviews	$$	            579 Grand Concourse, Bronx, NY 10451	40.819382, -73.927144
+341	Brancaccio's Food Shop	4.5 star rating	85 reviews	$$	            3011 Fort Hamilton Pkwy, Brooklyn, NY 11218	40.648560, -73.978833
+342	Roc Restaurant	3.5 star rating	89 reviews	$$$	            190 Duane St, New York, NY 10013	40.717337, -74.010385
+343	Gottino	4.0 star rating	190 reviews	$$	            52 Greenwich Ave, New York, NY 10011	40.735797, -74.000366
+344	Zio Toto	3.5 star rating	79 reviews	$$	            8407 3rd Ave, Brooklyn, NY 11209	40.624715, -74.030222
+345	Cielo At the Mayfair	4.5 star rating	22 reviews	$$	            242 W 49th St, New York, NY 10019	40.761195, -73.985935
+346	Il Riccio	3.5 star rating	28 reviews	$$	            152 E 79th St, New York, NY 10021	40.774650, -73.958799
+347	Italian Food Center	4.0 star rating	33 reviews	$$	            186 Grand St, New York, NY 10013	40.719590, -73.997341
+348	Tre Dici	4.0 star rating	187 reviews	$$$	            128 W 26th St, New York, NY 10001	40.745124, -73.992781
+349	Fagiolini	3.5 star rating	27 reviews	$$	            120 E 40th St, New York, NY 10016	40.750178, -73.977525
+350	Briciola	4.0 star rating	143 reviews	$$	            370 W 51 St, New York, NY 10019	40.763900, -73.988303
+351	Chef Andrea	4.0 star rating	15 reviews	$$	            7312 13th Ave, Brooklyn, NY 11228	40.621321, -74.006744
+352	Porto Bello Restaurant	3.5 star rating	44 reviews	$$	            208 Thompson St, New York, NY 10012	40.728662, -73.999200
+353	Il Buco	4.0 star rating	293 reviews	$$$	            47 Bond St, New York, NY 10012	40.725837, -73.992967
+354	Sfilatino Italian Gourmet	4.5 star rating	42 reviews	$$	            342 W 57th St, New York, NY 10019	40.767265, -73.984826
+355	Giovanni Rana Pastificio & Cucina	3.5 star rating	171 reviews	$$$	            75 9th Ave, New York, NY 10011	40.742232, -74.005511
+356	Erminia Italian Restaurant	3.5 star rating	70 reviews	$$$	            250 E 83rd St, New York, NY 10028	40.775931, -73.953505
+357	Tommaso Restaurant	4.0 star rating	37 reviews	$$$	            1464 86th St, Brooklyn, NY 11228	40.611598, -74.010342
+358	P	4.0 star rating	326 reviews	$$$	            31 Cornelia St, New York, NY 10014	40.731456, -74.002601
+359	Mama Maria's Restaurant	4.0 star rating	46 reviews	$$	            307 Court St, Brooklyn, NY 11231	40.683540, -73.995133
+360	Vicolo	4.0 star rating	45 reviews	$$$	            8530 3rd Ave, New York, NY 11209	40.623682, -74.031285
+361	Scopello	3.0 star rating	81 reviews	$$	            63 Lafayette Ave, Brooklyn, NY 11217	40.687251, -73.975977
+362	Casa Lever	3.5 star rating	83 reviews	$$$	            390 Park Ave, New York, NY 10022	40.759649, -73.972918
+363	Quattro Gatti Restaurant	3.5 star rating	30 reviews	$$	            205 E 81st St, New York, NY 10028	40.775601, -73.955982
+364	Mediterraneo	2.5 star rating	102 reviews	$$	            1260 2nd Ave, New York, NY 10065	40.765014, -73.960872
+365	Nino's Restaurant	4.0 star rating	27 reviews	$$	            1110 Hylan Blvd, Staten Island, NY 10305	40.598277, -74.079890
+366	Lasagna Ristorante	3.5 star rating	170 reviews	$$	            196 8th Ave, New York, NY 10011	40.743228, -73.999686
+367	Pescatore Restaurant	3.5 star rating	197 reviews	$$	            955 2nd Ave, New York, NY 10022	40.755371, -73.968523
+368	Spina	4.0 star rating	240 reviews	$$	            175 Ave B, New York, NY 10009	40.727460, -73.979185
+369	Ai Fiori	4.0 star rating	488 reviews	$$$$	            400 5th Ave, New York, NY 10018	40.750209, -73.983833
+370	Mezzaluna	3.5 star rating	53 reviews	$$$	            1295 3rd Ave, New York, NY 10021	40.771152, -73.959257
+371	Villa Berulia	4.0 star rating	33 reviews	$$$	            107 E 34th St, New York, NY 10016	40.746932, -73.980539
+372	Marco Polo Ristorante	3.5 star rating	46 reviews	$$$	            345 Court St, Brooklyn, NY 11231	40.682194, -73.995711
+373	Trattoria Dopo Teatro	3.0 star rating	118 reviews	$$	            125 W 44th St, New York, NY 10036	40.756793, -73.984254
+374	Vespa	3.5 star rating	186 reviews	$$$	            1625 2nd Ave, New York, NY 10028	40.776976, -73.952798
+375	Dolcino Restaurant	3.5 star rating	41 reviews	$$	            517 2nd Ave, New York, NY 10016	40.741603, -73.978567
+376	Forno Pizzeria E Trattoria	4.5 star rating	30 reviews	$$	            52-27 69th St, Maspeth, NY 11378	40.732745, -73.895569
+377	Villaggio Ristorante	4.0 star rating	58 reviews	$$	            15007 14th Rd, Whitestone, NY 11357	40.787697, -73.813080
+378	Pazza Notte	3.5 star rating	260 reviews	$$	            1375 Ave of the Americas, New York, NY 10019	40.763468, -73.977847
+379	Sotto Voce	3.0 star rating	161 reviews	$$	            225 7th Ave, Brooklyn, NY 11215	40.669905, -73.978749
+380	La Bottega	3.5 star rating	260 reviews	$$	            88 9th Ave, New York, NY 10011	40.742458, -74.003820
+381	Todaro Bros	4.0 star rating	47 reviews	$$	            555 2nd Ave, New York, NY 10016	40.742756, -73.977700
+382	Firenze Ristorante	4.0 star rating	121 reviews	$$$	            1594 2nd Ave, New York, NY 10028	40.775588, -73.953087
+383	Barbetta	3.0 star rating	68 reviews	$$$	            321 W 46th St, New York, NY 10036	40.760431, -73.988944
+384	Piccola Strada	4.0 star rating	43 reviews	$$	            77 E 4th St, New York, NY 10003	40.726717, -73.990121
+385	Pietrasanta	3.5 star rating	94 reviews	$$	            683 9th Ave, New York, NY 10036	40.761854, -73.990503
+386	Campagnola Restaurant	4.0 star rating	73 reviews	$$$$	            1382 1st Ave, New York, NY 10021	40.768811, -73.954818
+387	Bello Restaurant	3.5 star rating	51 reviews	$$$	            863 9th Ave, New York, NY 10019	40.767623, -73.986521
+388	Buona Notte	3.5 star rating	51 reviews	$$	            120 Mulberry St, New York, NY 10013	40.717763, -73.998003
+389	Cafe Lore	4.0 star rating	32 reviews	$$	            4601 4th Ave, Brooklyn, NY 11220	40.648499, -74.010056
+390	Ribalta Pizza	4.0 star rating	95 reviews	$$	            48 E 12th St, New York, NY 10003	40.733258, -73.991595
+391	Due	4.0 star rating	31 reviews	$$$	            1396 3rd Ave, New York, NY 10075	40.774715, -73.957345
+392	Tommy Lasagna	4.0 star rating	210 reviews	$$	            119 E 18th St, New York, NY 10003	40.736879, -73.987387
+393	Monsignor's Restaurant	4.0 star rating	71 reviews	$$	            679 5th Ave, Brooklyn, NY 11215	40.661552, -73.992823
+394	Miranda Restaurant	4.0 star rating	153 reviews	$$	            80 Berry St, Brooklyn, NY 11249	40.719874, -73.957892
+395	Orso	3.5 star rating	77 reviews	$$$	            322 W 46th St, New York, NY 10036	40.759994, -73.989025
+396	La Villa Pizzeria	3.5 star rating	62 reviews	$$	            82-07 153rd Ave, Howard Beach, NY 11414	40.666694, -73.851419
+397	Savore Ristorante	3.5 star rating	70 reviews	$$$	            200 Spring St, New York, NY 10012	40.724982, -74.003450
+398	Barbuto	4.0 star rating	384 reviews	$$$	            775 Washington St, New York, NY 10014	40.737826, -74.008013
+399	Barbone	4.0 star rating	177 reviews	$$$	            186 Ave B, New York, NY 10009	40.727882, -73.979424
+400	Da Gianni's	3.5 star rating	39 reviews	$$	            2150 44th Dr, Long Island City, NY 11101	40.747599, -73.945524
+401	Savoia	3.5 star rating	119 reviews	$$	            277 Smith St, Brooklyn, NY 11231	40.682458, -73.993180
+402	Adelina's	4.0 star rating	53 reviews	$$	            159 Greenpoint Ave, Brooklyn, NY 11222	40.730457, -73.953406
+403	La Piccola Cucina	4.0 star rating	31 reviews	$$	            964 Amsterdam Ave, New York, NY 10025	40.801499, -73.965340
+404	Rosemary's	3.5 star rating	311 reviews	$$$	            18 Greenwich Ave, New York, NY 10011	40.734867, -73.999760
+405	Il Posto Accanto	4.0 star rating	52 reviews	$$$	            190 E 2nd St, New York, NY 10009	40.722409, -73.984052
+406	Caffe Buon Gusto	3.0 star rating	78 reviews	$$	            151 Montague St, Brooklyn, NY 11201	40.694735, -73.993243
+407	Insieme	3.5 star rating	57 reviews	$$$	            777 7th Ave, New York, NY 10019	40.761629, -73.982873
+408	La Trattoria Italiana	3.5 star rating	25 reviews	$$	            2811 Ave U, Brooklyn, NY 11229	40.600277, -73.943383
+409	Radicchio Pasta and Risotto	3.5 star rating	97 reviews	$$	            235 E 53rd St, New York, NY 10022	40.757304, -73.967920
+410	Del Posto	4.0 star rating	712 reviews	$$$$	            85 10th Ave, New York, NY 10011	40.743209, -74.007954
+411	Trattoria Tra di Noi	4.0 star rating	33 reviews	$$$	            622 East 187th St, Bronx, NY 10458	40.854888, -73.886871
+412	Radicchio Pasta and Risotto	3.5 star rating	97 reviews	$$	            235 E 53rd St, New York, NY 10022	40.757304, -73.967920
+413	Del Posto	4.0 star rating	712 reviews	$$$$	            85 10th Ave, New York, NY 10011	40.743209, -74.007954
+414	Cipriani Le Specialita	4.5 star rating	64 reviews	$$	            110 E 42nd St, New York, NY 10017	40.751562, -73.977100
+415	Esca	3.5 star rating	360 reviews	$$$$	            402 W 43rd St, New York, NY 10036	40.759263, -73.992779
+416	Gente	3.5 star rating	95 reviews	$$$	            153 E 45th St, New York, NY 10017	40.753101, -73.973489
+417	Pala	4.0 star rating	384 reviews	$$	            198 Allen St, New York, NY 10002	40.722351, -73.988580
+418	La Casa Bella	4.0 star rating	66 reviews	$$	            2579 Cropsey Ave, Brooklyn, NY 11214	40.590670, -73.991320
+419	Giorgione	3.5 star rating	85 reviews	$$$	            307 Spring St, New York, NY 10013	40.726152, -74.008437
+420	Saraghina	4.0 star rating	353 reviews	$$	            435 Halsey St, Brooklyn, NY 11233	40.683649, -73.935361
+421	Cellini Restaurant	3.5 star rating	49 reviews	$$$	            65 E 54th St, New York, NY 10022	40.760107, -73.972688
+422	Vincent's Restaurant	3.0 star rating	118 reviews	$$	            119 Mott St, New York, NY 10013	40.717858, -73.997408
+423	Serafina Always	3.0 star rating	130 reviews	$$$	            33 E 61st St, New York, NY 10065	40.764794, -73.969782
+424	San Matteo Pizza and Espresso Bar	4.0 star rating	184 reviews	$$	            1739 2nd Ave, Manhattan, NY 10128	40.780451, -73.950217
+425	Donato's Italian Bistro	3.0 star rating	37 reviews	$$	            34-02 Broadway, Astoria, NY 11106	40.760584, -73.923006
+426	Il Punto Ristorante	4.0 star rating	124 reviews	$$$	            507 9th Ave, New York, NY 10018	40.756124, -73.994654
+427	Remi	3.5 star rating	113 reviews	$$$	            145 W 53rd St, New York, NY 10019	40.762614, -73.980780
+428	Uncle Peter's Restaurant	3.5 star rating	46 reviews	$$	            8315 Northern Blvd, Jackson Heights, NY 11372	40.755991, -73.883826
+429	Il Cantinori	3.5 star rating	114 reviews	$$$	            32 E 10th St, New York, NY 10003	40.732177, -73.993205
+430	Donatos Pizza	3.0 star rating	51 reviews	$$	            5022 39th Ave, Woodside, NY 11377	40.748593, -73.912993
+431	Angelo's	3.5 star rating	188 reviews	$$$	            146 Mulberry St, New York, NY 10013	40.718870, -73.997304
+432	L'Apicio	4.0 star rating	160 reviews	$$$	            13 East 1st St, New York, NY 10003	40.724389, -73.991552
+433	DeGrezia Ristorante	4.0 star rating	34 reviews	$$$	            231 E 50th St, New York, NY 10022	40.755512, -73.969415
+434	Bella Vita	3.5 star rating	174 reviews	$$	            211 W 43rd St, New York, NY 10036	40.757016, -73.987013
+435	Baraonda	3.5 star rating	105 reviews	$$	            1439 2nd Ave, New York, NY 10021	40.770774, -73.957274
+436	Bella Lena's	4.0 star rating	28 reviews	$$	            64-02 Fresh Pond Rd, Ridgewood, NY 11385	40.710125, -73.899582
+437	Cucina Di Pesce	3.0 star rating	295 reviews	$$	            87 E 4th St, New York, NY 10003	40.726523, -73.989747
+438	Gallo Nero	3.5 star rating	133 reviews	$$$	            402 W 44th St, New York, NY 10036	40.759806, -73.992161
+439	Risotteria Melotti	4.5 star rating	45 reviews	$$	            309 E 5th St, New York, NY 10003	40.726747, -73.988296
+440	Bottega	3.5 star rating	29 reviews	$$	            1331 2nd Ave, New York, NY 10021	40.767806, -73.959368
+441	Gallo Nero	3.5 star rating	133 reviews	$$$	            402 W 44th St, New York, NY 10036	40.759806, -73.992161
+442	Da Rosina	2.5 star rating	75 reviews	$$	            342 W 46th St, New York, NY 10036	40.760250, -73.989629
+443	Frost Restaurant	4.0 star rating	65 reviews	$$	            193 Frost St, Brooklyn, NY 11211	40.718386, -73.943476
+444	D.O.C. Wine Bar	4.0 star rating	111 reviews	$$$	            83 N 7th St, Brooklyn, NY 11211	40.719775, -73.960346
+445	Bar Corvo	4.0 star rating	164 reviews	$$	            791 Washington Ave, Brooklyn, NY 11238	40.672912, -73.962439
+446	Bella Napoli	3.0 star rating	83 reviews	$	            150 W 49th St, New York, NY 10019	40.759998, -73.983203
+447	Cent'Anni	4.0 star rating	59 reviews	$$	            742 Franklin Ave, Brooklyn, NY 11238	40.673075, -73.957369
+448	Feluccio	3.5 star rating	35 reviews	$$	            364 Prospect Ave, Brooklyn, NY 11215	40.661395, -73.986443
+449	Michael's of Brooklyn	4.0 star rating	49 reviews	$$$	            2929 Ave R, Brooklyn, NY 11230	40.607451, -73.942808
+450	da Umberto	4.0 star rating	63 reviews	$$$$	            107 W 17th St, New York, NY 10011	40.739672, -73.995827
+451	da Umberto	4.0 star rating	63 reviews	$$$$	            107 W 17th St, New York, NY 10011	40.739672, -73.995827
+452	Bella Napoli	3.5 star rating	63 reviews	$	            257 7th Ave, New York, NY 10001	40.745061, -73.994610
+453	Giorgio's of Gramercy	4.0 star rating	427 reviews	$$$	            27 E 21st St, New York, NY 10011	40.739716, -73.988622
+454	Tiramisu	3.5 star rating	82 reviews	$$	            1410 3rd Ave, Manhattan, NY 10028	40.775144, -73.957005
+455	Quartino Bottega Organica	3.5 star rating	119 reviews	$$	            11 Bleecker St, New York, NY 10012	40.725524, -73.992903
+456	Casanova Restaurant	3.5 star rating	36 reviews	$$	            338 McGuinness Blvd, Brooklyn, NY 11222	40.734131, -73.951925
+457	Trattoria Casa Di Isacco	3.5 star rating	62 reviews	$$	            536 9th Ave, New York, NY 10018	40.756790, -73.993408
+458	Nica Trattoria	4.0 star rating	47 reviews	$$$	            354 E 84th St, New York, NY 10028	40.775648, -73.950799
+459	Il Giglio	3.5 star rating	50 reviews	$$$	            81 Warren St, New York, NY 10007	40.715109, -74.010521
+460	Fino Wall Street	3.5 star rating	23 reviews	$$$	            82 Beaver St, New York, NY 10005	40.705224, -74.008774
+461	Il Baretto	4.0 star rating	48 reviews	$$	            750 11th Ave, New York, NY 10019	40.767539, -73.993148
+462	Landi's Pork Store	5.0 star rating	18 reviews	$$	            5909 Ave N, Brooklyn, NY 11234	40.619638, -73.917939
+463	Il Giglio	3.5 star rating	50 reviews	$$$	            81 Warren St, New York, NY 10007	40.715109, -74.010521
+464	V & T Pizzeria & Restaurant	3.0 star rating	150 reviews	$$	            1024 Amsterdam Ave, New York, NY 10025	40.803391, -73.963921
+465	Rucola	4.0 star rating	191 reviews	$$	            190 Dean St, Brooklyn, NY 11217	40.685567, -73.985897
+466	Michaelangelo's Little Italy	4.5 star rating	47 reviews	$$	            2477 Arthur Ave, Bronx, NY 10458	40.857369, -73.886377
+467	Machiavelli	3.5 star rating	82 reviews	$$$	            519 Columbus Ave, Manhattan, NY 10024	40.785859, -73.972387
+468	Papa Pasquale Ravoli Pasta Company	5.0 star rating	17 reviews	$$	            7813 15th Avenue, Brooklyn, NY 11228	40.615439, -74.004936
+469	L'isola	4.0 star rating	60 reviews	$$	            128 Metropolitan Ave, Brooklyn, NY 11211	40.716168, -73.962796
+470	Basil Brick Oven Pizza	4.0 star rating	200 reviews	$$	            28-17 Astoria Blvd, Astoria, NY 11102	40.770812, -73.920070
+471	Tarallucci E Vino	3.5 star rating	198 reviews	$$	            15 E 18th St, New York, NY 10003	40.738119, -73.990607
+472	Notaro Restaurant	3.0 star rating	41 reviews	$$	            635 2nd Ave, New York, NY 10016	40.745327, -73.975856
+473	Forno Siciliano	4.0 star rating	23 reviews	$$$	            43-19 Ditmars Blvd, Astoria, NY 11105	40.774914, -73.908925
+474	Risotteria	4.0 star rating	576 reviews	$$	            270 Bleecker St, New York, NY 10014	40.731342, -74.003290
+475	Numero 28 Upper West Side	4.0 star rating	57 reviews	$$	            660 Amsterdam Ave, New York, NY 10025	40.791754, -73.972365
+476	Peppinos	4.0 star rating	80 reviews	$$	            7708 3rd Ave, Brooklyn, NY 11209	40.629853, -74.028722
+477	Italianissimo Ristorante	3.5 star rating	43 reviews	$$$	            307 E 84th St, New York, NY 10028	40.776507, -73.951963
+478	Casa Nonna	3.5 star rating	102 reviews	$$$	            310 W 38 St, New York, NY 10010	40.754999, -73.992785
+479	Trattoria Cerbone	4.0 star rating	19 reviews	$$	            71-24 Fresh Pond Rd, Ridgewood, NY 11385	40.701116, -73.895003
+480	Maria's Restaurant	3.5 star rating	22 reviews	$$$	            3073 Emmons Ave, Brooklyn, NY 11235	40.584208, -73.936715
+481	Arte Restaurant	4.0 star rating	36 reviews	$$$	            21 E 9th St, New York, NY 10003	40.732467, -73.994662
+482	Via Quadronno	4.0 star rating	257 reviews	$$	            25 E 73rd St, New York, NY 10021	40.772776, -73.965134
+483	Buca di Beppo	3.5 star rating	58 reviews	$$	            1540 Broadway, New York, NY 10036	40.752523, -73.982620
+484	Fabbrica Restaurant & Bar	3.0 star rating	61 reviews	$$	            44 N 6th St, Brooklyn, NY 11249	40.719643, -73.962664
+485	Il Porto	4.0 star rating	125 reviews	$$	            37 Washington Ave, New York, NY 11205	40.697398, -73.967443
+486	Manganaro's Hero-Boy	3.0 star rating	86 reviews	$$	            494 9th Ave, New York, NY 10018	40.755515, -73.994407
+487	Montebello Ristorante Italiano	3.0 star rating	47 reviews	$$$	            120 E 56th St, New York, NY 10022	40.760427, -73.970648
+488	Patsy's Pizzeria	3.5 star rating	193 reviews	$$	            67 University Pl, New York, NY 10023	40.732867, -73.993380
+489	Felice 64	3.5 star rating	119 reviews	$$$	            1166 1st Ave, New York, NY 10065	40.762514, -73.959485
+490	Dopo East	4.5 star rating	15 reviews	$$$	            345 E 62nd St, New York, NY 10065	40.762040, -73.961314
+491	New Corner	3.5 star rating	41 reviews	$$	            7201 8th Ave, Brooklyn, NY 11228	40.628427, -74.016524
+492	Bocca Di Bacco	3.5 star rating	35 reviews	$$$	            169 9th Ave, New York, NY 10011	40.744614, -74.003019
+493	Cesca	3.5 star rating	96 reviews	$$$	            164 W 75th St, New York, NY 10023	40.780276, -73.979889
+494	Jimmy's Trattoria	4.0 star rating	48 reviews	$$	            45-73 Bell Blvd, Bayside, NY 11361	40.758501, -73.768198
+495	Gino's Pizzeria & Restaurant	4.0 star rating	74 reviews	$$	            158-46 Crossbay Blvd, Queens, NY 11414	40.659672, -73.840114
+496	Scalino	4.5 star rating	13 reviews	$$	            659 Manhattan Ave, New York, NY 11222	40.724498, -73.951512
+497	Coccola	4.0 star rating	60 reviews	$$	            1600 Amsterdam Ave, New York, NY 10031	40.821403, -73.950693
+498	Louie's Pizza	4.5 star rating	129 reviews	$	            81-34 Baxter Ave, Elmhurst, NY 11373	40.745905, -73.883405
+499	Milano Market	4.0 star rating	69 reviews	$$	            1582 3rd Ave, New York, NY 10128	40.780779, -73.952954
+500	Don Giovanni Ristorante	3.0 star rating	129 reviews	$$	            358 W 44th St, New York, NY 10036	40.759445, -73.991362
+501	Fratelli Brick Oven Pizzeria	3.5 star rating	71 reviews	$$	            1317 1st Ave, New York, NY 10021	40.766982, -73.956835
+502	La Villa Pizzeria & Restaurant	3.5 star rating	92 reviews	$$	            6610 Ave U, Brooklyn, NY 11234	40.617482, -73.910688
+503	Goodfellas	3.5 star rating	96 reviews	$$	            144 Orchard St, New York, NY 10002	40.720379, -73.988929
+504	Patsy's Italian Restaurant	3.5 star rating	157 reviews	$$$	            236 W 56th St, New York, NY 10019	40.765583, -73.982742
+505	VERSO	4.0 star rating	50 reviews	$$	            127 Ave C, New York, NY 10009	40.724884, -73.978582
+506	La Rivista Ristorante	3.5 star rating	29 reviews	$$$	            313 W 46th St, New York, NY 10036	40.760303, -73.988568
+507	East 12th Osteria	4.0 star rating	46 reviews	$$$$	            197 1st Ave, New York, NY 10003	40.730212, -73.983724
+508	Caffe Grazie	3.5 star rating	64 reviews	$$$	            26 E 84th St, New York, NY 10028	40.779471, -73.960095
+509	Osteria Italiana	3.0 star rating	36 reviews	$$	            57-59 61st St, Maspeth, NY 11378	40.721558, -73.904139
+510	Mulino Ristorante	3.5 star rating	51 reviews	$$	            133 5th Ave, Brooklyn, NY 11217	40.678508, -73.978743
+511	Bar Italia Madison	3.0 star rating	31 reviews	$$$	            768 Madison Ave, Manhattan, NY 10065	40.767951, -73.968587
+512	Pizzeria Giove	4.5 star rating	74 reviews	$$	            278 New Dorp Ln, Staten Island, NY 10306	40.572153, -74.113087
+513	Provini	3.5 star rating	95 reviews	$$	            1302 8th Ave, Brooklyn, NY 11215	40.663348, -73.981535
+514	Gigino At Wagner Park	3.5 star rating	118 reviews	$$$	            20 Battery Pl, New York, NY 10004	40.704974, -74.017562
+515	Naples 45	3.5 star rating	179 reviews	$$	            200 Park Ave, New York, NY 10166	40.763029, -73.971483
+516	Lincoln Ristorante	4.0 star rating	234 reviews	$$$$	            142 W 65th St, New York, NY 10023	40.773313, -73.983756
+517	Terra Winebar	3.5 star rating	30 reviews	$$$	            222 W  Broadway, New York, NY 10013	40.719260, -74.006548
+518	Da Noi	3.5 star rating	25 reviews	$$$	            214 E 49th St, New York, NY 10017	40.754721, -73.970730
+519	IL Tesoro	3.5 star rating	64 reviews	$$$	            1578 1st Ave, New York, NY 10028	40.774269, -73.950903
+520	Antika Pizzeria	4.0 star rating	133 reviews	$$	            36-08 30th Ave, Astoria, NY 11106	40.764660, -73.917222
+521	Alloro Restaurant and Bar	3.5 star rating	66 reviews	$$$	            307 E 77th St, New York, NY 10075	40.772010, -73.955404
+522	Spasso	4.0 star rating	173 reviews	$$$	            551 Hudson St, New York, NY 10014	40.735258, -74.006292
+523	La Giara	3.0 star rating	105 reviews	$$	            501 3rd Ave, New York, NY 10016	40.745384, -73.977925
+524	Sorriso Italian Pork Store	4.5 star rating	179 reviews	$	            4416 30th Ave, Astoria, NY 11103	40.762103, -73.911365
+525	A Voce	3.5 star rating	299 reviews	$$$	            10 Columbus Cir, New York, NY 10019	40.768415, -73.982707
+526	Regional	3.0 star rating	197 reviews	$$	            2607 Broadway, New York, NY 10025	40.796368, -73.970983
+527	Bocca East	3.5 star rating	123 reviews	$$$	            1496 2nd Ave, New York, NY 10075	40.772429, -73.955343
+528	Academia Barilla Restaurants	3.0 star rating	20 reviews	$$	            1290 Ave Of The Americas, New York, NY 10019	40.760713, -73.979451
+529	Brick NYC	3.5 star rating	226 reviews	$$	            22 Warren St, New York, NY 10007	40.714353, -74.007742
+530	Capriccio	4.0 star rating	25 reviews	$$	            29-02 Francis Lewis Blvd, Flushing, NY 11358	40.770258, -73.793503
+531	Manducatis Rustica	3.5 star rating	82 reviews	$$	            4635 Vernon Blvd, Long Island City, NY 11101	40.745801, -73.952739
+532	Durso's Pasta & Ravioli Company	4.0 star rating	54 reviews	$$	            18901 Crocheron Ave, Flushing, NY 11358	40.763416, -73.792938
+533	Piatto d'Oro	3.5 star rating	19 reviews	$$	            1 E 118th St, New York, NY 10035	40.801944, -73.945053
+534	Papa Perrone's	4.0 star rating	15 reviews	$	            55th btw Madison &amp; Park, New York, NY 10022	40.759394, -73.969780
+535	Arte Cafe	3.0 star rating	278 reviews	$$	            106 W 73rd St, New York, NY 10023	40.778065, -73.978846
+536	Sofia Wine Bar & Cafe	4.0 star rating	304 reviews	$$	            242 E 50th St, New York, NY 10022	40.754997, -73.969117
+537	Caffe Storico	4.0 star rating	73 reviews	$$$	            170 Central Park W, New York, NY 10024	40.779264, -73.974194
+538	Pasta Presto	2.5 star rating	19 reviews	$$	            959 2nd Ave, New York, NY 10022	40.755478, -73.968459
+539	Ann & Tony's Restaurant	3.5 star rating	44 reviews	$$	            2407 Arthur Ave, Bronx, NY 10458	40.855865, -73.887673
+540	Graham Avenue Meats And Deli	4.5 star rating	309 reviews	$	            445 Graham Ave, Brooklyn, NY 11211	40.718491, -73.945326
+541	Ballato's Restaurant	3.5 star rating	73 reviews	$$$	            55 E Houston St, New York, NY 10012	40.724460, -73.994416
+542	Maialino	4.0 star rating	688 reviews	$$$	            2 Lexington Ave, New York, NY 10010	40.738546, -73.985772
+543	Michael Angelo's Pizzeria	4.0 star rating	104 reviews	$$	            2911 23rd Ave, Astoria, NY 11105	40.774937, -73.913287
+544	La Birreria	3.5 star rating	489 reviews	$$$	            200 5th Ave, New York, NY 10010	40.741943, -73.989906
+545	Bella Blu	3.5 star rating	90 reviews	$$$	            967 Lexington Ave, New York, NY 10021	40.769199, -73.962773
+546	Magna Ristorante	4.0 star rating	16 reviews	$$	            35-25 Farrington St, Flushing, NY 11354	40.763710, -73.831117
+547	Eleven B	3.5 star rating	98 reviews	$$	            174 Ave B, New York, NY 10009	40.727419, -73.979746
+548	Hearth	4.0 star rating	356 reviews	$$$	            403 E 12th St, New York, NY 10009	40.729972, -73.983149
+549	San Martin Restaurant	3.0 star rating	36 reviews	$$	            143 E 49th St, New York, NY 10017	40.755833, -73.972131
+550	Morso	3.5 star rating	37 reviews	$$$	            420 E 59th St, Manhattan, NY 10022	40.758912, -73.960915
+551	Tony's Pizza & Restaurant	3.5 star rating	31 reviews	$$	            4518 104th St, Corona, NY 11368	40.746496, -73.859978
+552	Intermezzo	3.5 star rating	178 reviews	$$	            202 8th Ave, New York, NY 10011	40.743507, -73.999427
+553	Stecchino	3.5 star rating	367 reviews	$$	            765 9th Ave, New York, NY 10019	40.764469, -73.988641
+554	Patricia's of Tremont	3.5 star rating	69 reviews	$$	            3883 E Tremont Ave, Bronx, NY 10465	40.823131, -73.819260
+555	Bond 45	3.5 star rating	283 reviews	$$$	            154 W 45th St, New York, NY 10036	40.757530, -73.984553
+556	Cola's	3.0 star rating	51 reviews	$$	            148 8th Ave, New York, NY 10011	40.741728, -74.000761
+557	Piccolo Sogno	4.0 star rating	40 reviews	$$	            195-14 47th Ave, Flushing, NY 11358	40.752561, -73.785718
+558	Il Violino	3.5 star rating	83 reviews	$$	            180 Columbus Ave, New York, NY 10023	40.775067, -73.980872
+559	Da Gennaro	3.5 star rating	152 reviews	$$	            129 Mulberry St, New York, NY 10013	40.718350, -73.997985
+560	Venice Pizzeria & Restaurant	4.0 star rating	11 reviews	$$	            1539 Unionport Rd, Bronx, NY 10462	40.836992, -73.857702
+561	Pinocchio's Ristorante	4.5 star rating	17 reviews	$$	            5811 Ave N, Brooklyn, NY 11234	40.619448, -73.918805
+562	I Trulli	3.5 star rating	216 reviews	$$$	            122 E 27th St, New York, NY 10016	40.742097, -73.983681
+563	Peppino's	4.5 star rating	172 reviews	$$	            469 5th Ave, Brooklyn, NY 11215	40.668137, -73.986815
+564	Brio	3.5 star rating	120 reviews	$$	            137 E 61st St, New York, NY 10021	40.763691, -73.967506
+565	Bocelli	3.5 star rating	47 reviews	$$$	            1250 Hylan Blvd, Staten Island, NY 10305	40.597644, -74.084193
+566	Bella Luna Pizza	3.5 star rating	29 reviews	$$	            719 86th St, Brooklyn, NY 11228	40.618772, -74.021288
+567	Numero 28 Pizzeria Napoletana	4.0 star rating	266 reviews	$$	            176 2nd Ave, New York, NY 10003	40.730452, -73.986029
+568	Verde Coal Oven	4.0 star rating	113 reviews	$$	            254 Irving Ave, Brooklyn, NY 11237	40.699801, -73.916296
+569	Tony's Beechhurst Deli	5.0 star rating	19 reviews	$$	            1118 154th St, Whitestone, NY 11357	40.791751, -73.807507
+570	Palermo Restaurant & Bar	5.0 star rating	11 reviews	$$	            2392 21st St, New York, NY 11106	40.764373, -73.932509
+571	Olio e Pi	3.5 star rating	227 reviews	$$	            3 Greenwich Ave, New York, NY 10011	40.733838, -73.999771
+572	Gradisca	4.0 star rating	240 reviews	$$$	            126 W 13th St, New York, NY 10011	40.737022, -73.998682
+573	Pasticceria Bruno	3.5 star rating	67 reviews	$$	            676 Forest Ave, Staten Island, NY 10310	40.629566, -74.111772
+574	Bettola	3.5 star rating	74 reviews	$$	            412 Amsterdam Ave, New York, NY 10024	40.783730, -73.978293
+575	Armando's	3.0 star rating	71 reviews	$$	            143 Montague St, Brooklyn, NY 11201	40.694824, -73.993569
+576	Italianissimo Restaurant	4.5 star rating	15 reviews	$$$	            107 McClean Ave, Staten Island, NY 10305	40.598559, -74.065651
+577	Pesce Pasta	3.5 star rating	8 reviews	$$	            1079 1st Ave, New York, NY 10022	40.759640, -73.962310
+578	The Meatball Shop	4.0 star rating	1919 reviews	$$	            84 Stanton St, New York, NY 10002	40.721515, -73.988799
+579	Gina La Fornarina	3.0 star rating	138 reviews	$$	            1575 2nd Ave, New York, NY 10028	40.775203, -73.953979
+580	Scaletta Ristorante	3.5 star rating	36 reviews	$$$	            50 W 77th St, New York, NY 10024	40.780319, -73.976075
+581	Saluggi's	4.0 star rating	306 reviews	$$	            325 Church St, New York, NY 10013	40.720102, -74.003582
+582	Joe G Pizza & Restaurant	3.5 star rating	39 reviews	$$	            244 W 56th St, New York, NY 10019	40.765643, -73.983001
+583	Pazzi Pasta	4.0 star rating	34 reviews	$$	            227 Smith St, Brooklyn, NY 11231	40.683917, -73.992074
+584	Taormina of Mulberry Street	1.5 star rating	19 reviews	$$	            145 Mulberry St, New York, NY 10013	40.718959, -73.997738
+585	Prima Sarabella Italian Cuisine	3.5 star rating	17 reviews	$$$	            41-08 Greenpoint Ave, Sunnyside, NY 11104	40.740124, -73.923711
+586	Bricco Ristorante Italiano	3.5 star rating	56 reviews	$$	            304 W 56th St, New York, NY 10019	40.766045, -73.984021
+587	Cornerstone Cafe	4.0 star rating	385 reviews	$$	            17 Ave B, New York, NY 10009	40.722022, -73.983176
+588	Piccolo Cafe	4.0 star rating	146 reviews	$	            157 3rd Ave, New York, NY 10003	40.734279, -73.986045
+589	Il Bambino	4.5 star rating	672 reviews	$$	            34-08 31st Ave, Astoria, NY 11106	40.762860, -73.920891
+590	Tartina	4.0 star rating	89 reviews	$$	            653 9th Ave, New York, NY 10036	40.760816, -73.991249
+591	Da Marino Restaurant	3.0 star rating	90 reviews	$$$	            220 W 49th St, New York, NY 10019	40.760899, -73.985338
+592	Serafina Osteria	3.5 star rating	39 reviews	$$	            38 E 58th St, New York, NY 10022	40.762692, -73.971661
+593	Spolini's	3.5 star rating	28 reviews	$$$	            11625 Metropolitan Ave, Kew Gardens, NY 11418	40.707114, -73.835026
+594	Aleo Restaurant	3.0 star rating	54 reviews	$$	            7 W 20th St, New York, NY 10011	40.740197, -73.991728
+595	Numero 28 Pizzeria	4.0 star rating	252 reviews	$$	            28 Carmine St, New York, NY 10014	40.730074, -74.002781
+596	Dee's	3.5 star rating	187 reviews	$$	            107-23 Metropolitan Ave, Forest Hills, NY 11375	40.709810, -73.845241
+597	Va Bene	3.5 star rating	34 reviews	$$$	            1589 2nd Ave, New York, NY 10028	40.775695, -73.953676
+598	Armondo's Italian Restaurant	3.0 star rating	26 reviews	$$	            7427 37th Ave, Jackson Heights, NY 11372	40.749109, -73.890957
+599	Abbottega	4.0 star rating	20 reviews	$$	            14 Bedford St, New York, NY 10014	40.729171, -74.003282
+600	Trattoria Bolognese	3.0 star rating	18 reviews	$$	            1079 First Ave, Manhattan, NY 10022	40.759640, -73.962310
+601	The Leopard at des Artistes	4.0 star rating	78 reviews	$$$	            1 W 67th St, New York, NY 10023	40.773515, -73.978841
+602	Nino's Restaurant	3.5 star rating	116 reviews	$$$	            1354 1st Ave, New York, NY 10021	40.768115, -73.955328
+603	Delizia 73 Ristorante & Pizza	4.0 star rating	110 reviews	$	            1374 First Ave Between 73rd &amp; 74th St, New York, NY 10021	40.770595, -73.958540
+604	Frankies Spuntino	3.5 star rating	125 reviews	$$$	            570 Hudson St, New York, NY 10014	40.735677, -74.005773
+605	Nocello	4.0 star rating	58 reviews	$$$	            257 W 55th St, New York, NY 10019	40.765422, -73.983319
+606	ViceVersa	4.0 star rating	115 reviews	$$$	            325 W 51st St, New York, NY 10019	40.763605, -73.986693
+607	Arthur Avenue Cafe	4.0 star rating	39 reviews	$$	            2329 Arthur Ave, Bronx, NY 10458	40.854115, -73.889151
+608	Ballar Vino&Sveltine	4.0 star rating	114 reviews	$$	            77 2nd Ave, New York, NY 10003	40.726667, -73.989516
+609	Bar Vetro	3.5 star rating	81 reviews	$$	            222 E. 58th Street, New York, NY 10022	40.760277, -73.966080
+610	Pane e Vino	4.0 star rating	41 reviews	$$$	            791 Lexington Ave, New York, NY 10065	40.763661, -73.966818
+611	Caravaggio	3.5 star rating	32 reviews	$$$$	            23 E 74th St, New York, NY 10021	40.773392, -73.964725
+612	Amici Restaurant & Cafe	4.5 star rating	16 reviews	$$	            622 Metropolitan Ave, Brooklyn, NY 11211	40.714014, -73.948319
+613	Patricia's	4.0 star rating	113 reviews	$$	            1082 Morris Park Ave, Bronx, NY 10461	40.849095, -73.853336
+614	Il Gattopardo	3.5 star rating	14 reviews	$$$	            13-15 W 54th St, New York, NY 10019	40.761718, -73.976386
+615	Mario's	3.5 star rating	70 reviews	$$	            2342 Arthur Ave, Bronx, NY 10458	40.854166, -73.888536
+616	Pasta-Pasta	3.5 star rating	25 reviews	$$	            2023 Williamsbridge Rd, Bronx, NY 10461	40.854881, -73.854959
+617	Vai Restaurant	4.0 star rating	143 reviews	$$$	            429 Amsterdam Ave, New York, NY 10024	40.784124, -73.977321
+618	Keste Pizza & Vino	4.0 star rating	732 reviews	$$	            271 Bleecker St, New York, NY 10014	40.731539, -74.002956
+619	Astoria Park Pizzeria	4.5 star rating	17 reviews	$	            1927 Ditmars Blvd, Astoria, NY 11105	40.780850, -73.916904
+620	Pisa Pizzeria	3.5 star rating	9 reviews	$	            6568 Myrtle Ave, Glendale, NY 11385	40.701087, -73.888099
+621	Il Bastardo	3.0 star rating	326 reviews	$$	            191 7th Ave, New York, NY 10011	40.742929, -73.996204
+622	Lattanzi Ristorante	3.5 star rating	77 reviews	$$$	            361 W 46th St Frnt, New York, NY 10036	40.760262, -73.993287
+623	Cafe Napoli	4.5 star rating	5 reviews	$$	            105 Mulberry St, New York, NY 10013	40.717431, -73.998547
+624	Felidia	4.0 star rating	241 reviews	$$$$	            243 E 58th St, New York, NY 10022	40.760344, -73.965121
+625	Gene's Restaurant	3.5 star rating	26 reviews	$$$	            73 W 11th St, New York, NY 10011	40.735356, -73.997753
+626	Da' Giulio	3.0 star rating	20 reviews	$$	            176 Lexington Ave, New York, NY 10016	40.744432, -73.981387
+627	Ovest Pizzoteca	4.0 star rating	225 reviews	$$	            513 W 27th St, New York, NY 10001	40.750751, -74.003016
+628	Masso	3.0 star rating	87 reviews	$$	            4725 Vernon Blvd, Long Island City, NY 11101	40.744834, -73.953124
+629	Campo de' Fiori	3.5 star rating	123 reviews	$$	            187 5th Ave, Brooklyn, NY 11217	40.676823, -73.979851
+630	Azalea Ristorante	3.5 star rating	68 reviews	$$$	            224 W 51st St, New York, NY 10019	40.762313, -73.984890
+631	Lamarca	4.0 star rating	161 reviews	$$	            161 E 22nd St, New York, NY 10010	40.738337, -73.983823
+632	Harry's Italian Pizza Bar	3.0 star rating	68 reviews	$$	            225 Murray St, New York, NY 10282	40.715397, -74.014859
+633	Bella Serra Pizza	4.0 star rating	9 reviews	$$	            5656 Myrtle Ave, Ridgewood, NY 11385	40.700275, -73.904157
+634	Amorina	3.5 star rating	157 reviews	$$	            624 Vanderbilt Ave, Brooklyn, NY 11238	40.677522, -73.969212
+635	IL Toscano Ristorante	4.0 star rating	59 reviews	$$$	            4205 235th St, Little Neck, NY 11363	40.768397, -73.748489
+636	Luciano's	3.0 star rating	33 reviews	$$	            15 Metrotech Ctr, Brooklyn, NY 11201	40.693956, -73.984597
+637	Don Giovanni Ristorante	3.0 star rating	94 reviews	$$	            214 10th Ave, New York, NY 10011	40.747347, -74.004217
+638	Villa Rustica Ristorante & Pizzeria	3.5 star rating	24 reviews	$$	            7328 Bell Blvd, Oakland Gardens, NY 11364	40.740338, -73.758135
+639	AlMar	4.0 star rating	125 reviews	$$	            111 Front St, Brooklyn, NY 11201	40.702664, -73.989174
+640	Patsy's Pizzeria	4.0 star rating	364 reviews	$$	            2287 1st Ave, New York, NY 10035	40.797153, -73.934881
+641	Luciano's	3.0 star rating	33 reviews	$$	            15 Metrotech Ctr, Brooklyn, NY 11201	40.693956, -73.984597
+642	Good To Go	3.5 star rating	38 reviews	$$	            1894 Eastchester Rd, Bronx, NY 10461	40.851401, -73.843486
+643	Bugatti Cafe	3.0 star rating	88 reviews	$$	            31-05 34th St, Astoria, NY 11106	40.762848, -73.921183
+644	Crudo Vineria Con Cucina	3.0 star rating	35 reviews	$$	            178 Mulberry St, New York, NY 10012	40.720575, -73.996661
+645	Acqua	3.0 star rating	66 reviews	$$	            718 Amsterdam Ave, New York, NY 10025	40.793391, -73.971253
+646	Sal's Little Italy	3.0 star rating	91 reviews	$	            384 Broome St, New York, NY 10013	40.720595, -73.996550
+647	Patsy's Pizzeria	3.5 star rating	230 reviews	$$	            61 W 74th St, New York, NY 10023	40.778717, -73.977379
+648	Dani's House of Pizza	4.0 star rating	264 reviews	$	            81-28 Lefferts Blvd, Kew Gardens, NY 11415	40.708888, -73.830558
+649	Olive Garden Italian Restaurant 	2.5 star rating	77 reviews	$$	            505 Gateway Dr, Brooklyn, NY 11239	40.651444, -73.869318
+650	Bar Tano	4.0 star rating	119 reviews	$$	            457 3rd Ave, Brooklyn, NY 11215	40.671216, -73.990905
+651	Isola	4.0 star rating	137 reviews	$$$	            9 Crosby St, New York, NY 10013	40.719814, -74.000073
+652	Marco's	4.0 star rating	29 reviews	$$$	            295 Flatbush Ave, Brooklyn, NY 11217	40.679001, -73.973352
+653	Tony's Di Napoli	4.0 star rating	10 reviews	$$	            1081 3rd Ave, New York, NY 10065	40.764246, -73.964074
+654	Vico	4.5 star rating	10 reviews	$$$	            1302 Madison Ave, New York, NY 10128	40.785009, -73.956100
+655	Mario's Meats and Gourmet Deli	4.5 star rating	11 reviews	$$	            7555 Metropolitan Ave, Middle Village, NY 11379	40.713302, -73.875537
+656	L'asso	4.0 star rating	426 reviews	$$	            192 Mott St, New York, NY 10012	40.720966, -73.995442
+657	Solo Pizza	4.0 star rating	71 reviews	$	            27 Avenue B, New York, NY 10009	40.722260, -73.982946
+658	Da Noi	4.5 star rating	3 reviews	None	            136 Fingerboard Rd, Staten Island, NY 10305	40.606951, -74.066641
+659	Nino's Positano	3.0 star rating	89 reviews	$$$	            890 2nd Ave, New York, NY 10017	40.753196, -73.969437
+660	Bocca Di Bacco	3.5 star rating	47 reviews	$$$	            635 9th Ave, New York, NY 10036	40.760265, -73.991703
+661	Alma Gourmet	4.0 star rating	4 reviews	None	            39-12 Crescent St, Long Island City, NY 11101	40.754539, -73.937325
+662	Verde on Smith	3.5 star rating	148 reviews	$$	            216 Smith St, Brooklyn, NY 11201	40.684454, -73.992279
+663	Tosca Cafe	3.5 star rating	159 reviews	$$	            4038 E Tremont Ave, Bronx, NY 10465	40.819099, -73.817513
+664	Enzo's Restaurant	3.5 star rating	39 reviews	$$	            1998 Williamsbridge Rd, Bronx, NY 10461	40.854191, -73.854381
+665	Armonie	3.5 star rating	28 reviews	$$	            1649 Park Ave, New York, NY 10035	40.799742, -73.942714
+666	Restaurant 101	3.5 star rating	34 reviews	$$	            10018 4th Ave, Brooklyn, NY 11209	40.612735, -74.033755
+667	La Strada Ltd	3.5 star rating	21 reviews	$$	            5023 10th Ave, Brooklyn, NY 11219	40.637960, -73.999780
+668	Felice 83	3.5 star rating	61 reviews	$$$	            1593 1st Ave, New York, NY 10028	40.774900, -73.951093
+669	Serafina Meatpacking	3.5 star rating	56 reviews	$$$	            7 Ninth Ave, New York, NY 10014	40.739633, -74.006657
+670	Divino Ristorante	3.0 star rating	30 reviews	$$	            1556 2nd Ave, New York, NY 10028	40.774339, -73.953955
+671	Pier 76	3.5 star rating	36 reviews	$	            76 Bay St, Staten Island, NY 10301	40.640118, -74.075927
+672	The Meatball Shop	4.0 star rating	589 reviews	$$	            170 Bedford Ave, Brooklyn, NY 11211	40.718206, -73.957475
+673	Frank's Trattoria	3.0 star rating	47 reviews	$$	            371 1st Ave, New York, NY 10010	40.736112, -73.979452
+674	Tiberio Dimare Restaurant	4.5 star rating	9 reviews	$$$	            155 Beach 116th St, Rockaway Park, NY 11694	40.578948, -73.836868
+675	Sottocasa	4.0 star rating	218 reviews	$$	            298 Atlantic Ave, Brooklyn, NY 11201	40.688283, -73.988998
+676	Luigi's Restaurant & Bar	4.0 star rating	148 reviews	$$	            265-21 Union Tpke, New Hyde Park, NY 11040	40.749589, -73.707508
+677	Bella Mama Rose	4.0 star rating	18 reviews	$$	            266 Morningstar Rd, Staten Island, NY 10303	40.631701, -74.146759
+678	Biricchino	3.5 star rating	25 reviews	$$	            260 W 29th St, New York, NY 10001	40.748819, -73.995497
+679	Joe's of Avenue U	3.5 star rating	13 reviews	$$	            145 Greaves Ln, Staten Island, NY 10308	40.553863, -74.141948
+680	Carlo's Pizza	4.5 star rating	51 reviews	$	            74-02 Metropolitan Ave, Middle Village, NY 11379	40.712599, -73.878099
+681	B & Co.	3.5 star rating	21 reviews	$$$	            14 E 58th St, New York, NY 10022	40.763145, -73.972779
+682	Mamma Lucias	4.0 star rating	12 reviews	$$	            134 Pennyfield Ave, Bronx, NY 10465	40.812060, -73.805416
+683	Matteo's	3.5 star rating	19 reviews	$$$	            155-10 Crossbay Blvd, Howard Beach, NY 11414	40.664825, -73.841473
+684	Lioni's Italian Heroes	4.5 star rating	124 reviews	$$	            7803 15th Ave, Brooklyn, NY 11228	40.615657, -74.004708
+685	Salumeria Biellese	3.5 star rating	42 reviews	$	            376 8th Ave, New York, NY 10001	40.748807, -73.995594
+686	Extra Virgin	4.0 star rating	710 reviews	$$	            259 W 4th St, New York, NY 10014	40.735420, -74.003146
+687	Europa Pizzeria	3.5 star rating	56 reviews	$$	            6423 20th Ave, Brooklyn, NY 11204	40.616463, -73.985508
+688	Luigi's Gourmet Pizza	3.5 star rating	47 reviews	$	            936 8th Ave, New York, NY 10019	40.765544, -73.983396
+689	Caffe Napoli	2.5 star rating	132 reviews	$$	            191 Hester St, New York, NY 10013	40.718233, -73.997731
+690	Enzo's Brickoven	3.5 star rating	100 reviews	$$	            217 Prospect Park W, Brooklyn, NY 11215	40.660149, -73.980238
+691	Antika	3.5 star rating	144 reviews	$$	            3924 Broadway, New York, NY 10032	40.838622, -73.941023
+692	Peperoncino	3.0 star rating	90 reviews	$$	            72 5th Ave, Brooklyn, NY 11217	40.680827, -73.977731
+693	Barbalu Restaurant	4.0 star rating	14 reviews	$$$	            225-227 Front St, New York, NY 10038	40.707379, -74.002093
+694	Gran Piatto d'Oro	2.5 star rating	24 reviews	$$	            1429 5th Ave, New York, NY 10035	40.801031, -73.945839
+695	Chelsea Ristorante	3.5 star rating	69 reviews	$$	            108 8th Ave, New York, NY 10011	40.740631, -74.001600
+696	Corvo Bianco	3.5 star rating	80 reviews	$$$	            446 Columbus Ave, New York, NY 10024	40.783611, -73.974319
+697	L' Italiano Trattoria	2.5 star rating	18 reviews	$$	            216-01 Horace Harding Expwy N, Oakland Gardens, NY 11364	40.748094, -73.761355
+698	La Bella Pizza	3.0 star rating	22 reviews	$$	            581 2nd Ave, New York, NY 10016	40.743509, -73.977166
+699	Ciao	2.0 star rating	104 reviews	$$	            185 Bleecker St, New York, NY 10012	40.729254, -74.000909
+700	Lavo	3.0 star rating	339 reviews	$$$	            39 E 58th St, New York, NY 10022	40.763015, -73.971319
+701	Grace's Trattoria	3.5 star rating	43 reviews	$$$	            201 E 71st St, New York, NY 10021	40.769057, -73.960619
+702	Mama Carmela's	4.0 star rating	28 reviews	$	            4914 30th Ave, Woodside, NY 11377	40.760142, -73.907486
+703	Baci & Abbracci	4.0 star rating	169 reviews	$$	            204 Grand St, Brooklyn, NY 11211	40.713877, -73.960467
+704	83 1/2	4.0 star rating	25 reviews	$$$	            345 E 83rd St, New York, NY 10028	40.775354, -73.951216
+705	AquaMarina	3.0 star rating	28 reviews	$$	            4060 Broadway, New York, NY 10032	40.843320, -73.938895
+706	Giovanni Venti Cinque Restaurant	3.5 star rating	25 reviews	$$	            25 E 83rd St, New York, NY 10028	40.779157, -73.960459
+707	Porto Bello Pizzeria Restaurant	3.5 star rating	90 reviews	$$	            43-18 Ditmars Blvd, Astoria, NY 11105	40.770508, -73.904229
+708	Enzo's	3.5 star rating	54 reviews	$$	            2339 Arthur Ave, Bronx, NY 10458	40.854367, -73.888781
+709	Desy's Clam Bar	3.0 star rating	32 reviews	$$	            562 Grand St, Brooklyn, NY 11211	40.710897, -73.949314
+710	Patsy's Pizzeria	3.5 star rating	111 reviews	$$	            509 3rd Ave, New York, NY 10016	40.745803, -73.977646
+711	Sofia's	2.0 star rating	46 reviews	$$	            221 W 46th St, New York, NY 10036	40.759295, -73.986255
+712	Inatteso Pizzabar Casano	4.0 star rating	128 reviews	$$	            28 West St, New York, NY 10004	40.706043, -74.017041
+713	Ciao Stella Corp	1.5 star rating	16 reviews	$$	            206 Sullivan St, New York, NY 10012	40.729041, -74.000362
+714	Brothers Ravioli	4.5 star rating	10 reviews	None	            16116 Crossbay Blvd, Howard Beach, NY 11414	40.655220, -73.839032
+715	Al Forno Pizzeria	3.5 star rating	71 reviews	$$	            1484 2nd Ave, New York, NY 10075	40.772132, -73.955616
+716	Bellini Italian Restaurant & Brick Oven Pizza	3.0 star rating	80 reviews	$$	            483 Columbus Ave, New York, NY 10023	40.784609, -73.973246
+717	Le Verdure	3.5 star rating	26 reviews	$$	            200 5th Ave, New York, NY 10010	40.741943, -73.989906
+718	Campania Coal Fired Pizza	4.5 star rating	33 reviews	$$$	            9824 4th Ave, New York, NY 11209	40.613610, -74.033316
+719	Portobello Cafe	3.5 star rating	53 reviews	$$	            4221 Hylan Blvd, Staten Island, NY 10308	40.537200, -74.150691
+720	Vetro by Russo's on the Bay	4.5 star rating	74 reviews	$$$	            164-49 Crossbay Blvd, Howard Beach, NY 11414	40.649758, -73.837405
+721	L' Italiano Trattoria	2.5 star rating	18 reviews	$$	            216-01 Horace Harding Expwy N, Oakland Gardens, NY 11364	40.748094, -73.761355
+722	Capizzi	4.0 star rating	267 reviews	$$	            547 9th Ave, New York, NY 10018	40.757488, -73.993683
+723	Trattoria Mangia	2.5 star rating	33 reviews	$$	            119 5th Ave, Brooklyn, NY 11217	40.678838, -73.978476
+724	Pranzo	3.5 star rating	47 reviews	$	            34 Water St, New York, NY 10004	40.703354, -74.010846
+725	The Marrow	3.5 star rating	128 reviews	$$$	            99 Bank St, New York, NY 10014	40.736551, -74.006369
+726	Sistina	3.0 star rating	20 reviews	$$$$	            1555 2nd Ave Frnt, New York, NY 10028	40.776641, -73.952147
+727	Lombardi's Pizza	4.0 star rating	3516 reviews	$$	            32 Spring St, New York, NY 10012	40.721533, -73.995634
+728	Settepani	3.5 star rating	89 reviews	$$	            196 Lenox Ave, New York, NY 10026	40.804466, -73.947794
+729	MoMA Caf 2	4.0 star rating	121 reviews	$$	            9 W 53rd St, New York, NY 10055	40.760519, -73.976043
+730	The Meatball Shop	4.0 star rating	428 reviews	$$	            64 Greenwich Ave, New York, NY 10011	40.736125, -74.000607
+731	MoMo	3.5 star rating	15 reviews	$$	            152 W 10th St, New York, NY 10014	40.734406, -74.001258
+732	Via Delle Zoccolette	2.5 star rating	10 reviews	$$	            95 Ave, New York, NY 10009	40.737753, -73.992101
+733	SD26	3.5 star rating	245 reviews	$$$	            19 E 26th St, New York, NY 10010	40.743165, -73.987146
+734	Fig & Olive	3.5 star rating	676 reviews	$$$	            420 W 13th St, New York, NY 10014	40.740552, -74.007138
+735	Miss Ks Italian Eatery & Cafe	3.5 star rating	14 reviews	$	            118 Madison Ave, New York, NY 10016	40.745462, -73.985002
+736	Bistecca Fiorentina	4.0 star rating	48 reviews	$$	            317 W 46th St, New York, NY 10036	40.760354, -73.988694
+737	Bella Napoli	3.0 star rating	71 reviews	$	            130 Madison Ave, New York, NY 10016	40.745794, -73.984758
+738	Parisi Bakery	4.5 star rating	182 reviews	$	            198 Mott St, New York, NY 10012	40.721088, -73.995432
+739	Arno Ristorante	3.0 star rating	67 reviews	$$$	            141 W 38th St, New York, NY 10018	40.753313, -73.987978
+740	Roman's	4.0 star rating	152 reviews	$$$	            243 DeKalb Ave, Brooklyn, NY 11205	40.689662, -73.969497
+741	NeroDoro	3.5 star rating	85 reviews	$$	            395 Classon Ave, Brooklyn, NY 11238	40.687563, -73.959570
+742	Angelo's Pizza	3.5 star rating	129 reviews	$$	            1043 2nd Ave, New York, NY 10022	40.757964, -73.966608
+743	Old School Brooklyn	3.5 star rating	20 reviews	$$	            520 Court St, Brooklyn, NY 11231	40.676175, -73.999163
+744	Casa Calamari	3.0 star rating	75 reviews	$$	            8602 3rd Ave, Brooklyn, NY 11209	40.623323, -74.031396
+745	Apizz Restaurant	4.0 star rating	246 reviews	$$$	            217 Eldridge St, New York, NY 10002	40.721727, -73.990269
+746	Numero 28 Pizzeria Napoletana	3.5 star rating	60 reviews	$$	            1431 1st Ave, New York, NY 10021	40.769396, -73.955184
+747	Il Forno Hell's Kitchen	3.5 star rating	16 reviews	$$	            713A 8th Ave, New York, NY 10036	40.759218, -73.988832
+748	Fiorini	4.0 star rating	20 reviews	$$$	            209 E 56th St, New York, NY 10022	40.759390, -73.967175
+749	Panino Rustico	4.5 star rating	98 reviews	$$	            8222 17th Ave, Brooklyn, NY 11214	40.610489, -74.003133
+750	Amira's	4.5 star rating	15 reviews	$$	            426A 7th Ave, Brooklyn, NY 11215	40.663819, -73.984520
+751	Don Antonio	4.0 star rating	269 reviews	$$	            309 W 50th St, New York, NY 10019	40.762760, -73.986700
+752	Defonte's of Brooklyn	4.0 star rating	276 reviews	$$	            261 3rd Ave, New York, NY 10010	40.737325, -73.983881
+753	Amira's	4.5 star rating	15 reviews	$$	            426A 7th Ave, Brooklyn, NY 11215	40.663819, -73.984520
+754	Forcella	3.5 star rating	94 reviews	$$	            377 Park Ave S, New York, NY 10016	40.742291, -73.984417
+755	Red Gravy	3.5 star rating	95 reviews	$$$	            151 Atlantic Ave, Brooklyn, NY 11201	40.690673, -73.995037
+756	Ponte Vecchio Restaurant	3.5 star rating	51 reviews	$$$	            8810 4th Avenue, Brooklyn, NY 11209	40.621164, -74.029350
+757	Aperitivo	3.0 star rating	152 reviews	$$	            279 5th Ave, Brooklyn, NY 11215	40.673766, -73.982096
+758	Bread Nolita	3.5 star rating	282 reviews	$$	            20 Spring St, New York, NY 10012	40.721208, -73.995135
+759	Adriatic Italian Restaurant	3.0 star rating	32 reviews	$$	            321 1st Ave, New York, NY 10003	40.734268, -73.980769
+760	44 SW Ristorante & Bar	3.0 star rating	99 reviews	$$	            621 9th Ave, New York, NY 10036	40.759761, -73.992069
+761	44 SW Ristorante & Bar	3.0 star rating	99 reviews	$$	            621 9th Ave, New York, NY 10036	40.759761, -73.992069
+762	Il Fornaio Ristorante	3.5 star rating	45 reviews	$$	            132 Mulberry St, New York, NY 10013	40.718421, -73.997617
+763	Milk And Roses	4.0 star rating	132 reviews	$$	            1110 Manhattan Ave, Brooklyn, NY 11222	40.736410, -73.955047
+764	Olla Wine Bar	4.5 star rating	104 reviews	$$$	            7204 3rd Ave, Brooklyn, NY 11209	40.633425, -74.027310
+765	Fabio Cucina Italiana	4.5 star rating	17 reviews	$$$	            214 E 52nd St, New York, NY 10022	40.756725, -73.969218
+766	Corte Cafe	2.5 star rating	20 reviews	$	            2 Lafayette St, New York, NY 10007	40.714105, -74.003867
+767	Alba Ristorante & Pizzeria	3.5 star rating	44 reviews	$	            13765 Queens Blvd, Jamaica, NY 11435	40.702486, -73.815511
+768	Nicola's	4.0 star rating	6 reviews	$$$	            997 1st Ave, New York, NY 10022	40.756890, -73.964257
+769	Bona Fides	3.0 star rating	22 reviews	$$	            60 2nd Ave, New York, NY 10003	40.725716, -73.989298
+770	Cafe Europa	3.5 star rating	24 reviews	$$	            2313 65th St, Brooklyn, NY 11204	40.612397, -73.978708
+771	Nicola's	4.0 star rating	6 reviews	$$$	            997 1st Ave, New York, NY 10022	40.756890, -73.964257
+772	Bona Fides	3.0 star rating	22 reviews	$$	            60 2nd Ave, New York, NY 10003	40.725716, -73.989298
+773	Cafe Europa	3.5 star rating	24 reviews	$$	            2313 65th St, Brooklyn, NY 11204	40.612397, -73.978708
+774	PJ Charlton	3.0 star rating	14 reviews	$$	            549 Greenwich St, New York, NY 10013	40.727400, -74.008857
+775	Piada	4.0 star rating	50 reviews	$$	            601 Lexington Ave, New York, NY 10022	40.758756, -73.970557
+776	Primadonna	3.0 star rating	37 reviews	$	            10018 Queens Blvd, Forest Hills, NY 11375	40.719035, -73.839107
+777	Armani Ristorante	3.5 star rating	72 reviews	$$$	            717 5th Ave, New York, NY 10022	40.761950, -73.974300
+778	Cielo Restaurant	4.0 star rating	9 reviews	$$$	            1435 Hylan Blvd, Staten Island, NY 10305	40.593474, -74.087246
+779	Bruno's Gourmet Market	3.5 star rating	57 reviews	$$	            282 1st Ave, New York, NY 10009	40.732819, -73.980866
+780	Bar Baresco	3.5 star rating	54 reviews	$$	            191 7th Ave, New York, NY 10011	40.742929, -73.996204
+781	Umberto's Clam House	2.5 star rating	124 reviews	$$$	            132 Mulberry St, Manhattan, NY 10013	40.718421, -73.997617
+782	Trattoria Pesce Pasta Quattro	3.5 star rating	24 reviews	$$	            625 Columbus Ave, New York, NY 10024	40.789120, -73.969781
+783	Basilio Inn	4.5 star rating	20 reviews	$$$	            6 Galesville Ct, Staten Island, NY 10305	40.597369, -74.063660
+784	Abboccato	3.5 star rating	93 reviews	$$$	            136 W 55th St, New York, NY 10019	40.763462, -73.979784
+785	Harry Cipriani	3.0 star rating	55 reviews	$$$$	            781 5th Ave, New York, NY 10022	40.764314, -73.972522
+786	Houdini	4.5 star rating	34 reviews	$$	            15-63 Decatur St, Ridgewood, NY 11385	40.694163, -73.902312
+787	Tre Sorelle	3.5 star rating	41 reviews	$$	            61 Reade St, Manhattan, NY 10007	40.714753, -74.006625
+788	Di Uno	3.5 star rating	5 reviews	None	            1111 1st Ave, New York, NY 10065	40.760892, -73.961434
+789	Amici 2	3.5 star rating	67 reviews	$$	            165 Mulberry St, New York, NY 10013	40.719862, -73.997373
+790	Ferrara Bakery & Cafe	3.5 star rating	665 reviews	$$	            195 Grand St, New York, NY 10013	40.719021, -73.997109
+791	Brick Cafe	3.5 star rating	365 reviews	$$	            30-95 33rd St, Astoria, NY 11102	40.763714, -73.921562
+792	Di Uno	3.5 star rating	5 reviews	None	            1111 1st Ave, New York, NY 10065	40.760892, -73.961434
+793	Frank's Pizza	4.0 star rating	32 reviews	$$	            2134 Flatbush Ave, Brooklyn, NY 11234	40.617638, -73.931846
+794	Salvo's Pizzabar	4.0 star rating	50 reviews	$$	            1477 York Ave, New York, NY 10075	40.770926, -73.951132
+795	Trieste Restaurant	3.0 star rating	12 reviews	$$	            7316 Northern Blvd, Jackson Heights, NY 11372	40.754665, -73.893327
+796	Luna Ristorante	3.0 star rating	26 reviews	$$	            115 Mulberry St, New York, NY 10013	40.717685, -73.998444
+797	900 Park	3.5 star rating	50 reviews	$$	            900 Morris Park Ave, Bronx, NY 10462	40.846573, -73.859012
+798	Bevacco	3.5 star rating	106 reviews	$$$	            60 Henry St, Brooklyn, NY 11201	40.699283, -73.992341
+799	Villa Fiorita Restaurant	4.5 star rating	5 reviews	$$	            7720 18th Avenue, Brooklyn, NY 11214	40.611932, -73.997851
+800	Joey's Place	3.5 star rating	19 reviews	$$	            8414 Astoria Blvd, Astoria, NY 11370	40.764466, -73.884418
+801	Bevacco	3.5 star rating	106 reviews	$$$	            60 Henry St, Brooklyn, NY 11201	40.699283, -73.992341
+802	Trattoria Firenze	4.5 star rating	16 reviews	$$	            4996 Broadway, New York, NY 10034	40.868290, -73.918587
+803	Villa Fiorita Restaurant	4.5 star rating	5 reviews	$$	            7720 18th Avenue, Brooklyn, NY 11214	40.611932, -73.997851
+804	Al Dente	2.5 star rating	48 reviews	$$	            417 Amsterdam Ave, New York, NY 10024	40.783606, -73.977701
+805	Riposo 46	4.0 star rating	217 reviews	$$	            667 9th Ave, New York, NY 10036	40.761153, -73.990669
+806	Positano Ristorante	3.0 star rating	48 reviews	$$	            122 Mulberry St, New York, NY 10013	40.717809, -73.997949
+807	Serafina Upper West	2.5 star rating	76 reviews	$$	            2178 Broadway, New York, NY 10024	40.782219, -73.980589
+808	Caffe Dante	3.5 star rating	113 reviews	$	            79 MacDougal St, New York, NY 10012	40.728885, -74.001862
+809	Bread & Tulips	3.5 star rating	101 reviews	$$$	            365 Park Ave S, New York, NY 10016	40.742103, -73.984582
+810	Francesco's	3.5 star rating	40 reviews	$	            529 Henry St, Brooklyn, NY 11231	40.683556, -73.999441
+811	Louie and Chan	4.5 star rating	32 reviews	$$$	            303 Broome St, New York, NY 10002	40.718652, -73.992381
+812	Alidoro	4.0 star rating	169 reviews	$$	            105 Sullivan St, New York, NY 10012	40.725650, -74.002715
+813	Francesco's	3.5 star rating	40 reviews	$	            529 Henry St, Brooklyn, NY 11231	40.683556, -73.999441
+814	Cafe al Mercado	4.5 star rating	11 reviews	$$	            2344 Arthur Ave, Bronx, NY 10462	40.854087, -73.888195
+815	La Sorrentina Ristorante	2.5 star rating	14 reviews	$$$	            6522 11th Ave, Brooklyn, NY 11219	40.628299, -74.006635
+816	Bar Toto	3.5 star rating	163 reviews	$$	            411 11th St, Brooklyn, NY 11215	40.666884, -73.984648
+817	Princess Pizzeria	3.5 star rating	22 reviews	$	            535 5th Ave, Brooklyn, NY 11215	40.665959, -73.988657
+818	Da Tommaso	3.5 star rating	37 reviews	$$$	            903 8th Ave, New York, NY 10019	40.764570, -73.984822
+819	Serafina Fabulous Pizza	3.0 star rating	106 reviews	$$	            1022 Madison Ave, New York, NY 10075	40.776208, -73.962422
+820	John's Pizzeria & Restaurant	4.0 star rating	56 reviews	$	            83-40 Parsons Blvd, Jamaica, NY 11432	40.714566, -73.807800
+821	Fratelli's Restaurant	4.0 star rating	16 reviews	$$	            2507 Eastchester Rd, Bronx, NY 10469	40.863032, -73.843451
+822	Cafe Milano Pizzeria & Restaurant	3.0 star rating	21 reviews	$$	            401 Forest Ave, Staten Island, NY 10301	40.631003, -74.102987
+823	Buvette	4.0 star rating	353 reviews	$$$	            42 Grove St, New York, NY 10014	40.732591, -74.004293
+824	Bella Cucina	2.5 star rating	25 reviews	$$	            1297 Lexington Ave, New York, NY 10128	40.780332, -73.954728
+825	L'Allegria Italian	2.5 star rating	96 reviews	$$	            623 9th Ave, New York, NY 10036	40.759938, -73.991874
+826	Paneantico Bakery	4.0 star rating	136 reviews	$$	            9124 3rd Ave, Brooklyn, NY 11209	40.619475, -74.033008
+827	Ducale Restaurant	4.0 star rating	17 reviews	$$	            1253 150th St, Whitestone, NY 11357	40.789254, -73.813688
+828	S & S Calabro Pizza	4.0 star rating	23 reviews	$	            3065 14th St, Astoria, NY 11102	40.769162, -73.931020
+829	Tony's Brick Oven	4.0 star rating	28 reviews	$	            1140 Bay St, Staten Island, NY 10305	40.615215, -74.066986
+830	Adrienne's Pizza Bar	4.0 star rating	615 reviews	$$	            54 Stone St, New York, NY 10004	40.704336, -74.010173
+831	Battista Ristorante	4.0 star rating	19 reviews	$$$	            4602 Ave N, Brooklyn, NY 11234	40.618684, -73.930725
+832	Adrienne's Pizza Bar	4.0 star rating	615 reviews	$$	            54 Stone St, New York, NY 10004	40.704336, -74.010173
+833	Casa Bella Restaurant	2.5 star rating	109 reviews	$$	            127 Mulberry St, New York, NY 10013	40.718081, -73.998208
+834	Nonna's L.E.S. Pizzeria	4.0 star rating	92 reviews	$	            105 Clinton St, New York, NY 10002	40.718228, -73.985825
+835	Porchetta	3.5 star rating	470 reviews	$$	            110 E 7th St, New York, NY 10009	40.726333, -73.984783
+836	Sophia Restaurant	3.5 star rating	16 reviews	$$	            8406 3rd Ave, Brooklyn, NY 11209	40.624896, -74.030782
+837	Bello's	3.5 star rating	7 reviews	$$	            130 St Marks Pl, New York, NY 10009	40.726655, -73.983593
+838	Vincent's Bagels	4.5 star rating	7 reviews	$	            500 Henderson Ave, Staten Island, NY 10310	40.638064, -74.109352
+839	Lorimer Market	4.5 star rating	76 reviews	$	            620 Lorimer St, Brooklyn, NY 11211	40.715596, -73.949458
+840	Rose & Joe's Italian Bakery	4.0 star rating	110 reviews	$	            2240 31st St, Astoria, NY 11105	40.774582, -73.912531
+841	Rose & Joe's Italian Bakery	4.0 star rating	110 reviews	$	            2240 31st St, Astoria, NY 11105	40.774582, -73.912531
+842	Rosa's Pizza	4.0 star rating	107 reviews	$	            6265 Fresh Pond Rd, Ridgewood, NY 11385	40.712233, -73.900210
+843	Grotto	3.0 star rating	113 reviews	$$$	            100 Forsyth St, New York, NY 10002	40.718242, -73.992606
+844	Carmines Italian Deli	4.5 star rating	34 reviews	$$	            165 Mallory Ave, Jersey City, NJ 07304	40.720182, -74.087935
+845	Parma	3.5 star rating	19 reviews	$$	            1404 3rd Ave, New York, NY 10075	40.774911, -73.957190
+846	Bottino	3.5 star rating	127 reviews	$$	            246 10th Ave, New York, NY 10001	40.748485, -74.003313
+847	Lucca	4.0 star rating	10 reviews	$$	            3019 Westchester Avenue, Bronx, NY 10461	40.847640, -73.831596
+848	Just Arthur's Restaurant	3.0 star rating	12 reviews	$$	            2208 Steinway St, Astoria, NY 11105	40.772770, -73.906579
+849	Venturo Osteria & Wine Bar	4.0 star rating	62 reviews	$$	            44-07 Queens Blvd, Sunnyside, NY 11104	40.743711, -73.920089
+850	Ottomanelli Butcher Shoppe	4.5 star rating	52 reviews	$$	            1549 York Ave, New York, NY 10028	40.773557, -73.949223
+851	Patsy's Pizzeria	3.5 star rating	141 reviews	$$	            1279 1st Ave, New York, NY 10021	40.765876, -73.957746
+852	Tre Stelle	3.0 star rating	47 reviews	$$$	            39 W 24th St, New York, NY 10010	40.743308, -73.991079
+853	Patsy's Pizzeria	3.0 star rating	172 reviews	$$	            206 E 60th St, New York, NY 10022	40.761785, -73.965725
+854	Grandma Rose's	3.5 star rating	69 reviews	$	            457 Graham Ave, Brooklyn, NY 11222	40.719059, -73.945518
+855	Marseille	3.5 star rating	438 reviews	$$$	            630 9th Ave, New York, NY 10036	40.759954, -73.991264
+856	Crispin's	4.0 star rating	42 reviews	$$	            764 10th Ave, New York, NY 10019	40.765769, -73.990581
+857	Piccola Cucina Enoteca	3.5 star rating	67 reviews	$$	            184 Prince St, New York, NY 10012	40.726265, -74.002138
+858	Pino's La Forchetta Pizzeria	3.5 star rating	93 reviews	$	            181 7th Ave, Brooklyn, NY 11215	40.671270, -73.977574
+859	Al Di La Vino	4.0 star rating	77 reviews	$$$	            607 Carroll St, Brooklyn, NY 11215	40.675173, -73.981355
+860	D'angelo's Pizzeria	5.0 star rating	4 reviews	None	            1160 Pugsley Ave, Bronx, NY 10472	40.830626, -73.856735
+861	Augustino's Restaurant	4.0 star rating	88 reviews	$$$	            1104 Washington St, Hoboken, NJ 07030	40.750249, -74.027326
+862	Bar Veloce	3.5 star rating	124 reviews	$$	            176 7th Ave, New York, NY 10011	40.742603, -73.997078
+863	Landmarc	4.0 star rating	351 reviews	$$$	            179 W Broadway, New York, NY 10013	40.717897, -74.007054
+864	Pagani	4.0 star rating	65 reviews	$$	            289 Bleecker St, New York, NY 10014	40.732176, -74.003250
+865	Tello	2.5 star rating	71 reviews	$$	            198 8th Ave, New York, NY 10011	40.743421, -73.999537
+866	Il Vesuvio	3.0 star rating	38 reviews	$$	            3934 Bell Blvd, Bayside, NY 11360	40.764326, -73.771675
+867	Goodfella's Gramercy	3.5 star rating	31 reviews	None	            391 2nd Ave, Manhattan, NY 10010	40.737717, -73.981395
+868	A-1 Pizza Shop	4.0 star rating	11 reviews	$	            505 Grand St, New York, NY 10002	40.714464, -73.982320
+869	Sotto 13	4.0 star rating	160 reviews	$$	            140 W 13th St, New York, NY 10011	40.737285, -73.999133
+870	Ivy's Bistro	3.5 star rating	79 reviews	$$	            385 Greenwich St, New York, NY 10013	40.720198, -74.009853
+871	Sotto 13	4.0 star rating	160 reviews	$$	            140 W 13th St, New York, NY 10011	40.737285, -73.999133
+872	Ivy's Bistro	3.5 star rating	79 reviews	$$	            385 Greenwich St, New York, NY 10013	40.720198, -74.009853
+873	iL Posto	3.5 star rating	17 reviews	$$	            227 Dyckman St, New York, NY 10034	40.866095, -73.927585
+874	Leo's Grandevous	3.5 star rating	135 reviews	$$	            200 Grand St, Hoboken, NJ 07030	40.739840, -74.036244
+875	Aldo's II Pizzeria & Restaurant	4.0 star rating	12 reviews	$	            13701 Crossbay Blvd, Ozone Park, NY 11417	40.672069, -73.842712
+876	Il Sole	2.5 star rating	52 reviews	$$	            233 Dyckman St, New York, NY 10034	40.866155, -73.927625
+877	Sunday Sauce	5.0 star rating	1 review	$	            270 Sixth Ave, Manhattan, NY 10014	40.729347, -74.002341
+878	Aperitivo	3.0 star rating	69 reviews	$$	            780 3rd Ave, New York, NY 10017	40.755015, -73.971810
+879	La Nonna	3.0 star rating	62 reviews	$$	            134 Mulberry St, New York, NY 10013	40.718497, -73.997511
+880	Lunella Ristorante Italiano	3.0 star rating	63 reviews	$$	            173 Mulberry St, New York, NY 10013	40.720107, -73.997217
+881	Beccofino	4.0 star rating	47 reviews	$$	            5704 Mosholu Ave, Bronx, NY 10471	40.905395, -73.900349
+882	San Remo Pizzeria & Restaurant	3.5 star rating	67 reviews	$	            1408 Cortelyou Rd, Brooklyn, NY 11226	40.640710, -73.964897
+883	Monte's	3.5 star rating	46 reviews	$$	            451 Carroll St, Brooklyn, NY 11215	40.677607, -73.987193
+884	Scarlatto	3.5 star rating	164 reviews	$$	            250 W 47th St, New York, NY 10028	40.759800, -73.986620
+885	Paul Michael's Brick Oven Cafe	3.5 star rating	37 reviews	$$	            85-19 126th St, Kew Gardens, NY 11415	40.703154, -73.825173
+886	Shorty's	4.0 star rating	151 reviews	$$	            66 Madison Ave, New York, NY 10016	40.743759, -73.986362
+887	Avellino Pizza of Rego Park	3.5 star rating	26 reviews	$$	            97-03 64th Ave, Rego Park, NY 11374	40.729318, -73.859238
+888	Posto	4.0 star rating	355 reviews	$$	            310 2nd Ave, New York, NY 10003	40.734828, -73.982804
+889	Goodfellas	3.5 star rating	67 reviews	$$	            1718 Hylan Blvd, Staten Island, NY 10305	40.586785, -74.091438
+890	433 Graham Ave Deli	5.0 star rating	4 reviews	$$	            433 Graham Ave, Brooklyn, NY 11211	40.717919, -73.945297
+891	Paulie Gee's	4.5 star rating	459 reviews	$$	            60 Greenpoint Ave, Brooklyn, NY 11222	40.729539, -73.958568
+892	Novella Ristorante	2.5 star rating	90 reviews	$$	            191 Grand St, New York, NY 10013	40.719138, -73.997218
+893	Pizza Rustica	3.5 star rating	57 reviews	$	            817 2nd Ave, New York, NY 10017	40.751020, -73.971703
+894	Mike's Deli	4.5 star rating	88 reviews	$	            2344 Arthur Ave, Bronx, NY 10458	40.854087, -73.888195
+895	Sam's	4.0 star rating	129 reviews	$$	            238 Court St, Brooklyn, NY 11201	40.685893, -73.994477
+896	Cipriani Downtown	3.5 star rating	134 reviews	$$$$	            376 W Broadway, New York, NY 10012	40.723566, -74.003002
+897	Il Mulino New York Uptown	4.0 star rating	29 reviews	$$$$	            37 East 60th St, New York, NY 10022	40.764144, -73.970195
+898	Carmine's Original Pizza	4.0 star rating	49 reviews	$	            93 Norman Ave, Brooklyn, NY 11222	40.725507, -73.951539
+899	Gina La Fornarina	3.5 star rating	19 reviews	$$$	            26 E 91st St, New York, NY 10128	40.784058, -73.956816
+900	Union Square Cafe	4.0 star rating	674 reviews	$$$	            21 E 16th St, New York, NY 10003	40.736865, -73.991262
+901	Lamazou	4.5 star rating	162 reviews	$	            370 3rd Ave, New York, NY 10016	40.741253, -73.981601
+902	Mambo taliano Ristorante & Piano Bar	1.5 star rating	43 reviews	$$	            145 Mulberry St, New York, NY 10013	40.718959, -73.997738
+903	The Family Restaurant	3.0 star rating	49 reviews	$$	            11080 Queens Blvd, Forest Hills, NY 11375	40.718643, -73.838554
+904	Via Tribunali	4.0 star rating	97 reviews	$$	            122 Ludlow St, New York, NY 10002	40.719607, -73.988411
+905	Cafe Del Mondo	3.0 star rating	18 reviews	$$	            2530 Victory Blvd, Staten Island, NY 10314	40.609968, -74.147836
+906	Arco Cafe	4.0 star rating	5 reviews	$$$	            886 Amsterdam Ave, Manhattan, NY 10025	40.798722, -73.967230
+907	Banana Deli	5.0 star rating	4 reviews	$	            66 E 161st St, Bronx, NY 10452	40.827826, -73.925960
+908	Leo's Latticini Mama's	4.5 star rating	58 reviews	$$	            46-02 104th St, New York, NY 11368	40.746207, -73.860059
+909	Bocca	3.5 star rating	80 reviews	$$	            135 W 50th St, New York, NY 10020	40.761029, -73.982579
+910	Spigolo	3.5 star rating	59 reviews	$$$	            1471 2nd Ave, New York, NY 10028	40.774858, -73.954212
+911	Nicola's Restaurant	3.5 star rating	35 reviews	$$$	            146 E 84th St, New York, NY 10028	40.777792, -73.956245
+912	Salvatores of Soho	4.0 star rating	65 reviews	$$	            3738 Riverdale Ave, Bronx, NY 10463	40.880694, -73.910406
+913	Bar Eolo: Sicilian Kitchen & Wines	2.5 star rating	72 reviews	$$$	            190 7th Ave, New York, NY 10011	40.743087, -73.996706
+914	Caffe Reggio	3.5 star rating	324 reviews	$$	            119 MacDougal St, New York, NY 10012	40.730222, -74.000470
+915	Da Noi Restaurant	4.0 star rating	21 reviews	$$$	            138 Fingerboard Rd, Staten Island, NY 10305	40.607000, -74.066748
+916	Savor Brooklyn	4.0 star rating	38 reviews	$$	            199 Windsor Pl, Brooklyn, NY 11215	40.658502, -73.978147
+917	John's Pizzeria	3.5 star rating	797 reviews	$$	            260 W 44th St, New York, NY 10036	40.758212, -73.988396
+918	Cipriani Wall Street	3.0 star rating	103 reviews	$$$$	            55 Wall St, New York, NY 10005	40.706066, -74.009191
+919	Dino's Pizza & Pasta	3.5 star rating	67 reviews	$	            30-01 Broadway, Astoria, NY 11106	40.762454, -73.925910
+920	Pronto Pizzeria & Restaurant	4.5 star rating	38 reviews	$$	            45-19 28th Ave, Astoria, NY 11103	40.763472, -73.908910
+921	Salvatores of Soho	4.0 star rating	65 reviews	$$	            3738 Riverdale Ave, Bronx, NY 10463	40.880694, -73.910406
+922	Bar Eolo: Sicilian Kitchen & Wines	2.5 star rating	72 reviews	$$$	            190 7th Ave, New York, NY 10011	40.743087, -73.996706
+923	Piccola Italia Ristorante & Bar	3.0 star rating	10 reviews	$$	            102-15 Metropolitain Ave, Forest Hills, NY 11375	40.710534, -73.850067
+924	Cibo	3.5 star rating	73 reviews	$$$	            767 2nd Ave, New York, NY 10017	40.749335, -73.972489
+925	Sant Ambroeus	3.5 star rating	121 reviews	$$$	            259 W 4th St, New York, NY 10014	40.735420, -74.003146
+926	Roman Nose	4.0 star rating	181 reviews	$$	            125 Newark Ave, Jersey City, NJ 07302	40.720006, -74.043124
+927	Sal Anthony's S.P.Q.R.	2.5 star rating	83 reviews	$$	            133 Mulberry St, New York, NY 10013	40.718636, -73.997919
+928	Sicely's Best Pizzeria	4.0 star rating	20 reviews	$	            190 Cypress Ave, Brooklyn, NY 11237	40.705203, -73.915120
+929	Iggy's Pizzeria	3.5 star rating	41 reviews	$	            173 1st Ave, New York, NY 10003	40.729264, -73.984410
+930	Rita & Joe's Italian Restaurant	4.0 star rating	60 reviews	$$	            142 Broadway, Jersey City, NJ 07306	40.737065, -74.074284
+931	Ristorante Vaccaro	3.5 star rating	11 reviews	$$	            6716 Fort Hamilton Pkwy, Brooklyn, NY 11219	40.629365, -74.011172
+932	Forcella	4.0 star rating	241 reviews	$$	            485 Lorimer St, Brooklyn, NY 11211	40.711492, -73.949205
+933	Emilio's Pizza	4.0 star rating	44 reviews	$	            1051 Morris Park Ave, Bronx, NY 10461	40.849060, -73.854704
+934	Savino's Quality Pasta	4.5 star rating	51 reviews	$	            111 Conselyea St, Brooklyn, NY 11211	40.715199, -73.946724
+935	Two Toms	4.0 star rating	34 reviews	$$$	            255 3rd Ave, Brooklyn, NY 11215	40.678052, -73.985311
+936	Nello's	2.0 star rating	121 reviews	$$$$	            696 Madison Ave, New York, NY 10021	40.765813, -73.970126
+937	Lenny's Pizzeria	3.5 star rating	49 reviews	$	            594 5th Ave, Brooklyn, NY 11215	40.664410, -73.990589
+938	Joseph's Restaurant	3.5 star rating	26 reviews	$$	            3 Hanover Sq, New York, NY 10004	40.705032, -74.009734
+939	Apiary	4.0 star rating	470 reviews	$$$	            60 3rd Ave, New York, NY 10003	40.731221, -73.989044
+940	Olivia	3.0 star rating	34 reviews	$$	            1111 1st Ave, New York, NY 10065	40.760892, -73.961434
+941	Patrizias Pizza and Pasta	4.0 star rating	30 reviews	$$	            4255 Amboy Rd, Staten Island, NY 10308	40.547480, -74.157845
+942	Cafe Rustico II	3.5 star rating	26 reviews	$	            25 W 35th St, New York, NY 10001	40.749862, -73.985283
+943	Restaurante La Libertad	4.0 star rating	31 reviews	$$	            3764 Broadway, New York, NY 10032	40.833503, -73.944941
+944	Restivo Ristorante	3.0 star rating	52 reviews	$$	            209 7th Ave, New York, NY 10011	40.743407, -73.995822
+945	Lucali	4.5 star rating	581 reviews	$$	            575 Henry St, Brooklyn, NY 11231	40.681803, -74.000309
+946	Italian Farms	3.5 star rating	20 reviews	$$$	            8001 37th Ave, Jackson Heights, NY 11372	40.749847, -73.885736
+947	Bread and Butter	3.0 star rating	109 reviews	$$	            419 Park Ave S, New York, NY 10016	40.743693, -73.983513
+948	Maruzzella Ristorante	4.0 star rating	39 reviews	$$$	            1483 1st Ave, New York, NY 10021	40.771337, -73.953794
+949	Pizza by Cert	4.0 star rating	185 reviews	$	            132 E 56th St, New York, NY 10022	40.760311, -73.970090
+950	Camille's Market	3.5 star rating	2 reviews	None	            1267 State Rd Rte 295, New York, NY 12060	40.730099, -73.954428
+951	Presto's Restaurant	3.5 star rating	69 reviews	$$	            199 Warren St, Jersey City, NJ 07302	40.714179, -74.039877
+952	Vezzo	4.0 star rating	547 reviews	$$	            178 Lexington Ave, New York, NY 10016	40.744498, -73.981412
+953	Venice Restaurant & Pizzeria	3.5 star rating	15 reviews	$$	            772 E 149th St, Bronx, NY 10455	40.812686, -73.907451
+954	Angelo's Coal Oven Pizzeria	3.5 star rating	268 reviews	$$	            117 W 57th St, New York, NY 10019	40.764930, -73.977944
+955	Casanova	3.0 star rating	9 reviews	None	            3555 Victory Blvd, Staten Island, NY 10314	40.601669, -74.176818
+956	Girasole Restaurant	3.0 star rating	14 reviews	$$$	            151 E 82nd St, New York, NY 10028	40.776897, -73.956924
+957	Trattoria Novanta	3.5 star rating	2 reviews	$$	            1741 2nd Ave, New York, NY 10128	40.780517, -73.949823
+958	Ceci Italian Cuisine	3.0 star rating	74 reviews	$$$	            46 W 46th St, New York, NY 10036	40.756689, -73.981130
+959	A & J Pizzeria	4.0 star rating	7 reviews	$	            4412 Fort Hamilton Pkwy, Brooklyn, NY 11219	40.640700, -73.994682
+960	Buon Appetit Deli	4.5 star rating	48 reviews	$	            3612 Ditmars Blvd, Astoria, NY 11105	40.774032, -73.907912
+961	Michael & Sons Pizza & Italian Food	4.0 star rating	24 reviews	$	            19213 47th Ave, Flushing, NY 11358	40.752124, -73.788325
+962	Antonucci Restaurant	4.0 star rating	47 reviews	$$$	            170 E 81st St, New York, NY 10028	40.775696, -73.956925
+963	Luigi's Pizzeria	3.0 star rating	74 reviews	$	            1701 1st Ave, New York, NY 10128	40.778440, -73.948633
+964	Sandwich House	4.0 star rating	136 reviews	$	            17 Ann St, New York, NY 10038	40.710976, -74.007738
+965	Rigoletto Pasquale	3.5 star rating	62 reviews	$$	            2311 Arthur Ave, Bronx, NY 10458	40.853798, -73.889196
+966	Terri	4.0 star rating	472 reviews	$$	            60 W 23rd St, New York, NY 10010	40.742561, -73.992267
+967	Rossini's Restaurant	3.5 star rating	40 reviews	$$$$	            108 E 38th St, New York, NY 10016	40.749171, -73.978876
+968	Valentino's Pizzeria & Restaurant	4.0 star rating	71 reviews	$$	            71-47 Kissena Blvd, Flushing, NY 11367	40.728792, -73.815025
+969	Giardino Restaurant	3.5 star rating	70 reviews	$$	            44-37 Douglaston Pkwy, Douglaston, NY 11363	40.769457, -73.749098
+970	Tufino Pizzeria	4.0 star rating	96 reviews	$$	            36-08 Ditmars Blvd, Astoria, NY 11105	40.773987, -73.908127
+971	Italia Pizza	4.0 star rating	22 reviews	$	            307 Kings Hwy, Brooklyn, NY 11223	40.605089, -73.979079
+972	Nina's Restaurant & Pizzeria	3.0 star rating	50 reviews	$$	            635 Meeker Ave, Brooklyn, NY 11222	40.722332, -73.941306
+973	Luce Restaurant & Enoteca	2.5 star rating	63 reviews	$$	            2014 Broadway, New York, NY 10023	40.775899, -73.981853
+974	Milano Pizzeria	4.5 star rating	7 reviews	$	            2255 2nd Ave, New York, NY 10029	40.796896, -73.938162
+975	Piccola Cucina Osteria	3.5 star rating	13 reviews	$$	            196 Spring St, New York, NY 10012	40.725004, -74.003253
+976	Artisan Food Valley	4.5 star rating	20 reviews	$$	            9204 3rd Ave, Brooklyn, NY 11209	40.619146, -74.032851
+977	Cu 29 Copper	3.0 star rating	72 reviews	$$	            232 N 12th St, Brooklyn, NY 11211	40.719246, -73.953097
+978	G & R Deli Corp	4.5 star rating	11 reviews	None	            1928 Williamsbridge Rd, Bronx, NY 10461	40.853059, -73.853106
+979	Mimi's Restaurant and Piano Bar	3.0 star rating	106 reviews	$$	            984 2nd Ave, New York, NY 10022	40.756088, -73.967297
+980	Asellina	3.5 star rating	171 reviews	$$$	            420 Park Ave S, New York, NY 10016	40.743937, -73.983982
+981	Royal Crown Bakery	4.0 star rating	105 reviews	$$	            1350 Hylan Blvd, Staten Island, NY 10305	40.595580, -74.085627
+982	Il Valentino	2.5 star rating	6 reviews	None	            330 E 56th St, New York, NY 10184	40.757911, -73.964501
+983	Bona II Pizzeria	4.0 star rating	16 reviews	$	            528 Nostrand Ave, Brooklyn, NY 11216	40.680684, -73.949809
+984	Papazzio Restaurant	3.5 star rating	44 reviews	$$$	            3938 Bell Blvd, Bayside, NY 11361	40.764232, -73.771625
+985	Grimaldi's	4.0 star rating	2987 reviews	$$	            1 Front St, Brooklyn, NY 11201	40.702605, -73.993259
+986	Mozzarelli's	3.5 star rating	164 reviews	$	            38 E 23rd St, New York, NY 10010	40.740335, -73.987443
+987	Tevere	3.0 star rating	21 reviews	$$$$	            155 E 84th St, New York, NY 10028	40.778154, -73.955897
+988	Il Nocello Restaurant	3.5 star rating	9 reviews	$$	            14-27 150 St, Queens, NY 11357	40.788039, -73.813465
+989	Sal, Kris, & Charlie's Deli	4.5 star rating	479 reviews	$	            33-12 23rd Ave, Astoria, NY 11105	40.773170, -73.911600
+990	Gino's Pizzeria	4.0 star rating	60 reviews	$$	            6132 Springfield Blvd, Oakland Gardens, NY 11364	40.740120, -73.752241
+991	Olive Garden Italian Restaurant	2.5 star rating	170 reviews	$$	            696 6th Ave, New York, NY 10010	40.742134, -73.993234
+992	Libretto's Pizza	3.5 star rating	73 reviews	$	            546 3rd Ave, New York, NY 10016	40.747316, -73.977334
+993	Rocco Pizza III	3.0 star rating	22 reviews	$	            330 Halsey St, Brooklyn, NY 11216	40.682658, -73.940657
+994	Patsy's	3.0 star rating	97 reviews	$$	            318 W 23rd St, New York, NY 10011	40.745567, -73.999174
+995	John's Deli	4.0 star rating	10 reviews	$	            173 New Dorp Ln, Staten Island, NY 10306	40.573494, -74.114895
+996	Cafe Michelina	3.5 star rating	92 reviews	$$	            423 Bloomfield St, Hoboken, NJ 07030	40.742228, -74.030140
+997	V Bar	4.0 star rating	149 reviews	$$	            132 1st Ave, New York, NY 10009	40.727424, -73.985193
+998	Padre Figlio	3.5 star rating	105 reviews	$$$	            310 E 44th St, New York, NY 10017	40.750553, -73.970585
+999	Gino's Pizzeria and Restaurant	3.5 star rating	47 reviews	$	            6501 Kissena Blvd, Flushing, NY 11367	40.736897, -73.814275
+1000	Red Rose	3.5 star rating	40 reviews	$$	            315 Smith St, Brooklyn, NY 11231	40.681185, -73.994033

@@ -1,0 +1,20 @@
+1	Big Wong King	4.0 star rating	791 reviews	$	            67 Mott St, New York, NY 10013	40.716238, -73.998419
+2	Szechuan Gourmet	3.5 star rating	526 reviews	$$	            21 W 39th St, New York, NY 10018	40.752335, -73.983568
+3	Hunan Delight	4.0 star rating	149 reviews	$$	            752 Union St, Brooklyn, NY 11215	40.675296, -73.978261
+4	Joe's Shanghai	4.0 star rating	2556 reviews	$$	            9 Pell St, New York, NY 10013	40.714630, -73.997766
+5	Hot Kitchen	3.5 star rating	240 reviews	$$	            104 2nd Ave, New York, NY 10003	40.727394, -73.988154
+6	Wa Jeal Sichuan Chili House	4.0 star rating	222 reviews	$$	            1588 2nd Ave, New York, NY 10028	40.775380, -73.953195
+7	Fatima's	4.0 star rating	106 reviews	$	            25-25 Broadway, Astoria, NY 11106	40.763256, -73.927501
+8	Xi'an Famous Foods	4.0 star rating	921 reviews	$	            81 St Marks Pl, New York, NY 10003	40.727888, -73.985458
+9	Ho Yip Restaurant	3.5 star rating	122 reviews	$	            110 Liberty St, New York, NY 10006	40.709663, -74.011970
+10	China Express	4.5 star rating	41 reviews	$	            192 Union Ave, Brooklyn, NY 11206	40.706049, -73.950077
+11	Grand Sichuan International - Chelsea	3.5 star rating	239 reviews	$$	            229 9th Ave, New York, NY 10001	40.747377, -74.001026
+12	Yunnan Kitchen	4.0 star rating	142 reviews	$$	            79 Clinton St, New York, NY 10002	40.718973, -73.985256
+13	Wu Liang Ye	3.5 star rating	271 reviews	$$	            36 W 48th St, New York, NY 10036	40.757811, -73.979967
+14	Mission Chinese Food	3.5 star rating	592 reviews	$$	            154 Orchard St, New York, NY 10002	40.720764, -73.988610
+15	Hunan Manor	3.5 star rating	85 reviews	$$	            339 Lexington Ave, New York, NY 10016	40.749595, -73.976956
+16	M Shanghai Bistro & Garden	3.5 star rating	282 reviews	$$	            292 Grand St, Brooklyn, NY 11211	40.712900, -73.957662
+17	Hunan Delight	3.5 star rating	99 reviews	$$	            1467 York Ave, New York, NY 10021	40.770683, -73.951211
+18	Uncle Ted's Modern Chinese Cuisine	4.0 star rating	77 reviews	$$	            163 Bleecker St, New York, NY 10012	40.728804, -73.999946
+19	Grand Sichuan	3.5 star rating	123 reviews	$$	            15 7th Ave S, New York, NY 10014	40.730099, -74.004575
+20	Grand Sichuan	3.5 star rating	252 reviews	$$	            19 St. Marks Pl, New York, NY 10003	40.729232, -73.988650

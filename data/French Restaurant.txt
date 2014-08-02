@@ -1,0 +1,1000 @@
+1	La Sirene	4.5 star rating	949 reviews	$$$	            558 Broome St, New York, NY 10013	40.724556, -74.005748
+2	Tout Va Bien	3.5 star rating	172 reviews	$$	            311 W 51st St, New York, NY 10019	40.763406, -73.986219
+3	Le Parisien	4.0 star rating	403 reviews	$$	            163 E 33rd St, New York, NY 10016	40.745416, -73.979142
+4	Chez Napoleon	4.0 star rating	125 reviews	$$$	            365 W 50th St, New York, NY 10019	40.763428, -73.988305
+5	Les Halles	3.5 star rating	1311 reviews	$$$	            411 Park Ave S, New York, NY 10016	40.743549, -73.983523
+6	Balthazar Restaurant	4.0 star rating	1600 reviews	$$$	            80 Spring St, New York, NY 10012	40.722604, -73.998223
+7	Jules Bistro	4.0 star rating	289 reviews	$$	            65 Saint Marks Pl, New York, NY 10003	40.728176, -73.986061
+8	Le Bateau Ivre	4.0 star rating	216 reviews	$$$	            230 E 51st St, New York, NY 10022	40.755645, -73.968995
+9	Cafe Triskell	4.5 star rating	220 reviews	$$	            33-04 36th Ave, Astoria, NY 11106	40.755593, -73.928046
+10	Amlie	4.5 star rating	452 reviews	$$	            22 W 8th St, New York, NY 10011	40.732618, -73.997634
+11	Le Grainne Cafe	4.0 star rating	348 reviews	$$	            183 9th Ave, New York, NY 10011	40.745410, -74.002455
+12	Buvette	4.0 star rating	353 reviews	$$$	            42 Grove St, New York, NY 10014	40.732591, -74.004293
+13	Pates Et Traditions	4.5 star rating	420 reviews	$$	            52 Havemeyer St, Brooklyn, NY 11211	40.714888, -73.954715
+14	Le Philosophe	4.0 star rating	174 reviews	$$$	            55 Bond St, New York, NY 10012	40.725745, -73.992641
+15	La Bonne Soupe	3.5 star rating	403 reviews	$$	            48 W 55th St, New York, NY 10019	40.762307, -73.977035
+16	Le P'tit Paris Bistro	4.0 star rating	155 reviews	$$	            256 Prospect Park W, Brooklyn, NY 11215	40.659022, -73.981889
+17	Vin et Fleurs	4.0 star rating	215 reviews	$$	            69 Thompson St, New York, NY 10012	40.724487, -74.003270
+18	Mon Petit Cafe	3.5 star rating	160 reviews	$$	            801 Lexington Ave, New York, NY 10065	40.763903, -73.966643
+19	La Mangeoire	3.5 star rating	132 reviews	$$$	            1008 2nd Ave, New York, NY 10022	40.756830, -73.966891
+20	Marseille	3.5 star rating	438 reviews	$$$	            630 9th Ave, New York, NY 10036	40.759954, -73.991264
+21	Serge Bistro	4.0 star rating	17 reviews	$$$	            1099 2nd Ave, New York, NY 10022	40.759940, -73.965159
+22	Tartine	4.0 star rating	564 reviews	$$	            253 W 11th St, New York, NY 10014	40.736351, -74.003457
+23	Matisse	4.0 star rating	171 reviews	$$	            924 2nd Ave, New York, NY 10022	40.754256, -73.968605
+24	26 Seats	4.0 star rating	165 reviews	$$	            168 Ave B, New York, NY 10009	40.727275, -73.979884
+25	Benoit	3.5 star rating	180 reviews	$$$	            60 W 55th St, New York, NY 10019	40.762483, -73.977340
+26	Bacchus Bistrot a Vins	4.0 star rating	162 reviews	$$	            409 Atlantic Ave, Brooklyn, NY 11217	40.686978, -73.984321
+27	Cafe D'Alsace	4.0 star rating	503 reviews	$$	            1695 2nd Ave, New York, NY 10128	40.779172, -73.951084
+28	Lucien	4.0 star rating	158 reviews	$$$	            14 1st Ave, New York, NY 10009	40.723308, -73.988065
+29	Le Barricou	4.0 star rating	501 reviews	$$	            533 Grand St, Brooklyn, NY 11211	40.711237, -73.950074
+30	Le Gigot	4.0 star rating	117 reviews	$$$	            18 Cornelia St, New York, NY 10014	40.731381, -74.002109
+31	Le Gigot	4.0 star rating	117 reviews	$$$	            18 Cornelia St, New York, NY 10014	40.731381, -74.002109
+32	L'Absinthe	3.5 star rating	66 reviews	$$$$	            227 E 67th St, New York, NY 10065	40.766097, -73.961218
+33	Daniel	4.5 star rating	809 reviews	$$$$	            60 E 65th St, New York, NY 10065	40.766693, -73.967769
+34	Casimir	3.5 star rating	242 reviews	$$	            103 Ave B, New York, NY 10009	40.724707, -73.981175
+35	Chez Lucienne	3.5 star rating	232 reviews	$$	            308 Malcolm X Blvd, New York, NY 10027	40.807961, -73.944917
+36	Deux Amis	4.0 star rating	50 reviews	$$$	            356 E 51st St, New York, NY 10022	40.754492, -73.966208
+37	Saju	3.5 star rating	106 reviews	$$	            120 W 44th St, New York, NY 10036	40.756432, -73.984287
+38	Brasserie Les Halles	3.5 star rating	457 reviews	$$	            15 John St, New York, NY 10038	40.710119, -74.008807
+39	Caf Henri	4.0 star rating	246 reviews	$$	            1010 50th Ave, Long Island City, NY 11109	40.742584, -73.953428
+40	L'Ecole	4.0 star rating	410 reviews	$$$	            462 Broadway, New York, NY 10013	40.720807, -74.000082
+41	Petit Poulet	3.5 star rating	44 reviews	$$	            52 W 33rd St, New York, NY 10001	40.748686, -73.987533
+42	March du Sud	3.5 star rating	92 reviews	$$	            1136 1st Ave, New York, NY 10065	40.761647, -73.960116
+43	Bistro Les Amis	4.0 star rating	147 reviews	$$	            180 Spring St, New York, NY 10012	40.724663, -74.002642
+44	Bistro Petit	4.0 star rating	189 reviews	$$	            170 S 3rd St, Brooklyn, NY 11211	40.711942, -73.961187
+45	Jubilee	3.5 star rating	95 reviews	$$$	            948 1st Ave, New York, NY 10022	40.755194, -73.964817
+46	Le Moulin a Cafe	4.0 star rating	150 reviews	$$	            1439 York Ave, New York, NY 10075	40.769844, -73.951974
+47	Maison	3.0 star rating	269 reviews	$$	            1700 Broadway, New York, NY 10019	40.763613, -73.982411
+48	Vin Sur Vingt	4.5 star rating	128 reviews	$$$	            201 W 11th St, New York, NY 10014	40.736657, -74.001475
+49	Cocotte	4.5 star rating	83 reviews	$$$	            110 Thompson St, New York, NY 10012	40.725717, -74.001728
+50	La Villette	3.5 star rating	85 reviews	$$$	            10 Downing St, New York, NY 10014	40.733395, -73.999939
+51	Sel et Gras	4.0 star rating	41 reviews	$$	            131 7th Ave S, New York, NY 10014	40.734525, -74.002062
+52	Cafe Luluc	4.0 star rating	509 reviews	$$	            214 Smith St, Brooklyn, NY 11201	40.684500, -73.992246
+53	Rue 57	3.5 star rating	509 reviews	$$$	            60 W 57th St, New York, NY 10019	40.764033, -73.977022
+54	La Tarte Flambee	4.5 star rating	220 reviews	$$	            1750 2nd Ave, New York, NY 10128	40.781107, -73.949001
+55	Parigot	3.5 star rating	129 reviews	$$	            155 Grand St, New York, NY 10013	40.719860, -73.999011
+56	Le Veau D'or	3.5 star rating	42 reviews	$$$	            129 E 60th St, New York, NY 10022	40.763248, -73.968072
+57	Le Bernardin	4.5 star rating	1221 reviews	$$$$	            155 W 51st St, New York, NY 10019	40.761471, -73.981702
+58	Le Gamin	3.5 star rating	98 reviews	$$	            108 Franklin St, Brooklyn, NY 11222	40.728294, -73.957071
+59	Bistro Vendome	4.0 star rating	35 reviews	$$$	            405 East 58th St, Manhattan, NY 10022	40.758956, -73.961836
+60	Ponty Bistro	4.0 star rating	275 reviews	$$	            218 3rd Ave, New York, NY 10003	40.736295, -73.985316
+61	A Cafe New York	4.0 star rating	180 reviews	$$	            973 Columbus Ave, New York, NY 10025	40.800244, -73.961710
+62	Pastis	3.5 star rating	960 reviews	$$$	            9 9th Ave, New York, NY 10014	40.739833, -74.006499
+63	Cedric French Bistro and Bar	4.0 star rating	115 reviews	$$$	            185 St Nicholas Ave, Manhattan, NY 10026	40.806162, -73.952952
+64	Le Singe Vert	3.5 star rating	138 reviews	$$	            160 7th Ave, New York, NY 10011	40.742083, -73.997386
+65	Chez Jacqueline	3.0 star rating	174 reviews	$$$	            72 MacDougal St, New York, NY 10012	40.728246, -74.001763
+66	Cercle Rouge	3.5 star rating	126 reviews	$$$	            241 W Broadway, New York, NY 10013	40.719593, -74.005683
+67	Le Rivage	3.5 star rating	102 reviews	$$	            340 W 46th St, New York, NY 10036	40.760221, -73.989567
+68	Le Gamin Cafe	3.5 star rating	152 reviews	$$	            556 Vanderbilt Ave, Brooklyn, NY 11238	40.680012, -73.968192
+69	Antibes Bistro	4.0 star rating	273 reviews	$$	            112 Suffolk St, New York, NY 10002	40.718772, -73.985910
+70	La Mirabelle	4.0 star rating	44 reviews	$$$	            102 W 86th St, New York, NY 10024	40.786351, -73.972619
+71	Le Bistro D' Ct	3.5 star rating	118 reviews	$$	            1590 1st Ave, New York, NY 10028	40.774637, -73.950636
+72	Jadis	4.0 star rating	340 reviews	$$	            42 Rivington St, New York, NY 10002	40.721072, -73.990969
+73	Odeon	4.0 star rating	334 reviews	$$$	            145 W Broadway, New York, NY 10013	40.716945, -74.007750
+74	Montmartre	4.0 star rating	80 reviews	$$$	            158 8th Ave, New York, NY 10011	40.742008, -74.000591
+75	Arcane	4.0 star rating	149 reviews	$$	            111 Ave C, New York, NY 10009	40.724331, -73.978937
+76	Bliss 46 Bistro	4.0 star rating	66 reviews	$$	            43-46 46th St, Sunnyside, NY 11104	40.743599, -73.918699
+77	Quatorze Bis	4.0 star rating	25 reviews	$$$	            323 E 79th St, New York, NY 10021	40.773097, -73.953804
+78	Chez Moi	4.0 star rating	117 reviews	$$	            135 Atlantic Ave, Brooklyn, NY 11201	40.690806, -73.995607
+79	Bistro Cassis Restaurant	3.5 star rating	121 reviews	$$$	            225 Columbus Ave, New York, NY 10023	40.776209, -73.979267
+80	Brasserie Cognac	3.5 star rating	153 reviews	$$$	            1740 Broadway, New York, NY 10019	40.765052, -73.981836
+81	Cafe Boulud	4.0 star rating	308 reviews	$$$$	            20 E 76th St, New York, NY 10021	40.774315, -73.964038
+82	A.O.C.	3.0 star rating	272 reviews	$$	            314 Bleecker St, New York, NY 10014	40.732753, -74.004114
+83	Tartinery	3.5 star rating	213 reviews	$$	            209 Mulberry St, New York, NY 10012	40.721821, -73.996465
+84	Le Monde	3.0 star rating	216 reviews	$$	            2885 Broadway, New York, NY 10025	40.805886, -73.965885
+85	Tournesol	4.0 star rating	220 reviews	$$	            5012 Vernon Blvd, Long Island City, NY 11101	40.742395, -73.954480
+86	Fanny	3.5 star rating	103 reviews	$$	            425 Graham Ave, Brooklyn, NY 11211	40.717638, -73.945194
+87	La Grenouille	4.5 star rating	193 reviews	$$$$	            3 E 52nd St, New York, NY 10022	40.759726, -73.975544
+88	French Roast	3.5 star rating	258 reviews	$$	            78 W 11th St, Manhattan, NY 10011	40.735190, -73.998154
+89	Juliette	3.5 star rating	387 reviews	$$	            135 N 5th St, Brooklyn, NY 11211	40.717026, -73.959179
+90	Cafe Paulette	4.0 star rating	11 reviews	$$$	            136 Dekalb Ave, Brooklyn, NY 11217	40.689601, -73.975812
+91	Kaz An Nou	4.5 star rating	304 reviews	$$	            53 6th Ave, Brooklyn, NY 11217	40.681131, -73.974124
+92	Le Paddock	4.0 star rating	109 reviews	$$	            1235 Prospect Ave, Brooklyn, NY 11218	40.652934, -73.975899
+93	AOC Bistro	3.0 star rating	143 reviews	$$	            259 5th Ave, Brooklyn, NY 11215	40.674353, -73.981588
+94	Tree Bistro	3.5 star rating	212 reviews	$$$	            190 1st Ave, New York, NY 10009	40.729582, -73.983441
+95	Ze Caf	4.0 star rating	245 reviews	$$	            398 E 52nd St, New York, NY 10022	40.754899, -73.965035
+96	Caf Gitane	4.0 star rating	458 reviews	$$	            242 Mott St, New York, NY 10012	40.723201, -73.994687
+97	Bouley	4.5 star rating	618 reviews	$$$$	            163 Duane St, New York, NY 10013	40.716962, -74.008867
+98	Brasserie	3.5 star rating	284 reviews	$$$	            100 E 53rd St, New York, NY 10022	40.758500, -73.971674
+99	Cafe Cluny	4.0 star rating	404 reviews	$$	            284 W 12th St, New York, NY 10011	40.737379, -74.003965
+100	Bar Six	3.5 star rating	112 reviews	$$	            502 Ave of the Americas, New York, NY 10011	40.736476, -73.997333
+101	Bar Six	3.5 star rating	112 reviews	$$	            502 Ave of the Americas, New York, NY 10011	40.736476, -73.997333
+102	Jolie Cantina	4.0 star rating	138 reviews	$$	            241 Smith St, Brooklyn, NY 11231	40.683543, -73.992313
+103	Francis Cafe	4.0 star rating	39 reviews	$$	            3501 Ditmars Blvd, Astoria, NY 11105	40.774896, -73.908701
+104	Maison Harlem	3.5 star rating	144 reviews	$$	            341 St Nicholas Ave, New York, NY 10027	40.812237, -73.951693
+105	Petit Oven	4.5 star rating	81 reviews	$$$	            276 Bay Ridge Ave, Brooklyn, NY 11220	40.635906, -74.026646
+106	Cafe Du Soleil	3.5 star rating	186 reviews	$$	            2723 Broadway, New York, NY 10025	40.800039, -73.968429
+107	Le Perigord	3.0 star rating	92 reviews	$$$$	            405 E 52nd St, New York, NY 10022	40.755007, -73.964621
+108	Santos Anne	4.0 star rating	137 reviews	$$	            366 Union Ave, Brooklyn, NY 11211	40.711399, -73.951015
+109	French Roast	3.0 star rating	319 reviews	$$	            2340 Broadway, New York, NY 10024	40.787642, -73.976590
+110	Rouge Et Blanc	4.0 star rating	140 reviews	$$$	            48 Macdougal St, New York, NY 10012	40.727251, -74.002473
+111	Chez Oskar	3.5 star rating	270 reviews	$$	            211 Dekalb Ave, Brooklyn, NY 11205	40.689764, -73.970977
+112	Table d'Hte	4.0 star rating	68 reviews	$$	            44 E 92nd St, New York, NY 10128	40.784446, -73.955838
+113	Sel & Poivre	3.5 star rating	54 reviews	$$	            853 Lexington Ave, New York, NY 10065	40.765589, -73.965418
+114	Felix	3.0 star rating	177 reviews	$$	            340 W Broadway, New York, NY 10013	40.722629, -74.003767
+115	Mominette	3.5 star rating	96 reviews	$$	            221 Knickerbocker Ave, Brooklyn, NY 11237	40.703249, -73.925810
+116	Landmarc	4.0 star rating	352 reviews	$$$	            179 W Broadway, New York, NY 10013	40.717897, -74.007054
+117	Orsay	3.5 star rating	119 reviews	$$$	            1057 Lexington Ave, New York, NY 10021	40.772397, -73.960475
+118	Cafe Loup	4.0 star rating	99 reviews	$$	            105 W 13th St, New York, NY 10011	40.736892, -73.997675
+119	Aux Epices	4.0 star rating	50 reviews	$$	            121 Baxter St, New York, NY 10013	40.717975, -73.998779
+120	Raoul's Restaurant	4.0 star rating	208 reviews	$$$	            180 Prince St, New York, NY 10012	40.726136, -74.002139
+121	Raoul's Restaurant	4.0 star rating	208 reviews	$$$	            180 Prince St, New York, NY 10012	40.726136, -74.002139
+122	Madison Bistro	3.5 star rating	68 reviews	$$$	            238 Madison Ave, New York, NY 10016	40.749927, -73.981671
+123	Vin Sur Vingt	4.5 star rating	13 reviews	$$	            1140 Broadway, New York, NY 10001	40.743995, -73.988692
+124	La Boite En Bois	4.0 star rating	102 reviews	$$$	            75 W 68th St, New York, NY 10023	40.774924, -73.980227
+125	The Dining Room at The Modern	4.0 star rating	467 reviews	$$$$	            9 W 53rd St, New York, NY 10019	40.760519, -73.976043
+126	Bistro Chat Noir	3.5 star rating	102 reviews	$$$	            22 E 66th St, New York, NY 10065	40.767945, -73.968779
+127	Per Se	4.5 star rating	831 reviews	$$$$	            10 Columbus Cir, New York, NY 10019	40.768415, -73.982707
+128	L'Express	3.5 star rating	486 reviews	$$	            249 Park Ave S, New York, NY 10003	40.738047, -73.987582
+129	JoJo	4.0 star rating	344 reviews	$$$	            160 E 64th St, New York, NY 10065	40.765059, -73.965714
+130	Petite Crevette	4.0 star rating	219 reviews	$$	            144 Union St, Brooklyn, NY 11231	40.683908, -74.001841
+131	Caf Centro	3.5 star rating	54 reviews	$$$	            200 Park Ave, New York, NY 10166	40.763029, -73.971483
+132	Ouest	4.0 star rating	185 reviews	$$$	            2315 Broadway, New York, NY 10024	40.787060, -73.977967
+133	Plein Sud	3.5 star rating	111 reviews	$$$	            85 W Broadway, New York, NY 10007	40.715144, -74.009183
+134	Cafe Gitane	4.0 star rating	189 reviews	$$	            113 Jane St, New York, NY 10014	40.738258, -74.009451
+135	Le Midi Bar & Restaurant	4.0 star rating	68 reviews	$$	            11 E 13th St, New York, NY 10003	40.735120, -73.993271
+136	Le Cirque	3.5 star rating	597 reviews	$$$$	            151 E 58th St, New York, NY 10022	40.761568, -73.967902
+137	Le Relais De Venise L'Entrecte	3.5 star rating	306 reviews	$$	            590 Lexington Ave, New York, NY 10022	40.757691, -73.971674
+138	Cafe Luxembourg	3.5 star rating	208 reviews	$$$	            200 W 70th St, New York, NY 10023	40.777403, -73.983169
+139	Mas Farmhouse	4.0 star rating	335 reviews	$$$$	            39 Downing St, New York, NY 10014	40.729269, -74.003875
+140	Maison Kayser	4.0 star rating	272 reviews	$$	            1294 3rd Ave 74th St, New York, NY 10021	40.770595, -73.958540
+141	Taureau	4.5 star rating	376 reviews	$$$	            558 Broome St, New York, NY 10013	40.724556, -74.005748
+142	Beny's Delice	4.5 star rating	53 reviews	$$	            567 Vanderbilt Ave, Brooklyn, NY 11238	40.680689, -73.967446
+143	Le Village	5.0 star rating	25 reviews	$$$	            127 E 7th St, New York, NY 10009	40.725050, -73.981509
+144	Yatenga French Bistro & Bar	3.5 star rating	89 reviews	$$	            2269 Adam Clayton Powell Blvd, New York, NY 10030	40.814195, -73.944044
+145	La Bergamote	4.0 star rating	113 reviews	$$	            515 W 52nd St, New York, NY 10019	40.766499, -73.991614
+146	ABC Kitchen	4.0 star rating	1326 reviews	$$$	            35 E 18th St, New York, NY 10003	40.737781, -73.989564
+147	Demarchelier Restaurant	2.5 star rating	67 reviews	$$$	            50 E 86th St, New York, NY 10028	40.780493, -73.958700
+148	Paradou	3.0 star rating	395 reviews	$$$	            8 Little W 12th St, New York, NY 10014	40.739621, -74.006839
+149	Brasserie 8 1/2	3.5 star rating	227 reviews	$$$	            9 W 57th St, New York, NY 10019	40.763668, -73.974802
+150	Beaumarchais	3.5 star rating	282 reviews	$$$$	            409 W 13th St, New York, NY 10014	40.740691, -74.006444
+151	Provence en Boite by Jean-Jacques Bernat	3.0 star rating	120 reviews	$$	            263 Smith St, Brooklyn, NY 11231	40.682897, -73.992962
+152	Minetta Tavern	4.0 star rating	1119 reviews	$$$	            113 Macdougal St, New York, NY 10012	40.729988, -74.000650
+153	Bistro 118	3.5 star rating	7 reviews	None	            170 E 118th St, Manhattan, NY 10035	40.799401, -73.939769
+154	Cafe Joul	3.5 star rating	73 reviews	$$	            1070 First Ave, New York, NY 10022	40.759059, -73.962022
+155	Chagall Bistro	4.0 star rating	13 reviews	$$$$	            330 Fifth St, New York, NY 11215	40.671731, -73.984607
+156	Bistro 61	3.5 star rating	98 reviews	$$	            1113 1st Ave, New York, NY 10065	40.761088, -73.961304
+157	Le Pescadeux	4.0 star rating	146 reviews	$$$	            90 Thompson St, New York, NY 10012	40.725135, -74.002087
+158	ICI - French Country Kitchen	3.5 star rating	172 reviews	$$	            246 Dekalb Ave, Brooklyn, NY 11205	40.689288, -73.969320
+159	db bistro moderne	3.5 star rating	408 reviews	$$$	            55 W 44th St, New York, NY 10036	40.755820, -73.982204
+160	Cafe Un Deux Trois	3.0 star rating	141 reviews	$$	            123 W 44th St, New York, NY 10036	40.756795, -73.984126
+161	Crepes on Columbus	3.5 star rating	301 reviews	$$	            990 Columbus Ave, New York, NY 10025	40.801052, -73.961831
+162	Cadaques	3.5 star rating	122 reviews	$$$	            188 Grand St, Brooklyn, NY 11249	40.714058, -73.960844
+163	Cafe Tallulah	3.0 star rating	79 reviews	$$$	            240 Columbus Ave, New York, NY 10023	40.776981, -73.979367
+164	Picholine	4.0 star rating	196 reviews	$$$$	            35 W 64th St, New York, NY 10023	40.772009, -73.981068
+165	Pascalou	3.5 star rating	70 reviews	$$$	            1308 Madison Ave, New York, NY 10128	40.785267, -73.955810
+166	Chateau De Alik	4.0 star rating	45 reviews	$$$	            1223 Ave U, Brooklyn, NY 11229	40.598747, -73.959435
+167	Eleven Madison Park	4.5 star rating	1002 reviews	$$$$	            11 Madison Ave, New York, NY 10010	40.741509, -73.986628
+168	BOBO	3.5 star rating	233 reviews	$$$	            181 W 10th St, New York, NY 10014	40.734481, -74.002618
+169	Bar Boulud	3.5 star rating	478 reviews	$$$	            1900 Broadway at 64th St, New York, NY 10023	40.771514, -73.981913
+170	Lafayette	3.5 star rating	234 reviews	$$$	            380 Lafayette St, New York, NY 10003	40.727646, -73.993548
+171	Ten Degrees Bistro	4.0 star rating	315 reviews	$$	            131 Ave A, New York, NY 10009	40.726945, -73.983117
+172	La Carafe	3.5 star rating	114 reviews	$$	            653 9th Ave, New York, NY 10036	40.760816, -73.991249
+173	Pigalle	3.0 star rating	256 reviews	$$	            790 8th Ave, New York, NY 10019	40.761437, -73.986430
+174	Jacques 1534	3.5 star rating	207 reviews	$$	            20 Prince St, New York, NY 10012	40.722619, -73.994547
+175	Three Letters	4.0 star rating	46 reviews	$$	            930 Fulton St, Brooklyn, NY 11238	40.682663, -73.963824
+176	Le Charlot	3.5 star rating	37 reviews	$$$	            20 E 69th St, New York, NY 10021	40.769867, -73.967214
+177	La Maison du Croque Monsieur	4.0 star rating	72 reviews	$$	            17 E 13th St, New York, NY 10003	40.735038, -73.992964
+178	Bar Tabac	3.5 star rating	377 reviews	$$	            128 Smith St, Brooklyn, NY 11201	40.687369, -73.990284
+179	Anyway Cafe	4.0 star rating	123 reviews	$$	            32 E 2nd St, New York, NY 10003	40.725212, -73.990495
+180	Calliope	3.5 star rating	129 reviews	$$$	            84 E 4th St, New York, NY 10003	40.726166, -73.989695
+181	The Pink Pony	3.0 star rating	135 reviews	$$	            176 Ludlow St, New York, NY 10002	40.721668, -73.987267
+182	Ladure Soho	4.0 star rating	119 reviews	$$$	            398 W Broadway, New York, NY 10012	40.724395, -74.002498
+183	Bistro Citron	3.5 star rating	102 reviews	$$$	            473 Columbus Ave, New York, NY 10023	40.784270, -73.973494
+184	Jacques Brasserie	3.5 star rating	81 reviews	$$$	            204-206 E 85th St, New York, NY 10028	40.777804, -73.954156
+185	La Mediterranee Bistro and Wine Bar	3.0 star rating	58 reviews	$$	            947 2nd Ave, New York, NY 10022	40.755183, -73.968647
+186	Lucky Strike	3.5 star rating	171 reviews	$$	            59 Grand St, New York, NY 10013	40.722135, -74.003491
+187	Olla Wine Bar	4.5 star rating	104 reviews	$$$	            7204 3rd Ave, Brooklyn, NY 11209	40.633425, -74.027310
+188	Ladure	4.5 star rating	1080 reviews	$$$	            864 Madison Ave, New York, NY 10021	40.770762, -73.966387
+189	Papillon	3.0 star rating	152 reviews	$$	            22 E 54th St, New York, NY 10022	40.760342, -73.974326
+190	Sebastian	3.0 star rating	51 reviews	$$	            81 Ludlow St, New York, NY 10002	40.718154, -73.989502
+191	Casimir & CO	4.0 star rating	22 reviews	$$$	            1022A Lexington Ave, New York, NY 10021	40.771092, -73.961972
+192	Nougatine at Jean-Georges	4.0 star rating	602 reviews	$$$	            1 Central Park W, New York, NY 10023	40.769069, -73.981561
+193	Zest Restaurant	4.0 star rating	33 reviews	$$$	            977 Bay St, Staten Island, NY 10305	40.618849, -74.069320
+194	Gentleman Farmer	4.0 star rating	115 reviews	$$$	            40 Rivington St, New York, NY 10002	40.721115, -73.991074
+195	Cafe Rue Dix	4.0 star rating	50 reviews	$$	            1451 Bedford Ave, Brooklyn, NY 11216	40.673527, -73.953673
+196	Jane	4.0 star rating	1531 reviews	$$	            100 W Houston St, New York, NY 10012	40.727370, -74.000251
+197	Jeanne & Gaston	3.5 star rating	82 reviews	$$$	            212 W 14th St, New York, NY 10011	40.738673, -74.000791
+198	Capsouto Freres Bistro	3.5 star rating	76 reviews	$$$	            451 Washington St, New York, NY 10013	40.723984, -74.009960
+199	Degustation	4.0 star rating	424 reviews	$$$	            239 E 5th St, New York, NY 10003	40.727066, -73.989290
+200	Le Train Bleu	4.0 star rating	41 reviews	$$	            1000 3rd Ave, New York, NY 10022	40.761797, -73.966663
+201	Breeze Thai-French Kitchen	3.5 star rating	242 reviews	$$	            661 9th Ave, New York, NY 10036	40.760943, -73.991154
+202	Le Paris Bistrot	3.5 star rating	45 reviews	$$$	            1312 Madison Ave, New York, NY 10128	40.785249, -73.955784
+203	picerie Boulud	3.5 star rating	158 reviews	$$	            1900 Broadway, New York, NY 10023	40.771514, -73.981913
+204	Penelope	4.0 star rating	1287 reviews	$$	            159 Lexington Ave, New York, NY 10016	40.743859, -73.981545
+205	Camaje Bistro & Lounge	3.0 star rating	113 reviews	$$	            85 MacDougal St, New York, NY 10012	40.728971, -74.001784
+206	Fada	3.5 star rating	144 reviews	$$	            530 Driggs Ave, Brooklyn, NY 11211	40.717611, -73.956123
+207	Dovetail	4.0 star rating	445 reviews	$$$$	            103 W 77th St, New York, NY 10024	40.780946, -73.976605
+208	Brasserie Cognac East	3.0 star rating	18 reviews	$$$	            963 Lexington Ave, New York, NY 10021	40.769097, -73.962860
+209	Cafe Champignon	3.5 star rating	120 reviews	$$	            202 7th Ave, New York, NY 10011	40.743312, -73.996473
+210	Bistro Le Steak	3.5 star rating	53 reviews	$$$	            1309 3rd Ave, New York, NY 10021	40.771487, -73.958966
+211	Bakehouse Bistro & Bar	4.0 star rating	121 reviews	$$	            113 Horatio St, New York, NY 10014	40.738873, -74.009289
+212	Brasserie Ruhlmann	3.5 star rating	113 reviews	$$$	            45 Rockefeller Plz, New York, NY 10111	40.759152, -73.977714
+213	Joseph Leonard	4.0 star rating	313 reviews	$$$	            170 Waverly Pl, New York, NY 10014	40.733600, -74.001673
+214	Recette	3.5 star rating	183 reviews	$$$$	            328 W 12th St, New York, NY 10014	40.737409, -74.006613
+215	Maison Kayser	4.0 star rating	49 reviews	$$	            1800 Broadway, New York, NY 10019	40.767477, -73.981342
+216	Ai Fiori	4.0 star rating	488 reviews	$$$$	            400 5th Ave, New York, NY 10018	40.750209, -73.983833
+217	Bosie Tea Parlor	4.0 star rating	336 reviews	$$	            10 Morton St, New York, NY 10014	40.731197, -74.003555
+218	La Ripaille	4.0 star rating	60 reviews	$$$	            605 Hudson St, New York, NY 10014	40.737265, -74.006015
+219	Indochine	3.5 star rating	196 reviews	$$$	            430 Lafayette St, New York, NY 10003	40.729258, -73.992465
+220	Mountain Bird	4.5 star rating	54 reviews	$$$	            231 W 145th St, New York, NY 10039	40.822564, -73.940560
+221	a Va Brasserie	3.0 star rating	155 reviews	$$$	            310 W 44th St, New York, NY 10036	40.758795, -73.989708
+222	The Bar Room at The Modern	4.0 star rating	288 reviews	$$$	            9 W 53rd St, New York, NY 10019	40.760519, -73.976043
+223	Crepes Du Nord	4.0 star rating	166 reviews	$$	            17 S William St, New York, NY 10004	40.704477, -74.010502
+224	Trois Canards	2.5 star rating	29 reviews	$$	            265 W 20th St, New York, NY 10011	40.743380, -73.999426
+225	MAZE by Gordon Ramsay	3.5 star rating	442 reviews	$$$$	            151 W 54th St, New York, NY 10019	40.762997, -73.979962
+226	Patois	3.0 star rating	34 reviews	$$	            177 Mulberry St, New York, NY 10013	40.720273, -73.997082
+227	Pergola Des Artistes	3.5 star rating	44 reviews	$$	            252 W 46th St, New York, NY 10036	40.759284, -73.987305
+228	Triomphe	3.5 star rating	68 reviews	$$$	            49 W 44th St, New York, NY 10036	40.755806, -73.982069
+229	Norma's	3.5 star rating	848 reviews	$$$	            119 W 56th St, New York, NY 10019	40.764195, -73.978341
+230	Jean-Georges	4.5 star rating	967 reviews	$$$$	            1 Central Park W, New York, NY 10023	40.769069, -73.981561
+231	Josephine Cafe Francais	3.0 star rating	28 reviews	$$	            350 Greenwich, Manhattan, NY 10013	40.719126, -74.010778
+232	Tocqueville	4.0 star rating	220 reviews	$$$$	            1 E 15th St, New York, NY 10003	40.736624, -73.992600
+233	Millesime	3.5 star rating	115 reviews	$$	            92 Madison Ave, New York, NY 10016	40.744486, -73.985580
+234	Little Prince	4.0 star rating	45 reviews	$$$	            199 Prince St, New York, NY 10012	40.726877, -74.002679
+235	Brasserie Athenee	2.5 star rating	99 reviews	$$	            300 W 46th St, New York, NY 10036	40.759791, -73.987964
+236	Resto	3.5 star rating	499 reviews	$$$	            111 E 29th St, New York, NY 10016	40.743719, -73.982782
+237	The NoMad Restaurant	4.0 star rating	470 reviews	$$$$	            1170 Broadway, New York, NY 10001	40.744946, -73.988493
+238	Artisanal Fromagerie and Bistro	3.5 star rating	685 reviews	$$$	            2 Park Ave, New York, NY 10016	40.746334, -73.982464
+239	La Lunchonette	4.0 star rating	56 reviews	$$$	            130 10th Ave At 18th St, New York, NY 10011	40.744657, -74.006113
+240	Madison Restaurant	3.5 star rating	193 reviews	$$	            965 1st Ave, New York, NY 10022	40.755988, -73.965006
+241	Fig & Olive	3.5 star rating	676 reviews	$$$	            420 W 13th St, New York, NY 10014	40.740552, -74.007138
+242	Nice Matin	3.5 star rating	355 reviews	$$	            201 W 79th St, New York, NY 10024	40.783427, -73.978495
+243	Jean Claude 2	3.5 star rating	12 reviews	$$$	            1343 2 Ave, New York, NY 10021	40.768015, -73.959292
+244	Petite Abeille	4.0 star rating	656 reviews	$$	            44 W 17th St, New York, NY 10011	40.738636, -73.994511
+245	Opia Restaurant	3.0 star rating	105 reviews	$$$	            130 E 57th St, New York, NY 10022	40.760853, -73.969403
+246	Maison Kayser	3.5 star rating	89 reviews	$$	            921 Broadway, New York, NY 10010	40.740160, -73.989785
+247	Roebling Tea Room	3.5 star rating	407 reviews	$$	            143 Roebling St, Brooklyn, NY 11211	40.714249, -73.957407
+248	La Baraka Restaurant	4.5 star rating	35 reviews	$$$	            25509 Northern Blvd, Little Neck, NY 11362	40.772358, -73.734425
+249	Le Marais	3.0 star rating	103 reviews	$$$	            150 W 46th St, New York, NY 10036	40.758007, -73.984353
+250	Cafe Cambodge	3.5 star rating	8 reviews	$$	            111 Ave C, New York, NY 10009	40.724331, -73.978937
+251	Chez Le Chef	2.0 star rating	65 reviews	$$	            127 Lexington Ave, New York, NY 10016	40.742847, -73.981989
+252	Butter Restaurant	3.5 star rating	699 reviews	$$$	            415 Lafayette St, New York, NY 10003	40.728444, -73.992117
+253	Simple Cafe & Restaurant	3.5 star rating	75 reviews	$$	            346 Bedford Ave, Brooklyn, NY 11249	40.712490, -73.962949
+254	Macaron Cafe	3.5 star rating	206 reviews	$$	            625 Madison Ave, New York, NY 10022	40.763083, -73.971378
+255	Chateau Cherbuliez	2.5 star rating	30 reviews	$$$	            47 W 20th St, New York, NY 10011	40.740870, -73.993327
+256	Bel Ami	4.0 star rating	45 reviews	$$	            30 E 68th St, New York, NY 10065	40.768982, -73.967081
+257	Perry St	4.0 star rating	489 reviews	$$$	            176 Perry St, New York, NY 10014	40.734459, -74.009796
+258	Le Bilboquet	3.5 star rating	10 reviews	$$$	            20 E 60th St, New York, NY 10022	40.763807, -73.970589
+259	Match 65	3.0 star rating	45 reviews	$$$	            29 E 65th St, New York, NY 10065	40.767254, -73.968212
+260	The Mark Restaurant by Jean Georges	3.5 star rating	121 reviews	$$$	            25 E 77th St, New York, NY 10075	40.775320, -73.963411
+261	La Tropezienne Bakery	4.5 star rating	34 reviews	$$	            2131 1st Ave, New York, NY 10029	40.792082, -73.938633
+262	Cafe Madeline	4.0 star rating	92 reviews	$	            1603 Cortelyou Rd, Brooklyn, NY 11226	40.641881, -73.963390
+263	French Tart Chez Laurent	4.5 star rating	18 reviews	$$$	            1141 N Railroad Ave, Staten Island, NY 10306	40.579481, -74.109724
+264	Barbes Restaurant	3.5 star rating	95 reviews	$$	            19-21 E 36th St, New York, NY 10016	40.749126, -73.982166
+265	Pommes Frites	4.0 star rating	2711 reviews	$	            123 2nd Ave, New York, NY 10003	40.728324, -73.988274
+266	La Bonbonniere	4.0 star rating	155 reviews	$	            28 8th Ave, New York, NY 10014	40.737765, -74.004350
+267	Clinton St. Baking Company	4.0 star rating	2172 reviews	$$	            4 Clinton St, New York, NY 10002	40.721143, -73.983863
+268	Couleur Caf	4.0 star rating	78 reviews	$$	            435 7th Ave, Brooklyn, NY 11215	40.663323, -73.984213
+269	Fig & Olive	3.5 star rating	241 reviews	$$$	            808 Lexington Ave, New York, NY 10021	40.764405, -73.966924
+270	Chez Josephine	3.5 star rating	171 reviews	$$$	            414 W 42nd St, New York, NY 10036	40.758509, -73.993558
+271	Fedora	4.0 star rating	165 reviews	$$$	            239 W 4th St, New York, NY 10014	40.734488, -74.002983
+272	Cornerstone Cafe	4.0 star rating	385 reviews	$$	            17 Ave B, New York, NY 10009	40.722022, -73.983176
+273	The Grey Dog's Coffee	4.0 star rating	489 reviews	$$	            90 University Pl, New York, NY 10003	40.733795, -73.993199
+274	Hotel Chantelle	3.0 star rating	399 reviews	$$$	            92 Ludlow St, New York, NY 10002	40.718382, -73.988954
+275	Balon	3.5 star rating	71 reviews	$$	            245 E 81st St, New York, NY 10028	40.774903, -73.954388
+276	The Grey Dog	4.0 star rating	355 reviews	$$	            242 W 16th St, New York, NY 10011	40.740434, -74.000777
+277	Rotisserie Georgette	4.0 star rating	43 reviews	$$$	            14 E 60th St, New York, NY 10022	40.764355, -73.971641
+278	Atrium Dumbo	3.5 star rating	67 reviews	$$	            15 Main St, Brooklyn, NY 11201	40.703553, -73.990637
+279	French Cafe Gourmand	3.5 star rating	20 reviews	$$	            9 Maiden Ln, New York, NY 10038	40.709519, -74.009409
+280	Petrossian	3.5 star rating	152 reviews	$$$$	            182 W 58th St, New York, NY 10019	40.765942, -73.979142
+281	Fig & Olive	3.5 star rating	463 reviews	$$$	            10 E 52nd St, New York, NY 10022	40.759292, -73.975645
+282	Almond	3.5 star rating	519 reviews	$$	            12 E 22nd St, New York, NY 10010	40.740085, -73.988742
+283	The Farm On Adderley	4.0 star rating	591 reviews	$$	            1108 Cortelyou Rd, Brooklyn, NY 11218	40.639532, -73.967528
+284	Picnic Market & Cafe	2.5 star rating	91 reviews	$$	            2665 Broadway, New York, NY 10025	40.798216, -73.969537
+285	The Carlyle	4.0 star rating	42 reviews	$$$$	            35 E 76th St, New York, NY 10021	40.774297, -73.962993
+286	Rst--Rnt	3.5 star rating	114 reviews	$$	            30-01 35th Ave, Astoria, NY 11106	40.758585, -73.929058
+287	Bubba's Bistro	3.5 star rating	80 reviews	$$	            3113a Ditmars Blvd, Astoria, NY 11105	40.775598, -73.909941
+288	The Smith	3.5 star rating	1123 reviews	$$	            55 3rd Ave, New York, NY 10003	40.731068, -73.988500
+289	Caf Lafayette	3.0 star rating	85 reviews	$$	            99 S Portland Ave, Brooklyn, NY 11217	40.686558, -73.974198
+290	Winegasm	3.5 star rating	194 reviews	$$	            3186 37th St, Astoria, NY 11103	40.760075, -73.920481
+291	Schiller's Liquor Bar	3.5 star rating	637 reviews	$$	            131 Rivington St, New York, NY 10002	40.719347, -73.986687
+292	Greenwich Village Bistro	3.5 star rating	54 reviews	$$	            13 Carmine St, New York, NY 10014	40.730602, -74.002387
+293	Georges-Andr Vintage Caf	4.5 star rating	30 reviews	$	            558 Halsey St, Brooklyn, NY 11233	40.683659, -73.932555
+294	Firebird Restaurant	3.0 star rating	180 reviews	$$$$	            365 W 46th St, New York, NY 10036	40.760942, -73.990075
+295	The Plaza Food Hall	4.0 star rating	322 reviews	$$$	            1 W 59th St, New York, NY 10019	40.764400, -73.974809
+296	Elephant & Castle	3.5 star rating	349 reviews	$$	            68 Greenwich Ave, New York, NY 10011	40.736224, -74.000667
+297	The Bakeshop by Woops	4.5 star rating	20 reviews	$	            548 Driggs Ave, New York, NY 11211	40.717291, -73.956539
+298	Caf Orlin	4.0 star rating	1077 reviews	$$	            41 St. Marks Pl, New York, NY 10003	40.728504, -73.987061
+299	J Restaurant Chez Asta	4.0 star rating	4 reviews	None	            2479 Frederick Douglas Blvd, New York, NY 10027	40.815172, -73.947931
+300	Johny's Luncheonette	4.0 star rating	346 reviews	$	            124 W 25th St, New York, NY 10001	40.744441, -73.993076
+301	Grainne Cafe	4.0 star rating	1 review	None	            183 9th Ave, New York, NY 10011	40.745410, -74.002455
+302	Tom's	4.0 star rating	645 reviews	$	            782 Washington Ave, Brooklyn, NY 11238	40.674477, -73.963419
+303	Josie's	3.5 star rating	267 reviews	$$	            300 Amsterdam Ave, New York, NY 10023	40.780237, -73.980979
+304	Cafe Zona Sur	4.0 star rating	79 reviews	$$	            4314 4th Ave, Brooklyn, NY 11232	40.650257, -74.009099
+305	Vive La Crepe	3.0 star rating	161 reviews	$$	            114 University Pl, New York, NY 10003	40.734455, -73.992620
+306	1682 French Louisiana	3.5 star rating	16 reviews	$$	            48-19 Vernon Blvd, Long Island City, NY 11101	40.743464, -73.953525
+307	Eatery	3.5 star rating	762 reviews	$$	            798 9th Ave, New York, NY 10019	40.765136, -73.987330
+308	Bistro SK	4.5 star rating	31 reviews	$$	            273 City Island Ave, Bronx, NY 10464	40.846198, -73.786363
+309	Meli Melo	2.0 star rating	18 reviews	$$$	            110 Madison Ave, New York, NY 10016	40.745077, -73.985282
+310	Sarabeth's Central Park South	3.5 star rating	571 reviews	$$	            40 Central Park S, New York, NY 10019	40.765168, -73.975713
+311	Patisserie Des Ambassades	3.5 star rating	129 reviews	$$	            2200 8th Ave, New York, NY 10026	40.806067, -73.953756
+312	Gramercy Tavern	4.5 star rating	1312 reviews	$$$$	            42 E 20th St, New York, NY 10003	40.738381, -73.988463
+313	Aurora Soho	4.0 star rating	192 reviews	$$$	            510 Broome St, New York, NY 10013	40.723621, -74.003119
+314	Financier Patisserie	3.5 star rating	55 reviews	$$	            983 1st Ave, New York, NY 10022	40.756366, -73.964662
+315	The Americano	3.0 star rating	34 reviews	$$$$	            518 W 27th St, New York, NY 10001	40.750423, -74.003348
+316	Kitchenette Uptown	3.5 star rating	394 reviews	$$	            1272 Amsterdam Ave, New York, NY 10027	40.811223, -73.958148
+317	Queens Comfort	4.0 star rating	534 reviews	$$	            4009 30th Ave, Astoria, NY 11103	40.763788, -73.914594
+318	Chicane	4.0 star rating	15 reviews	$$$	            430 Broome St, New York, NY 10013	40.721566, -73.998735
+319	Cafe Amrita	3.5 star rating	102 reviews	$	            301 W 110th St, New York, NY 10025	40.801070, -73.958392
+320	Kitchenette	3.5 star rating	392 reviews	$$	            156 Chambers St, New York, NY 10007	40.715787, -74.010184
+321	Nook	4.0 star rating	549 reviews	$$	            746 9th Ave, New York, NY 10019	40.763581, -73.988467
+322	Walter's	4.0 star rating	200 reviews	$$$	            166 DeKalb Ave, Brooklyn, NY 11217	40.689474, -73.973200
+323	Blue Ribbon Bakery & Cafe	4.0 star rating	313 reviews	$$$	            35 Downing St, New York, NY 10014	40.729386, -74.003777
+324	Buttermilk Channel	4.0 star rating	882 reviews	$$$	            524 Ct St, Brooklyn, NY 11231	40.682708, -73.995447
+325	Good Enough To Eat	3.5 star rating	771 reviews	$$	            520 Columbus Ave 85th St, New York, NY 10024	40.786416, -73.974126
+326	Cafeteria	3.5 star rating	1658 reviews	$$	            119 7th Ave, New York, NY 10010	40.740528, -73.997885
+327	Le Petit Caf	3.5 star rating	224 reviews	$$	            502 Court St, Brooklyn, NY 11231	40.676753, -73.998876
+328	Rabbithole Restaurant	4.0 star rating	274 reviews	$$	            352 Bedford Ave, Brooklyn, NY 11211	40.712305, -73.962978
+329	Markt	3.5 star rating	388 reviews	$$	            676 6th Ave, New York, NY 10010	40.741633, -73.993546
+330	Brick Cafe	3.5 star rating	365 reviews	$$	            30-95 33rd St, Astoria, NY 11102	40.763714, -73.921562
+331	Le Pain Quotidien	3.5 star rating	176 reviews	$$	            922 7th Ave, New York, NY 10019	40.766404, -73.979811
+332	Cafe Carlyle	4.0 star rating	59 reviews	$$$$	            35 E 76th St, New York, NY 10021	40.774297, -73.962993
+333	home/made	4.5 star rating	127 reviews	$$	            293 Van Brunt St, Brooklyn, NY 11231	40.678638, -74.011007
+334	Borough Restaurant & Bar	4.0 star rating	71 reviews	$$	            338 Franklin Ave, Brooklyn, NY 11238	40.687521, -73.957256
+335	Danny Brown Wine Bar & Kitchen	4.0 star rating	288 reviews	$$$	            10402 Metropolitan Ave, Forest Hills, NY 11375	40.710110, -73.848998
+336	Sanford's Restaurant	4.0 star rating	734 reviews	$$	            30-13 Broadway, Astoria, NY 11106	40.762295, -73.925544
+337	Bagatelle	3.5 star rating	99 reviews	$$$$	            1 Little W 12th St, New York, NY 10014	40.739629, -74.006129
+338	The Cupping Room Cafe	3.5 star rating	285 reviews	$$	            359 W Broadway, New York, NY 10013	40.723066, -74.003164
+339	Nouvelle	4.0 star rating	46 reviews	$$	            8716 3rd Ave, Brooklyn, NY 11209	40.622367, -74.031829
+340	Madame Claude Cafe	4.0 star rating	194 reviews	$$	            364 4th St, Jersey City, NJ 07302	40.724663, -74.050482
+341	Le Pain Quotidien	3.5 star rating	113 reviews	$$	            100 Grand St, New York, NY 10013	40.721491, -74.001512
+342	Jacob's Pickles	4.0 star rating	613 reviews	$$	            509 Amsterdam Ave, New York, NY 10024	40.786585, -73.975401
+343	Sweetwater Restaurant	3.5 star rating	195 reviews	$$	            105 N 6th St, Brooklyn, NY 11211	40.718429, -73.959986
+344	Juventino	4.0 star rating	277 reviews	$$	            370 5th Ave, Brooklyn, NY 11215	40.671500, -73.984728
+345	Petrossian Boutique & Cafe	4.0 star rating	147 reviews	$$	            911 7th Ave, New York, NY 10019	40.765854, -73.979321
+346	The Little Owl	4.0 star rating	768 reviews	$$$	            90 Bedford St, New York, NY 10014	40.732217, -74.005212
+347	1200 MILES	4.0 star rating	12 reviews	$$$	            31 W 21st St, New York, NY 10010	40.741115, -73.992199
+348	Diner	4.0 star rating	514 reviews	$$$	            85 Broadway, Brooklyn, NY 11211	40.710715, -73.965558
+349	Mont Blanc Restaurant	4.0 star rating	73 reviews	$$$	            315 W 48th St, New York, NY 10036	40.761556, -73.987655
+350	Landmarc	3.5 star rating	586 reviews	$$$	            10 Columbus Cir, New York, NY 10019	40.768415, -73.982707
+351	Di Fiore Marquet Cafe	3.5 star rating	75 reviews	$$	            15 E 12th St, New York, NY 10003	40.734474, -73.993244
+352	Gordon Ramsay at The London	4.0 star rating	275 reviews	$$$$	            151 W 54th St, New York, NY 10019	40.762997, -73.979962
+353	Cafe Raquelle	5.0 star rating	1 review	None	            30 Bayard St, New York, NY 11211	40.718871, -73.951397
+354	Union Square Cafe	4.0 star rating	674 reviews	$$$	            21 E 16th St, New York, NY 10003	40.736865, -73.991262
+355	Piquant	3.5 star rating	219 reviews	$$	            259 Flatbush Ave, Brooklyn, NY 11217	40.680150, -73.974212
+356	Sarabeth's West	3.5 star rating	536 reviews	$$	            423 Amsterdam Ave, New York, NY 10024	40.783874, -73.977416
+357	Cookshop	4.0 star rating	843 reviews	$$$	            156 10th Ave, New York, NY 10011	40.745519, -74.005483
+358	MUD	4.0 star rating	431 reviews	$$	            307 E 9th St, New York, NY 10003	40.729111, -73.986634
+359	Clark's Restaurant	3.5 star rating	135 reviews	$$	            80 Clark St, Brooklyn, NY 11201	40.697410, -73.993223
+360	Noho Star	3.0 star rating	244 reviews	$$	            330 Lafayette St, New York, NY 10012	40.725766, -73.995075
+361	Virage	3.5 star rating	218 reviews	$$	            118 2nd Ave, New York, NY 10003	40.727958, -73.987740
+362	Annisa	4.5 star rating	366 reviews	$$$$	            13 Barrow St, New York, NY 10014	40.732497, -74.002397
+363	Beauty & Essex	3.5 star rating	1154 reviews	$$$	            146 Essex St, New York, NY 10002	40.720367, -73.986774
+364	wd-50	4.0 star rating	754 reviews	$$$$	            50 Clinton St, New York, NY 10002	40.719605, -73.984504
+365	Friend of A Farmer	3.0 star rating	557 reviews	$$	            77 Irving Pl, New York, NY 10003	40.736912, -73.986839
+366	Perilla Restaurant	4.0 star rating	1042 reviews	$$$	            9 Jones St, New York, NY 10014	40.732343, -74.002221
+367	Shake Shack	4.0 star rating	1672 reviews	$	            366 Columbus Ave, New York, NY 10024	40.780838, -73.976577
+368	Ciao For Now	4.0 star rating	157 reviews	$$	            523 E 12th St, New York, NY 10009	40.728804, -73.980079
+369	Tiny's & the Bar Upstairs	4.0 star rating	164 reviews	$$$	            135 W Broadway, New York, NY 10013	40.716698, -74.007994
+370	The London Bar	3.5 star rating	35 reviews	$$$	            151 W 54th St, New York, NY 10019	40.762997, -73.979962
+371	Do or Dine	4.0 star rating	303 reviews	$$	            1108 Bedford Ave, Brooklyn, NY 11216	40.686746, -73.954883
+372	Spring Street Natural Restaurant	3.5 star rating	496 reviews	$$	            62 Spring St, New York, NY 10012	40.722304, -73.997387
+373	Community Food & Juice	3.5 star rating	487 reviews	$$	            2893 Broadway, New York, NY 10025	40.805963, -73.965763
+374	Pegasus	4.0 star rating	99 reviews	$$	            8610 3rd Ave, Brooklyn, NY 11209	40.623192, -74.031450
+375	Kafana	4.0 star rating	203 reviews	$$	            116 Ave C, New York, NY 10009	40.724258, -73.978429
+376	Francois Payard Bakery	3.5 star rating	35 reviews	$$	            210 Murray St, Manhattan, NY 10282	40.715397, -74.014859
+377	Rose Water Restaurant	4.0 star rating	318 reviews	$$	            787 Union St, Brooklyn, NY 11215	40.675711, -73.978289
+378	Daisys Diner	3.5 star rating	168 reviews	$	            452 5th Ave, Brooklyn, NY 11215	40.669039, -73.986772
+379	Sarabeth's Tribeca	3.5 star rating	228 reviews	$$$	            339 Greenwich St, New York, NY 10013	40.718322, -74.010253
+380	Red Rooster	3.5 star rating	954 reviews	$$$	            310 Lenox Ave, New York, NY 10027	40.808057, -73.944914
+381	Market Table	4.0 star rating	494 reviews	$$$	            54 Carmine St, New York, NY 10014	40.729775, -74.003719
+382	Le Pain Quotidien	3.0 star rating	64 reviews	$$	            124 7th Ave, New York, NY 10011	40.740890, -73.998397
+383	Gaby	3.5 star rating	34 reviews	$$$$	            44 W 45th St, New York, NY 10036	40.756268, -73.981015
+384	Jimmy's Diner	4.0 star rating	331 reviews	$$	            577 Union Ave, Brooklyn, NY 11211	40.717697, -73.952458
+385	Bar Americain	3.5 star rating	836 reviews	$$$	            152 W 52nd St, New York, NY 10019	40.761708, -73.982013
+386	Cafe Condesa	4.0 star rating	278 reviews	$$	            183 W 10th St, New York, NY 10014	40.734413, -74.002680
+387	Five Points	4.0 star rating	816 reviews	$$	            31 Great Jones St, New York, NY 10012	40.726854, -73.993191
+388	Petite Abeille	3.5 star rating	167 reviews	$$	            134 W Broadway, New York, NY 10013	40.716914, -74.008419
+389	Sunburst Espresso Bar	3.0 star rating	185 reviews	$	            206 3rd Ave, New York, NY 10003	40.736000, -73.985502
+390	Cheryl's Global Soul	4.0 star rating	320 reviews	$$	            236 Underhill Ave, Brooklyn, NY 11238	40.673563, -73.967517
+391	Westville	4.0 star rating	627 reviews	$$	            173 Ave A, New York, NY 10009	40.728455, -73.982128
+392	Baoburg	4.5 star rating	38 reviews	$$	            126 N 6th St, Brooklyn, NY 11249	40.717840, -73.959570
+393	Essex	3.5 star rating	1118 reviews	$$	            120 Essex St, New York, NY 10002	40.719324, -73.987446
+394	El Ay Si	3.5 star rating	245 reviews	$$	            47-38 Vernon Blvd, Long Island City, NY 11101	40.744456, -73.953825
+395	Five Leaves	4.0 star rating	697 reviews	$$	            18 Bedford Ave, Brooklyn, NY 11222	40.723708, -73.951672
+396	Miller's Tavern	4.0 star rating	139 reviews	$$	            2 Hope St, Brooklyn, NY 11211	40.713751, -73.957920
+397	Hundred Acres	3.5 star rating	462 reviews	$$	            38 Macdougal St, New York, NY 10012	40.727034, -74.002766
+398	Champignon on Madison	3.0 star rating	56 reviews	$	            1389 Madison Ave, New York, NY 10029	40.787451, -73.953705
+399	Petite Abeille	3.5 star rating	230 reviews	$$	            401 E 20th St, New York, NY 10010	40.735003, -73.979404
+400	BXL Cafe	3.5 star rating	341 reviews	$$	            125 W 43rd St, New York, NY 10036	40.756112, -73.984609
+401	Trix	3.5 star rating	106 reviews	$$	            145 Bedford Ave, Brooklyn, NY 11211	40.718912, -73.956295
+402	44 & X	3.5 star rating	418 reviews	$$$	            622 10th Ave, New York, NY 10036	40.761019, -73.994205
+403	Palo Santo	4.0 star rating	239 reviews	$$	            652 Union St, Brooklyn, NY 11215	40.676716, -73.982009
+404	Cafe Katja	4.5 star rating	410 reviews	$$	            79 Orchard St, New York, NY 10002	40.717724, -73.990596
+405	Westville	4.0 star rating	654 reviews	$$	            210 W 10th St, New York, NY 10014	40.733955, -74.004169
+406	Delicatessen	3.5 star rating	566 reviews	$$	            54 Prince St, New York, NY 10012	40.723460, -73.996312
+407	James	4.0 star rating	233 reviews	$$$	            605 Carlton Ave, Brooklyn, NY 11238	40.678984, -73.971489
+408	Gene's Restaurant	3.5 star rating	26 reviews	$$$	            73 W 11th St, New York, NY 10011	40.735356, -73.997753
+409	Mila Cafe	4.0 star rating	51 reviews	$	            694 Columbus Ave, New York, NY 10025	40.791485, -73.968925
+410	Traif	4.5 star rating	1079 reviews	$$	            229 S 4th St, Brooklyn, NY 11211	40.710599, -73.958914
+411	Le Pain Quotidien	3.5 star rating	54 reviews	$$	            1270 1st Ave, New York, NY 10020	40.765318, -73.957394
+412	Rye	4.0 star rating	393 reviews	$$$	            247 S 1st St, Brooklyn, NY 11211	40.712699, -73.957909
+413	Shake Shack	4.0 star rating	1542 reviews	$$	            691 8th Ave, New York, NY 10036	40.758547, -73.989158
+414	House of Small Wonder	4.5 star rating	153 reviews	$	            77 N 6th St, Brooklyn, NY 11211	40.718972, -73.960830
+415	Vive La Crepe	3.5 star rating	88 reviews	$	            189 Columbus Ave, New York, NY 10023	40.775145, -73.980427
+416	Brabant Belgian Brasserie	3.0 star rating	26 reviews	$$$	            316 E 53rd St, New York, NY 10022	40.756275, -73.966531
+417	Anella	4.0 star rating	215 reviews	$$	            222 Franklin St, Brooklyn, NY 11222	40.733275, -73.957903
+418	Richol Cafe & Bakery	4.5 star rating	60 reviews	$	            563 Nostrand Ave, Brooklyn, NY 11216	40.678037, -73.949485
+419	Max Brenner	3.5 star rating	2224 reviews	$$	            841 Broadway, New York, NY 10003	40.734350, -73.991074
+420	Elmo	3.5 star rating	415 reviews	$$	            156 7th Ave, New York, NY 10011	40.741997, -73.997555
+421	Elmo	3.5 star rating	415 reviews	$$	            156 7th Ave, New York, NY 10011	40.741997, -73.997555
+422	Gotham Bar And Grill	4.5 star rating	792 reviews	$$$$	            12 E 12th St, New York, NY 10003	40.734089, -73.993823
+423	Isabella's	3.5 star rating	485 reviews	$$	            359 Columbus Ave, New York, NY 10024	40.780482, -73.976351
+424	The Dutch	3.5 star rating	569 reviews	$$$	            131 Sullivan St, New York, NY 10012	40.726568, -74.002145
+425	Miriam	4.0 star rating	404 reviews	$$	            79 5th Ave, Brooklyn, NY 11215	40.680216, -73.977684
+426	Sugar Freak	4.0 star rating	438 reviews	$$	            36-18 30th Ave, Astoria, NY 11103	40.764514, -73.916912
+427	One If By Land Two If By Sea	4.0 star rating	904 reviews	$$$$	            17 Barrow St, New York, NY 10014	40.732485, -74.002593
+428	Rouge Tomate	4.0 star rating	489 reviews	$$$	            10 E 60th St, New York, NY 10022	40.764379, -73.971843
+429	D&D Coffee Shop	4.0 star rating	53 reviews	$	            4508 Fort Hamilton Pkwy, Brooklyn, NY 11219	40.640315, -73.995283
+430	Freemans Restaurant	4.0 star rating	958 reviews	$$$	            8 Rivington St, New York, NY 10002	40.721580, -73.992708
+431	DiWine	4.0 star rating	400 reviews	$$	            41-15 31st Ave, Astoria, NY 11103	40.760850, -73.915562
+432	Applewood	4.0 star rating	301 reviews	$$$	            501 11th St, Brooklyn, NY 11215	40.665686, -73.982067
+433	La Crepe Et La Vie	4.0 star rating	16 reviews	$	            1715 Foster Ave, Brooklyn, NY 11230	40.635341, -73.960847
+434	Washington Square Diner	3.0 star rating	79 reviews	$$	            150 W 4th St, New York, NY 10012	40.731539, -74.000655
+435	Keko Cafe	3.5 star rating	142 reviews	$$	            121 Madison Ave, New York, NY 10016	40.745319, -73.984498
+436	Le Cirque Cafe	4.0 star rating	12 reviews	$$$	            151 E 58th St, New York, NY 10022	40.761568, -73.967902
+437	Cafe Petisco	4.0 star rating	114 reviews	$$	            189 E Broadway, New York, NY 10002	40.713952, -73.988829
+438	Seasonal	4.0 star rating	170 reviews	$$$	            132 W 58th St, New York, NY 10019	40.765308, -73.978034
+439	Tavern on Jane	4.0 star rating	183 reviews	$$	            31 8th Ave, New York, NY 10014	40.738324, -74.004265
+440	Greenwich Project	3.5 star rating	78 reviews	$$$	            47 W 8th St, New York, NY 10011	40.733365, -73.998467
+441	Georgio's Country Grill	3.5 star rating	318 reviews	$$	            801 9th Ave, New York, NY 10019	40.765601, -73.987812
+442	Alice's Tea Cup Chapter II	4.0 star rating	737 reviews	$$	            156 E 64th St, New York, NY 10021	40.765106, -73.965820
+443	Fatta Cuckoo	3.5 star rating	174 reviews	$$	            63 Clinton St, New York, NY 10002	40.719503, -73.985142
+444	Sarabeth's	3.5 star rating	323 reviews	$$	            1295 Madison Ave, New York, NY 10128	40.784737, -73.955713
+445	Mayfield	4.0 star rating	158 reviews	$$	            688 Franklin Ave, Brooklyn, NY 11238	40.674912, -73.956703
+446	Peter's Since 1969	3.5 star rating	221 reviews	$$	            168 Bedford Ave, Brooklyn, NY 11211	40.718324, -73.957569
+447	Cask Bar + Kitchen	4.0 star rating	589 reviews	$$	            167 E 33rd St, New York, NY 10016	40.745371, -73.979014
+448	Yaffa Cafe	3.5 star rating	492 reviews	$$	            97 St Marks Pl, New York, NY 10009	40.727516, -73.984562
+449	Caracas Arepa Bar	4.0 star rating	1905 reviews	$$	            93 1/2 E 7th St, New York, NY 10009	40.726912, -73.985297
+450	Aureole	4.0 star rating	384 reviews	$$$$	            135 W 42nd St, New York, NY 10036	40.755635, -73.985537
+451	The Crooked Tree	4.0 star rating	296 reviews	$$	            110 Saint Marks Pl, New York, NY 10009	40.726931, -73.984343
+452	Pret A Manger	4.0 star rating	26 reviews	$	            757 Third Avenue, New York, NY 10017	40.754131, -73.971345
+453	Yaffa Cafe	3.5 star rating	492 reviews	$$	            97 St Marks Pl, New York, NY 10009	40.727516, -73.984562
+454	Brindle Room	4.0 star rating	350 reviews	$$	            277 E 10th St, New York, NY 10009	40.728287, -73.982699
+455	Prune	3.5 star rating	699 reviews	$$$	            54 E 1st St, New York, NY 10003	40.723918, -73.989366
+456	Momofuku M Pche	3.5 star rating	526 reviews	$$$	            15 W 56th St, New York, NY 10019	40.762963, -73.975376
+457	The Smith	3.5 star rating	483 reviews	$$	            956 2nd Ave, New York, NY 10022	40.755165, -73.967868
+458	La Vie	3.5 star rating	21 reviews	$$	            JFK Airport - Terminal 5, Queens, NY 11422	40.645815, -73.775291
+459	Croque Madame	2.5 star rating	18 reviews	$$	            Terminal 5, Jamaica, NY 11422	40.645815, -73.775291
+460	Good Restaurant	3.5 star rating	294 reviews	$$	            89 Greenwich Ave, New York, NY 10014	40.737274, -74.001811
+461	Balaboosta	4.0 star rating	317 reviews	$$$	            214 Mulberry St, New York, NY 10012	40.722200, -73.996018
+462	Tip of the Tongue - Baked and Brewed	4.0 star rating	50 reviews	$	            43 Lincoln Rd, Brooklyn, NY 11225	40.660847, -73.961302
+463	Pies-n-Thighs	4.0 star rating	1248 reviews	$$	            166 S 4th St, Brooklyn, NY 11211	40.711168, -73.961426
+464	Lea Crepe and Panini	3.5 star rating	10 reviews	$$	            188 Allen St, Manhattan, NY 10002	40.722011, -73.989044
+465	Mercer Kitchen	3.5 star rating	746 reviews	$$$	            99 Prince St, New York, NY 10012	40.724850, -73.998699
+466	Panera Bread	3.5 star rating	54 reviews	$	            330 7th Ave, New York, NY 10001	40.747674, -73.993326
+467	Ellary's Greens	4.5 star rating	98 reviews	$$	            33 Carmine St, New York, NY 10014	40.730291, -74.003186
+468	Hope Garage	4.0 star rating	82 reviews	$$	            163 Hope St, Brooklyn, NY 11211	40.711671, -73.951648
+469	La Dfense	3.0 star rating	149 reviews	$$	            2 Metrotech Ctr, Brooklyn, NY 11201	40.693508, -73.986110
+470	Saro Bistro	4.5 star rating	201 reviews	$$	            102 Norfolk St, New York, NY 10002	40.718723, -73.986913
+471	August	3.5 star rating	296 reviews	$$$	            359 Bleecker St, New York, NY 10014	40.734453, -74.004507
+472	Cornelia Street Caf	3.5 star rating	371 reviews	$$	            29 Cornelia St, New York, NY 10014	40.731493, -74.002497
+473	Ridgewood Eats	3.0 star rating	137 reviews	$$	            903 Seneca Ave, Ridgewood, NY 11385	40.700743, -73.903978
+474	Junior's Restaurant	4.0 star rating	1239 reviews	$$	            1515 Broadway, New York, NY 10036	40.757933, -73.986066
+475	The River Caf	4.5 star rating	388 reviews	$$$$	            1 Water St, Brooklyn, NY 11201	40.703195, -73.994723
+476	The Mansion Restaurant	3.5 star rating	112 reviews	$$	            1634 York Ave, New York, NY 10028	40.775962, -73.946777
+477	No. 7	3.5 star rating	253 reviews	$$	            7 Greene Ave, Brooklyn, NY 11238	40.686073, -73.973104
+478	The Smith	3.5 star rating	319 reviews	$$$	            1900 Broadway, New York, NY 10023	40.771514, -73.981913
+479	Graffiti Food & Wine Bar	4.0 star rating	372 reviews	$$$	            224 E 10th St, New York, NY 10003	40.728990, -73.985674
+480	Tandem	4.0 star rating	142 reviews	$$	            236 Troutman St, Brooklyn, NY 11237	40.702414, -73.926629
+481	Saxon + Parole	4.0 star rating	334 reviews	$$$	            316 Bowery, New York, NY 10012	40.725178, -73.992539
+482	Colonie	4.0 star rating	245 reviews	$$$	            127 Atlantic Ave, Brooklyn, NY 11201	40.690879, -73.995826
+483	Tandem	4.0 star rating	142 reviews	$$	            236 Troutman St, Brooklyn, NY 11237	40.702414, -73.926629
+484	Le Pain Quotidien	3.0 star rating	74 reviews	$$	            7 E 53rd St, New York, NY 10022	40.760316, -73.974976
+485	Stonehome Wine Bar	4.0 star rating	142 reviews	$$$	            87 Lafayette Ave, Brooklyn, NY 11217	40.687419, -73.974869
+486	Le Pain Quotidien	4.0 star rating	70 reviews	$$	            50 W 72nd St, New York, NY 10023	40.776961, -73.978498
+487	Vive La Crepe	3.5 star rating	212 reviews	$$	            51 Spring St, New York, NY 10012	40.722094, -73.996386
+488	Pomme Rouge	3.0 star rating	2 reviews	$$$$	            109 Oriental Blvd, Brooklyn, NY 11235	40.577203, -73.952540
+489	Apiary	4.0 star rating	470 reviews	$$$	            60 3rd Ave, New York, NY 10003	40.731221, -73.989044
+490	Cuisine By Claudette	4.5 star rating	19 reviews	$$	            143 Beach 116th St, New York, NY 11694	40.578792, -73.836722
+491	The Sparrow Tavern	4.0 star rating	319 reviews	$$	            24-01 29th St, Astoria, NY 11102	40.772773, -73.916412
+492	Cuisine By Claudette	4.5 star rating	19 reviews	$$	            143 Beach 116th St, New York, NY 11694	40.578792, -73.836722
+493	Art House Restaurant	4.5 star rating	7 reviews	$$$	            2751 Ocean Ave, New York, NY 11229	40.594277, -73.950076
+494	Print	4.0 star rating	284 reviews	$$$	            653 11th Ave, New York, NY 10036	40.764543, -73.995986
+495	EJ's Luncheonette	3.0 star rating	182 reviews	$$	            1271 3rd Ave, New York, NY 10021	40.770444, -73.959730
+496	CK14  The Crooked Knife	3.5 star rating	149 reviews	$$	            232 W 14th St, New York, NY 10011	40.738990, -74.001475
+497	Maggie Brown	3.5 star rating	273 reviews	$$	            455 Myrtle Ave, Brooklyn, NY 11205	40.693480, -73.967333
+498	The Marshal	4.5 star rating	97 reviews	$$	            628 10th Ave, New York, NY 10036	40.761216, -73.993953
+499	Cebu Bar & Bistro	3.5 star rating	185 reviews	$$	            8801 3rd Ave, Brooklyn, NY 11209	40.621860, -74.031383
+500	Kristophe	4.0 star rating	105 reviews	$$	            221 N 4th St, Brooklyn, NY 11211	40.714458, -73.956443
+501	Kristophe	4.0 star rating	105 reviews	$$	            221 N 4th St, Brooklyn, NY 11211	40.714458, -73.956443
+502	Poco	3.5 star rating	712 reviews	$$	            33 Ave B, New York, NY 10009	40.722450, -73.982922
+503	Cebu Bar & Bistro	3.5 star rating	185 reviews	$$	            8801 3rd Ave, Brooklyn, NY 11209	40.621860, -74.031383
+504	Garage Restaurant & Cafe	3.0 star rating	361 reviews	$$	            99 7th Ave S, New York, NY 10014	40.733047, -74.002877
+505	Tremont	4.0 star rating	91 reviews	$$$	            51 Bank St, New York, NY 10014	40.736929, -74.003921
+506	Cafe Lalo	3.5 star rating	721 reviews	$$	            201 W 83rd St, New York, NY 10024	40.785981, -73.976727
+507	B Cafe	4.0 star rating	217 reviews	$$	            240 E 75th St, New York, NY 10021	40.770880, -73.957725
+508	Los Perros Locos	4.0 star rating	154 reviews	$	            201 Allen St, New York, NY 10002	40.722535, -73.989185
+509	Lexington Brass	3.5 star rating	223 reviews	$$$	            517 Lexington Avenue, New York, NY 10017	40.755247, -73.972979
+510	Wafels & Dinges	4.5 star rating	1244 reviews	$	            New York, NY 10011,         </address>	40.746497, -74.009447
+511	Lexington Brass	3.5 star rating	223 reviews	$$$	            517 Lexington Avenue, New York, NY 10017	40.755247, -73.972979
+512	Wafels & Dinges	4.5 star rating	1244 reviews	$	            New York, NY 10011,         </address>	40.746497, -74.009447
+513	Locale	4.0 star rating	344 reviews	$$	            3302 34th Ave, Astoria, NY 11106	40.758301, -73.924337
+514	The Smile	3.5 star rating	218 reviews	$$	            26 Bond St, New York, NY 10012	40.726621, -73.993545
+515	The Diner	3.0 star rating	295 reviews	$$	            44 9th Ave, New York, NY 10011	40.741011, -74.004866
+516	Pardes Restaurant	2.5 star rating	27 reviews	$$$	            497 Atlantic Ave, Brooklyn, NY 11217	40.685798, -73.981252
+517	La Bouchon	4.0 star rating	1 review	None	            304 E 78th St, New York, NY 10075	40.772271, -73.955253
+518	TAO	3.5 star rating	1225 reviews	$$$	            42 E 58th St, New York, NY 10022	40.762614, -73.971429
+519	Hu Kitchen	4.0 star rating	236 reviews	$$	            78 5th Ave, New York, NY 10011	40.735811, -73.994191
+520	Teddy's Bar & Grill	3.5 star rating	205 reviews	$$	            96 Berry St, Brooklyn, NY 11211	40.719387, -73.958554
+521	Walls	4.0 star rating	123 reviews	$$$	            344 W 11th St, New York, NY 10014	40.735436, -74.008223
+522	Alice's Tea Cup Chapter III	4.0 star rating	327 reviews	$$	            220 E 81st St, New York, NY 10028	40.775097, -73.955414
+523	Jack the Horse Tavern	4.0 star rating	231 reviews	$$$	            66 Hicks St, Brooklyn, NY 11201	40.700038, -73.993732
+524	Bubbys	3.5 star rating	603 reviews	$$	            120 Hudson St, New York, NY 10013	40.719807, -74.008314
+525	Hakata Tonton	4.0 star rating	376 reviews	$$	            61 Grove St, New York, NY 10014	40.733317, -74.003312
+526	Momofuku Ko	4.0 star rating	659 reviews	$$$$	            163 1st Ave, New York, NY 10003	40.729006, -73.984673
+527	Foxy's Diner	3.5 star rating	123 reviews	$	            4311 Queens Blvd, Sunnyside, NY 11104	40.743365, -73.919232
+528	Brooklyn Label	3.0 star rating	301 reviews	$$	            180 Franklin St, Brooklyn, NY 11222	40.731476, -73.957731
+529	Open Door	4.0 star rating	96 reviews	$$	            1009 50th Ave, Long Island City, NY 11101	40.742815, -73.953485
+530	Heidi's House	4.5 star rating	218 reviews	$$	            308 E 78th St, New York, NY 10075	40.772189, -73.955064
+531	Open Door	4.0 star rating	96 reviews	$$	            1009 50th Ave, Long Island City, NY 11101	40.742815, -73.953485
+532	Heidi's House	4.5 star rating	218 reviews	$$	            308 E 78th St, New York, NY 10075	40.772189, -73.955064
+533	Catfish	4.0 star rating	148 reviews	$$	            1433 Bedford Ave, Brooklyn, NY 11216	40.674091, -73.953491
+534	Corkbuzz Wine Studio	4.0 star rating	175 reviews	$$$	            13 E 13 St, New York, NY 10003	40.735038, -73.993193
+535	Le Pain Quotidien	3.0 star rating	82 reviews	$$	            60 W 65th St, New York, NY 10023	40.772648, -73.981600
+536	Piora	4.5 star rating	82 reviews	$$$$	            430 Hudson St, New York, NY 10014	40.730619, -74.006532
+537	South's Bar	4.0 star rating	113 reviews	$$	            273 Church St, New York, NY 10013	40.718417, -74.004848
+538	Barking Dog	3.0 star rating	187 reviews	$$	            150 E 34th St, New York, NY 10016	40.745913, -73.979291
+539	Fork Cafe	3.5 star rating	46 reviews	$$	            507 Myrtle Ave, Brooklyn, NY 11205	40.693834, -73.964610
+540	Sage General Store	3.5 star rating	238 reviews	$$	            2420 Jackson Ave, Long Island City, NY 11101	40.746141, -73.944363
+541	Building On Bond	3.5 star rating	219 reviews	$$	            112 Bond St, Brooklyn, NY 11217	40.686469, -73.985311
+542	The Grey Dog	4.0 star rating	156 reviews	$$	            244 Mulberry St, New York, NY 10012	40.722966, -73.995677
+543	The Red Cat	4.0 star rating	403 reviews	$$$	            227 10th Ave, New York, NY 10011	40.748122, -74.004190
+544	RBBTS	4.0 star rating	85 reviews	$$	            142 Sullivan St, New York, NY 10012	40.727020, -74.002097
+545	Fred's Restaurant	3.5 star rating	397 reviews	$$	            476 Amsterdam Ave, New York, NY 10024	40.785660, -73.976717
+546	Telepan	4.0 star rating	342 reviews	$$$	            72 W 69th St, New York, NY 10023	40.775148, -73.979897
+547	East of Eighth	3.5 star rating	215 reviews	$$	            254 W 23rd St, New York, NY 10011	40.744760, -73.997797
+548	Beast Restaurant	3.5 star rating	273 reviews	$$	            638 Bergen St, Brooklyn, NY 11238	40.679277, -73.968446
+549	Sidecar	3.5 star rating	301 reviews	$$	            560 5th Ave, Brooklyn, NY 11215	40.665398, -73.989783
+550	Vesta	4.0 star rating	433 reviews	$$	            21-02 30th Ave, Astoria, NY 11102	40.769622, -73.927766
+551	Colicchio & Sons Main Dining Room	4.0 star rating	592 reviews	$$$$	            85 10th Ave, New York, NY 10011	40.743209, -74.007954
+552	Stecchino	3.5 star rating	367 reviews	$$	            765 9th Ave, New York, NY 10019	40.764469, -73.988641
+553	David Burke Kitchen	3.5 star rating	611 reviews	$$$	            23 Grand St, New York, NY 10013	40.722783, -74.004912
+554	Stop Inn	3.5 star rating	97 reviews	$$	            60-22 Roosevelt Ave, Woodside, NY 11377	40.745414, -73.903663
+555	Preserve24	4.0 star rating	171 reviews	$$	            177 E Houston St, New York, NY 10002	40.722546, -73.988382
+556	Chez Jef	4.0 star rating	9 reviews	$$	            241 Bowery, New York, NY 10002	40.722466, -73.992790
+557	Vynl	3.5 star rating	487 reviews	$$	            754 9th Ave, New York, NY 10019	40.763819, -73.988292
+558	44 1/2	3.5 star rating	239 reviews	$$	            626 10th Ave, New York, NY 10036	40.761115, -73.993971
+559	The Spot	3.0 star rating	190 reviews	$$	            417 Prospect Pl, Brooklyn, NY 11238	40.676423, -73.962814
+560	Harefield Road	4.0 star rating	303 reviews	$$	            769 Metropolitan Ave, Brooklyn, NY 11211	40.714810, -73.943423
+561	Caf China	3.5 star rating	257 reviews	$$	            13 E 37th St, New York, NY 10016	40.750105, -73.982082
+562	Westville	4.0 star rating	415 reviews	$$	            246 W 18th St, New York, NY 10011	40.741828, -74.000035
+563	Fresh Salt	4.0 star rating	170 reviews	$$	            146 Beekman St, New York, NY 10038	40.707052, -74.002437
+564	Sel de Mer	3.5 star rating	200 reviews	$$	            374 Graham Ave, Brooklyn, NY 11211	40.715577, -73.944289
+565	The Bagel Store / Brooklyn's Best Bagels	3.5 star rating	164 reviews	$	            349  Bedford Ave, Brooklyn, NY 11211	40.711931, -73.962613
+566	The Sunburnt Cow	3.5 star rating	588 reviews	$$	            137 Ave C, New York, NY 10009	40.725096, -73.978353
+567	Dark Horse	4.0 star rating	135 reviews	$$	            17 Murray St, New York, NY 10007	40.713718, -74.008036
+568	Sojourn	4.0 star rating	208 reviews	$$$	            244 E 79th St, New York, NY 10075	40.773360, -73.955727
+569	Eight Turn Crpe	4.5 star rating	167 reviews	$	            55 Spring St, New York, NY 10012	40.722350, -73.996625
+570	Wine:30	4.0 star rating	372 reviews	$$	            41 E 30th St, New York, NY 10016	40.744967, -73.983718
+571	Ichabod's	4.0 star rating	92 reviews	$$$	            15 Irving Pl, Manhattan, NY 10003	40.734767, -73.988728
+572	Ofrenda	4.0 star rating	368 reviews	$$	            113 7th Ave S, New York, NY 10014	40.733917, -74.002415
+573	Alder	3.5 star rating	159 reviews	$$$	            157 Second Ave, New York, NY 10003	40.729716, -73.987198
+574	Lola BKLYN	3.5 star rating	153 reviews	$$	            387 Myrtle Ave, Brooklyn, NY 11205	40.693370, -73.970356
+575	The Strand Smokehouse	3.5 star rating	317 reviews	$$	            25-27 Broadway, Astoria, NY 11106	40.763210, -73.927282
+576	Tutu's	4.0 star rating	103 reviews	$$	            25 Bogart St, Brooklyn, NY 11206	40.704115, -73.933208
+577	Joe's Shanghai	4.0 star rating	2558 reviews	$$	            9 Pell St, New York, NY 10013	40.714630, -73.997766
+578	Blue Ribbon Brasserie Brooklyn	4.0 star rating	333 reviews	$$$	            280 5th Ave, Brooklyn, NY 11215	40.674211, -73.982282
+579	tbsp & Spoon	3.5 star rating	232 reviews	$$	            17 W 20th St, New York, NY 10011	40.740424, -73.992171
+580	Hudson Clearwater	4.0 star rating	249 reviews	$$$	            447 Hudson St, New York, NY 10014	40.731102, -74.007013
+581	Marlow & Sons	4.0 star rating	354 reviews	$$$	            81 Broadway, Brooklyn, NY 11249	40.710686, -73.965671
+582	Oxcart Tavern	4.0 star rating	186 reviews	$$	            1301 Newkirk Ave, Brooklyn, NY 11230	40.634902, -73.965055
+583	Jack & Nellie's	4.0 star rating	136 reviews	$$	            108-25 Ascan Ave, Forest Hills, NY 11375	40.717144, -73.841633
+584	Delta Grill	3.5 star rating	422 reviews	$$	            700 9th Ave, New York, NY 10036	40.762201, -73.989869
+585	Hudson Clearwater	4.0 star rating	249 reviews	$$$	            447 Hudson St, New York, NY 10014	40.731102, -74.007013
+586	Landmark Coffee Shop	3.5 star rating	62 reviews	$	            158 Grand St, New York, NY 10013	40.720027, -73.998680
+587	Crave	3.5 star rating	193 reviews	$$	            28-55 36th St, Astoria, NY 11103	40.765222, -73.917050
+588	Olympic Restaurant	4.0 star rating	31 reviews	$	            115 Delancey St, New York, NY 10002	40.718257, -73.988146
+589	Barbuto	4.0 star rating	384 reviews	$$$	            775 Washington St, New York, NY 10014	40.737826, -74.008013
+590	Vitae	4.0 star rating	291 reviews	$$$	            4 E 46th St, New York, NY 10017	40.755583, -73.978549
+591	Le Pain Quotidien	4.0 star rating	101 reviews	$$	            937 2nd Ave, New York, NY 10022	40.754688, -73.968678
+592	The Good Fork	4.0 star rating	239 reviews	$$$	            391 Van Brunt St, Brooklyn, NY 11231	40.675888, -74.014205
+593	Landmark Coffee Shop	3.5 star rating	62 reviews	$	            158 Grand St, New York, NY 10013	40.720027, -73.998680
+594	Vitae	4.0 star rating	291 reviews	$$$	            4 E 46th St, New York, NY 10017	40.755583, -73.978549
+595	Greensquare Tavern	3.5 star rating	168 reviews	$$	            5 W 21st St, New York, NY 10010	40.740611, -73.990997
+596	Eric Kayser Artisan Boulanger	3.5 star rating	21 reviews	$$$	            921 Broadway, New York, NY 10010	40.740160, -73.989785
+597	BXL Zoute	4.0 star rating	109 reviews	$$	            50 W 22nd St, New York, NY 10010	40.741708, -73.992645
+598	Cafe Colette	3.5 star rating	160 reviews	$$	            79 Berry St, Brooklyn, NY 11211	40.719691, -73.957566
+599	Earl's Beer & Cheese	4.0 star rating	268 reviews	$$	            1259 Park Ave, New York, NY 10029	40.787327, -73.951591
+600	Vinateria	4.0 star rating	83 reviews	$$	            2211 Federick Douglass Blvd, New York, NY 10027	40.806623, -73.954033
+601	Cafe Colette	3.5 star rating	160 reviews	$$	            79 Berry St, Brooklyn, NY 11211	40.719691, -73.957566
+602	Vinateria	4.0 star rating	83 reviews	$$	            2211 Federick Douglass Blvd, New York, NY 10027	40.806623, -73.954033
+603	Friedman's Lunch	3.5 star rating	304 reviews	$$	            75 9th Ave, New York, NY 10011	40.742232, -74.005511
+604	Le Pain Quotidien	3.5 star rating	39 reviews	$$	            2463 Broadway, New York, NY 10025	40.791807, -73.974370
+605	Le Pain Quotidien	3.5 star rating	85 reviews	$$	            121 W 50th St, New York, NY 10020	40.759934, -73.980508
+606	RARE Bar & Grill	3.5 star rating	360 reviews	$$	            303 Lexington Ave, New York, NY 10016	40.748405, -73.977947
+607	Prince St. Cafe & Catering Co.	3.0 star rating	138 reviews	$$	            26 Prince St, New York, NY 10012	40.722697, -73.994723
+608	Craftbar	3.5 star rating	554 reviews	$$$	            900 Broadway, New York, NY 10003	40.738829, -73.989631
+609	Momofuku Ssam Bar	4.0 star rating	1575 reviews	$$$	            207 2nd Ave, New York, NY 10003	40.731690, -73.985846
+610	Giorgio's of Gramercy	4.0 star rating	427 reviews	$$$	            27 E 21st St, New York, NY 10011	40.739716, -73.988622
+611	The Queens Kickshaw	4.0 star rating	580 reviews	$$	            40-17 Broadway, Astoria, NY 11103	40.758879, -73.918240
+612	Quaint	4.0 star rating	157 reviews	$$	            46-10 Skillman Ave, Sunnyside, NY 11104	40.746260, -73.917618
+613	HK Cafe	3.0 star rating	391 reviews	$$	            523 9th Ave, New York, NY 10018	40.756751, -73.994219
+614	The Green Table	4.0 star rating	328 reviews	$$	            75 9th Ave, New York, NY 10011	40.742232, -74.005511
+615	La Petite Provence	3.0 star rating	5 reviews	$$	            255 Smith St, Brooklyn, NY 11231	40.683121, -73.992658
+616	The Uptown Restaurant & Bar	3.5 star rating	217 reviews	$$	            1576 3rd Ave, New York, NY 10128	40.780601, -73.953079
+617	The Dish	3.5 star rating	104 reviews	$$	            201 8th Ave, New York, NY 10011	40.743731, -73.999989
+618	Baku Palace Restaurant	3.5 star rating	36 reviews	$$$	            2001 Emmons Ave, Brooklyn, NY 11235	40.584041, -73.948170
+619	Windsor Cafe	3.5 star rating	92 reviews	$$	            220 Prospect Park W, Brooklyn, NY 11215	40.660180, -73.980874
+620	BXL East	4.0 star rating	183 reviews	$$	            210 E 51st St, New York, NY 10022	40.756235, -73.969779
+621	Employees Only	4.0 star rating	661 reviews	$$$	            510 Hudson St, New York, NY 10014	40.733433, -74.006081
+622	Baku Palace Restaurant	3.5 star rating	36 reviews	$$$	            2001 Emmons Ave, Brooklyn, NY 11235	40.584041, -73.948170
+623	North Square	4.0 star rating	178 reviews	$$	            103 Waverly Pl, New York, NY 10011	40.732500, -73.998692
+624	Mile End Delicatessen Brooklyn	3.5 star rating	480 reviews	$$	            97A Hoyt St, Brooklyn, NY 11217	40.687537, -73.986952
+625	La Palapa	3.5 star rating	390 reviews	$$	            77 St. Marks Pl, New York, NY 10003	40.727956, -73.985599
+626	Distilled	4.5 star rating	163 reviews	$$$	            211 W Broadway, New York, NY 10013	40.718892, -74.006302
+627	Tolani Wine Restaurant	4.0 star rating	201 reviews	$$$	            410 Amsterdam Ave, New York, NY 10024	40.783671, -73.978337
+628	The Shady Lady	3.5 star rating	124 reviews	$$	            3419 30th Ave, Astoria, NY 11103	40.765619, -73.918140
+629	Cutting Board	3.5 star rating	203 reviews	$	            53 Bayard St, New York, NY 10013	40.715164, -73.997697
+630	Lupa	4.0 star rating	877 reviews	$$$	            170 Thompson St, New York, NY 10012	40.727597, -74.000103
+631	Nizza	3.5 star rating	333 reviews	$$	            630 9th Ave, New York, NY 10036	40.759954, -73.991264
+632	Elysian Cafe	3.5 star rating	230 reviews	$$	            1001 Washington St, Hoboken, NJ 07030	40.748750, -74.027317
+633	Lupa	4.0 star rating	877 reviews	$$$	            170 Thompson St, New York, NY 10012	40.727597, -74.000103
+634	Great NY Noodle Town	3.5 star rating	604 reviews	$	            28 Bowery, New York, NY 10013	40.715023, -73.997185
+635	Pera Mediterranean Brasserie	3.5 star rating	214 reviews	$$$	            303 Madison Ave, New York, NY 10017	40.752316, -73.979425
+636	Paname Restaurant	5.0 star rating	6 reviews	None	            1068 2nd Ave, New York, NY 10022	40.758669, -73.965406
+637	Blaue Gans	4.0 star rating	191 reviews	$$$	            139 Duane St, New York, NY 10013	40.716508, -74.007628
+638	Darna Falafel	4.5 star rating	66 reviews	$	            200 Court St, Brooklyn, NY 11201	40.687140, -73.994027
+639	Lan Sheng Szechuan Restaurant	3.5 star rating	178 reviews	$$	            60 W 39th St, New York, NY 10018	40.752468, -73.984930
+640	Dishes	3.5 star rating	168 reviews	$$	            6 E 45th St, New York, NY 10017	40.755052, -73.978876
+641	Elberta Restaurant & Bar	4.0 star rating	97 reviews	$$	            335 Flatbush Ave, Brooklyn, NY 11217	40.677751, -73.972574
+642	St. Mazie	4.0 star rating	32 reviews	$$	            345 Grand St Williamsburg, Brooklyn, NY 11211	40.712603, -73.955817
+643	Edward's	3.5 star rating	113 reviews	$$	            136 W Broadway, New York, NY 10013	40.716973, -74.008373
+644	Riverview Restaurant Lounge	3.0 star rating	127 reviews	$$$	            2-01 50th Ave, Long Island City, NY 11101	40.743727, -73.958507
+645	Dishes	3.5 star rating	168 reviews	$$	            6 E 45th St, New York, NY 10017	40.755052, -73.978876
+646	Cubana Socal	4.0 star rating	209 reviews	$$	            70 N 6th St, Brooklyn, NY 11249	40.719076, -73.961514
+647	Georgia Diner	3.0 star rating	303 reviews	$$	            86-55 Queens Blvd, Elmhurst, NY 11373	40.735918, -73.876057
+648	Joe & MissesDoe	4.0 star rating	45 reviews	$$	            45 E 1st St, New York, NY 10003	40.723678, -73.989967
+649	Thistle Hill Tavern	3.5 star rating	246 reviews	$$	            441 7th Ave, Brooklyn, NY 11215	40.663194, -73.984481
+650	Le French Diner	5.0 star rating	5 reviews	None	            188 Orchard St, New York, NY 10002	40.721995, -73.987948
+651	Brasserie Magritte	4.0 star rating	59 reviews	$$	            1463 3rd Ave, New York, NY 10028	40.776507, -73.955299
+652	Amelia's Restaurant	4.0 star rating	44 reviews	$	            110 Varick St, New York, NY 10013	40.724489, -74.005774
+653	Jack's Wife Freda	4.0 star rating	202 reviews	$$	            224 Lafayette St, New York, NY 10012	40.722135, -73.997553
+654	Pret A Manger	4.0 star rating	100 reviews	$	            11 West 42nd Street, New York, NY 10036	40.754148, -73.981859
+655	Cassidy's	3.0 star rating	61 reviews	$$	            65 W 55th St, New York, NY 10019	40.762875, -73.977218
+656	Vinegar Hill House	3.5 star rating	407 reviews	$$$	            72 Hudson Ave, Brooklyn, NY 11201	40.702745, -73.981316
+657	Parlor Steakhouse	3.5 star rating	278 reviews	$$$	            1600 3rd Ave, New York, NY 10128	40.781367, -73.952454
+658	Arepas Cafe	4.0 star rating	393 reviews	$	            33-07 36th Ave, Astoria, NY 11106	40.755755, -73.927737
+659	Scratch Bread	4.5 star rating	145 reviews	$	            1069 Bedford Ave, Brooklyn, NY 11216	40.687447, -73.954481
+660	Mooncake Foods	4.0 star rating	355 reviews	$	            28 Watts St, New York, NY 10013	40.723614, -74.004247
+661	Harlem Tavern	3.5 star rating	422 reviews	$$	            2153 Frederick Douglass Blvd, New York, NY 10026	40.804748, -73.955483
+662	MangoSeed Restaurant	4.0 star rating	163 reviews	$$	            757 Flatbush Ave, Brooklyn, NY 11226	40.654409, -73.959216
+663	Serendipity 3	3.0 star rating	2069 reviews	$$	            225 E 60th St, New York, NY 10022	40.761899, -73.964858
+664	Grape and Vine	3.5 star rating	45 reviews	$$$	            52 W 13th St, New York, NY 10011	40.736113, -73.996635
+665	Bryant Park Grill	3.5 star rating	296 reviews	$$$	            25 W 40th St, New York, NY 10018	40.753143, -73.982908
+666	Monument Lane	4.0 star rating	134 reviews	$$$	            103 Greenwich Ave, New York, NY 10014	40.737804, -74.002094
+667	De Santos	3.5 star rating	184 reviews	$$$	            139 W 10th St, New York, NY 10014	40.734770, -74.000789
+668	Chop Chop Grub Shop	4.5 star rating	31 reviews	$$	            638 Nostrand Ave, Brooklyn, NY 11216	40.676611, -73.949888
+669	88 Orchard	3.5 star rating	232 reviews	$$	            88 Orchard St, New York, NY 10002	40.717975, -73.990091
+670	Yorkville Creperie	3.5 star rating	167 reviews	$$	            1586 York Ave, New York, NY 10028	40.774208, -73.948017
+671	Hill Cafe	4.0 star rating	56 reviews	$$	            17 Putnam Ave, Brooklyn, NY 11238	40.682852, -73.962024
+672	Sonia Rose	3.5 star rating	8 reviews	$$	            74 Orchard St, New York, NY 10002	40.717596, -73.990222
+673	Grape and Vine	3.5 star rating	45 reviews	$$$	            52 W 13th St, New York, NY 10011	40.736113, -73.996635
+674	Ditch Plains	3.5 star rating	181 reviews	$$	            100 W 82nd St, New York, NY 10024	40.783976, -73.974504
+675	Murray's Cheese Bar	4.0 star rating	193 reviews	$$	            264 Bleecker St, New York, NY 10014	40.731208, -74.003192
+676	Le Pain Quotidien	3.5 star rating	160 reviews	$$	            70 W 40th St, New York, NY 10018	40.753209, -73.984603
+677	Corsino Cantina	3.5 star rating	179 reviews	$$$	            637 Hudson St, New York, NY 10014	40.738843, -74.005791
+678	Mercury Bar	3.0 star rating	182 reviews	$$	            659 9th Ave, New York, NY 10036	40.760886, -73.991196
+679	Trufa	4.0 star rating	121 reviews	$$	            3431 Broadway, New York, NY 10031	40.823141, -73.953179
+680	Boulton & Watt	4.0 star rating	156 reviews	$$	            5 Ave A, New York, NY 10009	40.722520, -73.986361
+681	La Taza De Oro	4.0 star rating	129 reviews	$	            96 8th Ave, New York, NY 10011	40.740173, -74.001929
+682	Tribeca Grill	3.5 star rating	351 reviews	$$$	            375 Greenwich St, New York, NY 10013	40.719603, -74.009972
+683	Greenpoint Heights	4.5 star rating	81 reviews	$$	            278 Nassau Ave, Brooklyn, NY 11222	40.725867, -73.939631
+684	Caf Shane	3.0 star rating	143 reviews	$$	            794 Washington Ave, Brooklyn, NY 11238	40.674166, -73.963367
+685	Bar Bruno	4.0 star rating	90 reviews	$$	            520 Henry St, Brooklyn, NY 11231	40.683416, -74.000010
+686	Lot 2	4.5 star rating	150 reviews	$$	            687 6th Ave, Brooklyn, NY 11215	40.660598, -73.990338
+687	The Manhattan Inn	3.5 star rating	223 reviews	$$	            632 Manhattan Ave, Brooklyn, NY 11222	40.724022, -73.950664
+688	Allswell	3.5 star rating	162 reviews	$$	            124 Bedford Ave, Brooklyn, NY 11211	40.719704, -73.956088
+689	Thalia Restaurant	3.5 star rating	352 reviews	$$	            828 8th Ave, New York, NY 10019	40.762009, -73.986003
+690	Tink's Restaurant	4.0 star rating	122 reviews	$$	            102 E 7th St, New York, NY 10009	40.726465, -73.985097
+691	Tink's Restaurant	4.0 star rating	122 reviews	$$	            102 E 7th St, New York, NY 10009	40.726465, -73.985097
+692	Bill's Bar & Burger	3.5 star rating	298 reviews	$$	            22 9th Ave, New York, NY 10014	40.740273, -74.005579
+693	The Crooked Knife	3.5 star rating	167 reviews	$$	            29 E 30th St, New York, NY 10016	40.745156, -73.984117
+694	B Cafe West	4.0 star rating	163 reviews	$$	            566 Amsterdam Ave, New York, NY 10024	40.788749, -73.974639
+695	Sugar Factory American Brassiere	3.5 star rating	172 reviews	$$$	            46 Gansevoort St, New York, NY 10014	40.739315, -74.006597
+696	The Harrison	4.0 star rating	251 reviews	$$$	            355 Greenwich St, New York, NY 10013	40.718938, -74.010150
+697	The Guilty Goose	3.5 star rating	145 reviews	$$	            131 W 23rd St, New York, NY 10011	40.743614, -73.993776
+698	Manousheh	5.0 star rating	20 reviews	None	            10 Kenmare St, New York, NY 10012	40.720333, -73.994559
+699	PS 450	3.0 star rating	447 reviews	$$	            450 Park Ave S, New York, NY 10016	40.744923, -73.983157
+700	Lexington Candy Shop	3.0 star rating	91 reviews	$$	            1226 Lexington Ave, New York, NY 10028	40.777511, -73.957242
+701	Casellula	4.0 star rating	575 reviews	$$$	            401 W 52nd St, New York, NY 10019	40.764896, -73.988376
+702	Blue Hill	4.0 star rating	532 reviews	$$$$	            75 Washington Pl, New York, NY 10011	40.732077, -73.999659
+703	Dillingers Pub & Grill	4.0 star rating	178 reviews	$$	            46-19 30th Ave, Astoria, NY 11103	40.761390, -73.909390
+704	West Bank Cafe	4.0 star rating	100 reviews	$$$	            407 W 42nd St, New York, NY 10036	40.758858, -73.992834
+705	Bella Caracas Cafe	4.5 star rating	27 reviews	$$	            74-17 Metropolitan Ave, MIddle Village, NY 11379	40.713133, -73.877498
+706	Saraghina	4.0 star rating	354 reviews	$$	            435 Halsey St, Brooklyn, NY 11233	40.683649, -73.935361
+707	Biblio	4.5 star rating	40 reviews	$$	            149 N 6th St, Brooklyn, NY 11211	40.717381, -73.958460
+708	RedFarm	3.5 star rating	316 reviews	$$$	            529 Hudson St, New York, NY 10014	40.734196, -74.006519
+709	Hospoda	4.0 star rating	144 reviews	$$$	            321 E 73rd St, New York, NY 10021	40.769052, -73.956535
+710	Lea Latin Grill	4.0 star rating	161 reviews	$$	            34 W 35th St, New York, NY 10001	40.749630, -73.985826
+711	Lea Latin Grill	4.0 star rating	161 reviews	$$	            34 W 35th St, New York, NY 10001	40.749630, -73.985826
+712	Hom	4.0 star rating	73 reviews	$$	            8806 3rd Ave, Brooklyn, NY 11209	40.621898, -74.031954
+713	Banter Irish Bar and Kitchen	4.0 star rating	154 reviews	$$	            108-22 Queens Blvd, Forest Hills, NY 11375	40.720787, -73.843443
+714	Rustik Tavern	3.5 star rating	89 reviews	$$	            471 Dekalb Ave, Brooklyn, NY 11205	40.690780, -73.958272
+715	Lighthouse	4.0 star rating	97 reviews	$$	            145 Borinquen Pl, Brooklyn, NY 11211	40.710878, -73.953823
+716	Tri Tip Grill	4.0 star rating	173 reviews	$	            30 Rockefeller Plz, New York, NY 10112	40.758972, -73.979389
+717	Mae Mae Caf	4.0 star rating	60 reviews	$$	            68 Vandam St, New York, NY 10013	40.726440, -74.007065
+718	Bantry Bay Publik House	4.0 star rating	18 reviews	$$	            3301 Greenpoint Ave, Long Island City, NY 11101	40.735784, -73.934667
+719	Tipsy Parson	3.5 star rating	325 reviews	$$$	            156 9th Ave, New York, NY 10011	40.744236, -74.002595
+720	ABV	3.5 star rating	187 reviews	$$	            1504 Lexington Ave, New York, NY 10029	40.786764, -73.950646
+721	Pershing Square	3.0 star rating	290 reviews	$$	            90 E 42nd St, New York, NY 10017	40.751802, -73.978043
+722	Mac's Landing	3.5 star rating	67 reviews	$$	            305 Halsey St, Brooklyn, NY 11216	40.683035, -73.940625
+723	Heartland Brewery	3.0 star rating	415 reviews	$$	            35 Union Sq W, New York, NY 10003	40.736909, -73.990839
+724	Bohemian Hall & Beer Garden	4.0 star rating	774 reviews	$$	            2919 24th Ave, Astoria, NY 11102	40.772838, -73.915595
+725	Lovely Day	3.5 star rating	175 reviews	$$	            196 Elizabeth St, New York, NY 10012	40.721761, -73.994248
+726	The Park	3.0 star rating	968 reviews	$$	            118 10th Ave, New York, NY 10011	40.744188, -74.006295
+727	Pravda	4.0 star rating	379 reviews	$$$	            281 Lafayette St, New York, NY 10012	40.723919, -73.995976
+728	Otarian	3.0 star rating	147 reviews	$$	            947 8th Ave, New York, NY 10019	40.766078, -73.983763
+729	The Wren	4.0 star rating	143 reviews	$$	            344 Bowery, New York, NY 10012	40.726322, -73.992201
+730	China Grill	3.5 star rating	268 reviews	$$$	            60 W 53rd St, New York, NY 10019	40.761254, -73.978765
+731	St. Anselm	4.0 star rating	330 reviews	$$$	            355 Metropolitan Ave, Brooklyn, NY 11211	40.714319, -73.956059
+732	St. Andrews	4.0 star rating	262 reviews	$$	            140 W 46th St, New York, NY 10036	40.757948, -73.984049
+733	Soho House	4.0 star rating	153 reviews	$$$$	            29 9th Ave, New York, NY 10014	40.740645, -74.006015
+734	The General Greene	3.0 star rating	350 reviews	$$	            229 Dekalb Ave, Brooklyn, NY 11205	40.689717, -73.970323
+735	Home Restaurant	3.5 star rating	157 reviews	$$$	            20 Cornelia St, New York, NY 10014	40.731282, -74.001974
+736	Fort Defiance	4.0 star rating	197 reviews	$$	            365 Van Brunt St, Brooklyn, NY 11231	40.676584, -74.013502
+737	Bagel World	4.0 star rating	67 reviews	$	            339 5th Ave, Brooklyn, NY 11215	40.671985, -73.983611
+738	Hearth	4.0 star rating	356 reviews	$$$	            403 E 12th St, New York, NY 10009	40.729972, -73.983149
+739	The Stand Restaurant & Comedy Club	4.0 star rating	132 reviews	$$	            239 3rd Ave, New York, NY 10003	40.736681, -73.984357
+740	Punch Restaurant	3.5 star rating	269 reviews	$$	            913 Broadway, New York, NY 10010	40.739709, -73.989896
+741	Punch Restaurant	3.5 star rating	269 reviews	$$	            913 Broadway, New York, NY 10010	40.739709, -73.989896
+742	Back Forty	3.5 star rating	391 reviews	$$	            190 Ave B, New York, NY 10009	40.728036, -73.979337
+743	Salt & Fat	4.0 star rating	599 reviews	$$	            41-16 Queens Blvd, Sunnyside, NY 11104	40.743205, -73.922933
+744	Lite Bites & Grill	3.5 star rating	96 reviews	$$	            31-91 Steinway St, Astoria, NY 11103	40.759065, -73.918691
+745	Good Health	4.0 star rating	131 reviews	$$	            1435 1st Ave, New York, NY 10021	40.769511, -73.955019
+746	Colombia In Park Slope	3.5 star rating	72 reviews	$$	            376 5th Ave, Brooklyn, NY 11215	40.671308, -73.984888
+747	FISHTAG	4.0 star rating	201 reviews	$$$	            222 W 79th St, New York, NY 10024	40.783312, -73.979466
+748	Cousin John's Cafe & Bakery	4.0 star rating	140 reviews	$	            70 7th Ave, Brooklyn, NY 11217	40.675441, -73.975144
+749	Le Pain Quotidien	3.5 star rating	94 reviews	$$	            1131 Madison Ave, New York, NY 10028	40.779792, -73.959474
+750	Raymi	3.5 star rating	153 reviews	$$$	            43 W 24th St, New York, NY 10010	40.743382, -73.991292
+751	Seersucker	3.5 star rating	224 reviews	$$	            329 Smith St, Brooklyn, NY 11231	40.680572, -73.994338
+752	Le Pain Quotidien	3.5 star rating	98 reviews	$$	            833 Lexington Ave, New York, NY 10021	40.765042, -73.965929
+753	The Four Seasons Restaurant	4.0 star rating	176 reviews	$$$$	            99 E 52nd St, New York, NY 10022	40.758066, -73.972235
+754	Bonfire Grill	3.5 star rating	190 reviews	$$	            72-27 Austin St, Forest Hills, NY 11375	40.718842, -73.841459
+755	Cafe Guy & Gallard	3.5 star rating	72 reviews	$$	            459 Park Ave S, New York, NY 10016	40.745473, -73.982646
+756	The Bodega	4.0 star rating	102 reviews	$$	            24 St. Nicholas Ave, Brooklyn, NY 11237	40.707344, -73.921843
+757	Redeye Grill	3.5 star rating	197 reviews	$$$	            890 7th Ave, New York, NY 10019	40.765076, -73.980396
+758	Crepes Canaveral From Brittany	5.0 star rating	18 reviews	$	            80 St Marks Pl, New York, NY 10003	40.727506, -73.985839
+759	Koliba Restaurant	4.0 star rating	52 reviews	$$	            3111 23rd Ave, Astoria, NY 11105	40.774215, -73.912332
+760	The Quarter	3.5 star rating	48 reviews	$$	            522 Hudson St, New York, NY 10014	40.733969, -74.006034
+761	The Bodega	4.0 star rating	102 reviews	$$	            24 St. Nicholas Ave, Brooklyn, NY 11237	40.707344, -73.921843
+762	The Thirsty Koala	4.0 star rating	239 reviews	$$	            35-12 Ditmars Blvd, Astoria, NY 11105	40.774532, -73.908615
+763	Gotham West Market	3.5 star rating	83 reviews	$$	            600 11th Ave, New York, NY 10036	40.762384, -73.996751
+764	Marietta	4.5 star rating	68 reviews	$$	            285 Grand Ave, Brooklyn, NY 11238	40.688037, -73.962622
+765	Bijan's	4.0 star rating	117 reviews	$$	            81 Hoyt St, Brooklyn, NY 11201	40.687971, -73.986710
+766	Toast	3.5 star rating	179 reviews	$$	            3157 Broadway, New York, NY 10027	40.814773, -73.959323
+767	983-Bushwick's Living Room	3.5 star rating	94 reviews	$$	            983 Flushing Ave, Brooklyn, NY 11206	40.703085, -73.933402
+768	Niles Restaurant	3.5 star rating	78 reviews	$$	            371 7th Ave, New York, NY 10001	40.748724, -73.991640
+769	Market Cafe	3.5 star rating	137 reviews	$$	            496 9th Ave, New York, NY 10018	40.755575, -73.994404
+770	Atera	4.5 star rating	65 reviews	$$$$	            77 Worth St, New York, NY 10013	40.716950, -74.005607
+771	Atera	4.5 star rating	65 reviews	$$$$	            77 Worth St, New York, NY 10013	40.716950, -74.005607
+772	Sagaponack Bar & Grill	3.5 star rating	151 reviews	$$	            4 W 22nd St, New York, NY 10010	40.740990, -73.990733
+773	Enid's	3.5 star rating	337 reviews	$$	            560 Manhattan Ave, Brooklyn, NY 11222	40.722396, -73.949784
+774	BARRIO 47	4.0 star rating	122 reviews	$$$	            47 8th Ave, New York, NY 10014	40.738522, -74.004077
+775	William Hallet	3.5 star rating	211 reviews	$$	            36-10 30th Ave, Astoria, NY 11106	40.764629, -73.917163
+776	AG Bistro	3.0 star rating	6 reviews	$$	            520 Columbus Ave, New York, NY 10024	40.785857, -73.972700
+777	La Parisienne Coffee House	3.5 star rating	40 reviews	$	            910 7th Ave, New York, NY 10019	40.766089, -73.979993
+778	Sticky's Finger Joint	4.0 star rating	264 reviews	$$	            31 W 8th St, New York, NY 10011	40.734440, -74.001865
+779	Station House	4.0 star rating	173 reviews	$$	            106-11 71st Ave, Forest Hills, NY 11375	40.719492, -73.845223
+780	reBar	4.0 star rating	354 reviews	$$	            147 Front St., Brooklyn, NY 11201	40.702750, -73.987099
+781	Alobar	3.5 star rating	202 reviews	$$	            46-42 Vernon Blvd, Long Island City, NY 11101	40.745780, -73.953368
+782	Martinique Caf	2.5 star rating	90 reviews	$$	            1260 Broadway, New York, NY 10001	40.748381, -73.987612
+783	Matt's Grill	3.0 star rating	67 reviews	$$	            932 8th Ave, New York, NY 10019	40.765451, -73.983464
+784	Corner Social	3.5 star rating	255 reviews	$$	            321 Lenox Ave, New York, NY 10027	40.808564, -73.945022
+785	Hunter's	4.0 star rating	117 reviews	$$	            213 Smith St, Brooklyn, NY 11201	40.684488, -73.991692
+786	508 GastroBrewery	3.5 star rating	150 reviews	$$	            508 Greenwich St, New York, NY 10013	40.725739, -74.009403
+787	Picket Fence	2.5 star rating	176 reviews	$$	            1310 Cortelyou Rd, Brooklyn, NY 11226	40.640328, -73.965766
+788	The Waverly Inn	3.5 star rating	224 reviews	$$$$	            16 Bank St, New York, NY 10014	40.736904, -74.002274
+789	Brooklyn Moon Cafe	3.5 star rating	89 reviews	$$	            745 Fulton St, Brooklyn, NY 11217	40.686519, -73.974896
+790	M. Wells Dinette	4.0 star rating	93 reviews	$$	            22-25 Jackson Ave, Long Island City, NY 11101	40.745469, -73.947108
+791	The Waverly Inn	3.5 star rating	224 reviews	$$$$	            16 Bank St, New York, NY 10014	40.736904, -74.002274
+792	M. Wells Dinette	4.0 star rating	93 reviews	$$	            22-25 Jackson Ave, Long Island City, NY 11101	40.745469, -73.947108
+793	Roberta's	4.0 star rating	994 reviews	$$	            261 Moore St, Brooklyn, NY 11206	40.705062, -73.933587
+794	Ken & Cook	4.0 star rating	139 reviews	$$$	            19 Kenmare St, New York, NY 10012	40.720691, -73.994593
+795	Upstate	4.5 star rating	520 reviews	$$	            95 1st Ave, New York, NY 10003	40.726354, -73.986553
+796	Trestle on Tenth	3.5 star rating	198 reviews	$$$	            242 10th Ave, New York, NY 10001	40.748382, -74.003432
+797	Hi-Life Restaurant	3.5 star rating	160 reviews	$$	            477 Amsterdam Ave, New York, NY 10024	40.785512, -73.976230
+798	The Castello Plan	4.0 star rating	120 reviews	$$	            1213 Cortelyou Rd, Brooklyn, NY 11218	40.640236, -73.966659
+799	Sweet Science	4.0 star rating	60 reviews	$$	            135 Graham Ave, Brooklyn, NY 11206	40.706428, -73.943314
+800	Colicchio & Sons Tap Room	4.5 star rating	113 reviews	$$$	            85 10th Ave, New York, NY 10011	40.743209, -74.007954
+801	Trestle on Tenth	3.5 star rating	198 reviews	$$$	            242 10th Ave, New York, NY 10001	40.748382, -74.003432
+802	Sweet Science	4.0 star rating	60 reviews	$$	            135 Graham Ave, Brooklyn, NY 11206	40.706428, -73.943314
+803	Hi-Life Restaurant	3.5 star rating	160 reviews	$$	            477 Amsterdam Ave, New York, NY 10024	40.785512, -73.976230
+804	5 & Diamond	3.5 star rating	129 reviews	$$	            2072 Frederick Douglass Blvd, New York, NY 10026	40.801907, -73.956834
+805	Brooklyn Commune	3.5 star rating	106 reviews	$$	            601 Greenwood Ave, Brooklyn, NY 11218	40.651435, -73.975825
+806	The Simone	5.0 star rating	5 reviews	$$$	            151 EAST 82nd St, New York, NY 10028	40.776897, -73.956924
+807	Berimbau Do Brasil	3.5 star rating	166 reviews	$$	            43 Carmine St, New York, NY 10014	40.730086, -74.003652
+808	Creperie	4.0 star rating	323 reviews	$	            135 Ludlow St, New York, NY 10002	40.720335, -73.988361
+809	Randolph Beer	4.0 star rating	114 reviews	$$	            343 Broome St, New York, NY 10013	40.719544, -73.994937
+810	La Vie En Szechuan	3.5 star rating	132 reviews	$$	            14 E 33rd St, New York, NY 10016	40.747209, -73.984381
+811	Randolph Beer	4.0 star rating	114 reviews	$$	            343 Broome St, New York, NY 10013	40.719544, -73.994937
+812	La Vie En Szechuan	3.5 star rating	132 reviews	$$	            14 E 33rd St, New York, NY 10016	40.747209, -73.984381
+813	Ulysses Folk House	3.5 star rating	422 reviews	$$	            95 Pearl St, New York, NY 10004	40.704361, -74.010046
+814	Pure Bistro	4.0 star rating	67 reviews	$$	            88 5th Ave, Brooklyn, NY 11217	40.680471, -73.978003
+815	Puerto Viejo	4.5 star rating	109 reviews	$$	            564 Grand Ave, Brooklyn, NY 11238	40.678859, -73.962200
+816	Cafe Bari Soho	2.5 star rating	111 reviews	$$	            529 Broadway, New York, NY 10012	40.723285, -73.999008
+817	Kingswood	3.5 star rating	285 reviews	$$$	            121 W 10th St, New York, NY 10011	40.734890, -73.999656
+818	Mes Reves	4.0 star rating	56 reviews	$$$	            407 Broad St, Bloomfield, NJ 07003	40.807366, -74.192099
+819	Willow Road	3.5 star rating	72 reviews	$$$	            85 10th Ave, New York, NY 10011	40.743209, -74.007954
+820	Tierras Colombianas	3.5 star rating	114 reviews	$$	            3301 Broadway, Long Island City, NY 11106	40.761325, -73.923508
+821	Indian Road Cafe	3.5 star rating	250 reviews	$$	            600 W 218th St, New York, NY 10034	40.872699, -73.918384
+822	B4	4.5 star rating	44 reviews	$$$	            235 East 4th Street, New York, NY 10009	40.723447, -73.982683
+823	Monsignor's Restaurant	4.0 star rating	71 reviews	$$	            679 5th Ave, Brooklyn, NY 11215	40.661552, -73.992823
+824	Open Door Gastropub	3.5 star rating	112 reviews	$$	            110 John St, New York, NY 10038	40.707594, -74.006110
+825	Le Soleil Restaurant	4.0 star rating	7 reviews	$$	            858 10th Ave At 57th St, New York, NY 10019	40.768559, -73.988554
+826	Littleneck	3.5 star rating	162 reviews	$$	            288 3rd Ave, Brooklyn, NY 11215	40.677339, -73.986383
+827	Kutsher's Tribeca	3.0 star rating	119 reviews	$$$	            186 Franklin St, New York, NY 10013	40.719599, -74.009625
+828	The House	3.5 star rating	216 reviews	$$$	            121 E 17th St, New York, NY 10003	40.736137, -73.987720
+829	EATS	3.5 star rating	130 reviews	$$$	            1055 Lexington Ave, Manhattan, NY 10021	40.772188, -73.960643
+830	Khe-Yo	4.0 star rating	127 reviews	$$$	            157 Duane St, New York, NY 10013	40.716906, -74.008587
+831	Doma Na Rohu	3.5 star rating	72 reviews	$$	            27 1/2 Morton St, West Village, NY 10014	40.730993, -74.010108
+832	Rattle 'N' Hum	4.0 star rating	391 reviews	$$	            14 E 33rd St, New York, NY 10016	40.747209, -73.984381
+833	SOB's	3.5 star rating	235 reviews	$$	            204 Varick St, New York, NY 10014	40.728449, -74.005124
+834	Rosemary's	3.5 star rating	311 reviews	$$$	            18 Greenwich Ave, New York, NY 10011	40.734867, -73.999760
+835	Heights Cafe	3.0 star rating	167 reviews	$$	            84 Montague St, Brooklyn, NY 11201	40.695057, -73.996076
+836	Feast	4.0 star rating	130 reviews	$$$	            102 3rd Ave, New York, NY 10003	40.732519, -73.988127
+837	Tommy Bahama Restaurant & Bar - New York	4.0 star rating	137 reviews	$$	            551 5th Ave, New York, NY 10176	40.755237, -73.978678
+838	Friedman's	4.0 star rating	151 reviews	$$	            132 W 31st St, New York, NY 10001	40.748300, -73.990655
+839	Milan Restaurant	4.0 star rating	33 reviews	$$	            710 5th Ave, Brooklyn, NY 11226	40.660733, -73.994255
+840	Banc Cafe	3.5 star rating	266 reviews	$$	            431 3rd Ave, New York, NY 10016	40.743256, -73.979503
+841	Caf Ghia	4.0 star rating	176 reviews	$$	            24 Irving Ave, Brooklyn, NY 11237	40.705063, -73.925321
+842	Banc Cafe	3.5 star rating	266 reviews	$$	            431 3rd Ave, New York, NY 10016	40.743256, -73.979503
+843	Korzo	4.0 star rating	152 reviews	$$	            667 5th Ave, Brooklyn, NY 11215	40.661971, -73.992373
+844	Marche Madison	3.5 star rating	6 reviews	None	            9 E 40th St, New York, NY 10016	40.751985, -73.980888
+845	Cienfuegos	4.0 star rating	407 reviews	$$$	            95 Ave A, New York, NY 10009	40.725662, -73.984114
+846	Sazon	3.5 star rating	322 reviews	$$	            105 Reade St, New York, NY 10013	40.715618, -74.008493
+847	Breadbox Cafe	3.0 star rating	136 reviews	$$	            47-11 11th St, Long Island City, NY 11101	40.744695, -73.950552
+848	Almayass	4.0 star rating	113 reviews	$$$	            24 E 21st St, New York, NY 10010	40.739404, -73.988990
+849	Cafe Bar	3.0 star rating	209 reviews	$$	            3290 36th St, Astoria, NY 11106	40.758024, -73.923232
+850	Enduro	4.0 star rating	51 reviews	$$$	            919 3rd Ave, New York, NY 10022	40.758733, -73.967790
+851	Park Avenue	4.0 star rating	555 reviews	$$$	            100 E 63rd St, New York, NY 10065	40.764922, -73.967668
+852	Roots Caf	4.0 star rating	114 reviews	$	            639A 5th Ave, Brooklyn, NY 11215	40.662904, -73.991634
+853	Brannon's	4.5 star rating	45 reviews	$$	            119 Essex St, New York, NY 10002	40.719596, -73.987888
+854	M Shanghai Bistro & Garden	3.5 star rating	283 reviews	$$	            292 Grand St, Brooklyn, NY 11211	40.712900, -73.957662
+855	the 'dam	4.0 star rating	85 reviews	$$	            998 Amsterdam Ave, New York, NY 10025	40.802767, -73.964414
+856	Caff Martier	3.5 star rating	67 reviews	$$	            1012 2nd Ave, New York, NY 10022	40.756991, -73.966743
+857	Goat Town	3.5 star rating	170 reviews	$$	            511 E 5th St, New York, NY 10009	40.724774, -73.983626
+858	Energy Fuel Park Slope	3.5 star rating	61 reviews	$$	            606A 5th Ave, Brooklyn, NY 11215	40.663886, -73.990983
+859	Commerce	3.5 star rating	368 reviews	$$$	            50 Commerce St, New York, NY 10014	40.731344, -74.005704
+860	Hi-Life Restaurant	3.0 star rating	138 reviews	$$	            1503 2nd Ave, New York, NY 10075	40.772969, -73.955625
+861	Goat Town	3.5 star rating	170 reviews	$$	            511 E 5th St, New York, NY 10009	40.724774, -73.983626
+862	Lite Bites	3.5 star rating	39 reviews	$	            700 Manhattan Ave, Brooklyn, NY 11222	40.725615, -73.951632
+863	Eastwick	4.0 star rating	80 reviews	$$	            112 Graham Ave, Brooklyn, NY 11206	40.705085, -73.942578
+864	Nita Nita	3.5 star rating	117 reviews	$$	            146 Wythe Ave, Brooklyn, NY 11211	40.720264, -73.960010
+865	Fat Goose	4.0 star rating	62 reviews	$$$	            125 Wythe Ave, Brooklyn, NY 11249	40.720036, -73.959617
+866	Benchmark	3.5 star rating	211 reviews	$$$	            339-A 2nd St, Brooklyn, NY 11215	40.673779, -73.983153
+867	Legend Bar & Restaurant	3.5 star rating	141 reviews	$$	            88 7th Ave, New York, NY 10011	40.739605, -73.999303
+868	Bell Book & Candle	4.0 star rating	117 reviews	$$$	            141 W 10th St, New York, NY 10014	40.734752, -74.000907
+869	Spring Natural Kitchen	3.5 star rating	134 reviews	$$	            474 Columbus Ave, New York, NY 10024	40.784526, -73.974018
+870	Brinkley's Broome Street	3.5 star rating	165 reviews	$$	            406 Broome St, New York, NY 10013	40.721038, -73.997780
+871	Brinkley's Broome Street	3.5 star rating	165 reviews	$$	            406 Broome St, New York, NY 10013	40.721038, -73.997780
+872	Mas La Grillade	4.0 star rating	106 reviews	$$$	            28 7th Ave S, New York, NY 10014	40.730526, -74.004870
+873	East End Kitchen	3.5 star rating	78 reviews	$$	            539 E 81st St, New York, NY 10028	40.772088, -73.947477
+874	The National Bar and Dining Rooms	3.0 star rating	277 reviews	$$$	            557 Lexington Ave, New York, NY 10022	40.756593, -73.971947
+875	New Leaf Restaurant & Bar	4.0 star rating	195 reviews	$$$	            1 Margaret Corbin Dr, New York, NY 10040	40.860839, -73.932759
+876	Atlantic Grill	4.0 star rating	277 reviews	$$$	            1341 3rd Ave, New York, NY 10075	40.772567, -73.958310
+877	Mumbles Restaurant	3.0 star rating	114 reviews	$$	            179 3rd Ave, New York, NY 10003	40.734913, -73.985584
+878	Le Restaurant	3.5 star rating	14 reviews	$$$	            102 Franklin St, New York, NY 10013	40.718531, -74.005569
+879	Mother's Ruin	4.0 star rating	140 reviews	$$	            18 Spring St, New York, NY 10012	40.721286, -73.995017
+880	La Bottega	3.5 star rating	260 reviews	$$	            88 9th Ave, New York, NY 10011	40.742458, -74.003820
+881	Crescent Grill	4.5 star rating	60 reviews	$$	            38-40 Crescent St, Long Island City, NY 11101	40.754976, -73.936927
+882	Brooklyn Stoops	4.0 star rating	45 reviews	$	            748 Myrtle Ave, Brooklyn, NY 11205	40.694753, -73.952876
+883	Lips	4.0 star rating	230 reviews	$$	            227 E 56th St, New York, NY 10022	40.759320, -73.966838
+884	Statler Grill	3.0 star rating	145 reviews	$$$	            136 W 33rd St, New York, NY 10001	40.749726, -73.989985
+885	Treehaus	3.5 star rating	126 reviews	$$	            830 3rd Ave, New York, NY 10022	40.756386, -73.970755
+886	Runner & Stone	4.0 star rating	100 reviews	$$	            285 3rd Ave, Brooklyn, NY 11215	40.677206, -73.985922
+887	Say Cheese	3.5 star rating	54 reviews	$$	            142 W 83rd St, New York, NY 10024	40.785046, -73.975378
+888	Toloache 82	4.0 star rating	127 reviews	$$$	            166 E 82nd St, New York, NY 10028	40.776356, -73.956775
+889	Crif Dogs	4.0 star rating	1474 reviews	$	            113 Saint Marks Pl, New York, NY 10009	40.727164, -73.983715
+890	The New York Beer Company	3.5 star rating	141 reviews	$$	            321 W 44th St, New York, NY 10036	40.759302, -73.990046
+891	The New York Beer Company	3.5 star rating	141 reviews	$$	            321 W 44th St, New York, NY 10036	40.759302, -73.990046
+892	Legends New York City	3.5 star rating	172 reviews	$$	            6 W 33rd St, New York, NY 10001	40.747933, -73.985711
+893	Michael's Restaurant	3.5 star rating	123 reviews	$$	            3317 Broadway, Astoria, NY 11106	40.761087, -73.923027
+894	Soigne Restaurant & Wine Bar	4.0 star rating	82 reviews	$$$	            486 6th Ave, Brooklyn, NY 11215	40.666432, -73.985462
+895	Chelsea Grill of Hell's Kitchen	3.5 star rating	184 reviews	$$	            675 9th Ave, New York, NY 10036	40.761455, -73.990725
+896	Le Pain Quotidien	3.5 star rating	44 reviews	$$	            16 E 44th St, New York, NY 10017	40.754121, -73.978951
+897	Ivy	4.0 star rating	101 reviews	$$	            944 8th Ave, New York, NY 10019	40.765751, -73.983167
+898	Pork Slope	3.5 star rating	257 reviews	$$	            247 5th Ave, Brooklyn, NY 11215	40.674767, -73.981240
+899	Nights and Weekends	3.5 star rating	73 reviews	$$	            1 Bedford Ave, Brooklyn, NY 11222	40.723768, -73.951216
+900	Le Restaurant d'Alex	5.0 star rating	3 reviews	$$$$	            60 W 23rd St, New York, NY 10010	40.742561, -73.992267
+901	Le Restaurant d'Alex	5.0 star rating	3 reviews	$$$$	            60 W 23rd St, New York, NY 10010	40.742561, -73.992267
+902	The Village Den Restaurant	3.0 star rating	40 reviews	$$	            225 W 12th St, New York, NY 10011	40.737806, -74.001438
+903	The Cleveland	3.5 star rating	61 reviews	$$$	            25 Cleveland Pl, New York, NY 10012	40.721828, -73.997032
+904	MASQ Restaurant & Lounge	4.0 star rating	34 reviews	$$	            306 E 49th St, New York City, NY 10017	40.753849, -73.968601
+905	Sunshine Co	4.0 star rating	99 reviews	$$	            780 Washington Ave, Brooklyn, NY 11238	40.674604, -73.963164
+906	B Cup Caf	4.0 star rating	212 reviews	$$	            212 Ave B, New York, NY 10009	40.728662, -73.978780
+907	The Pines	4.0 star rating	99 reviews	$$$	            284 3rd Ave, Brooklyn, NY 11215	40.677429, -73.986257
+908	Whitehall	4.0 star rating	134 reviews	$$$	            19 Greenwich Ave, New York, NY 10014	40.734478, -74.000112
+909	Cinema	3.0 star rating	171 reviews	$$	            505 3rd Ave, New York, NY 10016	40.745477, -73.977970
+910	Alfanoose	3.5 star rating	179 reviews	$$	            64 Fulton St, New York, NY 10038	40.708721, -74.005361
+911	Upstairs at the Kimberly	3.5 star rating	224 reviews	$$$	            145 E 50th St, New York, NY 10022	40.756342, -73.971398
+912	View de Point	3.0 star rating	11 reviews	$$$	            20-07 127th St, Queens, NY	40.781281, -73.840995
+913	Harlem Public	4.0 star rating	233 reviews	$$	            3612 Broadway, New York, NY 10031	40.828695, -73.948427
+914	Casa Restaurant	3.5 star rating	151 reviews	$$$	            72 Bedford St, New York, NY 10014	40.731475, -74.004739
+915	Goodbye Blue Monday	4.0 star rating	92 reviews	$	            1087 Broadway, Brooklyn, NY 11221	40.694568, -73.930494
+916	Luz	3.5 star rating	153 reviews	$$	            177 Vanderbilt Ave, Brooklyn, NY 11205	40.692639, -73.969466
+917	Casa Adela	4.0 star rating	126 reviews	$	            66 Ave C, New York, NY 10009	40.722626, -73.979679
+918	Heaven's Hot Bagel	4.0 star rating	50 reviews	$	            283 E Houston St, New York, NY 10002	40.721300, -73.984359
+919	Bill's Bar & Burger	3.5 star rating	297 reviews	$$	            16 W 51st St, New York, NY 10019	40.759405, -73.977819
+920	Angie's Breakfast Spot	4.0 star rating	26 reviews	$	            1637 Broadway, Brooklyn, NY 11207	40.685176, -73.913935
+921	The Meatball Shop	4.0 star rating	180 reviews	$$	            200 9th Ave, New York, NY 10011	40.745892, -74.001505
+922	Heaven's Hot Bagel	4.0 star rating	50 reviews	$	            283 E Houston St, New York, NY 10002	40.721300, -73.984359
+923	Bill's Bar & Burger	3.5 star rating	297 reviews	$$	            16 W 51st St, New York, NY 10019	40.759405, -73.977819
+924	Blackbird's	4.0 star rating	99 reviews	$$	            41-19 30th Ave, Astoria, NY 11103	40.763393, -73.913339
+925	Angie's Breakfast Spot	4.0 star rating	26 reviews	$	            1637 Broadway, Brooklyn, NY 11207	40.685176, -73.913935
+926	Bay Street Luncheonette & Soda Fountain	4.0 star rating	31 reviews	$	            1189 Bay St, Staten Island, NY 10305	40.614381, -74.066022
+927	Caf Minerva	3.5 star rating	107 reviews	$$	            304 W 4th St, Manhattan, NY 10014	40.737091, -74.003819
+928	Panera Bread	3.0 star rating	67 reviews	$	            10 Union Square East, New York, NY 10003	40.734853, -73.989779
+929	The Lambs Club	3.5 star rating	171 reviews	$$$$	            132 W 44th St, New York, NY 10036	40.756707, -73.984607
+930	The Supply House	4.0 star rating	41 reviews	$$	            1647 2nd Ave, New York, NY 10028	40.777578, -73.952268
+931	Pret A Manger	4.0 star rating	78 reviews	$$	            205 East 42nd Street, New York, NY 10017	40.750784, -73.973699
+932	Chelsea Square Restaurant	3.0 star rating	72 reviews	$$	            368 W 23rd St, New York, NY 10292	40.746191, -74.001252
+933	Double Wide	4.0 star rating	87 reviews	$$	            505 E 12th St, New York, NY 10009	40.729022, -73.980856
+934	The Supply House	4.0 star rating	41 reviews	$$	            1647 2nd Ave, New York, NY 10028	40.777578, -73.952268
+935	Pera SoHo	3.5 star rating	112 reviews	$$$	            54 Thompson St, New York, NY 10012	40.723844, -74.003326
+936	Exchange Alley	4.0 star rating	101 reviews	$$$	            424 E 9th St, New York, NY 10009	40.727519, -73.983842
+937	The Burger Bistro	4.0 star rating	363 reviews	$$	            7217 3rd Ave, Brooklyn, NY 11209	40.632988, -74.026811
+938	Black Tree	4.5 star rating	89 reviews	$$	            131 Orchard St, New York, NY 10002	40.719761, -73.989650
+939	Oak Restaurant & Wine Bar	3.5 star rating	114 reviews	$$	            361 Graham Ave, Brooklyn, NY 11211	40.715386, -73.944815
+940	Tir Na Nog	4.0 star rating	68 reviews	$$	            315 W 39th St, New York, NY 10018	40.755953, -73.992068
+941	The Flying Pig	3.0 star rating	160 reviews	$$	            70-28 Austin St, Forest Hills, NY 11375	40.720383, -73.846048
+942	Tir Na Nog	4.0 star rating	68 reviews	$$	            315 W 39th St, New York, NY 10018	40.755953, -73.992068
+943	Pearl & Ash	3.5 star rating	138 reviews	$$$	            220 Bowery, New York, NY 10012	40.722007, -73.993777
+944	Guayoyo	4.0 star rating	164 reviews	$$	            67 1st Ave, New York, NY 10003	40.725414, -73.987292
+945	Swine	4.0 star rating	152 reviews	$$$	            531 Hudson St, New York, NY 10014	40.734248, -74.006455
+946	Putnam's Pub & Cooker	3.5 star rating	156 reviews	$$	            419 Myrtle Ave, Brooklyn, NY 11205	40.693321, -73.969045
+947	The Park 112	3.0 star rating	31 reviews	$$$	            2080 Frederick Douglass Blvd, New York, NY 10026	40.802145, -73.956729
+948	Cafe Select	3.5 star rating	179 reviews	$$	            212 Lafayette St, New York, NY 10012	40.721817, -73.997936
+949	Atlantic Grill	4.0 star rating	183 reviews	$$$	            49 W 64th St, New York, NY 10023	40.772070, -73.981518
+950	West 3rd Common	3.5 star rating	150 reviews	$$	            1 W 3rd St, New York, NY 10012	40.728007, -73.994923
+951	Gran Electrica	3.5 star rating	148 reviews	$$	            5 Front St, Brooklyn, NY 11201	40.702629, -73.993086
+952	West 3rd Common	3.5 star rating	150 reviews	$$	            1 W 3rd St, New York, NY 10012	40.728007, -73.994923
+953	Bricktown Bagels	3.0 star rating	80 reviews	$	            51-06 Vernon Blvd, Long Island City, NY 11101	40.741836, -73.954672
+954	Fork & Spoon	4.0 star rating	65 reviews	$	            7 W 36th St, New York, NY 10001	40.750064, -73.984395
+955	Cinema Brasserie	3.5 star rating	113 reviews	$$	            2 E 45th St, New York, NY 10017	40.755167, -73.978970
+956	Wallflower	4.0 star rating	40 reviews	$$$	            235 W 12th St, New York, NY 10014	40.737803, -74.002160
+957	Cafe Du Pont	3.5 star rating	2 reviews	None	            1038 1st Ave, New York, NY 10022	40.757956, -73.962922
+958	Xai Xai South African Wine Bar	3.0 star rating	245 reviews	$$	            369 W 51st St, New York, NY 10019	40.764105, -73.988130
+959	Alewife NYC	3.5 star rating	191 reviews	$$	            5-14 51st Ave, Long Island City, NY 11101	40.742251, -73.956060
+960	The Cannibal	4.0 star rating	164 reviews	$$$	            113 E 29th St, New York, NY 10016	40.743780, -73.982649
+961	The Cannibal	4.0 star rating	164 reviews	$$$	            113 E 29th St, New York, NY 10016	40.743780, -73.982649
+962	Upright Brew House	4.5 star rating	56 reviews	$$	            547 Hudson St, New York, NY 10014	40.734927, -74.006409
+963	Creperie NYC	4.0 star rating	201 reviews	$	            112 MacDougal St, New York, NY 10012	40.729559, -74.000543
+964	Bouchon Bistro & Wine Bar	2.0 star rating	2 reviews	None	            41 Greenwich Ave Frnt, New York, NY 10014	40.736614, -74.009447
+965	Little Muenster	4.0 star rating	149 reviews	$$	            100 Stanton St, New York, NY 10002	40.721378, -73.987934
+966	Favela Cubana	3.5 star rating	128 reviews	$$	            543 LaGuardia Pl, New York, NY 10012	40.728393, -73.998082
+967	Panera Bread	3.5 star rating	76 reviews	$$	            120 E 86th St, New York, NY 10028	40.779581, -73.956315
+968	Eat Here Now	2.5 star rating	104 reviews	$$	            839 Lexington Ave, New York, NY 10021	40.765077, -73.965911
+969	Bocado Cafe	3.5 star rating	122 reviews	$$	            1293 Lexington Ave, New York, NY 10128	40.780232, -73.954838
+970	Hudson Place Restaurant & Bar	3.5 star rating	114 reviews	$$	            538 3rd Ave, New York, NY 10016	40.747007, -73.977596
+971	Fred's At Barneys	3.5 star rating	110 reviews	$$$	            660 Madison Ave, New York, NY 10021	40.764843, -73.970704
+972	North End Grill	4.0 star rating	144 reviews	$$$	            104 N End Ave, New York, NY 10282	40.715430, -74.015446
+973	Le Pain Quotidien	3.5 star rating	80 reviews	$$	            1309 Lexington Ave, New York, NY 10128	40.780481, -73.954598
+974	County	4.0 star rating	53 reviews	$$$	            34 E 20th St, New York, NY 10003	40.738472, -73.988855
+975	BLT Market	3.0 star rating	61 reviews	$$$$	            1430 6th Ave, New York, NY 10019	40.765236, -73.976532
+976	Eat Here Now	2.5 star rating	104 reviews	$$	            839 Lexington Ave, New York, NY 10021	40.765077, -73.965911
+977	REVEL	3.0 star rating	247 reviews	$$$	            10 Little W 12th St, New York, NY 10014	40.739649, -74.006903
+978	Tompkins Square Bagels	3.5 star rating	220 reviews	$	            165 Ave A, New York, NY 10009	40.728228, -73.982291
+979	Uncle Jack's Steakhouse	3.5 star rating	210 reviews	$$$$	            440 9th Ave, New York, NY 10001	40.753666, -73.995483
+980	Ottomanelli New York Grill	3.5 star rating	121 reviews	$$	            1424 Lexington Ave, New York, NY 10128	40.784148, -73.952456
+981	Purbird	4.5 star rating	164 reviews	$$	            82 Sixth Ave, Brooklyn, NY 11217	40.679870, -73.975179
+982	County	4.0 star rating	53 reviews	$$$	            34 E 20th St, New York, NY 10003	40.738472, -73.988855
+983	Trinity Place Bar and Restaurant	3.5 star rating	127 reviews	$$	            115 Broadway, New York, NY 10006	40.708843, -74.011211
+984	Vol de Nuit	4.0 star rating	391 reviews	$$	            148 W 4th St, New York, NY 10012	40.731313, -74.000659
+985	Pret A Manger	4.0 star rating	103 reviews	$	            857 Broadway, New York, NY 10003	40.737321, -73.990499
+986	Anyway Cafe	3.5 star rating	12 reviews	$$	            111 Oriental Blvd, Brooklyn, NY 11235	40.577212, -73.952472
+987	Acme	3.5 star rating	177 reviews	$$$$	            9 Great Jones St, New York, NY 10012	40.727221, -73.994069
+988	Whitman and Bloom	4.0 star rating	63 reviews	$$$	            384 3rd Ave, New York, NY 10016	40.741829, -73.981409
+989	Dillinger's	4.5 star rating	26 reviews	$	            146 Evergreen Ave, Brooklyn, NY 11206	40.699144, -73.931579
+990	El Malecon Restaurant II	3.5 star rating	131 reviews	$$	            764 Amsterdam Ave, New York, NY 10025	40.795049, -73.969909
+991	Henry's End	4.0 star rating	197 reviews	$$$	            44 Henry St, Brooklyn, NY 11201	40.699702, -73.992182
+992	Betony	4.0 star rating	124 reviews	$$$$	            41 W 57th St, New York, NY 10019	40.764170, -73.976095
+993	Battery Gardens	3.5 star rating	110 reviews	$$$	            1 Battery Park, New York, NY 10011	40.732302, -73.996629
+994	Blue Dog Kitchen Bar	3.5 star rating	144 reviews	$$	            101 W 25th St, New York, NY 10001	40.744501, -73.992110
+995	Plan B	3.5 star rating	79 reviews	$$	            626 Vanderbilt Ave, Brooklyn, NY 11238	40.677471, -73.969231
+996	Schnipper's Quality Kitchen	3.5 star rating	228 reviews	$$	            23 E 23rd St, New York, NY 10010	40.740882, -73.987527
+997	Coral Restaurant	3.5 star rating	51 reviews	$	            3801 Broadway, New York, NY 10032	40.834996, -73.944631
+998	Backyard	3.5 star rating	61 reviews	$$	            388 5th Ave, Brooklyn, NY 11215	40.670862, -73.984985
+999	Cert	3.5 star rating	82 reviews	$$	            20 W 55th St, New York, NY 10019	40.762035, -73.976134
+1000	Clyde Frazier's Wine and Dine	3.5 star rating	150 reviews	$$$	            485 10th Ave, New York, NY 10018	40.756789, -73.997959

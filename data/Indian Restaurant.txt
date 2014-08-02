@@ -1,0 +1,703 @@
+1	Pippali	4.5 star rating	106 reviews	$$	            129 E 27th St, New York, NY 10016	40.742413, -73.983250
+2	Gandhi Fine Indian Cuisine	4.5 star rating	169 reviews	$$	            2032 Bedford Ave, Brooklyn, NY 11226	40.655219, -73.956479
+3	Malai Marke Indian Cuisine	4.0 star rating	210 reviews	$$	            318 E 6th St, New York, NY 10003	40.726832, -73.987670
+4	The MasalaWala	4.5 star rating	279 reviews	$$	            179 Essex St, New York, NY 10002	40.721923, -73.986668
+5	Dhaba Indian Cuisine	4.0 star rating	783 reviews	$$	            108 Lexington Ave, New York, NY 10016	40.742408, -73.982928
+6	Bombay Duck Co.	4.0 star rating	109 reviews	$$	            190 Bleecker St, New York, NY 10012	40.729076, -74.001530
+7	Seva Indian Cuisine	4.0 star rating	546 reviews	$$	            30-07 34th St, Astoria, NY 11103	40.765432, -73.918979
+8	Chote Nawab	4.0 star rating	186 reviews	$$	            115 Lexington Ave, New York, NY 10016	40.742448, -73.982304
+9	Tiffin Wallah	4.0 star rating	462 reviews	$$	            127 E 28th St, New York, NY 10016	40.742976, -73.982740
+10	Junoon	4.0 star rating	514 reviews	$$$	            27 W 24th St, New York, NY 10010	40.743193, -73.990838
+11	Masala Times	4.0 star rating	239 reviews	$	            194 Bleecker St, New York, NY 10012	40.729153, -74.001681
+12	Bombay Masala	4.0 star rating	274 reviews	$$	            678 Franklin Ave, Brooklyn, NY 11238	40.675341, -73.956518
+13	Chola Eclectic Indian Cuisine	4.0 star rating	340 reviews	$$	            232 E 58th St, New York, NY 10022	40.760159, -73.965823
+14	Heart of India	4.0 star rating	148 reviews	$$	            79 2nd Ave, New York, NY 10003	40.726657, -73.989439
+15	Benares	4.0 star rating	85 reviews	$$	            45 Murray St, New York, NY 10007	40.714274, -74.009103
+16	Thelewala	4.0 star rating	189 reviews	$	            112 Macdougal St, New York, NY 10012	40.729559, -74.000543
+17	Brick Lane Curry House	3.5 star rating	595 reviews	$$	            306-308 E 6th St, New York, NY 10003	40.727083, -73.988024
+18	Nirvana	4.0 star rating	212 reviews	$$	            346 Lexington Ave, New York, NY 10016	40.750019, -73.977412
+19	Spice Symphony	4.0 star rating	155 reviews	$$	            182 Lexington Ave, New York, NY 10016	40.744722, -73.981202
+20	Moti Mahal Delux	4.0 star rating	129 reviews	$$	            1149 1st Ave, New York, NY 10065	40.765629, -73.957915
+21	Darbar Grill	4.0 star rating	219 reviews	$$	            157 E 55th St, New York, NY 10022	40.759341, -73.968839
+22	Om Restaurant	4.0 star rating	217 reviews	$$	            1593 2nd Ave, New York, NY 10028	40.775834, -73.953629
+23	Bukhara Grill	4.0 star rating	271 reviews	$$	            217 E 49th St, New York, NY 10017	40.755019, -73.970270
+24	India Place	4.0 star rating	137 reviews	$$	            655 Vanderbilt Ave, Brooklyn, NY 11238	40.677153, -73.968646
+25	Taj Mahal	4.0 star rating	139 reviews	$$	            7315 3rd Ave, Brooklyn, NY 11209	40.632329, -74.027081
+26	Kati Roll Company	4.0 star rating	490 reviews	$	            49 W 39th St, New York, NY 10018	40.752803, -73.984577
+27	Joy Indian Restaurant	4.0 star rating	126 reviews	$$	            301 Flatbush Ave, Brooklyn, NY 11217	40.678852, -73.973266
+28	indikitch	4.0 star rating	73 reviews	$$	            25 W 23rd St, New York, NY 10010	40.742221, -73.990445
+29	Masala Indian Cuisine	4.0 star rating	163 reviews	$$	            39-26 61st St, Woodside, NY 11377	40.746544, -73.903200
+30	Indus Valley	4.0 star rating	193 reviews	$$	            2636 Broadway, New York, NY 10025	40.796989, -73.969707
+31	Milon	3.5 star rating	266 reviews	$	            93 1st Ave, New York, NY 10003	40.726316, -73.986644
+32	Ashoka  Indian Grill	4.5 star rating	44 reviews	$$	            1436 Flatbush Ave, Brooklyn, NY 11210	40.635562, -73.951028
+33	Swagat	4.0 star rating	188 reviews	$$	            411 Amsterdam Ave, New York, NY 10024	40.783486, -73.977780
+34	Bay Leaf	4.0 star rating	76 reviews	$$	            135B N 5th St, Brooklyn, NY 11211	40.717026, -73.959179
+35	Tamarind	4.0 star rating	252 reviews	$$$	            99 Hudson St, New York, NY 10013	40.719017, -74.008975
+36	Desi Grill	4.0 star rating	58 reviews	$$	            46 Wyckoff Ave, Brooklyn, NY 11237	40.705651, -73.921829
+37	Ayurveda Cafe	4.0 star rating	144 reviews	$$	            706 Amsterdam Ave, New York, NY 10025	40.793109, -73.971486
+38	Namaste	4.0 star rating	200 reviews	$$	            31-15 30th Ave, Astoria, NY 11102	40.766755, -73.920704
+39	Delhi Heights	3.5 star rating	179 reviews	$$	            37-66 74th St, Jackson Heights, NY 11372	40.747098, -73.891763
+40	Doaba Deli	4.5 star rating	84 reviews	$	            945 Columbus Ave, New York, NY 10025	40.799405, -73.962364
+41	Aarpan	3.5 star rating	73 reviews	$$	            396 5th Ave, Brooklyn, NY 11215	40.670753, -73.985311
+42	Devi	3.5 star rating	266 reviews	$$$	            8 E 18th St, New York, NY 10003	40.738100, -73.991203
+43	Minar Indian Restaurant	3.5 star rating	155 reviews	$	            138 W 46th St, New York, NY 10036	40.757969, -73.983975
+44	Amma	4.0 star rating	248 reviews	$$$	            246 E 51st St, New York, NY 10022	40.755485, -73.968789
+45	Panna II Garden Indian Restaurant	3.5 star rating	396 reviews	$	            93 1st Ave, New York, NY 10003	40.726316, -73.986644
+46	Saravana Bhavan	3.5 star rating	462 reviews	$$	            81 Lexington Ave, New York, NY 10016	40.741420, -73.983071
+47	Aaheli Indian Cuisine	3.5 star rating	120 reviews	$$	            826 9th Ave, New York, NY 10019	40.766008, -73.986720
+48	Basera Indian Bistro	3.5 star rating	190 reviews	$$	            745 9th Ave, New York, NY 10019	40.763840, -73.989099
+49	Saffron Indian Cuisine	4.0 star rating	77 reviews	$$	            4404 Broadway, Astoria, NY 11103	40.757329, -73.915670
+50	Papadam	4.0 star rating	44 reviews	$$	            1448 1st Ave, New York, NY 10021	40.769850, -73.954115
+51	Bengal Tiger Indian Food	4.5 star rating	34 reviews	$$	            58 W 56th St, New York, NY 10019	40.763313, -73.977171
+52	Kinara's Indian Food	3.5 star rating	62 reviews	$$	            368 Myrtle Ave, Brooklyn, NY 11205	40.693005, -73.971424
+53	Indigo Indian Bistro	3.5 star rating	102 reviews	$$	            357 E 50th St, New York, NY 10022	40.754211, -73.966429
+54	Asya	4.0 star rating	54 reviews	$$	            46 Henry St, New York, NY 11201	40.699651, -73.992197
+55	Bombay Heights	3.5 star rating	98 reviews	$$	            1047 Bedford Ave, Brooklyn, NY 11216	40.688148, -73.954553
+56	Karahi Indian Cuisine	3.5 star rating	76 reviews	$$	            118 Christopher St, New York, NY 10014	40.733099, -74.005483
+57	Taj Kabab King	3.5 star rating	131 reviews	$$	            568 Grand St, Brooklyn, NY 11211	40.710961, -73.949149
+58	Aanchal	3.5 star rating	48 reviews	$$	            45-12 23rd St, Long Island City, NY 11101	40.746590, -73.945738
+59	Baburchi	3.5 star rating	60 reviews	$$	            90 W 3rd St, New York, NY 10012	40.729853, -73.999314
+60	Sapphire Indian Cuisine	3.5 star rating	163 reviews	$$	            1845 Broadway, New York, NY 10023	40.769461, -73.982583
+71	Drunken Munkey NYC	4.0 star rating	52 reviews	$$	            338 E 92nd St, New York, NY 10128	40.780860, -73.947597
+72	Delhi Heights	3.5 star rating	41 reviews	$$	            577 Decatur St, Brooklyn, NY 11233	40.683202, -73.920183
+73	Nepalese Indian Restaurant	4.0 star rating	49 reviews	$$	            907 Seneca Ave, Ridgewood, NY 11385	40.700604, -73.903921
+74	Benares	3.5 star rating	71 reviews	$$	            240 W 56th St, New York, NY 10019	40.765622, -73.982861
+75	Andaz	3.5 star rating	110 reviews	$$	            1378 1st Ave, New York, NY 10021	40.768720, -73.954887
+76	Indian Taj	3.5 star rating	113 reviews	$$	            3723 74th St, Jackson Heights, NY 11372	40.748259, -73.891423
+77	Pearl Indian Food	4.0 star rating	49 reviews	$$	            738 Franklin Ave, Brooklyn, NY 11238	40.673184, -73.957329
+78	Bombay Palace	3.5 star rating	102 reviews	$$$	            30 W 52nd St, New York, NY 10019	40.760317, -73.977586
+79	Mysttik Masaala	4.5 star rating	55 reviews	$	            304 E 44 St, New York, NY 10017	40.750706, -73.970852
+80	Curry Kitchen	3.5 star rating	74 reviews	$$	            40 W 8th St, New York, NY 10011	40.732926, -73.998419
+81	Tandoor	3.5 star rating	91 reviews	$$	            95-24 Queens Blvd, Rego Park, NY 11374	40.730546, -73.864161
+82	Five Star Diner	3.5 star rating	46 reviews	$$	            13-05 43rd Ave, Long Island City, NY 11101	40.751081, -73.946014
+83	Hampton Chutney Co	4.0 star rating	326 reviews	$$	            68 Prince St, New York, NY 10012	40.723679, -73.996894
+84	Joy Curry & Tandoor	3.5 star rating	84 reviews	$	            148 E 46th St, New York, NY 10017	40.753516, -73.973653
+85	Joy and Curry Tandoor	4.0 star rating	16 reviews	$$$	            32 W 39th St, New York, NY 10018	40.752090, -73.983969
+86	Agra Taj Mahal	3.5 star rating	39 reviews	$$	            1005 Manhattan Ave, Brooklyn, NY 11222	40.733318, -73.955013
+87	Utsav Festive India Restaurant	3.5 star rating	161 reviews	$$$	            1185 Ave of the Americas, New York, NY 10036	40.757783, -73.982355
+88	Adyar Ananda Bhavan	4.5 star rating	37 reviews	$$	            1071 1st Ave, New York, NY 10022	40.759370, -73.962471
+89	Bombay Dream	3.0 star rating	59 reviews	$$	            257 Smith St, Brooklyn, NY 11231	40.683113, -73.992766
+90	Maharaja Palace	4.0 star rating	40 reviews	$$	            2113 Frederick Douglass Blvd, New York, NY 10026	40.803407, -73.956515
+91	Haveli	4.0 star rating	85 reviews	$$	            11633 Queens Blvd, Forest Hills, NY 11375	40.715537, -73.832454
+92	Punjabi Tadka	3.5 star rating	55 reviews	$	            688 10th Ave, New York, NY 10019	40.763467, -73.992304
+93	Maharaja Palace	4.0 star rating	40 reviews	$$	            2113 Frederick Douglass Blvd, New York, NY 10026	40.803407, -73.956515
+94	Bombay's Indian Restaurant	3.0 star rating	74 reviews	$$	            60 Pearl St, New York, NY 10004	40.703428, -74.011081
+95	Chandni Food	3.5 star rating	66 reviews	$	            11 W 29th St, New York, NY 10001	40.745905, -73.987711
+96	Raj's Indian Kitchen	3.5 star rating	25 reviews	$	            27-18 Queens Plz S, Long Island City, NY 11101	40.749804, -73.939354
+97	Dil-e Punjab Deli	4.5 star rating	95 reviews	$	            170 9th Ave, New York, NY 10011	40.744852, -74.002227
+98	Anarkali Indian Cuisine	4.0 star rating	24 reviews	$$	            1125 Church Ave, Brooklyn, NY 11218	40.647478, -73.968600
+99	Darbar Fine Indian Cuisine	3.5 star rating	167 reviews	$$	            152 E 46th St, New York, NY 10017	40.753473, -73.973551
+100	Bawarchi Indian Cuisine	4.5 star rating	11 reviews	$	            1546 Madison Ave, New York, NY 10029	40.792802, -73.950413
+101	Gandhi	3.0 star rating	84 reviews	$$	            34-14 30th Ave, Astoria, NY 11103	40.765571, -73.918593
+102	Tandoori	3.5 star rating	47 reviews	$$	            210 W 94th St, New York, NY 10025	40.792982, -73.972169
+103	Curry Heights	3.0 star rating	81 reviews	$$	            151 Remsen St, Brooklyn, NY 11201	40.693706, -73.992190
+104	Mughlai Indian Cuisine	3.0 star rating	92 reviews	$$	            320 Columbus Ave, New York, NY 10023	40.779593, -73.977597
+105	Punjabi Indian & American Restaurant	4.5 star rating	25 reviews	$	            160-20 46 Ave, Queens, NY 11358	40.753544, -73.806008
+106	Spice Garden	3.0 star rating	41 reviews	$$	            185 Grand St, Brooklyn, NY 11211	40.714429, -73.960762
+107	Agra Heights	3.5 star rating	37 reviews	$$	            226 Wilson Ave, Brooklyn, NY 11237	40.698017, -73.921467
+108	Bombay Kitchen	3.0 star rating	55 reviews	$	            733 Knickerbocker Ave, Brooklyn, NY 11221	40.694063, -73.909505
+109	Brick Lane Curry House	3.5 star rating	65 reviews	$$	            1664 3rd Ave, New York, NY 10128	40.783552, -73.950933
+110	Aangan	3.5 star rating	101 reviews	$$	            2701 Broadway, New York, NY 10025	40.799394, -73.968785
+111	Aangan	3.5 star rating	101 reviews	$$	            2701 Broadway, New York, NY 10025	40.799394, -73.968785
+112	Tangra Masala	4.0 star rating	139 reviews	$$	            8709 Grand Ave, Elmhurst, NY 11373	40.736470, -73.878275
+113	Roti Roll Bombay Frankie	4.0 star rating	199 reviews	$	            994 Amsterdam Ave, New York, NY 10025	40.802609, -73.964406
+114	Chapati House	4.5 star rating	25 reviews	$	            3153 Broadway, New York, NY 10027	40.814613, -73.959590
+115	India Passage Restaurant	3.0 star rating	44 reviews	$$	            7407 3rd Ave, Brooklyn, NY 11209	40.631814, -74.027320
+116	Rajbhog Sweets	4.0 star rating	76 reviews	$	            7227 37th Ave, Jackson Heights, NY 11372	40.748868, -73.892877
+117	Swagat Indian Restaurant	3.0 star rating	42 reviews	$	            205 W 29th St, New York, NY 10001	40.748168, -73.993195
+118	Kokum - South Indian Cuisine	4.0 star rating	33 reviews	$$	            106 Lexington Ave, New York, NY 10016	40.742374, -73.982972
+119	Sajni 026	3.5 star rating	53 reviews	$	            98-10 Queens Blvd, Rego Park, NY 11374	40.728102, -73.857427
+120	Ganesh Temple Canteen	4.0 star rating	91 reviews	$	            45-57 Bowne St, Flushing, NY 11355	40.752857, -73.817481
+121	Mumtaz Indian Restaurant	4.0 star rating	29 reviews	$$	            1582 York Ave, New York, NY 10028	40.774082, -73.948109
+122	Lahore Deli	4.0 star rating	99 reviews	$	            132 Crosby St, New York, NY 10012	40.724768, -73.996389
+123	Sanskriti	3.5 star rating	23 reviews	$$	            54 7th Ave, New York, NY 11217	40.676074, -73.974573
+124	India Cafe	4.5 star rating	9 reviews	$	            94-08 Lefferts Blvd, Queens, NY 11419	40.693664, -73.827963
+125	Kismat Indian Cuisine	3.5 star rating	122 reviews	$$	            603 Fort Washington Ave, New York, NY 10040	40.855425, -73.937097
+126	Amla	4.0 star rating	41 reviews	$$	            2735 Broadway, New York, NY 10025	40.800411, -73.968355
+127	Tawa Tandoor	3.5 star rating	70 reviews	$$	            37-56 74th St, Jackson Heights, NY 11372	40.753152, -73.892528
+128	Haveli Restaurant	4.0 star rating	203 reviews	$$	            100 2nd Ave, New York, NY 10003	40.727111, -73.988342
+129	Bhatti Indian Grill	3.5 star rating	241 reviews	$$	            100 Lexington Ave, New York, NY 10016	40.742220, -73.983090
+130	Biryani Cart	4.0 star rating	331 reviews	$	            46th St and 6th Ave, New York, NY 10036	40.757395, -73.982263
+131	Baluchi's	3.0 star rating	67 reviews	$$	            1724 2nd Ave, New York, NY 10128	40.780043, -73.949810
+132	Curry Point Halal Grill	3.0 star rating	54 reviews	$	            4102 Greenpoint Ave, Sunnyside, NY 11104	40.739960, -73.923895
+133	Polash	4.0 star rating	102 reviews	$$	            2179 3rd Ave, New York, NY 10035	40.799584, -73.938406
+134	Curry In A Hurry	3.0 star rating	268 reviews	$	            119 Lexington Ave, New York, NY 10016	40.742638, -73.982139
+135	Ghandi Cafe	3.5 star rating	111 reviews	$$	            283 Bleecker St, New York, NY 10014	40.731985, -74.003140
+136	Curry Hut	3.5 star rating	36 reviews	$	            534 9th Ave, New York, NY 10018	40.756731, -73.993451
+137	Maharaja Palace	3.0 star rating	67 reviews	$$	            1350 Madison Ave, New York, NY 10128	40.786423, -73.955020
+138	Saravana Bhavan	3.0 star rating	113 reviews	$$	            413 Amsterdam Ave, Manhattan, NY 10024	40.783551, -73.977727
+139	Dosa Royale	3.5 star rating	38 reviews	$$	            316 Court St, Brooklyn, NY 11231	40.683423, -73.995695
+140	Bombay Grill	3.0 star rating	66 reviews	$$	            351 7th Ave, Brooklyn, NY 11215	40.666034, -73.981958
+141	Brick Lane Curry House	3.5 star rating	130 reviews	$$	            235 E 53rd St, New York, NY 10022	40.757304, -73.967920
+142	Baluchi's	3.5 star rating	112 reviews	$$	            275 Greenwich St, New York, NY 10007	40.715180, -74.010992
+143	Punjabi Grocery & Deli	4.5 star rating	221 reviews	$	            114 E 1st St, New York, NY 10009	40.722743, -73.986580
+144	Samudra Vegetarian Restaurant & Chaat House	4.5 star rating	45 reviews	$	            75-18 37th Ave, Jackson Heights, NY 11372	40.749095, -73.890377
+145	Taste of India II	4.0 star rating	48 reviews	$$	            287 New Dorp Ln, Staten Island, NY 10306	40.572224, -74.112711
+146	Mahal Kita	3.5 star rating	24 reviews	$$	            184 Havemeyer St, Brooklyn, NY 11211	40.710647, -73.958318
+147	DiwaneKhaas	3.5 star rating	42 reviews	$$	            53 Nassau St, New York, NY 10038	40.709035, -74.009135
+148	Taste of Tandoor	3.5 star rating	40 reviews	$	            149 Church St, New York, NY 10007	40.714529, -74.008086
+149	Baluchi's	3.0 star rating	65 reviews	$$	            329 3rd Ave, New York, NY 10010	40.739686, -73.982112
+150	Agra Indian Restaurant	4.0 star rating	80 reviews	$$	            213-35 39th Ave, Bayside, NY 11361	40.765530, -73.771451
+151	Darbar Mehak	3.0 star rating	51 reviews	$$	            83-06 Austin St, Kew Gardens, NY 11415	40.708951, -73.829615
+152	Bombay Garden	2.5 star rating	46 reviews	$$	            651 Manhattan Ave, Brooklyn, NY 11222	40.724339, -73.951338
+153	Baluchi's	3.0 star rating	82 reviews	$$	            11330 Queens Blvd, Forest Hills, NY 11375	40.717366, -73.836010
+154	King of Tandoor	4.0 star rating	99 reviews	$$	            600 Flatbush Ave, Brooklyn, NY 11225	40.658877, -73.960807
+155	Taste of India	3.0 star rating	33 reviews	$$	            1018 Bergen St, Brooklyn, NY 11216	40.676034, -73.952520
+156	Hyderabadi Biryani & Chat	3.5 star rating	28 reviews	$	            44-27 Kissena Blvd, Flushing, NY 11355	40.753180, -73.821919
+157	Sonar Gaow	3.5 star rating	44 reviews	$	            328 E 6th St, New York, NY 10003	40.726682, -73.987265
+158	Saffron Indian Cuisine	4.5 star rating	16 reviews	$	            98 Chambers St, New York, NY 10007	40.714625, -74.007766
+159	Royal Bangladesh Indian Restaurant	3.0 star rating	83 reviews	$	            93 1st Ave, New York, NY 10003	40.726316, -73.986644
+160	The Indian Clove	3.0 star rating	50 reviews	$$	            2071 Clove Rd, Staten Island, NY 10304	40.604816, -74.083067
+161	Royal Bangladesh Indian Restaurant	3.0 star rating	83 reviews	$	            93 1st Ave, New York, NY 10003	40.726316, -73.986644
+162	Amin Indian Restaurant	3.0 star rating	29 reviews	$$	            235 Dekalb Ave, Brooklyn, NY 11205	40.689669, -73.969789
+163	Kinaras	3.0 star rating	106 reviews	$$	            473 5th Ave, Brooklyn, NY 11215	40.667998, -73.986933
+164	Maurya	2.5 star rating	24 reviews	$$	            63108 Woodhaven Blvd, Rego Park, NY 11374	40.721717, -73.866922
+165	The Kati Roll Company	3.5 star rating	97 reviews	$	            229 E 53rd St, New York, NY 10022	40.757405, -73.968071
+166	Sapid Indian Food	4.0 star rating	97 reviews	$$	            595 Washington Ave, Brooklyn, NY 11238	40.679784, -73.963867
+167	Salaam Bombay	3.5 star rating	87 reviews	$$	            319 Greenwich St, New York, NY 10013	40.717055, -74.010498
+168	The Kati Roll Company	4.0 star rating	525 reviews	$	            99 MacDougal St, New York, NY 10012	40.729628, -74.001029
+169	Curry Club	5.0 star rating	12 reviews	$$	            254 W 108th St, New York, NY 10025	40.802643, -73.967174
+170	Rasoi Indian Pavilion	3.5 star rating	11 reviews	$$	            235 Dekalb Ave, Brooklyn, NY 11205	40.689669, -73.969789
+171	Dosa Delight	3.5 star rating	97 reviews	$$	            3566 73rd St, Jackson Heights, NY 11372	40.749134, -73.892845
+172	Agra Restaurant	4.0 star rating	62 reviews	$$	            807 Lexington Ave, New York, NY 10021	40.764170, -73.966434
+173	Tandoor Oven	3.0 star rating	46 reviews	$$	            175 E 83rd St, New York, NY 10024	40.785572, -73.976015
+174	Yuva	3.5 star rating	88 reviews	$$$	            230 E 58th St, New York, NY 10022	40.760184, -73.965885
+175	New Bombay Masala	3.0 star rating	25 reviews	$$	            1241 Flatbush Ave, Brooklyn, NY 11226	40.640097, -73.954853
+176	Lakruwana	4.5 star rating	54 reviews	$$	            668 Bay St, Staten Island, NY 10304	40.625710, -74.075373
+177	Kanan Indian Restaurant	4.0 star rating	14 reviews	$$	            452 3rd Ave, Brooklyn, NY 11215	40.671859, -73.991016
+178	Ajanta	2.5 star rating	63 reviews	$$	            1237 Amsterdam Ave, New York, NY 10027	40.809734, -73.958647
+179	Mint	3.0 star rating	147 reviews	$$$	            150 E 50th St, New York, NY 10022	40.755798, -73.971338
+180	NY Dosas	4.5 star rating	227 reviews	$	            50 Washington Sq S, New York, NY 10014	40.730528, -73.998790
+181	Five Star Banquet & Restaurant	3.5 star rating	26 reviews	$	            13-15 43rd Ave, Long Island City, NY 11101	40.750911, -73.945867
+182	Spice Cove	3.0 star rating	172 reviews	$$	            326 E 6th St, New York, NY 10003	40.726725, -73.987348
+183	Mumbai Xpress	4.0 star rating	66 reviews	$	            256-05 Hillside Ave, Floral Park, NY 11004	40.736621, -73.711679
+184	Curry Dream	2.0 star rating	84 reviews	$$	            66 W 39th St, New York, NY 10018	40.752606, -73.985176
+185	Curry & Tandoor	3.0 star rating	28 reviews	$$	            369 Broome St, New York, NY 10013	40.720025, -73.995943
+186	Shalom Bombay	3.5 star rating	64 reviews	$$	            344 Lexington Ave, New York, NY 10016	40.749972, -73.977446
+187	Britain Indian Restaurant	3.5 star rating	22 reviews	$$	            142 Smith St, Brooklyn, NY 11201	40.687024, -73.990505
+188	Alachi Masala	3.5 star rating	76 reviews	$$	            488 Amsterdam Ave, New York, NY 10024	40.786207, -73.976489
+189	Saffron Garden	3.0 star rating	27 reviews	$$	            304 E 78th St, New York, NY 10075	40.772271, -73.955253
+190	Himalayan Yak Restaurant	4.0 star rating	182 reviews	$$	            72-20 Roosevelt Ave, Jackson Heights, NY 11372	40.746563, -73.892644
+191	Roomali	3.5 star rating	70 reviews	$	            97 Lexington Ave, New York, NY 10016	40.741808, -73.982725
+192	Raj Mahal	3.5 star rating	99 reviews	$$	            322 E 6th St, New York, NY 10003	40.726760, -73.987497
+193	Desi Food Truck	3.0 star rating	45 reviews	$	            6th Avenue and Spring street, New York, NY 10012	40.725495, -74.004054
+194	Anjappar Chettinad South Indian Cuisine	3.5 star rating	100 reviews	$$	            116 Lexington Ave, New York, NY 10016	40.742613, -73.982805
+195	Indigo Indian Bistro	3.0 star rating	54 reviews	$$	            283 Columbus Ave, New York, NY 10023	40.778247, -73.977954
+196	Sohna Punjab Restaurant	4.0 star rating	16 reviews	$$	            11710 Atlantic Ave, South Richmond Hill, NY 11419	40.693437, -73.829163
+197	Merit Kabab Palace	4.0 star rating	37 reviews	$	            37-67 74th St, Jackson Heights, NY 11372	40.747114, -73.891226
+198	Curry And Kabab	4.0 star rating	41 reviews	$$	            931 Amsterdam Ave, New York, NY 10025	40.800037, -73.965585
+199	Banana Leaf	3.5 star rating	98 reviews	$$	            227A W 28th St, New York, NY 10001	40.747927, -73.994487
+200	Cumin Indian Restaurant	3.5 star rating	47 reviews	$$	            3549 Johnson Ave, Bronx, NY 10463	40.886504, -73.909740
+201	Santoor Grill	4.0 star rating	126 reviews	$$	            25703 Union Tpke, Glen Oaks, NY 11004	40.745825, -73.714349
+202	Rajdhani Indian Restaurant	4.5 star rating	15 reviews	$	            206 12 Hillside Ave, Queens Village, NY 11427	40.721349, -73.758993
+203	Neerob	4.5 star rating	45 reviews	$	            2109 Starling Ave, Bronx, NY 10462	40.836112, -73.854678
+204	Tandoori Hut	3.5 star rating	35 reviews	$$	            119-04 94th Ave, Richmond Hill, NY 11418	40.693758, -73.827578
+205	Bombay Curry	2.5 star rating	42 reviews	$$	            525 Nostrand Ave, Brooklyn, NY 11216	40.679299, -73.949441
+206	Mitali East	3.5 star rating	95 reviews	$$	            334 E 6th St, New York, NY 10003	40.726543, -73.987050
+207	Indian Tanpura	3.5 star rating	38 reviews	$$	            564 Amsterdam Ave, New York, NY 10024	40.788685, -73.974685
+208	Copper Chimney	3.0 star rating	155 reviews	$$	            126 E 28th St, New York, NY 10016	40.742643, -73.983066
+209	Lasani Restaurant	3.5 star rating	8 reviews	None	            15 W 29th St, New York, NY 10001	40.745889, -73.987915
+210	Madina Restaurant & Sweets	3.0 star rating	37 reviews	$	            563 Coney Island Ave, Brooklyn, NY 11218	40.643568, -73.969814
+211	Bay Leaf Indian Restaurant	3.0 star rating	34 reviews	$$	            561 Flatbush Ave, Brooklyn, NY 11225	40.660053, -73.960470
+212	Desi Deli	3.0 star rating	9 reviews	$	            724 10th Ave, New York, NY 10019	40.764303, -73.991763
+213	44th Street Curry House	3.0 star rating	12 reviews	$	            160 E 44th St, New York, NY 10017	40.752131, -73.973940
+214	Royal India Palace Restaurant & Banquet Hall	3.0 star rating	17 reviews	$$	            118-06 Atlantic Ave, South Richmond Hill, NY 11419	40.693624, -73.828376
+215	New Asha Sri Lanka Restaurant	4.0 star rating	42 reviews	$	            322 Victory Blvd, Staten Island, NY 10301	40.634205, -74.085534
+216	Maharaja Indian Restaurant	3.5 star rating	6 reviews	$$	            230 E 44th St, New York, NY 10017	40.751338, -73.972190
+217	Minar Indian Restaurant	3.5 star rating	119 reviews	$	            5 W 31st St, New York, NY 10001	40.746979, -73.986411
+218	Punjabi Kabab House	3.5 star rating	20 reviews	$$	            91-52 Lefferts Blvd, Richmond Hill, NY 11418	40.698578, -73.830241
+219	Curry Heaven	3.0 star rating	92 reviews	$$	            513 Grand St, Brooklyn, NY 11211	40.711219, -73.950649
+220	Bangal Curry	3.5 star rating	26 reviews	$	            111 Church St, New York, NY 10007	40.713525, -74.008775
+221	Biriyani House	3.0 star rating	20 reviews	$	            43-45 43rd Street, Sunnyside, NY 11104	40.743855, -73.921224
+222	Paradise Biryani Pointe	3.0 star rating	20 reviews	$$	            77 Lexington Ave, New York, NY 10010	40.741211, -73.983216
+223	Desi Shack	3.5 star rating	82 reviews	$	            331 Lexington Ave, New York, NY 10016	40.749332, -73.977271
+224	Hot Clay Oven	2.5 star rating	27 reviews	$	            708 3rd Ave, New York, NY 10017	40.752432, -73.973613
+225	Jassi's World Famous Deli	3.0 star rating	17 reviews	$	            4344 21st St, Long Island City, NY 11101	40.749766, -73.946749
+226	Dosateria	3.5 star rating	11 reviews	$	            270 Greenwich St, New York, NY 10007	40.715531, -74.011469
+227	Curry Spot	4.0 star rating	37 reviews	$$	            4268 Katonah Ave, Bronx, NY 10470	40.897685, -73.867089
+228	Bombay Masala	2.5 star rating	38 reviews	$$	            148 W 49th St, New York, NY 10019	40.759967, -73.983139
+229	Bombay Fast Food	3.0 star rating	17 reviews	$	            1013 6th Ave, New York, NY 10018	40.752203, -73.986358
+230	Biryani House Cart	4.0 star rating	46 reviews	$	            140 Broadway, New York, NY 10005	40.708957, -74.010313
+231	Banjara Indian Cuisine	4.0 star rating	7 reviews	$$	            100 2nd Ave, New York, NY 10003	40.727111, -73.988342
+232	Thakali Kitchen	4.0 star rating	75 reviews	$$	            74-14 37th Ave, Jackson Heights, NY 11372	40.749010, -73.891206
+233	Madras Mahal	3.0 star rating	92 reviews	$$	            104 Lexington Ave, New York, NY 10016	40.742313, -73.983022
+234	Pak Nashamen	4.0 star rating	9 reviews	$	            3149 Coney Island Ave, Brooklyn, NY 11235	40.579242, -73.959402
+235	Rawal Rawail	3.0 star rating	5 reviews	None	            641 Lydig Ave, Bronx, NY 10462	40.854653, -73.868097
+236	Sagar Restaurant	4.0 star rating	37 reviews	$	            168-25B Hillside Ave, Jamaica, NY 11432	40.710485, -73.794303
+237	Kababish	4.0 star rating	45 reviews	$	            70-64 Broadway, Jackson Heights, NY 11372	40.747622, -73.893964
+238	Tamba Indian Grill & Bar	2.5 star rating	98 reviews	$$	            103 Lexington Ave, New York, NY 10016	40.742127, -73.982481
+239	Taste of Bengal	4.0 star rating	20 reviews	$$	            28-27 31st St, Astoria, NY 11102	40.767711, -73.920479
+240	Salt & Pepper	3.0 star rating	31 reviews	$	            139 W 33rd St, New York, NY 10001	40.750927, -73.989360
+241	Mumbai Grill	3.5 star rating	38 reviews	$$	            3733 74th St, Jackson Heights, NY 11372	40.747892, -73.891570
+242	Vatan Indian Vegetarian	4.0 star rating	223 reviews	$$$	            409 3rd Ave, New York, NY 10016	40.742300, -73.980210
+243	Kiran Indian Cuisine East	2.5 star rating	45 reviews	$$	            159 E 55th St, Manhattan, NY 10022	40.759192, -73.968908
+244	Royal Kabab & Curry	3.5 star rating	23 reviews	$$	            931 Amsterdam, New York, NY 10025	40.800037, -73.965585
+245	Indian Fast Food Cart	3.5 star rating	25 reviews	$	            Park Ave &amp; 53rd St, New York, NY 10022	40.759087, -73.972699
+246	Tangra Asian Fusion Cuisine	2.5 star rating	93 reviews	$$	            3923 Queens Blvd, Sunnyside, NY 11104	40.743361, -73.919195
+247	Bombay Sandwich Co	5.0 star rating	7 reviews	None	            27th N 6th St, Brooklyn, NY 11211	40.609170, -73.817845
+248	Brick Lane	2.5 star rating	9 reviews	$$	            142 Smith St, New York, NY 11201	40.687024, -73.990505
+249	Bukhari Restaurant	4.0 star rating	25 reviews	$	            1095 Coney Island Ave, Brooklyn, NY 11230	40.630903, -73.965993
+250	Tulsi	4.0 star rating	143 reviews	$$$	            211 E 46th St, New York, NY 10017	40.753217, -73.971822
+251	Hampton Chutney	3.5 star rating	165 reviews	$$	            464 Amsterdam Ave, New York, NY 10024	40.785411, -73.976933
+252	Khyber Indian Restaurant	3.5 star rating	15 reviews	$$	            154-03 Union Tpke, Flushing, NY 11367	40.719925, -73.809242
+253	Bombay Bistro	3.0 star rating	14 reviews	$$	            155 E 52nd St, New York, NY 10022	40.757537, -73.970334
+254	Pakistan Tea House	3.5 star rating	120 reviews	$	            176 Church St, New York, NY 10013	40.715726, -74.007643
+255	Kiran Indian Cuisine	2.5 star rating	88 reviews	$$	            401 W 53rd St, New York, NY 10019	40.764973, -73.988283
+256	Dawat Haute Indian Cuisine	3.5 star rating	99 reviews	$$$	            210 E 58th St, New York, NY 10022	40.760397, -73.966390
+257	Calcutta	3.0 star rating	35 reviews	$$	            324 E 6th St, New York, NY 10003	40.726734, -73.987433
+258	Bombay Grill House	2.5 star rating	36 reviews	$$	            764 9th Ave, New York, NY 10019	40.764143, -73.988055
+259	Punjab Restaurant	4.0 star rating	10 reviews	$	            691 Coney Island Ave, Brooklyn, NY 11218	40.640666, -73.968797
+260	Laziz International Inc	2.5 star rating	9 reviews	$	            134 E 27th St, New York, NY 10016	40.741926, -73.982741
+261	Punjab Palace	3.0 star rating	4 reviews	None	            11 W 30th St, Manhattan, NY 10001	40.746516, -73.987214
+262	Lahori Kabab Restaurant	3.5 star rating	33 reviews	$	            122 Lexington Ave, New York, NY 10016	40.742878, -73.982573
+263	Anando Restaurant	3.5 star rating	7 reviews	$	            29-14 36th Ave, Astoria, NY 11106	40.756955, -73.931001
+264	Vermilion	3.0 star rating	211 reviews	$$$	            480 Lexington Ave, New York, NY 10017	40.753368, -73.974445
+265	The Kati Roll Company	4.0 star rating	8 reviews	$	            140 W 46 6 Ave, New York, NY 10036	40.720501, -74.005232
+266	Ayna Agra	4.5 star rating	12 reviews	$$	            213 35 39th Ave, Bayside, NY 11361	40.765530, -73.771451
+267	Annam Brahma	4.0 star rating	38 reviews	$	            8443 164th St, Jamaica, NY 11432	40.711385, -73.800598
+268	Red Chili Indian Cafe	3.5 star rating	16 reviews	$$	            108 W 116 St, New York, NY 10026	40.802088, -73.950589
+269	Armaan Kebab	4.5 star rating	3 reviews	$	            104 William St, New York, NY 10038	40.708601, -74.007344
+270	Govinda's Vegetarian	4.5 star rating	49 reviews	$	            305 Schermerhorn St, Brooklyn, NY 11217	40.687579, -73.982114
+271	Sodesh	4.0 star rating	11 reviews	None	            3111 Bainbridge Ave, Bronx, NY 10467	40.875008, -73.879481
+272	Sagar Chinese	3.5 star rating	29 reviews	$$	            87-47 Homelawn St, Jamaica, NY 11432	40.711566, -73.792988
+273	Maurya of Queens Restaurant	3.5 star rating	4 reviews	$$	            10239 Queens Blvd, Forest Hills, NY 11375	40.719030, -73.839095
+274	Trini Paki Boys Cart	4.0 star rating	38 reviews	$	            43rd St &amp; 6th Ave, New York, NY 10036	40.755515, -73.983623
+275	44th Street Minar	2.5 star rating	10 reviews	$	            160 E 44th St, New York, NY 10017	40.752131, -73.973940
+276	Raja Sweets & Fast Food	4.0 star rating	29 reviews	$	            7231 37th Ave, Jackson Heights, NY 11372	40.748893, -73.892863
+277	Haandi Restaurant	3.0 star rating	123 reviews	$	            113 Lexington Ave, New York, NY 10016	40.742389, -73.982361
+278	Cafe Spice Express	2.5 star rating	39 reviews	$$	            109 E 42nd St, New York, NY 10017	40.751832, -73.976451
+279	Samossa Bites	3.5 star rating	5 reviews	$$	            35-27 31st St, Long Island City, NY 11106	40.757283, -73.928761
+280	Bombay Deli Pizza & Tandoori Restaurant	4.0 star rating	4 reviews	$	            367 W. 36th St., New York, NY 10018	40.754577, -73.994949
+281	Achar	3.5 star rating	8 reviews	$$	            1365 1st Ave, New York, NY 10021	40.768825, -73.955604
+282	Shahi Biryani & Grill	3.0 star rating	24 reviews	$$	            71 W 109th St, Manhattan, NY 10025	40.801161, -73.961087
+283	Kebab & Curry In A Hurry	2.5 star rating	8 reviews	None	            2409 2nd Ave, New York, NY 10035	40.801941, -73.934597
+284	Taj Restaurant	3.0 star rating	97 reviews	$$	            310 E 6th St, New York, NY 10003	40.726943, -73.988116
+285	Hyderabad Goat Kacchi Biryani	3.5 star rating	3 reviews	$	            6th-7th Aves N, 50th St, New York, NY	40.626559, -73.979341
+286	India House	3.5 star rating	7 reviews	$$	            586 Nostrand Ave, New York, NY 11216	40.678714, -73.949873
+287	Venue Bar Restaurant	4.5 star rating	35 reviews	$$	            119-30 Metropolitan Ave, Kew Gardens, NY 11415	40.705648, -73.830954
+288	Apna Taj	3.5 star rating	22 reviews	$$	            159 E 55th St, New York, NY 10022	40.759302, -73.968787
+289	Tamarind	3.0 star rating	21 reviews	$$	            424 Amsterdam Ave, New York, NY 10024	40.784163, -73.977919
+290	Masala Junction	3.5 star rating	2 reviews	$$	            48 W 48 St, New York, NY 10036	40.757994, -73.980404
+291	Sapthagiri Taste Of India	4.0 star rating	147 reviews	$	            804 Newark Ave, Jersey City, NJ 07306	40.735838, -74.065082
+292	Tawa Tandor	3.0 star rating	4 reviews	None	            49 74th St, New York, NY 11372	40.747686, -73.891479
+293	Karma Kafe	4.0 star rating	233 reviews	$$	            505 Washington St, Hoboken, NJ 07030	40.742384, -74.029089
+294	Cafe Himalaya	4.0 star rating	272 reviews	$	            78 E 1st St, New York, NY 10009	40.723225, -73.987932
+295	Cafe Matt & Meera	4.0 star rating	125 reviews	$$	            618 Washington St, Hoboken, NJ 07030	40.744111, -74.029223
+296	Grill 44	3.0 star rating	18 reviews	$	            160 E 44th St, New York, NY 10017	40.752131, -73.973940
+297	Greene Chutney Grill	4.0 star rating	68 reviews	$$	            105 Greene St, Jersey City, NJ 07302	40.716413, -74.035963
+298	Soho Tiffin Junction	4.5 star rating	9 reviews	$$	            42 East 8th St, Manhattan, NY 10003	40.731212, -73.994328
+299	Pongal	3.5 star rating	153 reviews	$$	            110 Lexington Ave, New York, NY 10016	40.742460, -73.982897
+300	Royal Curry & Kabab	3.5 star rating	11 reviews	$	            19-25 St. Nicholas Ave, New York, NY 10026	40.799730, -73.952799
+301	Royal Curry & Kabab	3.5 star rating	11 reviews	$	            19-25 St. Nicholas Ave, New York, NY 10026	40.799730, -73.952799
+302	Chinese Mirch	2.5 star rating	16 reviews	$	            New York, NY 10016,         </address>	40.747270, -73.980064
+303	Salt and Pepper	3.5 star rating	10 reviews	$$	            239 1st Ave, New York, NY 10003	40.731647, -73.982678
+304	Bhojan Vegetarian	3.5 star rating	265 reviews	$$	            102 Lexington Ave, New York, NY 10016	40.742266, -73.983056
+305	Diwan	4.0 star rating	3 reviews	None	            155 E 52nd St, New York, NY 10022	40.757537, -73.970334
+306	Rasoi Restaurant	3.5 star rating	149 reviews	$$	            810 Newark Ave, Jersey City, NJ 07306	40.735808, -74.065378
+307	Indian Curry Express	2.5 star rating	34 reviews	$$	            131-09 Jamaica Ave, New York, NY 11418	40.702092, -73.820827
+308	Maharaja Sweets & Snacks	4.0 star rating	46 reviews	$	            7310 37th Ave, Jackson Heights, NY 11372	40.748889, -73.892382
+309	Tadka	2.5 star rating	5 reviews	$	            118-05 101 Avenue, Richmond hill, NY 11419	40.690025, -73.826697
+310	Silver Krust West Indian Restauarant & Grill	3.5 star rating	4 reviews	$	            9001 Avenue A, Brooklyn, NY 11236	40.651411, -73.917988
+311	Indian Tandoor Oven	4.0 star rating	5 reviews	None	            175 E 83rd Street, New York, NY 10028	40.777102, -73.955774
+312	Usha Foods Inc	4.0 star rating	34 reviews	$	            255-03 Hillside Ave, Floral Park, NY 11004	40.736585, -73.712686
+313	Trinciti Roti Shop & Restaurant	4.0 star rating	44 reviews	$	            111-05 Lefferts Blvd, Ozone Park, NY 11420	40.680337, -73.820944
+314	Gloria's West Indian Food	3.5 star rating	46 reviews	$	            987 Nostrand Ave, Brooklyn, NY 11225	40.664122, -73.950875
+315	Roti Boti	3.5 star rating	51 reviews	$	            2709 21st St, Astoria, NY 11102	40.771964, -73.926134
+316	Touch Of Spice	4.0 star rating	57 reviews	$$	            4114 Park Ave, Weehawken, NJ 07086	40.775001, -74.020005
+317	Raga	2.5 star rating	46 reviews	$$	            142 Smith St, Brooklyn, NY 11201	40.687024, -73.990505
+318	Tikka Garden	3.5 star rating	16 reviews	$	            16837 Hillside Ave, Jamaica, NY 11432	40.710767, -73.793662
+319	CAS West Indian Resturaunt	4.0 star rating	1 review	None	            135 Kingston Ave, Brooklyn, NY 11213	40.675252, -73.941384
+320	Shandar Sweet & Restaurant	4.5 star rating	9 reviews	$	            679 Coney Island Ave, Brooklyn, NY 11218	40.640937, -73.968889
+321	Tandoor Indian Restaurant & Bar	4.5 star rating	2 reviews	$$	            236-03 Braddock Ave, Bellerose, NY 11426	40.727429, -73.731295
+322	Bombay Express	3.0 star rating	26 reviews	$$	            764 9th Ave, New York, NY 10019	40.764143, -73.988055
+323	Mausam Indian Cuisine	3.5 star rating	67 reviews	$$	            1150 Paterson Plank Rd, Secaucus, NJ 07094	40.786577, -74.052548
+324	Tikka Grill	4.0 star rating	14 reviews	$	            2402 82nd St, Jackson Heights, NY 11370	40.764619, -73.887135
+325	Mughal Indian Restaurant	1.5 star rating	8 reviews	$$$	            75th and Columbus Avenue, New York, NY 10023	40.779364, -73.977369
+326	Swaad Indian Restaurant	4.5 star rating	4 reviews	$$	            2914 36th Ave, Astoria, NY 11106	40.757022, -73.930944
+327	True Flavorz	5.0 star rating	2 reviews	$	            1073 Liberty Ave, Brooklyn, NY 11208	40.678552, -73.869610
+328	Flavor of India	3.0 star rating	26 reviews	$$	            259-17 Hillside Ave, Glen Oaks, NY 11004	40.737536, -73.708587
+329	Mashallah Sweets & Restaurant	5.0 star rating	8 reviews	$	            663 Coney Island Ave, Brooklyn, NY 11218	40.641248, -73.969023
+330	Chaska	4.0 star rating	29 reviews	$$	            826 Newark Ave, Jersey City, NJ 07306	40.735957, -74.066062
+331	Savoury Indian Restaurant	4.5 star rating	8 reviews	$$	            489 Columbus Ave, New York, NY 10024	40.784756, -73.973009
+332	Express Power Lunch	4.0 star rating	33 reviews	$	            Wall St &amp; Pearl St, New York, NY 10041	40.705533, -74.007916
+333	Kamal Palace	4.0 star rating	69 reviews	$$	            623 Ridge Rd, North Arlington, NJ 07031	40.798552, -74.125981
+334	Jackson Heights Food Court	4.5 star rating	9 reviews	$	            73-07 37th Rd, Jackson Heights, NY 11372	40.747334, -73.890710
+335	Jackson Diner	3.5 star rating	14 reviews	$$	            256-01 Hillside Ave, Floral Park, NY 11004	40.736892, -73.711575
+336	Asha Indian Food	1.5 star rating	5 reviews	None	            151 E 103rd St, New York, NY 10029	40.790276, -73.947220
+337	Amiya Restaurant	3.0 star rating	94 reviews	$$	            160 Greene St, Plz 5, Jersey City, NJ 07311	40.322593, -74.125348
+338	Taj Mahal Restaurant & Party Hall	3.5 star rating	40 reviews	$	            14801 Hillside Ave, Jamaica, NY 11435	40.706284, -73.808793
+339	Kinara Indian Restaurant	3.5 star rating	78 reviews	$$	            880 River Rd, Edgewater, NJ 07020	40.825436, -73.974932
+340	Raaz	3.5 star rating	72 reviews	$$	            537 Washington Blvd, Jersey City, NJ 07310	40.727534, -74.034931
+341	Shangri-La	3.5 star rating	8 reviews	$$	            74-15 Roosevelt Ave, Jackson Heights, NY 11372	40.747028, -73.889905
+342	The Halal Guys	4.5 star rating	4716 reviews	$	            6th Ave &amp; W 53rd St, New York, NY 10019	40.761788, -73.979084
+343	Kabab King	3.0 star rating	104 reviews	$	            7301 37th Rd, Jackson Heights, NY 11372	40.747343, -73.890638
+344	Chinese Mirch	3.0 star rating	339 reviews	$$	            120 Lexington Ave, New York, NY 10016	40.742842, -73.982628
+345	Sohna Punjab Indian Restaurant	3.5 star rating	30 reviews	$$	            248-03 Union Tpke, Bellerose, NY 11426	40.742450, -73.721931
+346	Sukhadia's Gokul	2.5 star rating	28 reviews	$	            17 W 45th St, New York, NY 10036	40.756012, -73.980306
+347	Surya Sweets and Snacks	4.5 star rating	9 reviews	$	            250-18 Hillside Ave, Queens, NY 11426	40.735454, -73.716993
+348	Punjabi Tadka	4.0 star rating	1 review	None	            688 10th Ave, New York, NY 10019	40.763467, -73.992304
+349	Punjabi Virsa	3.0 star rating	6 reviews	$$	            11805 101 Ave, Queens, NY 11419	40.690025, -73.826697
+350	Curry & Curry	3.0 star rating	45 reviews	$$	            153 E 33rd St, New York, NY 10016	40.745642, -73.979383
+351	Veronica's Kitchen	4.0 star rating	78 reviews	$	            Water Street between Pine and Wall St, New York, NY 10005	40.706001, -74.008819
+352	Dakshin	4.0 star rating	3 reviews	$$$	            741 9th Ave, New York, NY 10019	40.763721, -73.989186
+353	Kashmir Restaurant	2.5 star rating	20 reviews	$	            601 8th Ave, New York, NY 10018	40.755652, -73.991352
+354	Bombay Chat	3.5 star rating	5 reviews	$	            73-19 37th Rd, Jackson Heights, NY 11372	40.747325, -73.891804
+355	Namaste Tashi Delek Momo Dumpling Palace	4.0 star rating	20 reviews	$	            37-67 74 St, Jackson Heights, NY 11372	40.747114, -73.891226
+356	Dhoom Restaurant And Bar	4.0 star rating	30 reviews	$$	            217 Route 3 East, Secaucus, NJ 07094	40.791743, -74.055613
+357	Mithaas	3.5 star rating	34 reviews	$$	            795 Newark Ave, Jersey City, NJ 07306	40.735376, -74.064869
+358	Taste of Cochin	3.5 star rating	26 reviews	$$	            248-08 Union Turnpike, Bellrose, NY 11426	40.742431, -73.721518
+359	Lali Guras	4.0 star rating	17 reviews	$	            3763 76th St, Jackson Heights, NY 11372	40.749027, -73.889943
+360	Windies Restaurant & Bar	4.5 star rating	7 reviews	None	            21606 Jamaica Ave, Queens Village, NY 11428	40.717313, -73.738471
+361	Green Symphony	4.0 star rating	202 reviews	$	            255 W 43rd St, New York, NY 10036	40.757735, -73.988540
+362	New Shezan Restaurant	3.5 star rating	7 reviews	$	            183 Church St, New York, NY 10007	40.715661, -74.007032
+363	Punjabi Food Express	3.5 star rating	7 reviews	$	            203 E Houston St, New York, NY 10002	40.722248, -73.987438
+364	Sammy's Halal	4.0 star rating	201 reviews	$	            73rd St and Broadway, Jackson Heights, NY 11372	40.747115, -73.892413
+365	Tandoori Chef	4.0 star rating	78 reviews	$$	            260D Main St, Hackensack, NJ 07601	40.886494, -74.041535
+366	Jenny's Roti Shop	4.5 star rating	2 reviews	None	            1262 Castle Hill Ave, Bronx, NY 10462	40.833793, -73.851149
+367	Himalaya Kitchen	3.5 star rating	14 reviews	$	            86-08 Whitney Ave, Elmhurst, NY 11373	40.741680, -73.878691
+368	Brick Lane Curry House	4.0 star rating	121 reviews	$$	            540 Valley Rd, Upper Montclair, NJ 07043	40.838115, -74.207384
+369	Taste of India	3.5 star rating	63 reviews	$	            30 Mall Dr W, Jersey City, NJ 07310	40.727051, -74.038493
+370	Thali	4.0 star rating	10 reviews	$$	            30 Mall Dr W, Jersey City, NJ 07302	40.727051, -74.038493
+371	Tadka Fine Indian Cuisine	3.5 star rating	24 reviews	$$	            1297 Paterson Plank Rd, Secaucus, NJ 07094	40.790274, -74.058033
+372	Gandhi	3.0 star rating	83 reviews	$$	            345 E 6th St, New York, NY 10003	40.726654, -73.986421
+373	Gourmet Sweets & Restaurant	3.5 star rating	18 reviews	$	            72-08 Broadway, Jackson Heights, NY 11372	40.747354, -73.893309
+374	Tawa Food	4.0 star rating	28 reviews	$	            3738 72nd St, Jackson Heights, NY 11372	40.750810, -73.893969
+375	Sri Ganesh's Dosa House	4.0 star rating	53 reviews	$	            809 Newark Avenue, Jersey City, NJ 07306	40.735435, -74.065353
+376	Balkh Shish Kabab House	4.0 star rating	71 reviews	$$	            2310 31st  St, Astoria, NY 11105	40.774164, -73.913294
+377	Desi Junction	3.5 star rating	4 reviews	$	            688 10th Ave, New York, NY 10019	40.763467, -73.992304
+378	Sonali Indian Restaurant	2.5 star rating	3 reviews	None	            326 E 6th St, New York, NY 10003	40.726725, -73.987348
+379	Otarian	3.0 star rating	148 reviews	$$	            947 8th Ave, New York, NY 10019	40.766078, -73.983763
+380	Restaurant Joy	5.0 star rating	1 review	None	            127 E 28th St Frnt, New York, NY 10016	40.747270, -73.980064
+381	Bhoj	4.0 star rating	99 reviews	$$	            430 Market St, Elmwood Park, NJ 07407	40.898630, -74.112453
+382	Hoboken Dhaba	3.5 star rating	45 reviews	$$	            630 Washington St, Hoboken, NJ 07030	40.744418, -74.029238
+383	Joy Curry & Tandoor	4.0 star rating	2 reviews	$$	            32 W 39th St, New York, NY 10018	40.752090, -73.983969
+384	Sunshine Restaurant and Sweets	3.5 star rating	11 reviews	$	            6915 Northern Blvd, Woodside, NY 11377	40.754477, -73.896818
+385	GangJong Kitchen	4.0 star rating	8 reviews	$	            72 24 Roosevelt Ave, Jackson Heights, NY 11373	40.746687, -73.892660
+386	Yemen Cafe	4.0 star rating	116 reviews	$$	            176 Atlantic Ave, Brooklyn, NY 11201	40.689830, -73.993699
+387	Kitchen of Punjab	5.0 star rating	1 review	None	            95-04 Van Wyck Expy, South Richmond Hill, NY 11419	40.695997, -73.813586
+388	A Saffron Thread Fresh Indian	2.0 star rating	7 reviews	$$	            98 Chambers St, New York, NY 10007	40.714625, -74.007766
+389	Your Village Roti Shop	4.0 star rating	8 reviews	$	            21161 Jamaica Ave, Queens Village, NY 11428	40.715845, -73.747413
+390	Brick Lane Restaurant	2.5 star rating	2 reviews	None	            142 Smith St, New York, NY 11201	40.687024, -73.990505
+391	Mithaas	4.0 star rating	6 reviews	$	            1150 Coney Island, Brooklyn, NY 11230	40.575325, -73.979835
+392	Cafe 22	4.5 star rating	6 reviews	$	            5 Times Sq, New York, NY 10036	40.755893, -73.987526
+393	Ariana Afghan Kebab Restaurant	4.0 star rating	206 reviews	$$	            787 9th Ave, New York, NY 10019	40.765131, -73.988100
+394	Taj Mahal Indian Restaurant	2.5 star rating	23 reviews	$$	            135 N 5th St, Brooklyn, NY 11211	40.717026, -73.959179
+395	Chatni	4.0 star rating	79 reviews	$$	            381 Bloomfield Ave, Montclair, NJ 07042	40.812698, -74.215503
+396	Paradise Biryani Pointe	2.5 star rating	27 reviews	$$	            76-05 37th Ave, Jackson Heights, NY 11372	40.749203, -73.889631
+397	Cuisine Of Pakistan	3.5 star rating	59 reviews	$	            478 9th Ave, New York, NY 10018	40.754978, -73.994851
+398	Phayul	4.0 star rating	60 reviews	$$	            37-65 74th St, Jackson Heights, NY 11372	40.747163, -73.891236
+399	Clove Indian Cuisine	3.5 star rating	45 reviews	$$	            51 Rt 17 S, East Rutherford, NJ 07073	40.826399, -74.095168
+400	Bownie Restaurant	3.5 star rating	11 reviews	$	            14305 45th Ave, Flushing, NY 11355	40.753980, -73.818194
+401	Kati Junction	4.0 star rating	11 reviews	$	            200 W 40th St, New York, NY 10018	40.754852, -73.988510
+402	Dosa Cart	3.5 star rating	6 reviews	None	            Broadway between 115th &amp; 116th, New York, NY 10027	40.813891, -73.962433
+403	Taj Lounge	3.0 star rating	227 reviews	$$$	            48 W 21st St, New York, NY 10010	40.741004, -73.992914
+404	Golden Punjab	3.5 star rating	4 reviews	$	            13002 101st St, South Richmond Hill, NY 11419	40.692278, -73.816814
+405	Niahmah	3.5 star rating	27 reviews	$$	            787 Prospect Pl, Crown Heights, NY 11216	40.674345, -73.950415
+406	Golden Grill	3.5 star rating	3 reviews	None	            120-23 Atlantic Ave, Queens, NY 11418	40.694574, -73.826580
+407	Shadman Indian Restaurant	3.0 star rating	62 reviews	$	            293 1/2 Grove St, Jersey City, NJ 07302	40.718455, -74.043908
+408	New Green Leaf Inc	1.5 star rating	5 reviews	None	            651 Manhattan Ave, Brooklyn, NY 11222	40.724339, -73.951338
+409	Homemade Falafel	4.0 star rating	38 reviews	$	            36-18 Broadway, Astoria, NY 11106	40.759780, -73.920733
+410	Blue Nile West Indian & American Cuisine	4.0 star rating	4 reviews	$	            621 Flatbush Ave, Brooklyn, NY 11225	40.658221, -73.960179
+411	Star of India Restaurant	4.0 star rating	64 reviews	$$	            496 Blvd, Kenilworth, NJ 07033	40.675978, -74.292471
+412	Red Bamboo	4.0 star rating	909 reviews	$$	            140 W 4th St, New York, NY 10012	40.731150, -74.000453
+413	Chinese Mirch	3.5 star rating	3 reviews	None	            120 Lexington Ave, Manhattan, NY 10016	40.742842, -73.982628
+414	DiwaneKhaas	2.0 star rating	10 reviews	$	            26-28 Cedar St, New York, NY 10005	40.707041, -74.008257
+415	Glen's Pizza and Indian Food	4.0 star rating	4 reviews	$	            151 E 103rd St, New York, NY 10029	40.790276, -73.947220
+416	Ghoroa	4.0 star rating	8 reviews	None	            16841 Hillside Ave, Jamaica, NY 11432	40.710822, -73.793535
+417	Nanking Restaurant	3.5 star rating	16 reviews	$$	            134-07 Rockaway Blvd, South Ozone Park, NY 11420	40.674833, -73.803977
+418	Satish Palace Indian Restaurant	3.5 star rating	55 reviews	$$	            397 Bloomfield Ave, Montclair, NJ 07042	40.812693, -74.215957
+419	Eggomania	5.0 star rating	11 reviews	$	            14 Liberty Ave, Jersey City, NJ 07306	40.736177, -74.064872
+420	Natraj Palace Restaurant	3.5 star rating	44 reviews	$$	            338 Broad St, Bloomfield, NJ 07003	40.805255, -74.193709
+421	Hurry & Tasty Curry	1.0 star rating	2 reviews	$	            133 E 45th St, New York, NY 10017	40.753366, -73.974107
+422	Red Rooster	3.5 star rating	960 reviews	$$$	            310 Lenox Ave, New York, NY 10027	40.808057, -73.944914
+423	Hummus Kitchen	4.0 star rating	215 reviews	$$	            1613 2nd Ave, New York, NY 10028	40.776437, -73.953115
+424	Zaffran	3.5 star rating	7 reviews	$	            90 Church Ave, Brooklyn, NY 11218	40.642355, -73.979884
+425	Feroza's Restaurant Roti	4.0 star rating	22 reviews	$	            716 Burke Ave, Bronx, NY 10467	40.871419, -73.866536
+426	Gobo Restaurant	4.0 star rating	430 reviews	$$	            401 Avenue of the Americas, New York, NY 10014	40.733425, -73.999886
+427	Arya Bhavan	4.0 star rating	13 reviews	$	            561 Cedar Ln, Teaneck, NJ 07666	40.890282, -74.025444
+428	Egg O' Mania	4.5 star rating	8 reviews	$	            14 Liberty Ave, Jersey City, NJ 07306	40.736177, -74.064872
+429	Mantra	2.5 star rating	30 reviews	$$	            253 Washington St, Jersey City, NJ 07302	40.716441, -74.037879
+430	Taste Of Lahore	3.0 star rating	12 reviews	$$	            73-10 Northern Blvd, Jackson Heights, NY 11372	40.754596, -73.893333
+431	Fatima's	4.0 star rating	108 reviews	$	            25-25 Broadway, Astoria, NY 11106	40.763256, -73.927501
+432	Hyderabadi Restaurant	3.5 star rating	5 reviews	$$	            64-02 35th Ave, Woodside, NY 11377	40.750112, -73.898480
+433	New Kerala Kitchen	3.5 star rating	13 reviews	$$	            267-05 Hillside Ave, Glen Oaks, NY 11004	40.739023, -73.701678
+434	LuAnne's Wild Ginger All-Asian Vegan	4.0 star rating	392 reviews	$$	            380 Broome St, New York, NY 10013	40.720629, -73.996394
+435	Deccan Spice	3.0 star rating	43 reviews	$$	            771 Newark Ave, Jersey City, NJ 07306	40.735229, -74.063850
+436	Sahara Halal Food Cart	4.0 star rating	27 reviews	$	            107-16 71st Ave, Forest Hills, NY 11375	40.720443, -73.844168
+437	Tsampa	4.0 star rating	238 reviews	$$	            212 E 9th St, New York, NY 10003	40.729618, -73.988789
+438	Szechuan Gourmet	3.5 star rating	529 reviews	$$	            21 W 39th St, New York, NY 10018	40.752335, -73.983568
+439	Mantra	3.5 star rating	80 reviews	$$	            275 W State Rt 4, Paramus, NJ 07652	40.914826, -74.049622
+440	New Delhi Palace	4.0 star rating	12 reviews	$$	            108 S State St, Hackensack, NJ 07601	40.874578, -74.047983
+441	Seven Rivers of India	3.0 star rating	6 reviews	$	            203 E Houston St, New York, NY 10002	40.722248, -73.987438
+442	Fahima Halal	4.0 star rating	6 reviews	$	            Corner of 47th and 3rd, Manhattan, NY 10036	40.753932, -73.972122
+443	Mausam Indian Cuisine	4.0 star rating	30 reviews	$$	            379 Bloomfeild Ave, Montclair, NJ 07042	40.812679, -74.215396
+444	Java Indonesian Restaurant	3.5 star rating	81 reviews	$$	            455 7th Ave, Brooklyn, NY 11215	40.662645, -73.984777
+445	Mausam Curry N Bites	3.0 star rating	10 reviews	$	            1150 Paterson Plank Rd, Midtown, NY 10022	40.762493, -74.045174
+446	Tandoori Chef 2	4.0 star rating	34 reviews	$$	            6 Highland Pl, Maplewood, NJ 07040	40.731060, -74.278485
+447	Dera Restaurant	3.0 star rating	58 reviews	$	            7209 Broadway, Jackson Heights, NY 11372	40.747737, -73.893518
+448	Blossom	4.0 star rating	517 reviews	$$$	            187 9th Ave, New York, NY 10011	40.745518, -74.002359
+449	Lucky Sweets & Restaurant	3.0 star rating	4 reviews	$	            3310 36th Ave, Astoria, NY 11106	40.755503, -73.927918
+450	Hangawi	4.0 star rating	514 reviews	$$$	            12 E 32nd St, New York, NY 10016	40.746541, -73.984802
+451	Anita's Roti Shop	4.5 star rating	6 reviews	$	            10613 Guy R Brewer Blvd, Jamaica, NY 11433	40.699457, -73.793002
+452	Dhaka Sweets & Restaurant Inc	4.0 star rating	10 reviews	None	            16832 Hillside Ave, Jamaica, NY 11432	40.710334, -73.793629
+453	Kerala Masala Hut	4.0 star rating	1 review	None	            246-01 Jericho Tpke, Bellerose, NY 11426	40.725106, -73.722048
+454	Al Naimat Restaurant & Sweets	4.0 star rating	45 reviews	$	            3703 74th St, Jackson Heights, NY 11372	40.748803, -73.891528
+455	S & A West Indian Restaurant	5.0 star rating	4 reviews	None	            10306 Liberty Ave, Ozone Park, NY 11417	40.681522, -73.837445
+456	Southern Spice	4.0 star rating	59 reviews	$$	            1635 Hillside Ave, New Hyde Park, NY 11040	40.749154, -73.684136
+457	Larosh	2.0 star rating	7 reviews	$$	            37 E 29th St, Manhattan, NY 10016	40.744448, -73.984279
+458	Neelam Exotic Indian Cuisine	3.5 star rating	27 reviews	$$	            115 S Orange Ave, South Orange, NJ 07079	40.747359, -74.262194
+459	Talk of the Town	3.5 star rating	33 reviews	$$	            37-21 72nd St, Jackson Heights, NY 11372	40.748003, -73.893707
+460	Halal Cart	4.5 star rating	3 reviews	None	            41st &amp; Madison, New York, NY 10017	40.752141, -73.979782
+461	Larosh	2.0 star rating	7 reviews	$$	            37 E 29th St, Manhattan, NY 10016	40.744448, -73.984279
+462	Natural Blend	4.5 star rating	54 reviews	$	            769A Washington Ave, Brooklyn, NY 11238	40.673752, -73.962808
+463	King of Falafel & Shawarma	4.5 star rating	339 reviews	$	            30th St &amp; Broadway, Astoria, NY 11106	40.762363, -73.926172
+464	Candle 79	4.0 star rating	661 reviews	$$$	            154 E 79th St, New York, NY 10075	40.774625, -73.958731
+465	Afghan Kebab House II	4.0 star rating	91 reviews	$$	            1345 2nd Ave, New York, NY 10021	40.768076, -73.959249
+466	Kultural Kuisines	3.5 star rating	29 reviews	$	            2986 John F Kennedy Blvd, Jersey City, NJ 07306	40.734981, -74.062780
+467	Kabab King Palace	3.0 star rating	7 reviews	$	            7415 Roosevelt Ave, Jackson Heights, NY 11372	40.747256, -73.885853
+468	Jacob Restaurant	4.0 star rating	125 reviews	$	            373 Lenox Ave, New York, NY 10027	40.810303, -73.944043
+469	Blaue Gans	4.0 star rating	191 reviews	$$$	            139 Duane St, New York, NY 10013	40.716508, -74.007628
+470	BBQ Village Palace	3.0 star rating	10 reviews	$	            18112  Hillside Ave, Jamaica, NY 11432	40.713241, -73.781303
+471	Dirt Candy	4.0 star rating	383 reviews	$$$	            430 E 9th St, New York, NY 10009	40.727397, -73.983645
+472	M Shanghai Bistro & Garden	3.5 star rating	282 reviews	$$	            292 Grand St, Brooklyn, NY 11211	40.712900, -73.957662
+473	Chennai Flavors	3.0 star rating	18 reviews	$$	            827 Newark Ave, Jersey City, NJ 07306	40.735690, -74.066088
+474	Indo Pak Halal Restaurant	3.0 star rating	13 reviews	$	            2173 2nd Ave, New York, NY 10029	40.794314, -73.939979
+475	Starlight Grill Restaurant & Sweet Corp	3.5 star rating	7 reviews	$	            8002 Astoria Blvd, East Elmhurst, NY 11370	40.764923, -73.888800
+476	Citrus Restaurant	4.5 star rating	36 reviews	$$	            555 Passaic Ave, West Caldwell, NJ 07006	40.850245, -74.296497
+477	Siggy's Good Food	4.5 star rating	137 reviews	$$	            292 Elizabeth St, New York, NY 10012	40.724755, -73.993146
+478	Sonu Da Dhaba	4.0 star rating	39 reviews	$$	            825 Hwy 1 S, Iselin, NJ 08830	40.565246, -74.299339
+479	Sunshine Restaurant Food & Catering	4.0 star rating	5 reviews	$	            18510 Hillside Ave, Jamaica, NY 11432	40.714119, -73.776534
+480	Alauddin Sweet Meat USA	3.5 star rating	4 reviews	$	            3714 73rd St, Flushing, NY 11372	40.748392, -73.893010
+481	Joy of India	5.0 star rating	1 review	None	            127 E 28th St Frnt, New York, NY 10016	40.747270, -73.980064
+482	Novelty Indian Restaurant	5.0 star rating	4 reviews	$	            110-15 101 Ave, New York, NY 11419	40.688142, -73.833244
+483	Wild Ginger	4.0 star rating	265 reviews	$$	            212 Bedford Ave, Brooklyn, NY 11249	40.716982, -73.958859
+484	Curry King	3.0 star rating	6 reviews	$$	            942 Columbus Ave, New York, NY 10025	40.799581, -73.963014
+485	Mamtaj Mahal	2.5 star rating	19 reviews	$$	            135B N 5th St, Brooklyn, NY 11211	40.717026, -73.959179
+486	Ghoroa Sweets & Restaurant	3.0 star rating	9 reviews	$	            478 McDonald Ave, Brooklyn, NY 11218	40.642381, -73.979707
+487	Bamiyan	3.5 star rating	123 reviews	$$	            358 3rd Ave, New York, NY 10016	40.740965, -73.981994
+488	Punjab On Third	3.0 star rating	1 review	None	            220 3rd Avenue, New York, NY 10003	40.736362, -73.985267
+489	King of the Chaat	4.5 star rating	2 reviews	None	            123 MacDougal, New York, NY 11233	40.679800, -73.917018
+490	Taim	4.5 star rating	964 reviews	$	            222 Waverly Pl, New York, NY 10014	40.735985, -74.001970
+491	Island Roti Bakery Shop	4.5 star rating	4 reviews	$	            65 Victory Blvd, Staten Island, NY 10301	40.638242, -74.078275
+492	Dhaka Garden	3.5 star rating	6 reviews	None	            7223 37th Ave, Jackson Heights, NY 11372	40.749065, -73.892934
+493	Khyber Pass Restaurant	3.5 star rating	223 reviews	$$	            34 St. Marks Pl, New York, NY 10003	40.728639, -73.988361
+494	Shah Taj	3.0 star rating	21 reviews	$$	            287 Grove St, Jersey City, NJ 07302	40.718139, -74.044071
+495	Hindu Temple Society of North America	4.0 star rating	13 reviews	$	            14307 Holly Ave, Flushing, NY 11355	40.752569, -73.816594
+496	Nawab Pakistani - Indian Cuisine	4.5 star rating	28 reviews	$$	            2 Hudson St, Yonkers, NY 10701	40.933298, -73.898969
+497	108 Mini Cafe	3.0 star rating	1 review	None	            196 W 108th St, New York, NY 10025	40.801505, -73.964511
+498	Vatan	3.5 star rating	28 reviews	$$	            839 Newark Ave, Jersey City, NJ 07306	40.735596, -74.066608
+499	The Buffet	3.5 star rating	144 reviews	$$$	            20-07 127th St, Flushing, NY 11356	40.781281, -73.840995
+500	Tawa & Wok	2.5 star rating	14 reviews	$$	            608 Grove St, Jersey City, NJ 07310	40.732247, -74.040868
+501	Coromandel Cuisine of India	4.0 star rating	63 reviews	$$	            30 Division St, New Rochelle, NY 10801	40.908978, -73.783654
+502	World's Fair Marina Restaurant & Banquet	3.0 star rating	9 reviews	$$	            1 Worlds Fair Marina, Flushing, NY 11368	40.759941, -73.849168
+503	Shahi Darbar Haute Cuisine of India	3.0 star rating	15 reviews	None	            83-47 258th St, Glen Oaks, NY 11004	40.737438, -73.710103
+504	Diwan	4.0 star rating	44 reviews	$$	            37 Shore Rd, Port Washington, NY 11050	40.835810, -73.701120
+505	Hawkers	3.0 star rating	155 reviews	$$	            225 E 14th St, New York, NY 10003	40.733088, -73.985979
+506	Sagar Chinese	3.0 star rating	26 reviews	$$	            252-05 Union Tpke, Bellerose, NY 11426	40.743714, -73.718343
+507	Rockaway Roti Shop	3.0 star rating	5 reviews	None	            12221 Rockaway Blvd, South Ozone Park, NY 11420	40.674600, -73.804332
+508	Sally's West Indian Restaurant III	3.0 star rating	12 reviews	$$	            1574 Ralph Avenue, Brooklyn, NY 11236	40.638656, -73.919322
+509	Lan Cafe	4.0 star rating	187 reviews	$	            342 E 6th St, New York, NY 10003	40.726459, -73.986646
+510	Khaabar Baari Restaurant	2.5 star rating	7 reviews	$$	            3722 73rd Street, Jackson Heights, NY 11372	40.748188, -73.892971
+511	Urban Thadka	3.0 star rating	1 review	None	            48th &amp; 10 Ave, New York, NY 10019	40.763431, -73.992699
+512	Gobo	4.0 star rating	284 reviews	$$	            1426 3rd Ave, New York, NY 10028	40.775589, -73.956614
+513	Dosa Hut	3.5 star rating	43 reviews	$	            777 Newark Ave, Jersey City, NJ 07306	40.735256, -74.064073
+514	Terri	4.0 star rating	473 reviews	$$	            60 W 23rd St, New York, NY 10010	40.742561, -73.992267
+515	Kitchenette Uptown	3.5 star rating	394 reviews	$$	            1272 Amsterdam Ave, New York, NY 10027	40.811223, -73.958148
+516	Maya's Lounge	2.0 star rating	5 reviews	$$	            14 E 33rd St, New York, NY 10016	40.747209, -73.984381
+517	Jyoti Exotic Indian Cuisine	4.0 star rating	60 reviews	$$	            24 Rt 46 E, Wayne, NJ 07470	40.892526, -74.264635
+518	Chatkhara Kabab	3.0 star rating	5 reviews	$	            4311 Main St, Flushing, NY 11355	40.752303, -73.826534
+519	Purple Ginger	3.5 star rating	106 reviews	$$	            507 E 6th St, New York, NY 10009	40.725362, -73.983309
+520	Silver Krust West Indian Restaurant & Grill	4.5 star rating	3 reviews	None	            1695 President St, Brooklyn, NY 11213	40.667014, -73.930913
+521	Desi-Sawad	2.5 star rating	2 reviews	None	            2146 Starling Avenue, Bronx, NY 10462	40.836188, -73.853675
+522	Momos & Buns	3.5 star rating	3 reviews	None	            120 Lexington Ave, New York, NY 10016	40.742842, -73.982628
+523	La Taza De Oro	4.0 star rating	129 reviews	$	            96 8th Ave, New York, NY 10011	40.740173, -74.001929
+524	Bohemian Hall & Beer Garden	4.0 star rating	774 reviews	$$	            2919 24th Ave, Astoria, NY 11102	40.772838, -73.915595
+525	Caf China	3.5 star rating	258 reviews	$$	            13 E 37th St, New York, NY 10016	40.750105, -73.982082
+526	Jing Fong Restaurant	3.5 star rating	953 reviews	$$	            20 Elizabeth St, New York, NY 10013	40.716042, -73.997033
+527	Ananda Bazaar Cafe	4.0 star rating	2 reviews	$$	            37-49 74th St, Jackson Heights, NY 11372	40.747686, -73.891479
+528	Angelica Kitchen	3.5 star rating	555 reviews	$$	            300 E 12th St, New York, NY 10003	40.730750, -73.985568
+529	Grand Indian Restaurant	4.0 star rating	15 reviews	$	            22 Columbia Ave, Bergenfield, NJ 07621	40.936058, -73.996129
+530	Moustache Pitza	3.5 star rating	215 reviews	$$	            90 Bedford St, New York, NY 10014	40.732217, -74.005212
+531	Nanking Restaurant Jersey City	2.0 star rating	126 reviews	$$	            101 Hudson St, Jersey City, NJ 07302	40.716153, -74.034672
+532	Kashmir Grill	4.0 star rating	10 reviews	$$	            781 Ave E, Bayonne, NJ 07002	40.681283, -74.100618
+533	Shaheen Sweets	4.0 star rating	13 reviews	$	            7209 Broadway, Jackson Heights, NY 11372	40.747737, -73.893518
+534	Quantum Leap	4.0 star rating	322 reviews	$$	            226 Thompson St, New York, NY 10012	40.729202, -73.998851
+535	Arepas Cafe	4.0 star rating	393 reviews	$	            33-07 36th Ave, Astoria, NY 11106	40.755755, -73.927737
+536	Lak Bojun	4.5 star rating	4 reviews	$	            324 Victory Blvd, Staten Island, NY 10301	40.634048, -74.085414
+537	Jay's	4.0 star rating	1 review	None	            133 Rockaway Avenue, Brooklyn, NY 11233	40.678096, -73.910462
+538	Maoz Vegetarian	4.0 star rating	251 reviews	$	            558 7th Ave, New York, NY 10018	40.754700, -73.988196
+539	Dimple's Bombay Talk	4.0 star rating	66 reviews	$	            1358 Oak Tree Rd, Iselin, NJ 08830	40.573882, -74.324744
+540	Kailash Indian Cuisine	4.0 star rating	69 reviews	$$	            22 Oak St, Ridgewood, NJ 07450	40.980041, -74.117947
+541	Vegetarian Dim Sum House	3.5 star rating	358 reviews	$	            24 Pell St, New York, NY 10013	40.715022, -73.998173
+542	Papa Halal Chicken Corporation	3.0 star rating	8 reviews	$	            1787 Forest Ave, Staten Island, NY 10303	40.625149, -74.148462
+543	Sage General Store	3.5 star rating	239 reviews	$$	            2420 Jackson Ave, Long Island City, NY 11101	40.746141, -73.944363
+544	Uptown Veg Inc.	4.0 star rating	107 reviews	$	            14 E 125th St, New York, NY 10035	40.807339, -73.944833
+545	Panahar Indian Cuisine	4.0 star rating	1 review	None	            90-40 160 St, Jamaica, NY 11432	40.704533, -73.799837
+546	Red Pepper	4.0 star rating	65 reviews	$$	            2520 Rte 22 E, Scotch Plains, NJ 07076	40.664793, -74.386404
+547	Chili Chicken	2.0 star rating	3 reviews	None	            75-18 37th Ave, Jackson Heights, NY 11372	40.749095, -73.890377
+548	Malika Exclusive Indian Restaurant	2.5 star rating	2 reviews	$$$	            210 E 43rd St, New York, NY 10017	40.751104, -73.973220
+549	Hakata Tonton	4.0 star rating	376 reviews	$$	            61 Grove St, New York, NY 10014	40.733317, -74.003312
+550	Dhaulagiri Kitchen	4.5 star rating	9 reviews	$	            3738 72nd St, Jackson Heights, NY 11373	40.723620, -73.888016
+551	Good Health	4.0 star rating	133 reviews	$$	            1435 1st Ave, New York, NY 10021	40.769511, -73.955019
+552	Abdullahs Sweets And Restaurant	3.0 star rating	5 reviews	$	            91 Church Ave, Brooklyn, NY 11218	40.642890, -73.979967
+553	Dao Palate	3.5 star rating	143 reviews	$$	            329 Flatbush Ave, Brooklyn, NY 11217	40.677939, -73.972680
+554	Candle Cafe West	4.0 star rating	132 reviews	$$$	            2427 Broadway, New York, NY 10024	40.790598, -73.975270
+555	LuAnne's Wild Ginger All-Asian Vegan	4.0 star rating	159 reviews	$$	            112 Smith St, Brooklyn, NY 11201	40.687922, -73.989924
+556	Clove III	4.5 star rating	10 reviews	$$	            331 Union Blvd, Totowa, NJ 07512	40.904412, -74.211731
+557	S'MAC	3.5 star rating	251 reviews	$$	            157 E 33rd St, New York, NY 10016	40.745592, -73.979264
+558	Suganda Restaurant	3.0 star rating	2 reviews	None	            477 McDonald Avenue, Brooklyn, NY 11218	40.642505, -73.979140
+559	Bombay Biryany Cart	3.5 star rating	2 reviews	$	            Broadway &amp; Liberty St, New York, NY 10005	40.709147, -74.010554
+560	The V-Spot Cafe	3.5 star rating	322 reviews	$$	            156 5th Ave, Brooklyn, NY 11217	40.678100, -73.979634
+561	Sazon	3.5 star rating	323 reviews	$$	            105 Reade St, New York, NY 10013	40.715618, -74.008493
+562	Jacob Restaurant	3.5 star rating	35 reviews	$	            2695 Frederick Douglass Blvd, New York, NY 10030	40.821780, -73.943106
+563	Mana	4.0 star rating	67 reviews	$$	            646 Amsterdam Ave, New York, NY 10025	40.791289, -73.972790
+564	Haat Bazaar	4.0 star rating	20 reviews	$	            3711 73rd St, Jackson Heights, NY 11372	40.748477, -73.892378
+565	Jassi S Tandoori Grill & Bar	3.0 star rating	27 reviews	$$	            27111 Union Tpke, New Hyde Park, NY 11040	40.751951, -73.702778
+566	Noodle Bar	3.5 star rating	250 reviews	$$	            26 Carmine St, New York, NY 10014	40.730046, -74.002681
+567	Alfanoose	3.5 star rating	179 reviews	$$	            64 Fulton St, New York, NY 10038	40.708721, -74.005361
+568	Westville	4.0 star rating	655 reviews	$$	            210 W 10th St, New York, NY 10014	40.733955, -74.004169
+569	Brick Lane Curry House	3.5 star rating	112 reviews	$$	            34 Franklin Ave, Ridgewood, NJ 07450	40.981001, -74.118547
+570	Urban Spice	4.0 star rating	42 reviews	$$	            42 Marconi Ave, Iselin, NJ 08830	40.575295, -74.324817
+571	Mark's Ooh La La Yum	4.5 star rating	32 reviews	$$	            551 Livingston St, Norwood, NJ 07648	41.000054, -73.953393
+572	Darbars Halal Fried Chicken	4.0 star rating	23 reviews	$$	            126-09 Liberty Ave, Ozone Park, NY 11419	40.688740, -73.818134
+573	Apple Restaurant & Bombar	3.5 star rating	145 reviews	$$	            17 Waverly Pl, New York, NY 10003	40.730306, -73.994294
+574	Sundarban Restaurant & Sweets	2.5 star rating	4 reviews	$	            33-10 36th Ave, Astoria, NY 11106	40.755503, -73.927918
+575	My Biryani Cart	3.5 star rating	3 reviews	$	            6th and 44th St, New York, NY 10036	40.756147, -73.983163
+576	The Bombay Bistro	3.0 star rating	15 reviews	$$	            427 Springfield Ave, Summit, NJ 07901	40.717945, -74.359657
+577	Bakhter Halal Kababs	4.0 star rating	84 reviews	$	            68-16 Fresh Meadow Ln, Fresh Meadows, NY 11365	40.733082, -73.794523
+578	Dawaat	4.0 star rating	1 review	$	            2104 Starling Ave, Bronx, NY 10462	40.836070, -73.854819
+579	Punjabi Dhaba Catering & Sweets	4.0 star rating	4 reviews	$$	            11916 101st Ave, South Richmond Hill, NY 11419	40.689896, -73.825206
+580	Karaikudi Chettinad Restaurant	4.0 star rating	58 reviews	$$	            1671 Oak Tree Rd, Edison, NJ 08820	40.572721, -74.343435
+581	Heights Falafel	4.0 star rating	76 reviews	$	            78 Henry St, Brooklyn, NY 11201	40.698560, -73.992762
+582	Nori Nori	3.5 star rating	192 reviews	$$$	            136-20 38th Ave, Flushing, NY 11354	40.760836, -73.829654
+583	Silver Krust Restaurant	4.5 star rating	2 reviews	None	            747 Nostrand Ave, Brooklyn, NY 11216	40.671855, -73.950102
+584	Mela on the Sixth	2.5 star rating	3 reviews	None	            320 E 6th St, Manhattan, NY 10003	40.726786, -73.987597
+585	Little Gujrat Deli	2.5 star rating	3 reviews	$	            946 Columbus Ave, New York, NY 10025	40.799700, -73.962927
+586	Kabul Kabab House	4.0 star rating	129 reviews	$$	            42-51 Main St, Flushing, NY 11355	40.753889, -73.827658
+587	Beni's	4.0 star rating	1 review	None	            12920 Liberty Ave, South Richmond Hill, NY 11419	40.691226, -73.813149
+588	Zen Palate	3.0 star rating	229 reviews	$$	            663 9th Ave, New York, NY 10036	40.760996, -73.991116
+589	Spice Village	3.5 star rating	32 reviews	$$	            8 Columbus Ave, Tuckahoe, NY 10707	40.950718, -73.827440
+590	Just Salad	3.5 star rating	77 reviews	$	            134 W 37th St, New York, NY 10018	40.752344, -73.988527
+591	Taipan	2.5 star rating	54 reviews	$$	            184-22 Horace Harding Expy, Queens, NY 11365	40.739818, -73.789402
+592	Cafe Kashkar	4.0 star rating	90 reviews	$$	            1141 Brighton Beach Ave, Brooklyn, NY 11235	40.577643, -73.955623
+593	Rangdhonu Cafe	3.5 star rating	5 reviews	$	            29-14 36th Avenue, Queens, NY 11106	40.756955, -73.931001
+594	Norling Tibet Kitchen	2.5 star rating	3 reviews	None	            74-15 Roosevelt Ave, Jackson Heights, NY 11372	40.747028, -73.889905
+595	Spice Grill	4.0 star rating	59 reviews	$$	            111 US Hwy 46, Parsippany, NJ 07981	40.857988, -74.352096
+596	Happy Buddha Vegetarian Restaurant	3.5 star rating	100 reviews	$$	            135-37 37th Ave, Flushing, NY 11357	40.761256, -73.831889
+597	Bistro Market Place	3.5 star rating	60 reviews	$$	            312 W 34th St, New York, NY 10001	40.752493, -73.994857
+598	Victory Bhavan	2.0 star rating	2 reviews	$	            1178 Victory Blvd, Staten Island, NY 10301	40.616651, -74.102930
+599	Desi Bites	4.0 star rating	10 reviews	$$	            189 Central Ave, Hackensack, NJ 07601	40.887445, -74.049514
+600	Akbar	4.0 star rating	81 reviews	$$	            2 South St, Garden City, NY 11530	40.734702, -73.605223
+601	Akbar	4.0 star rating	81 reviews	$$	            2 South St, Garden City, NY 11530	40.734702, -73.605223
+602	Good Enough To Eat	3.5 star rating	772 reviews	$$	            520 Columbus Ave 85th St, New York, NY 10024	40.786416, -73.974126
+603	Caracas Arepa Bar	4.0 star rating	1906 reviews	$$	            93 1/2 E 7th St, New York, NY 10009	40.726912, -73.985297
+604	Cafe Lalo	3.5 star rating	720 reviews	$$	            201 W 83rd St, New York, NY 10024	40.785981, -73.976727
+605	Doma Na Rohu	3.5 star rating	72 reviews	$$	            27 1/2 Morton St, West Village, NY 10014	40.730993, -74.010108
+606	Sammy's Halal	4.0 star rating	67 reviews	$	            NE Corner 6th Ave &amp; W 4th St, New York, NY 10012	40.731697, -74.000967
+607	Palm Grove Takeout Restaurant	3.0 star rating	1 review	$	            4202 Avenue D, Brooklyn, NY 11203	40.641431, -73.936875
+608	Neha Palace	3.5 star rating	44 reviews	$$	            27 Meyer Ave, Yonkers, NY 10704	40.924010, -73.856655
+609	Xai Xai South African Wine Bar	3.0 star rating	245 reviews	$$	            369 W 51st St, New York, NY 10019	40.764105, -73.988130
+610	B&D Halal Restaurant	4.5 star rating	10 reviews	$	            163B W 29th St, New York, NY 10001	40.747625, -73.992332
+621	King Kabab	4.5 star rating	4 reviews	$	            167-09 Hillside Ave, Jamaica, NY 11432	40.710141, -73.795343
+622	Sagar Restaurant	4.5 star rating	2 reviews	$	            168-25B Hillside Ave, New York, NY 11432	40.710485, -73.794303
+623	Gyro King	4.0 star rating	18 reviews	$	            203 E 26th St, Manhattan, NY 10016	40.740664, -73.981440
+624	Paradise Biryani Pointe	3.0 star rating	29 reviews	$$	            835 Newark Ave, Jersey City, NJ 07306	40.735576, -74.066490
+625	Layali Beirut Cafe Restaurant	3.5 star rating	79 reviews	$$	            25-60 Steinway St, Astoria, NY 11102	40.766597, -73.913102
+626	Shomrat Indian and American	4.0 star rating	3 reviews	None	            2172 2nd Ave, New York, NY 10029	40.794099, -73.939530
+627	Halal West Indian and American Cuisine	2.5 star rating	3 reviews	None	            621 Flatbush Avenue, Brooklyn, NY 11230	40.658221, -73.960179
+628	Lan Sheng Szechuan Restaurant	3.5 star rating	178 reviews	$$	            60 W 39th St, New York, NY 10018	40.752468, -73.984930
+629	Chelsea Thai Wholesale	3.0 star rating	130 reviews	$	            75 9th Ave, New York, NY 10011	40.742232, -74.005511
+630	Blue Lotus	5.0 star rating	7 reviews	$$$	            131 Erie St, Jersey City, NJ 07302	40.726576, -74.043742
+631	Kwik Meal Cart	3.5 star rating	154 reviews	$	            110 W 45th St, New York, NY 10036	40.756956, -73.983192
+632	Pakiza Restaurant	3.5 star rating	6 reviews	$$	            1032 Coney Island Ave, Brooklyn, NY 11230	40.632363, -73.967133
+633	Shanghai Asian Manor	4.0 star rating	365 reviews	$$	            21 Mott St, New York, NY 10013	40.714395, -73.999034
+634	AnTalia	4.0 star rating	119 reviews	$$	            17 W 45th St, New York, NY 10036	40.756012, -73.980306
+635	Pure Food and Wine	4.0 star rating	719 reviews	$$$	            54 Irving Pl, New York, NY 10003	40.736007, -73.987035
+636	Delicious Indian Food	3.0 star rating	1 review	None	            51st St and 6th Ave, New York, NY 10104	40.760540, -73.979975
+637	Mamak Malaysia	3.0 star rating	21 reviews	$$	            35-20 Farrington St, Flushing, NY 11354	40.763794, -73.831811
+638	Vegetarian Palate	3.5 star rating	109 reviews	$$	            603 Washington Ave, Brooklyn, NY 11238	40.679610, -73.963890
+639	Moshe's Falafel	4.0 star rating	64 reviews	$	            94 W 46th St, New York, NY 10036	40.757329, -73.982145
+640	The Organic Grill	3.5 star rating	189 reviews	$$	            123 First Ave, New York, NY 10003	40.727384, -73.985812
+641	Bahar Shish Kebab House	3.5 star rating	17 reviews	$$	            984 Coney Island Ave, Brooklyn, NY 11230	40.633409, -73.967438
+642	Pukk	4.0 star rating	335 reviews	$$	            71 1st Ave, New York, NY 10003	40.725530, -73.987210
+643	Express Power Lunch	4.0 star rating	10 reviews	$	            48th St &amp; Park Ave, New York, NY 10017	40.755977, -73.974981
+644	Chinese Mirch	3.0 star rating	70 reviews	$$	            725 River Rd, Edgewater, NJ 07020	40.819935, -73.977059
+645	Aladdin Sweets & Restaurant	3.5 star rating	14 reviews	$$	            2906 36th Ave, Astoria, NY 11106	40.757129, -73.931251
+646	Rajbhog Sweets	3.5 star rating	19 reviews	$	            812 Newark Ave, Jersey City, NJ 07306	40.735882, -74.065438
+647	Boston Market	3.5 star rating	13 reviews	$$	            1972 Ralph Ave, Brooklyn, NY 11234	40.629123, -73.918308
+648	Heritage of India	3.5 star rating	27 reviews	$$	            2024 Hillside Ave, New Hyde Park, NY 11040	40.751113, -73.676196
+649	Canteen	3.5 star rating	19 reviews	$$	            789 Newark Ave, Jersey City, NJ 07306	40.735308, -74.064656
+650	Masala 2 Wok	2.5 star rating	2 reviews	None	            256-01 Hillside Ave, Queens, NY 11004	40.736892, -73.711575
+651	Mr. Falafel	3.5 star rating	83 reviews	$	            226 7th Ave, Brooklyn, NY 11215	40.670302, -73.979101
+652	Tandori Hut	3.5 star rating	3 reviews	None	            11908 94th Ave, South Richmond Hill, NY 11419	40.693594, -73.827340
+653	Tuck Shop	3.5 star rating	63 reviews	$	            75 9th Ave, Manhattan, NY 10011	40.741934, -74.004897
+654	Khan Baba Restaurant	2.5 star rating	2 reviews	$$	            7415 Roosevelt Ave, Jackson Heights, NY 11372	40.747256, -73.885853
+655	Shanghai Asian Cuisine	3.5 star rating	145 reviews	$	            14A Elizabeth St, New York, NY 10013	40.715825, -73.997259
+656	Vegetarian Oasis	5.0 star rating	4 reviews	None	            Booth F02, Manhattan, NY 10018	40.756945, -73.979574
+657	Mangez Avec Moi Express	3.5 star rating	86 reviews	$	            71 W Broadway, New York, NY 10007	40.714643, -74.010457
+658	Begum Authentic Indian Cusine	3.5 star rating	41 reviews	$$	            300 Main St, Madison, NJ 07940	40.750319, -74.398628
+659	Royal Halal	3.5 star rating	6 reviews	None	            44th St and 6th Ave, New York, NY 10018	40.756147, -73.983163
+660	Silver Spoon Gourmet	3.0 star rating	4 reviews	$	            43-11 Main St, Queens, NY 11355	40.752303, -73.826534
+661	Kriss West Indian Restaurant	2.5 star rating	3 reviews	$	            11204 Farmers Blvd, Queens, NY 11412	40.700457, -73.764453
+662	Rose of India	1.5 star rating	3 reviews	$$	            54 7th Ave, Brooklyn, NY 11217	40.676074, -73.974573
+663	Kabab Diner	2.0 star rating	2 reviews	$	            133-23 Rockaway Blvd, South Ozone Park, NY 11420	40.674842, -73.804523
+664	Simple Veggie Cuisine	4.5 star rating	13 reviews	$$	            95-26 Queens Blvd, Rego Park, NY 11374	40.730218, -73.863863
+665	Dosas's Uthappam	4.0 star rating	1 review	None	            1-15 Liberty Ave, Jersey City, NJ 07306	40.736150, -74.065018
+666	Punjabi Restaurant & Sweets	4.0 star rating	2 reviews	$	            11211 Jamaica Ave, Queens, NY 11418	40.702271, -73.819488
+667	Bombay Hut	4.5 star rating	33 reviews	$$	            8A W Prospect St, Waldwick, NJ 07463	41.011245, -74.120516
+668	Foo Kee Seafood Restaurant	3.5 star rating	38 reviews	$$	            136-14 38th Ave, Flushing, NY 11354	40.760814, -73.830208
+669	Spreads Sandwich Shop	3.5 star rating	72 reviews	$$	            441 Park Ave S, New York, NY 10016	40.744378, -73.983019
+670	Tolani Wine Restaurant	4.0 star rating	201 reviews	$$$	            410 Amsterdam Ave, New York, NY 10024	40.783671, -73.978337
+671	Moghul	3.0 star rating	65 reviews	$$	            1655 Oak Tree Rd, Edison, NJ 08820	40.571789, -74.339701
+672	Bismillash Kabab & Curry	3.0 star rating	1 review	None	            1203 Liberty Ave, Brooklyn, NY 11208	40.679178, -73.864991
+673	V-Note	4.0 star rating	301 reviews	$$	            1522 1st Ave, New York, NY 10075	40.772618, -73.952116
+674	Mom's Cooking	3.5 star rating	45 reviews	$	            33 E 8th St, New York, NY 10003	40.731959, -73.994219
+675	Hoy Wong Restaurant	3.5 star rating	52 reviews	$	            81 Mott St, New York, NY 10013	40.716602, -73.998144
+676	La Abundancia Bakery and Restaurant	2.5 star rating	26 reviews	$	            75-02 Roosevelt Ave, Jackson Heights, NY 11373	40.746934, -73.890452
+677	Potala Fresh Momo	4.0 star rating	31 reviews	$	            Broadway &amp; 37th Rd, Jackson Heights, NY 11372	40.748488, -73.895688
+678	6th Avenue Pizza	2.5 star rating	3 reviews	None	            1013 6th Ave, Manhattan, NY 10018	40.752203, -73.986358
+679	Mizumi Restaurant	3.5 star rating	407 reviews	$$$	            231-10 Northern Blvd, Douglaston, NY 11362	40.763475, -73.749159
+680	94 Corner Cafe	3.0 star rating	40 reviews	$	            2518 Broadway, New York, NY 10025	40.793144, -73.972535
+681	Empire Biscuit	3.0 star rating	147 reviews	$	            198 Ave A, New York, NY 10009	40.729191, -73.980883
+682	Karahi Restaurant and Grill	2.5 star rating	2 reviews	None	            72-08 Broadway, Queens, NY 11372	40.747354, -73.893309
+683	Fusion City	3.5 star rating	2 reviews	None	            310 9th St, Brooklyn, NY 11215	40.669256, -73.986517
+684	New Bismillah Restaurant and Sweets	3.0 star rating	1 review	None	            1969 Bath Ave, New York, NY 11214	40.601709, -74.001513
+685	Blondies	3.5 star rating	259 reviews	$$	            212 W 79th St, New York, NY 10024	40.783192, -73.979171
+686	Mamoun's Falafel	4.5 star rating	1525 reviews	$	            119 MacDougal St, New York, NY 10012	40.730222, -74.000470
+687	Naomi's Kosher Pizza & Israel Falafel	4.0 star rating	39 reviews	$	            6828 Main St, Flushing, NY 11367	40.732432, -73.824808
+688	D Ital Shak Health Food Restaurant & Bakery	4.0 star rating	4 reviews	$	            989 Nostrand Ave, Brooklyn, NY 11225	40.664368, -73.951001
+689	Joe's Shanghai	4.0 star rating	2563 reviews	$$	            9 Pell St, New York, NY 10013	40.714630, -73.997766
+690	Coriander Modern Indian	4.0 star rating	26 reviews	$$	            154 Larchmont Ave, Larchmont, NY 10538	40.928495, -73.753098
+691	Alpha Fusion	3.5 star rating	135 reviews	$$	            365 W 34th St, New York, NY 10001	40.753397, -73.995722
+692	Ali Baba	3.0 star rating	62 reviews	$$	            18310 Horace Harding Expy, Fresh Meadows, NY 11365	40.739502, -73.790567
+693	A Taste of Shanghai	3.5 star rating	94 reviews	$	            39-07 Prince St, Flushing, NY 11354	40.759147, -73.831944
+694	Paradise Biryani Pointe	2.5 star rating	15 reviews	$$	            1727 Central Park Ave, Yonkers, NY 10710	40.957847, -73.842931
+695	Faith's Halal Food	4.0 star rating	4 reviews	$	            33rd St, Manhattan, NY 10001	40.749726, -73.989985
+696	Madras Woodlands	3.5 star rating	20 reviews	$$	            1629 Hillside Ave, New Hyde Park, NY 11040	40.748867, -73.684171
+697	Soy & Sake	4.0 star rating	258 reviews	$$	            47 7th Ave S, New York, NY 10014	40.731350, -74.003881
+698	Cafe Spice	3.5 star rating	14 reviews	$	            630 Old Country Rd, Garden City, NY 11599	40.739971, -73.613576
+699	Rani Mahal Indian Cuisine	3.5 star rating	32 reviews	$$	            327 Mamaroneck Ave, Mamaroneck, NY 10543	40.951574, -73.735054
+700	Bukhara	2.5 star rating	3 reviews	None	            785 Coney Island Avenue, Brooklyn, NY 11218	40.638305, -73.968196
+701	Jhupdi Indian Restaurant	3.5 star rating	27 reviews	$$	            1679 Oak Tree Rd, Edison, NJ 08820	40.572714, -74.343533
+702	Negril West Indian Cuisine	3.0 star rating	4 reviews	$$	            841 Utica Avenue, Brooklyn, NY 11203	40.652548, -73.930478
+703	Bundu Khan Kabab House	3.5 star rating	33 reviews	$$	            25319 Union Tpke, Floral Park, NY 11004	40.744307, -73.717236
+704	Bukhara	2.5 star rating	3 reviews	None	            785 Coney Island Avenue, Brooklyn, NY 11218	40.638305, -73.968196
+705	Bunny's West Indian and American Restaurant	5.0 star rating	1 review	None	            8 Newport Street, Brooklyn, NY 11212	40.658402, -73.915282
+706	Khasiyat Fast Food	4.0 star rating	30 reviews	$	            77 Middlesex Ave, Iselin, NJ 08830	40.573942, -74.323744
+707	Merit Kabab Palace	4.0 star rating	1 review	$	            3767 74th St, Jackson Heights, NY 11372	40.747114, -73.891226
+708	citivegan	4.5 star rating	3 reviews	None	            123 Washington St, New York, NY 10006	40.709219, -74.013753
+709	Aria Kabab	3.5 star rating	13 reviews	$	            7255 Kissena Blvd, Flushing, NY 11367	40.727714, -73.812844
+710	King Gyro	4.0 star rating	1 review	$	            57 1st Ave, Manhattan, NY 10003	40.725106, -73.987528
+711	Royal Chinese	3.5 star rating	2 reviews	$	            153-33 Hillside Ave, Jamaica, NY 11432	40.707841, -73.803199
+712	Indira's Restaurant	3.5 star rating	4 reviews	None	            1758 Broadway Ave, New York, NY 11207	40.717745, -73.952218
+713	Sri Biryani House	2.0 star rating	19 reviews	$$	            806 Newark Ave, Jersey City, NJ 07306	40.735849, -74.065171
+714	Mmm Enfes	4.0 star rating	40 reviews	$	            70 W 39th St, New York, NY 10018	40.752691, -73.985298
+715	Swagat	5.0 star rating	1 review	None	            411 Amsterdam Ave, New York, NY 10024	40.783486, -73.977780
+716	Punta Cana Restaurant	4.5 star rating	4 reviews	$	            14919 Jamaica Ave, Jamaica, NY 11435	40.702244, -73.805026
+717	East & West Cafe Masala	1.5 star rating	3 reviews	None	            151 Remsen St, Brooklyn, NY 11201	40.693706, -73.992190
+718	The Green Bean Cafe	3.5 star rating	66 reviews	$$	            1413 York Ave, New York, NY 10021	40.769154, -73.952474
+719	Sunshine Grill & Restaurant	3.0 star rating	2 reviews	None	            255-09 Hillside Ave, Floral Park, NY 11004	40.736661, -73.712495
+720	Sandy's West Indian & Amer Restaurant & Cuisine	4.0 star rating	1 review	None	            19621 Linden Blvd, Saint Albans, NY 11412	40.693566, -73.755479
+721	Sandy's West Indian & Amer Restaurant & Cuisine	4.0 star rating	1 review	None	            19621 Linden Blvd, Saint Albans, NY 11412	40.693566, -73.755479
+722	CurryOn	3.0 star rating	9 reviews	$$	            765 Newark Ave, Jersey City, NJ 07306	40.735192, -74.063535
+723	Agra's BayLeaf	3.5 star rating	2 reviews	None	            931 Amsterdam Ave, New York, NY 10025	40.800037, -73.965585
